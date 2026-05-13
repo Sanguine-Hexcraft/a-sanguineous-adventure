@@ -15,7 +15,7 @@ No test runner or linter is configured yet.
 
 ## Project
 
-This is an EverQuest fan site called "a sanguineous journey" — a dark-fantasy character journal, lore codex, and achievement tracker for the MMORPG EverQuest. The full design document is at `docs/design/everquest-lore-achievements-design-doc.md`.
+This is an EverQuest fan site called "a sanguineous adventure" — a dark-fantasy character journal, lore codex, and achievement tracker for the MMORPG EverQuest. The full design document is at `docs/design/everquest-lore-achievements-design-doc.md`.
 
 **Current state:** Phase 1 (static prototype). The Nuxt app is freshly initialized; the design doc describes what to build.
 
