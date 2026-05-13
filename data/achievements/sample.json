@@ -1,0 +1,180 @@
+[
+  {
+    "id": "ach-001",
+    "title": "Hunter of Blackburrow",
+    "description": "Slay every named creature that dwells within the gnoll warrens of Blackburrow.",
+    "category": "Hunter",
+    "expansion": "Original",
+    "zone": "Blackburrow",
+    "points": 10,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": true,
+    "unlockedAt": "2024-11-03",
+    "requirements": [
+      { "label": "Slay Darkpaw the Gnoll King", "completed": true },
+      { "label": "Slay Gnoll Ritualist", "completed": true },
+      { "label": "Slay Gnoll Reaver", "completed": true }
+    ]
+  },
+  {
+    "id": "ach-002",
+    "title": "Ruins of Old Sebilis",
+    "description": "Explore the sunken ruins of the Sebilisian Empire and document its fallen lords.",
+    "category": "Explorer",
+    "expansion": "Ruins of Kunark",
+    "zone": "Old Sebilis",
+    "points": 25,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": true,
+    "unlockedAt": "2024-12-17",
+    "requirements": [
+      { "label": "Enter the Crypt of Dalnir", "completed": true },
+      { "label": "Discover the Emperor's Throne", "completed": true },
+      { "label": "Slay Venril Sathir", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-003",
+    "title": "The Planewalker",
+    "description": "Traverse the planar boundaries and stand upon the Plane of Sky.",
+    "category": "Explorer",
+    "expansion": "Original",
+    "zone": "Plane of Sky",
+    "points": 50,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Reach the Isle of the Faeries", "completed": false },
+      { "label": "Reach the Isle of Giants", "completed": false },
+      { "label": "Stand before the Eye of Veeshan", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-004",
+    "title": "Servant of Innoruuk",
+    "description": "Earn the devoted trust of the Prince of Hate's faithful in Neriak.",
+    "category": "Faction",
+    "expansion": "Original",
+    "zone": "Neriak",
+    "points": 15,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": true,
+    "unlockedAt": "2024-10-28",
+    "requirements": [
+      { "label": "Reach Kindly faction with Dark Reflection", "completed": true },
+      { "label": "Complete the Shadow Knight initiation rites", "completed": true }
+    ]
+  },
+  {
+    "id": "ach-005",
+    "title": "Bones of the Ancient",
+    "description": "Recover relics from the dead city of Kaesora beneath the jungles of Kunark.",
+    "category": "Quest",
+    "expansion": "Ruins of Kunark",
+    "zone": "Kaesora",
+    "points": 20,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Recover the Hatchling Skull", "completed": true },
+      { "label": "Recover the Iksar Funeral Urn", "completed": false },
+      { "label": "Present relics to the Combine Loyalists", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-006",
+    "title": "Touched by Hate",
+    "description": "Survive an audience with the Avatar of Hate within the Plane of Hate.",
+    "category": "Raid",
+    "expansion": "Original",
+    "zone": "Plane of Hate",
+    "points": 75,
+    "isHidden": true,
+    "isMeta": false,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Enter the Plane of Hate", "completed": false },
+      { "label": "Slay the Avatar of Hate", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-007",
+    "title": "The Necrotic Art",
+    "description": "Master the darkest spells known to the necromancers of Norrath.",
+    "category": "Skills",
+    "expansion": "Original",
+    "zone": null,
+    "points": 10,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": true,
+    "unlockedAt": "2024-09-14",
+    "requirements": [
+      { "label": "Scribe Invoke Death", "completed": true },
+      { "label": "Scribe Feign Death", "completed": true },
+      { "label": "Scribe Lich", "completed": true }
+    ]
+  },
+  {
+    "id": "ach-008",
+    "title": "Warlord of the Overthere",
+    "description": "Dominate the sarnak warlords who stalk the Overthere plateau.",
+    "category": "Hunter",
+    "expansion": "Ruins of Kunark",
+    "zone": "The Overthere",
+    "points": 20,
+    "isHidden": false,
+    "isMeta": false,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Slay Sarnak Warlord", "completed": true },
+      { "label": "Slay Sarnak High Priest", "completed": false },
+      { "label": "Slay Sarnak Battle Master", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-009",
+    "title": "The Crypt Delver",
+    "description": "Descend into the most forsaken tombs of Norrath and return intact.",
+    "category": "Explorer",
+    "expansion": "Original",
+    "zone": null,
+    "points": 30,
+    "isHidden": false,
+    "isMeta": true,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Complete: Hunter of Blackburrow", "completed": true },
+      { "label": "Complete: Bones of the Ancient", "completed": false },
+      { "label": "Complete: Touched by Hate", "completed": false }
+    ]
+  },
+  {
+    "id": "ach-010",
+    "title": "Loreseeker of Kunark",
+    "description": "Uncover the history of the Iksar Empire through ruin and relic.",
+    "category": "Lore",
+    "expansion": "Ruins of Kunark",
+    "zone": null,
+    "points": 40,
+    "isHidden": false,
+    "isMeta": true,
+    "unlocked": false,
+    "unlockedAt": null,
+    "requirements": [
+      { "label": "Complete: Ruins of Old Sebilis", "completed": true },
+      { "label": "Complete: Bones of the Ancient", "completed": false },
+      { "label": "Complete: Warlord of the Overthere", "completed": false }
+    ]
+  }
+]
