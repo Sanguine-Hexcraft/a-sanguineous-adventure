@@ -18,6 +18,9 @@ logs
 .fleet
 .idea
 
+# Windows download metadata
+*.Zone.Identifier
+
 # Local env files
 .env
 .env.*

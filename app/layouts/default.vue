@@ -22,7 +22,7 @@
 
       <!-- Character quick-info -->
       <div class="px-4 py-4 border-t border-rune-600/20">
-        <div class="text-parchment-300 font-display text-sm">Sanguine</div>
+        <div class="text-parchment-300 font-display text-sm">testhero</div>
         <div class="text-parchment-300/50 text-xs mt-0.5">Necromancer · Innoruuk</div>
         <div class="text-rune-400/60 text-xs mt-0.5">The Ruins of Kunark</div>
       </div>

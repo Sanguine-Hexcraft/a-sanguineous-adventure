@@ -4,7 +4,7 @@
     <!-- Page header -->
     <div class="border-b border-rune-600/20 pb-4">
       <p class="text-rune-400/70 text-xs tracking-widest uppercase font-display">Chronicle of</p>
-      <h1 class="text-parchment-100 font-display text-3xl tracking-wide mt-0.5">Sanguine</h1>
+      <h1 class="text-parchment-100 font-display text-3xl tracking-wide mt-0.5">testhero</h1>
     </div>
 
     <!-- Top row: Character card + Current position -->
@@ -15,7 +15,7 @@
         <div class="flex items-start gap-3">
           <div class="w-14 h-14 rounded bg-obsidian-700 border border-rune-600/30 flex items-center justify-center text-2xl shrink-0">💀</div>
           <div>
-            <div class="text-parchment-100 font-display text-lg">Sanguine</div>
+            <div class="text-parchment-100 font-display text-lg">testhero</div>
             <div class="text-parchment-300/60 text-xs mt-0.5">Necromancer · Level 52</div>
             <div class="text-parchment-300/50 text-xs">Dark Elf · Innoruuk</div>
           </div>
@@ -157,7 +157,7 @@ const mediaItems = [
   { id: 1, title: 'Entrance to Blackburrow', icon: '🖼' },
   { id: 2, title: 'Neriak third gate', icon: '🖼' },
   { id: 3, title: 'Sebilis entrance', icon: '🖼' },
-  { id: 4, title: 'Sanguine at 50', icon: '🖼' },
+  { id: 4, title: 'testhero at 50', icon: '🖼' },
   { id: 5, title: 'Lich form', icon: '🖼' },
 ]
 </script>
