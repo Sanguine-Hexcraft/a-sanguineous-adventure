@@ -1,0 +1,1420 @@
+[
+  {
+    "id": 1200050,
+    "title": "Prophecy of Ro Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Prophecy of Ro.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1201,
+    "subcategoryName": "General",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270522,
+        "label": "Arcstone, Isle of Spirits Traveler"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270523,
+        "label": "Skylance Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270524,
+        "label": "Relic, the Artifact City Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270525,
+        "label": "Freeport, Academy of Arcane Sciences Traveler"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270526,
+        "label": "Freeport, Arena Traveler"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270527,
+        "label": "Freeport, City Hall Traveler"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270528,
+        "label": "Freeport, Hall of Truth Traveler"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270529,
+        "label": "Freeport, Militia House Traveler"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270530,
+        "label": "Freeport, Theater of the Tranquil Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270531,
+        "label": "Ruins of Takish-Hiz Traveler"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270532,
+        "label": "The Root of Ro Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270533,
+        "label": "The Elddar Forest Traveler"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 270534,
+        "label": "Tunare's Shrine Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270535,
+        "label": "The Devastation Traveler"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 270536,
+        "label": "The Seething Wall Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270537,
+        "label": "Sverag, Stronghold of Rage Traveler"
+      },
+      {
+        "order": 17,
+        "type": 2,
+        "value": 270538,
+        "label": "Razorthorn, Tower of Sullon Zek Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270539,
+        "label": "Theater of Blood Traveler"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 270540,
+        "label": "Deathknell, Tower of Dissonance Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1201003,
+    "title": "Slayer of Prophecy",
+    "description": "This achievement is gained upon completing all hunts in Prophecy of Ro.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1201,
+    "subcategoryName": "General",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120100301,
+        "label": "Novice Hunter of Prophecy of Ro"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120100302,
+        "label": "Adept Hunter of Prophecy of Ro"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120100303,
+        "label": "Veteran Hunter of Prophecy of Ro"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 120803001,
+        "label": "Hunter of Sverag, Stronghold of Rage"
+      }
+    ]
+  },
+  {
+    "id": 1236900,
+    "title": "Arcstone, Isle of Spirits Traveler",
+    "description": "This achievement is gained upon visiting Arcstone, Isle of Spirits.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270305,
+        "label": "Visit Arcstone, Isle of Spirits"
+      }
+    ]
+  },
+  {
+    "id": 1238100,
+    "title": "Deathknell, Tower of Dissonance Traveler",
+    "description": "This achievement is gained upon visiting Deathknell, Tower of Dissonance.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270317,
+        "label": "Visit Deathknell, Tower of Dissonance"
+      }
+    ]
+  },
+  {
+    "id": 1238500,
+    "title": "Freeport, Academy of Arcane Sciences Traveler",
+    "description": "This achievement is gained upon visiting Freeport, Academy of Arcane Sciences.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270321,
+        "label": "Visit the Freeport Academy of Arcane Sciences"
+      }
+    ]
+  },
+  {
+    "id": 1238800,
+    "title": "Freeport, Arena Traveler",
+    "description": "This achievement is gained upon visiting Freeport, Arena.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270323,
+        "label": "Visit the Freeport Arena"
+      }
+    ]
+  },
+  {
+    "id": 1238900,
+    "title": "Freeport, City Hall Traveler",
+    "description": "This achievement is gained upon visiting Freeport, City Hall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270324,
+        "label": "Visit Freeport City Hall"
+      }
+    ]
+  },
+  {
+    "id": 1239100,
+    "title": "Freeport, Hall of Truth Traveler",
+    "description": "This achievement is gained upon visiting Freeport, Hall of Truth.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270326,
+        "label": "Visit Freeport Hall of Truth"
+      }
+    ]
+  },
+  {
+    "id": 1238700,
+    "title": "Freeport, Militia House Traveler",
+    "description": "This achievement is gained upon visiting Freeport, Militia House.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270322,
+        "label": "Visit the Freeport Militia House"
+      }
+    ]
+  },
+  {
+    "id": 1239000,
+    "title": "Freeport, Theater of the Tranquil Traveler",
+    "description": "This achievement is gained upon visiting Freeport, Theater of the Tranquil.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270325,
+        "label": "Visit the Freeport Theater of the Tranquil"
+      }
+    ]
+  },
+  {
+    "id": 1237500,
+    "title": "Razorthorn, Tower of Sullon Zek Traveler",
+    "description": "This achievement is gained upon visiting Razorthorn, Tower of Sullon Zek.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270311,
+        "label": "Visit Razorthorn, Tower of Sullon Zek"
+      }
+    ]
+  },
+  {
+    "id": 1237000,
+    "title": "Relic, the Artifact City Traveler",
+    "description": "This achievement is gained upon visiting Relic, the Artifact City.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270306,
+        "label": "Visit Relic, the Artifact City"
+      }
+    ]
+  },
+  {
+    "id": 1237600,
+    "title": "Ruins of Takish-Hiz Traveler",
+    "description": "This achievement is gained upon visiting Ruins of Takish-Hiz.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270312,
+        "label": "Visit the Ruins of Takish-Hiz"
+      }
+    ]
+  },
+  {
+    "id": 1237100,
+    "title": "Skylance Traveler",
+    "description": "This achievement is gained upon visiting Skylance.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270307,
+        "label": "Visit Skylance"
+      }
+    ]
+  },
+  {
+    "id": 1237400,
+    "title": "Sverag, Stronghold of Rage Traveler",
+    "description": "This achievement is gained upon visiting Sverag, Stronghold of Rage.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270310,
+        "label": "Visit Sverag, Stronghold of Rage"
+      }
+    ]
+  },
+  {
+    "id": 1237200,
+    "title": "The Devastation Traveler",
+    "description": "This achievement is gained upon visiting The Devastation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270308,
+        "label": "Visit The Devastation"
+      }
+    ]
+  },
+  {
+    "id": 1237800,
+    "title": "The Elddar Forest Traveler",
+    "description": "This achievement is gained upon visiting The Elddar Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270314,
+        "label": "Visit The Elddar Forest"
+      }
+    ]
+  },
+  {
+    "id": 1237700,
+    "title": "The Root of Ro Traveler",
+    "description": "This achievement is gained upon visiting The Root of Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270313,
+        "label": "Visit The Root of Ro"
+      }
+    ]
+  },
+  {
+    "id": 1237300,
+    "title": "The Seething Wall Traveler",
+    "description": "This achievement is gained upon visiting The Seething Wall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270309,
+        "label": "Visit The Seething Wall"
+      }
+    ]
+  },
+  {
+    "id": 1238000,
+    "title": "Theater of Blood Traveler",
+    "description": "This achievement is gained upon visiting Theater of Blood.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270316,
+        "label": "Visit Theater of Blood"
+      }
+    ]
+  },
+  {
+    "id": 1237900,
+    "title": "Tunare's Shrine Traveler",
+    "description": "This achievement is gained upon visiting Tunare's Shrine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1202,
+    "subcategoryName": "Exploration",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270315,
+        "label": "Visit Tunare's Shrine"
+      }
+    ]
+  },
+  {
+    "id": 90046,
+    "title": "Key to Deathknell",
+    "description": "This key unlocks the entrance to Deathknell, Tower of Dissonance.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1203,
+    "subcategoryName": "Progression",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3069,
+        "label": "Key to Deathknell"
+      }
+    ]
+  },
+  {
+    "id": 90045,
+    "title": "Tunare's Shrine Key",
+    "description": "This key unlocks the chamber at the top of Tunare's Shrine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1203,
+    "subcategoryName": "Progression",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3068,
+        "label": "Tunare's Shrine Key"
+      }
+    ]
+  },
+  {
+    "id": 1208020,
+    "title": "Adept Hunter of Prophecy of Ro",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120802001,
+        "label": "Hunter of Arcstone, Isle of Spirits"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120802002,
+        "label": "Hunter of Relic, the Artifact City"
+      }
+    ]
+  },
+  {
+    "id": 1208300,
+    "title": "Hunter of Arcstone, Isle of Spirits",
+    "description": "This achievement is gained upon defeating the following rare monsters in Arcstone, Isle of Spirits.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120830001,
+        "label": "Bristlebark"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120830002,
+        "label": "Champion Ultharas"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120830003,
+        "label": "Echo of Skylance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120830004,
+        "label": "Embra"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 120830005,
+        "label": "Overseer Norgaro"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 120830006,
+        "label": "Seedstep"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120830007,
+        "label": "Shekar"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120830008,
+        "label": "Squall"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120830009,
+        "label": "Stillsheen"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120830010,
+        "label": "Tempest"
+      }
+    ]
+  },
+  {
+    "id": 1208400,
+    "title": "Hunter of Relic, the Artifact City",
+    "description": "This achievement is gained upon defeating the following rare monsters in Relic, the Artifact City.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120840001,
+        "label": "a crashing wave"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120840002,
+        "label": "a demented scrykin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120840003,
+        "label": "a lost spirit"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120840004,
+        "label": "a mud spirit"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120840007,
+        "label": "a scrykin deceiver"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120840008,
+        "label": "a scrykin firestorm"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120840009,
+        "label": "a scrykin tempest"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120840010,
+        "label": "a soul storm"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 120840012,
+        "label": "a wandering spark"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 120840013,
+        "label": "Lyban"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 120840014,
+        "label": "Maru the Twelfth Born"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 120840015,
+        "label": "Sharlash the Ninthborn"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 120840016,
+        "label": "Thanus the Eleventh Born"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 120840017,
+        "label": "The Guardian of the Doorway"
+      }
+    ]
+  },
+  {
+    "id": 1208100,
+    "title": "Hunter of Ruins of Takish-Hiz",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ruins of Takish-Hiz.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120810001,
+        "label": "Architect Enelde"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120810002,
+        "label": "Bookkeeper Molly"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120810003,
+        "label": "Commander Lisay"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120810004,
+        "label": "Compact Keeper Rosare"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 120810005,
+        "label": "Companion Siguros"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 120810006,
+        "label": "Flowkeeper Nicyn"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120810007,
+        "label": "Foreman Araz"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120810008,
+        "label": "Gravewalker"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120810009,
+        "label": "Guardian of Sandflow"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120810010,
+        "label": "Hierophant Amaru"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 120810011,
+        "label": "High Priestess Lunasa"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 120810012,
+        "label": "Lieutenant Tuffy"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 120810013,
+        "label": "Night Terror"
+      }
+    ]
+  },
+  {
+    "id": 1208600,
+    "title": "Hunter of Sverag, Stronghold of Rage",
+    "description": "This achievement is gained upon defeating the following rare monsters in Sverag, Stronghold of Rage.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120860001,
+        "label": "Alchemist Darkfall"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120860002,
+        "label": "an imprisoned general"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120860003,
+        "label": "an imprisoned hero"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120860004,
+        "label": "Bedrock the Crusher"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 120860005,
+        "label": "Breaktree the Giant"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 120860006,
+        "label": "Broodwarder Heartknell"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120860007,
+        "label": "Builder Sneev"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120860008,
+        "label": "Captain Trevoz"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120860009,
+        "label": "Chief Star Eater"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120860010,
+        "label": "Chieftain Darkmaw"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 120860011,
+        "label": "Clignak Poisoner"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 120860012,
+        "label": "Crafter Ironpaw"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 120860013,
+        "label": "Deathleap"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 120860014,
+        "label": "Dewmane"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 120860015,
+        "label": "Drogtar Deathmaker"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 120860016,
+        "label": "Farsight the All Seeing"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 120860017,
+        "label": "Firemane"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 120860018,
+        "label": "Flamedancer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 120860019,
+        "label": "Fronk"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 120860020,
+        "label": "General Vergomil"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 120860021,
+        "label": "General Zerilijur"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 120860022,
+        "label": "Gerind Weaponsmith"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 120860023,
+        "label": "Gront"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 120860024,
+        "label": "Gutslitter"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 120860025,
+        "label": "Hivsgar the Terrible"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 120860026,
+        "label": "Lord Zonz"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 120860027,
+        "label": "Loreminder Brightmane"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 120860029,
+        "label": "Master at Arms Prizenat"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 120860030,
+        "label": "Mindbinder"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 120860031,
+        "label": "Nightstrider"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 120860032,
+        "label": "Pack Leader Bloodear"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 120860033,
+        "label": "Prince Senifal"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 120860034,
+        "label": "Queen Suvarla the Sterile"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 120860035,
+        "label": "Restrained Cereton"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 120860036,
+        "label": "Sendaro"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 120860037,
+        "label": "Shaman Silktongue"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 120860038,
+        "label": "Soulfury Embermeer"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 120860039,
+        "label": "Svengor Goldfarb"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 120860040,
+        "label": "The Skulltaker"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 120860041,
+        "label": "The Subjugant"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 120860042,
+        "label": "Tresvig Ravener"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 120860043,
+        "label": "Vaslaghul Bonelord"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 120860044,
+        "label": "Verzoo"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 120860045,
+        "label": "Veteran Kerezal"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 120860046,
+        "label": "Yoon the Gleener"
+      }
+    ]
+  },
+  {
+    "id": 1208200,
+    "title": "Hunter of The Elddar Forest",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Elddar Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120820001,
+        "label": "Animist Yeoh"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120820002,
+        "label": "Cerhan the Wild"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120820003,
+        "label": "Clergyman Jaynen"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120820004,
+        "label": "Geomancer Unala"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 120820005,
+        "label": "Loyalist Tobey"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 120820006,
+        "label": "Performer Veliz"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120820007,
+        "label": "Prophet Mooreh"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120820008,
+        "label": "Scrollkeeper Bonneki"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120820009,
+        "label": "Spirit of the Claw"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120820010,
+        "label": "Spirit of the Fang"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 120820011,
+        "label": "Spirit of the Forest"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 120820012,
+        "label": "Spirit of the Oak"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 120820013,
+        "label": "Spirit of the Wind"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 120820014,
+        "label": "Strategist Guldar"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 120820015,
+        "label": "Totemkeeper Goz"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 120820016,
+        "label": "Tribesman Zuldar"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 120820017,
+        "label": "Trickster Velana"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 120820018,
+        "label": "Tunarshen the Free"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 120820019,
+        "label": "Volwen the Unkempt"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 120820020,
+        "label": "Watchman Sayure"
+      }
+    ]
+  },
+  {
+    "id": 1208500,
+    "title": "Hunter of Theater of Blood",
+    "description": "This achievement is gained upon defeating the following rare monsters in Theater of Blood.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120850001,
+        "label": "Aesthir the Delusioned"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120850002,
+        "label": "Belinda Baleheart"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 120850003,
+        "label": "Bleeding Storm"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 120850004,
+        "label": "Fangore Boneclaw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 120850005,
+        "label": "Illixis, the Dark Dream"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 120850006,
+        "label": "Leafrot"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 120850007,
+        "label": "Lilia, the Rancid"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 120850008,
+        "label": "Master Chrichus"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 120850009,
+        "label": "Mistress of Malady"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 120850010,
+        "label": "Painscreecher"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 120850011,
+        "label": "Shatterstyr"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 120850012,
+        "label": "Sir Savagery"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 120850013,
+        "label": "Soulwail"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 120850014,
+        "label": "Talili"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 120850015,
+        "label": "The Festering"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 120850016,
+        "label": "The Skeletal Steed"
+      }
+    ]
+  },
+  {
+    "id": 1208010,
+    "title": "Novice Hunter of Prophecy of Ro",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120801001,
+        "label": "Hunter of Ruins of Takish-Hiz"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 120801002,
+        "label": "Hunter of The Elddar Forest"
+      }
+    ]
+  },
+  {
+    "id": 1208030,
+    "title": "Veteran Hunter of Prophecy of Ro",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunt.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 1208,
+    "subcategoryName": "Hunts",
+    "categoryId": 1200,
+    "categoryName": "Prophecy of Ro",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 120802003,
+        "label": "Hunter of Theater of Blood"
+      }
+    ]
+  }
+]

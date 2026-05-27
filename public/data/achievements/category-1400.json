@@ -1,0 +1,1170 @@
+[
+  {
+    "id": 1401003,
+    "title": "Brineslayer",
+    "description": "This achievement is gained upon completing all hunts in The Buried Sea.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1401,
+    "subcategoryName": "General",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140100301,
+        "label": "Novice Hunter of The Buried Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140100302,
+        "label": "Adept Hunter of The Buried Sea"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140100303,
+        "label": "Veteran Hunter of The Buried Sea"
+      }
+    ]
+  },
+  {
+    "id": 1400050,
+    "title": "The Buried Sea Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Buried Sea.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1401,
+    "subcategoryName": "General",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270493,
+        "label": "Barren Coast Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270494,
+        "label": "Katta Castrum Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270495,
+        "label": "The Buried Sea Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270496,
+        "label": "Jardel's Hook Traveler"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270497,
+        "label": "Monkey Rock Traveler"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270498,
+        "label": "Suncrest Isle Traveler"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270499,
+        "label": "Deadbone Reef Traveler"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270500,
+        "label": "Blacksail Folly Traveler"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270501,
+        "label": "Maiden's Grave Traveler"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 270502,
+        "label": "Redfeather Isle Traveler"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270503,
+        "label": "The Open Sea Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270504,
+        "label": "Thalassius, the Coral Keep Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270505,
+        "label": "Jewel of Atiiki Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270506,
+        "label": "Zhisza, the Shissar Sanctuary Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270507,
+        "label": "Silyssar, New Chelsith Traveler"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 270508,
+        "label": "Solteris, the Throne of Ro Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1442200,
+    "title": "Barren Coast Traveler",
+    "description": "This achievement is gained upon visiting the Barren Coast.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270354,
+        "label": "Visit the Barren Coast"
+      }
+    ]
+  },
+  {
+    "id": 1442800,
+    "title": "Blacksail Folly Traveler",
+    "description": "This achievement is gained upon visiting Blacksail Folly.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270360,
+        "label": "Visit Blacksail Folly"
+      }
+    ]
+  },
+  {
+    "id": 1442700,
+    "title": "Deadbone Reef Traveler",
+    "description": "This achievement is gained upon visiting Deadbone Reef.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270359,
+        "label": "Visit Deadbone Reef"
+      }
+    ]
+  },
+  {
+    "id": 1442400,
+    "title": "Jardel's Hook Traveler",
+    "description": "This achievement is gained upon visiting Jardel's Hook.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270356,
+        "label": "Visit Jardel's Hook"
+      }
+    ]
+  },
+  {
+    "id": 1441800,
+    "title": "Jewel of Atiiki Traveler",
+    "description": "This achievement is gained upon visiting Jewel of Atiiki.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270350,
+        "label": "Visit Jewel of Atiiki"
+      }
+    ]
+  },
+  {
+    "id": 1441600,
+    "title": "Katta Castrum Traveler",
+    "description": "This achievement is gained upon visiting Katta Castrum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270348,
+        "label": "Visit Katta Castrum"
+      }
+    ]
+  },
+  {
+    "id": 1442900,
+    "title": "Maiden's Grave Traveler",
+    "description": "This achievement is gained upon visiting Maiden's Grave.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270361,
+        "label": "Visit Maiden's Grave"
+      }
+    ]
+  },
+  {
+    "id": 1442500,
+    "title": "Monkey Rock Traveler",
+    "description": "This achievement is gained upon visiting Monkey Rock.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270357,
+        "label": "Visit Monkey Rock"
+      }
+    ]
+  },
+  {
+    "id": 1443000,
+    "title": "Redfeather Isle Traveler",
+    "description": "This achievement is gained upon visiting Redfeather Isle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270362,
+        "label": "Visit Redfeather Isle"
+      }
+    ]
+  },
+  {
+    "id": 1442000,
+    "title": "Silyssar, New Chelsith Traveler",
+    "description": "This achievement is gained upon visiting Silyssar, New Chelsith.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270352,
+        "label": "Visit Silyssar, New Chelsith"
+      }
+    ]
+  },
+  {
+    "id": 1442100,
+    "title": "Solteris, the Throne of Ro Traveler",
+    "description": "This achievement is gained upon visiting Solteris, the Throne of Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270353,
+        "label": "Visit Solteris, the Throne of Ro"
+      }
+    ]
+  },
+  {
+    "id": 1442600,
+    "title": "Suncrest Isle Traveler",
+    "description": "This achievement is gained upon visiting Suncrest Isle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270358,
+        "label": "Visit Suncrest Isle"
+      }
+    ]
+  },
+  {
+    "id": 1441700,
+    "title": "Thalassius, the Coral Keep Traveler",
+    "description": "This achievement is gained upon visiting Thalassius, the Coral Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270349,
+        "label": "Visit Thalassius, the Coral Keep"
+      }
+    ]
+  },
+  {
+    "id": 1442300,
+    "title": "The Buried Sea Traveler",
+    "description": "This achievement is gained upon visiting The Buried Sea.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270355,
+        "label": "Visit The Buried Sea"
+      }
+    ]
+  },
+  {
+    "id": 1443100,
+    "title": "The Open Sea Traveler",
+    "description": "This achievement is gained upon sailing all the ships on The Open Sea.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270363,
+        "label": "Merchant and Pirate Ships"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270364,
+        "label": "Merchant and Undead Ships"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270365,
+        "label": "Pirates and Undead Ships"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270366,
+        "label": "Undead Ships"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270367,
+        "label": "Merchant Ships"
+      }
+    ]
+  },
+  {
+    "id": 1441900,
+    "title": "Zhisza, the Shissar Sanctuary Traveler",
+    "description": "This achievement is gained upon visiting Zhisza, the Shissar Sanctuary.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1402,
+    "subcategoryName": "Exploration",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270351,
+        "label": "Visit Zhisza, the Shissar Sanctuary"
+      }
+    ]
+  },
+  {
+    "id": 1408020,
+    "title": "Adept Hunter of The Buried Sea",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunt.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140802001,
+        "label": "Hunter of The Buried Sea"
+      }
+    ]
+  },
+  {
+    "id": 1408100,
+    "title": "Hunter of Barren Coast",
+    "description": "This achievement is gained upon defeating the following rare monsters in Barren Coast.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140810001,
+        "label": "Agrima"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140810002,
+        "label": "Beata the Hag"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140810003,
+        "label": "Bosun`s Mate Fat Gregory"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140810004,
+        "label": "Captain Nedol Midwater"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140810005,
+        "label": "Ebondraw"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 140810006,
+        "label": "Keldron the Accursed"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 140810007,
+        "label": "Maybell the Dark Flower"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 140810008,
+        "label": "Mina the Miserable"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 140810009,
+        "label": "Prathar the Hunter"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 140810010,
+        "label": "Redfoot Pete"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 140810011,
+        "label": "Sick Marty"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 140810012,
+        "label": "Terra the Sea Witch"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 140810013,
+        "label": "The Gerratar"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 140810014,
+        "label": "The Slither Queen"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 140810015,
+        "label": "Xonda Nelda of Kerra"
+      }
+    ]
+  },
+  {
+    "id": 1408600,
+    "title": "Hunter of Jewel of Atiiki",
+    "description": "This achievement is gained upon defeating the following rare monsters in Jewel of Atiiki.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140860001,
+        "label": "Cragnarl"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140860002,
+        "label": "Glutakan"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140860003,
+        "label": "Phobolyten"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140860004,
+        "label": "Rockstorm"
+      }
+    ]
+  },
+  {
+    "id": 1408700,
+    "title": "Hunter of Katta Castrum",
+    "description": "This achievement is gained upon defeating the following rare monsters in Katta Castrum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140870001,
+        "label": "Arch Summoner Vratizosh"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140870002,
+        "label": "Brine of Prexus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140870003,
+        "label": "Confidante Ruxhutin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140870004,
+        "label": "Dark Rites Master Rhissutiz"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140870005,
+        "label": "Gluttuxl of the Fangs"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 140870006,
+        "label": "Hezmaklith the Deadkeeper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 140870007,
+        "label": "Khirixireth the Watcher"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 140870008,
+        "label": "Messenger Xhuxutuzh"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 140870009,
+        "label": "Mudpuppy"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 140870010,
+        "label": "Sarkhaza the Bone Collector"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 140870011,
+        "label": "Spiritflame of the Drowned"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 140870012,
+        "label": "Tempest Eddy"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 140870013,
+        "label": "Voidwalker Vithsixix"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 140870014,
+        "label": "Zrazhzakezu the Defiant"
+      }
+    ]
+  },
+  {
+    "id": 1408800,
+    "title": "Hunter of Silyssar, New Chelsith",
+    "description": "This achievement is gained upon defeating the following rare monsters in Silyssar, New Chelsith.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140880001,
+        "label": "Blurgaposh"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140880002,
+        "label": "Defiler Zaushiz"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140880003,
+        "label": "Guard of the Cipher"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140880004,
+        "label": "Revenant Ozrial"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140880005,
+        "label": "Slitherer"
+      }
+    ]
+  },
+  {
+    "id": 1408500,
+    "title": "Hunter of Thalassius, the Coral Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Thalassius, the Coral Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140850001,
+        "label": "Kraj Iurolapos"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140850002,
+        "label": "Muckdiver"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140850003,
+        "label": "Phyrael Mollotus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140850004,
+        "label": "Rockcrusher"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140850005,
+        "label": "Wavecrasher"
+      }
+    ]
+  },
+  {
+    "id": 1408400,
+    "title": "Hunter of The Buried Sea",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Buried Sea.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140830001,
+        "label": "Blacksail Bob"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140840001,
+        "label": "Blera`mar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140830002,
+        "label": "Bloody Marc"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140840002,
+        "label": "Centehua"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140840003,
+        "label": "Cinderstorm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 140840004,
+        "label": "Coraline"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 140820001,
+        "label": "Dreadclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 140840005,
+        "label": "Drowned Pirate Roberts"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 140840006,
+        "label": "Friar Jake"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 140840007,
+        "label": "Garayy Gali"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 140840008,
+        "label": "Garayy Yuundu"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 140840009,
+        "label": "Globmogger"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 140840010,
+        "label": "Golden Ghost"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 140820002,
+        "label": "Helushka"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 140840011,
+        "label": "Iolana the Defender"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 140840012,
+        "label": "Iuitl, the Prophet"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 140830003,
+        "label": "Jelly Bones Bud"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 140840013,
+        "label": "Lutzan, the Magma Reaver"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 140840014,
+        "label": "Maatha Wirringan"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 140840015,
+        "label": "Maleko, Sea Prophet"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 140840016,
+        "label": "Manat, Archmage of Redfeather"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 140840017,
+        "label": "Marta the Mad"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 140840018,
+        "label": "Palgrave Cutler"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 140840019,
+        "label": "Pythos"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 140840020,
+        "label": "Reefrunner"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 140840021,
+        "label": "Regrua Warcaller"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 140840022,
+        "label": "Relentless Ruth"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 140840023,
+        "label": "Researcher Aeglos"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 140840024,
+        "label": "Rufus"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 140840025,
+        "label": "Shellara Songweaver"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 140840026,
+        "label": "Shertak"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 140840027,
+        "label": "Shipwright Barney"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 140840028,
+        "label": "Stonejaw"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 140840029,
+        "label": "Teragadon"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 140840030,
+        "label": "Terraraptor"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 140830004,
+        "label": "Tetraton"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 140840031,
+        "label": "Thunderstep"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 140840032,
+        "label": "Velora Spinefin"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 140840033,
+        "label": "William Hardcase"
+      }
+    ]
+  },
+  {
+    "id": 1408900,
+    "title": "Hunter of Zhisza, the Shissar Sanctuary",
+    "description": "This achievement is gained upon defeating the following rare monsters in Zhisza, the Shissar Sanctuary.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140890001,
+        "label": "Chitters"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140890002,
+        "label": "Copperfang"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140890003,
+        "label": "Defiler Jaziriiz"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 140890004,
+        "label": "Elder Kazzi"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 140890005,
+        "label": "Holloweyes"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 140890006,
+        "label": "The Stonecarver"
+      }
+    ]
+  },
+  {
+    "id": 1408010,
+    "title": "Novice Hunter of The Buried Sea",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140801001,
+        "label": "Hunter of Barren Coast"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140803001,
+        "label": "Hunter of Thalassius, the Coral Keep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140803002,
+        "label": "Hunter of Jewel of Atiiki"
+      }
+    ]
+  },
+  {
+    "id": 1408030,
+    "title": "Veteran Hunter of The Buried Sea",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1408,
+    "subcategoryName": "Hunts",
+    "categoryId": 1400,
+    "categoryName": "The Buried Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 140803003,
+        "label": "Hunter of Katta Castrum"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 140803005,
+        "label": "Hunter of Zhisza, the Shissar Sanctuary"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 140803004,
+        "label": "Hunter of Silyssar, New Chelsith"
+      }
+    ]
+  }
+]

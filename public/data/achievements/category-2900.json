@@ -1,0 +1,4937 @@
+[
+  {
+    "id": 2901007,
+    "title": "Challenger of Terror of Luclin",
+    "description": "This achievement is gained upon completing all mission challenges in Terror of Luclin.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100701,
+        "label": "Savior of Ka Vethan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100702,
+        "label": "Savior of Vex Thal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100703,
+        "label": "Savior of Basilica of Adumbration"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100704,
+        "label": "Savior of Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2901005,
+    "title": "Champion of Terror of Luclin",
+    "description": "This achievement is gained upon completing all quests in Terror of Luclin.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100501,
+        "label": "Mercenary of Maiden's Eye"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100502,
+        "label": "Partisan of Maiden's Eye"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100503,
+        "label": "Mercenary of Umbral Plains"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100504,
+        "label": "Partisan of Umbral Plains"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290100505,
+        "label": "Mercenary of Ka Vethan"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290100506,
+        "label": "Partisan of Ka Vethan"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290100507,
+        "label": "Mercenary of Vex Thal"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290100514,
+        "label": "Partisan of Vex Thal"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 290100508,
+        "label": "Mercenary of Shadow Valley"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 290100509,
+        "label": "Partisan of Shadow Valley"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 290100510,
+        "label": "Mercenary of Basilica of Adumbration"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 290100511,
+        "label": "Partisan of Basilica of Adumbration"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 290100512,
+        "label": "Mercenary of Bloodfalls"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 290100513,
+        "label": "Partisan of Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2901008,
+    "title": "Conqueror of Terror of Luclin",
+    "description": "This achievement is gained upon completing all raids in Terror of Luclin.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100801,
+        "label": "Conqueror of Maiden's Eye"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100802,
+        "label": "Conqueror of Umbral Plains"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100803,
+        "label": "Conqueror of Ka Vethan"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100804,
+        "label": "Conqueror of Vex Thal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290100805,
+        "label": "Conqueror of Basilica of Adumbration"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290100806,
+        "label": "Conqueror of Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2901002,
+    "title": "Defender of Blood",
+    "description": "This achievement is gained upon completing all quests and missions in Terror of Luclin.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100201,
+        "label": "Champion of Terror of Luclin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100202,
+        "label": "Paragon of Terror of Luclin"
+      }
+    ]
+  },
+  {
+    "id": 2901004,
+    "title": "Explorer of Terror of Luclin",
+    "description": "This achievement is gained upon visiting all zones in Terror of Luclin.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100401,
+        "label": "Maiden's Eye Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100402,
+        "label": "Umbral Plains Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100403,
+        "label": "Ka Vethan Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100404,
+        "label": "Vex Thal Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290100405,
+        "label": "Shadow Valley Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290100406,
+        "label": "Basilica of Adumbration Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290100407,
+        "label": "Bloodfalls Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2901001,
+    "title": "Master of Terror of Luclin",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in Terror of Luclin.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100101,
+        "label": "Defender of Blood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100102,
+        "label": "Shadow Slayer"
+      }
+    ]
+  },
+  {
+    "id": 2901006,
+    "title": "Paragon of Terror of Luclin",
+    "description": "This achievement is gained upon completing all missions in Terror of Luclin.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100601,
+        "label": "Hero of Ka Vethan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100602,
+        "label": "Hero of Vex Thal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100603,
+        "label": "Hero of Basilica of Adumbration"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100604,
+        "label": "Hero of Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2901010,
+    "title": "Shadow Seeker",
+    "description": "This achievement is gained upon completing all collections in Terror of Luclin.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290101001,
+        "label": "Mired in Omens"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290101002,
+        "label": "Lost in Shadows"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290101003,
+        "label": "Steeped in Blood"
+      }
+    ]
+  },
+  {
+    "id": 2901003,
+    "title": "Shadow Slayer",
+    "description": "This achievement is gained upon completing all hunts in Terror of Luclin.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100301,
+        "label": "Novice Hunter of Terror of Luclin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100302,
+        "label": "Adept Hunter of Terror of Luclin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100303,
+        "label": "Veteran Hunter of Terror of Luclin"
+      }
+    ]
+  },
+  {
+    "id": 2901009,
+    "title": "Vanquisher of Terror of Luclin",
+    "description": "This achievement is gained upon completing all raid challenges in Terror of Luclin.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2901,
+    "subcategoryName": "General",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290100901,
+        "label": "Vanquisher of Free the Goranga"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290100902,
+        "label": "Vanquisher of Zelnithak"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290100903,
+        "label": "Vanquisher of Doomshade"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290100904,
+        "label": "Vanquisher of Netherbian Swarm Commander"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290100905,
+        "label": "Vanquisher of Shei Vinitras"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290100906,
+        "label": "Vanquisher of Aten Ha Ra"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290100907,
+        "label": "Vanquisher of Oubliette of Light"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290100908,
+        "label": "Vanquisher of Primal Vampire"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 290100909,
+        "label": "Vanquisher of Close the Gate"
+      }
+    ]
+  },
+  {
+    "id": 2903600,
+    "title": "Basilica of Adumbration Traveler",
+    "description": "This achievement is gained upon visiting Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290360001,
+        "label": "Visit Basilica of Adumbration"
+      }
+    ]
+  },
+  {
+    "id": 2903700,
+    "title": "Bloodfalls Traveler",
+    "description": "This achievement is gained upon visiting Bloodfalls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290370001,
+        "label": "Visit Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2903300,
+    "title": "Ka Vethan Traveler",
+    "description": "This achievement is gained upon visiting Ka Vethan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290330001,
+        "label": "Visit Ka Vethan"
+      }
+    ]
+  },
+  {
+    "id": 2903100,
+    "title": "Maiden's Eye Traveler",
+    "description": "This achievement is gained upon visiting Maiden's Eye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290310001,
+        "label": "Visit Maiden's Eye"
+      }
+    ]
+  },
+  {
+    "id": 2903500,
+    "title": "Shadow Valley Traveler",
+    "description": "This achievement is gained upon visiting Shadow Valley.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290350001,
+        "label": "Visit Shadow Valley"
+      }
+    ]
+  },
+  {
+    "id": 2903200,
+    "title": "Umbral Plains Traveler",
+    "description": "This achievement is gained upon visiting Umbral Plains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290320001,
+        "label": "Visit Umbral Plains"
+      }
+    ]
+  },
+  {
+    "id": 2903400,
+    "title": "Vex Thal Traveler",
+    "description": "This achievement is gained upon visiting Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2903,
+    "subcategoryName": "Exploration",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290340001,
+        "label": "Visit Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 2904610,
+    "title": "Mercenary of Basilica of Adumbration",
+    "description": "This achievement is gained upon completing the following quests in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290461001,
+        "label": "Ceesil Ahdai - Seek and Ye Shale Find"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290461002,
+        "label": "Ceesil Ahdai - All Right Then, Keep Your Secrets"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290461003,
+        "label": "Ceesil Ahdai - All Eyes on You"
+      }
+    ]
+  },
+  {
+    "id": 2904710,
+    "title": "Mercenary of Bloodfalls",
+    "description": "This achievement is gained upon completing the following quests in Bloodfalls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290471001,
+        "label": "Sir Godfrey Barantyn - By the Horns"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290471002,
+        "label": "Sir Godfrey Barantyn - Throwing Shade"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290471003,
+        "label": "Diabo Va Atraeth - Controlling the Feral Population"
+      }
+    ]
+  },
+  {
+    "id": 2904310,
+    "title": "Mercenary of Ka Vethan",
+    "description": "This achievement is gained upon completing the following quests in Ka Vethan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290431001,
+        "label": "A Normal Brazier - A Sacrifice by Any Other Name"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290431002,
+        "label": "A Normal Brazier - Labor Shortage"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290431003,
+        "label": "A Normal Brazier - Rule of Four"
+      }
+    ]
+  },
+  {
+    "id": 2904110,
+    "title": "Mercenary of Maiden's Eye",
+    "description": "This achievement is gained upon completing the following quests in Maiden's Eye.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290411001,
+        "label": "Thall Zun Ravali - Bite Back"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290411002,
+        "label": "Thall Zun Ravali - Don't Get Centimental"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290411003,
+        "label": "Thall Zun Ravali - A Wolf Eat Wolf World"
+      }
+    ]
+  },
+  {
+    "id": 2904510,
+    "title": "Mercenary of Shadow Valley",
+    "description": "This achievement is gained upon completing the following quests in Shadow Valley.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290451001,
+        "label": "Istoph Banock - Chasing Shadows"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290451002,
+        "label": "Istoph Banock - Flights of Shadows"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290451003,
+        "label": "Istoph Banock - Tumbling Shadows"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290451004,
+        "label": "Eliknot Terrilon - Hunting Beetles"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290451005,
+        "label": "Eliknot Terrilon - A Taste of Venom"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290451006,
+        "label": "Eliknot Terrilon - Terror Limbs for Firewood"
+      }
+    ]
+  },
+  {
+    "id": 2904210,
+    "title": "Mercenary of Umbral Plains",
+    "description": "This achievement is gained upon completing the following quests in Umbral Plains.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290421001,
+        "label": "Dirkwafer's Lost Punch Card - Kill Kill Kill"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290421002,
+        "label": "Dirkwafer's Lost Punch Card - Protect the Home"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290421003,
+        "label": "Dirkwafer's Lost Punch Card - Stomp the Herd"
+      }
+    ]
+  },
+  {
+    "id": 2904410,
+    "title": "Mercenary of Vex Thal",
+    "description": "This achievement is gained upon completing the following quests in Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290441001,
+        "label": "Akhevan Scrying Bowl - First Vision of the Unknown"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290441002,
+        "label": "Akhevan Scrying Bowl - Second Vision of the Unknown"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290441003,
+        "label": "Akhevan Scrying Bowl - Third Vision of the Unknown"
+      }
+    ]
+  },
+  {
+    "id": 2904620,
+    "title": "Partisan of Basilica of Adumbration",
+    "description": "This achievement is gained upon completing the following quests in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290462001,
+        "label": "The Anchored Spirit - When Soul Meets Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290462002,
+        "label": "The Anchored Spirit - To Defy Power Which Seems Omnipotent"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290462003,
+        "label": "The Anchored Spirit - Hope May Vanish But Cannot Die"
+      }
+    ]
+  },
+  {
+    "id": 2904720,
+    "title": "Partisan of Bloodfalls",
+    "description": "This achievement is gained upon completing the following quests in Bloodfalls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290472001,
+        "label": "Frank - You're Not Yourself When You're Hungry"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290472002,
+        "label": "Frank - Who Hunts the Hunters"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290472003,
+        "label": "Frank - In Search of Intelligence"
+      }
+    ]
+  },
+  {
+    "id": 2904320,
+    "title": "Partisan of Ka Vethan",
+    "description": "This achievement is gained upon completing the following quests in Ka Vethan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290432001,
+        "label": "Kela Xin Dabo - Back to the Middle and Around Again"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290432002,
+        "label": "Itraer Centien Rashen - Record Scratch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290432003,
+        "label": "Terro Kai - Live as Brothers or Perish as Fools"
+      }
+    ]
+  },
+  {
+    "id": 2904120,
+    "title": "Partisan of Maiden's Eye",
+    "description": "This achievement is gained upon completing the following quests in Maiden's Eye.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290412001,
+        "label": "Senshali Sa Sivuela or Diabo Sivuela - Threading the Loop"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290412002,
+        "label": "Torgarath Rulour Thox - Gone, and Can't Be Forgotten"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290412003,
+        "label": "The Great Hero Ezra - What Dreams May Yet Come?"
+      }
+    ]
+  },
+  {
+    "id": 2904520,
+    "title": "Partisan of Shadow Valley",
+    "description": "This achievement is gained upon completing the following quests in Shadow Valley.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290452001,
+        "label": "Daerius Jaegir - Exploring Shadow Valley's Burn Scars"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290452002,
+        "label": "Daerius Jaegir - Catching Lightning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290452003,
+        "label": "Daerius Jaegir - Treading on Dangerous Territory"
+      }
+    ]
+  },
+  {
+    "id": 2904220,
+    "title": "Partisan of Umbral Plains",
+    "description": "This achievement is gained upon completing the following quests in Umbral Plains.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290422001,
+        "label": "Binkl Dirkwafer - Get Off My Lawn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290422002,
+        "label": "Korah Kai the Gardener - The More Things Change"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290422003,
+        "label": "Korah Kai the Gardener - The More They Stay the Same"
+      }
+    ]
+  },
+  {
+    "id": 2904420,
+    "title": "Partisan of Vex Thal",
+    "description": "This achievement is gained upon completing the following quests in Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2904,
+    "subcategoryName": "Quests",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290442001,
+        "label": "Samuel Jezra - Thanks for the Memories"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290442002,
+        "label": "Samuel Jezra - Even If They Weren't So Great"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290442003,
+        "label": "Cissela Regnar - Sincerely, Cissela"
+      }
+    ]
+  },
+  {
+    "id": 2905211,
+    "title": "Aten Ha Ra: Calm the Stones",
+    "description": "This special challenge can be completed during the mission, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290521101,
+        "label": "Cause all of the gargoyles to turn to stone."
+      }
+    ]
+  },
+  {
+    "id": 2905212,
+    "title": "Aten Ha Ra: Merge Not",
+    "description": "This special challenge can be completed during the mission, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290521201,
+        "label": "Do not allow Kaas Thox Xi Ha Ra Dat and Kaas Thox Xi Ha Ra Set to touch each other."
+      }
+    ]
+  },
+  {
+    "id": 2905213,
+    "title": "Aten Ha Ra: Unstomped",
+    "description": "This special challenge can be completed during the mission, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290521301,
+        "label": "Do not allow anyone to be crushed by the bulwarks."
+      }
+    ]
+  },
+  {
+    "id": 2905413,
+    "title": "Close the Gate: Incomplete Shadows",
+    "description": "This special challenge can be completed during the mission, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290541301,
+        "label": "Do not allow the light and dark orbs created by Pli Liako to overlap."
+      }
+    ]
+  },
+  {
+    "id": 2905411,
+    "title": "Close the Gate: No Moss",
+    "description": "This special challenge can be completed during the mission, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290541101,
+        "label": "Only let each gargoyle turn to stone once."
+      }
+    ]
+  },
+  {
+    "id": 2905412,
+    "title": "Close the Gate: Shadow Self",
+    "description": "This special challenge can be completed during the mission, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290541201,
+        "label": "Free no shadows."
+      }
+    ]
+  },
+  {
+    "id": 2905300,
+    "title": "Hero of Basilica of Adumbration",
+    "description": "This achievement is gained upon completing the following mission in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290530001,
+        "label": "A Worrisome Shade - Oubliette of Light"
+      }
+    ]
+  },
+  {
+    "id": 2905400,
+    "title": "Hero of Bloodfalls",
+    "description": "This achievement is gained upon completing the following mission in Bloodfalls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290540001,
+        "label": "Sorcha, Governess of Serenity - Close the Gate"
+      }
+    ]
+  },
+  {
+    "id": 2905100,
+    "title": "Hero of Ka Vethan",
+    "description": "This achievement is gained upon completing the following mission in Ka Vethan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290510001,
+        "label": "A Worrisome Shade - Shei Vinitras"
+      }
+    ]
+  },
+  {
+    "id": 2905200,
+    "title": "Hero of Vex Thal",
+    "description": "This achievement is gained upon completing the following mission in Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290520001,
+        "label": "A Worrisome Shade - Aten Ha Ra"
+      }
+    ]
+  },
+  {
+    "id": 2905312,
+    "title": "Oubliette of Light: Complete Control",
+    "description": "This special challenge can be completed during the mission, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290531201,
+        "label": "Kill all jailers before new ones appear."
+      }
+    ]
+  },
+  {
+    "id": 2905311,
+    "title": "Oubliette of Light: Graspless",
+    "description": "This special challenge can be completed during the mission, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290531101,
+        "label": "Don't let anyone get grabbed by the grasping shades."
+      }
+    ]
+  },
+  {
+    "id": 2905313,
+    "title": "Oubliette of Light: Unchained",
+    "description": "This special challenge can be completed during the mission, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290531301,
+        "label": "Let no one lose their shadows."
+      }
+    ]
+  },
+  {
+    "id": 2905310,
+    "title": "Savior of Basilica of Adumbration",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Oubliette of Light.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290531001,
+        "label": "Oubliette of Light: Graspless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290531002,
+        "label": "Oubliette of Light: Complete Control"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290531003,
+        "label": "Oubliette of Light: Unchained"
+      }
+    ]
+  },
+  {
+    "id": 2905410,
+    "title": "Savior of Bloodfalls",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Close the Gate.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290541001,
+        "label": "Close the Gate: No Moss"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290541002,
+        "label": "Close the Gate: Shadow Self"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290541003,
+        "label": "Close the Gate: Incomplete Shadows"
+      }
+    ]
+  },
+  {
+    "id": 2905110,
+    "title": "Savior of Ka Vethan",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Shei Vinitras.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290511001,
+        "label": "Shei Vinitras: Running With Shears"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290511002,
+        "label": "Shei Vinitras: Don't Cut the Strings"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290511003,
+        "label": "Shei Vinitras: Mending Ways"
+      }
+    ]
+  },
+  {
+    "id": 2905210,
+    "title": "Savior of Vex Thal",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Aten Ha Ra.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290521001,
+        "label": "Aten Ha Ra: Calm the Stones"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290521002,
+        "label": "Aten Ha Ra: Merge Not"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290521003,
+        "label": "Aten Ha Ra: Unstomped"
+      }
+    ]
+  },
+  {
+    "id": 2905112,
+    "title": "Shei Vinitras: Don't Cut the Strings",
+    "description": "This special challenge can be completed during the mission, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290511201,
+        "label": "Do not allow anyone to die to Touch of Vinitras."
+      }
+    ]
+  },
+  {
+    "id": 2905113,
+    "title": "Shei Vinitras: Mending Ways",
+    "description": "This special challenge can be completed during the mission, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290511301,
+        "label": "Allow Shei Vinitras to be healed at least two times."
+      }
+    ]
+  },
+  {
+    "id": 2905111,
+    "title": "Shei Vinitras: Running With Shears",
+    "description": "This special challenge can be completed during the mission, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2905,
+    "subcategoryName": "Missions",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290511101,
+        "label": "Do not allow any Datiar Xi Tavuelim to explode."
+      }
+    ]
+  },
+  {
+    "id": 2907411,
+    "title": "Aten Ha Ra: Calm the Stones",
+    "description": "This special challenge can be completed during the raid, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290741101,
+        "label": "Cause all of the gargoyles to turn to stone."
+      }
+    ]
+  },
+  {
+    "id": 2907412,
+    "title": "Aten Ha Ra: Merge Not",
+    "description": "This special challenge can be completed during the raid, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290741201,
+        "label": "Do not allow Kaas Thox Xi Ha Ra Dat and Kaas Thox Xi Ha Ra Set to touch each other."
+      }
+    ]
+  },
+  {
+    "id": 2907413,
+    "title": "Aten Ha Ra: Unstomped",
+    "description": "This special challenge can be completed during the raid, Aten Ha Ra.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290741301,
+        "label": "Do not allow anyone to be crushed by the bulwarks. (personal)"
+      }
+    ]
+  },
+  {
+    "id": 2907621,
+    "title": "Close the Gate: No Moss",
+    "description": "This special challenge can be completed during the raid, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290762101,
+        "label": "Only let each gargoyle turn to stone once."
+      }
+    ]
+  },
+  {
+    "id": 2907622,
+    "title": "Close the Gate: Shadow Self",
+    "description": "This special challenge can be completed during the raid, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290762201,
+        "label": "Free no shadows."
+      }
+    ]
+  },
+  {
+    "id": 2907623,
+    "title": "Close the Gate: Underwhelming Shadows",
+    "description": "This special challenge can be completed during the raid, Close the Gate.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290762301,
+        "label": "Allow no Overwhelming Darkness spells to be cast."
+      }
+    ]
+  },
+  {
+    "id": 2907500,
+    "title": "Conqueror of Basilica of Adumbration",
+    "description": "This achievement is gained upon completing the following raid in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290750001,
+        "label": "A Worrisome Shade - Oubliette of Light"
+      }
+    ]
+  },
+  {
+    "id": 2907600,
+    "title": "Conqueror of Bloodfalls",
+    "description": "This achievement is gained upon completing the following raids in Bloodfalls.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290760001,
+        "label": "Sorcha, Governess of Serenity - Primal Vampire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290760002,
+        "label": "Sorcha, Governess of Serenity - Close the Gate"
+      }
+    ]
+  },
+  {
+    "id": 2907300,
+    "title": "Conqueror of Ka Vethan",
+    "description": "This achievement is gained upon completing the following raid in Ka Vethan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290730001,
+        "label": "A Worrisome Shade - Shei Vinitras"
+      }
+    ]
+  },
+  {
+    "id": 2907100,
+    "title": "Conqueror of Maiden's Eye",
+    "description": "This achievement is gained upon completing the following raid in Maiden's Eye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290710001,
+        "label": "A Worried Escaped Slave - Free the Goranga"
+      }
+    ]
+  },
+  {
+    "id": 2907200,
+    "title": "Conqueror of Umbral Plains",
+    "description": "This achievement is gained upon completing the following raids in Umbral Plains.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290720001,
+        "label": "Rowain McKay - Zelnithak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290720002,
+        "label": "Rowain McKay - Doomshade"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290720003,
+        "label": "Rowain McKay - Netherbian Swarm Commander"
+      }
+    ]
+  },
+  {
+    "id": 2907400,
+    "title": "Conqueror of Vex Thal",
+    "description": "This achievement is gained upon completing the following raid in Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290740001,
+        "label": "A Worrisome Shade - Aten Ha Ra"
+      }
+    ]
+  },
+  {
+    "id": 2907221,
+    "title": "Doomshade: All Togather Now",
+    "description": "This special challenge can be completed during the raid, Doomshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290722101,
+        "label": "Don't allow all the shadows to gather."
+      }
+    ]
+  },
+  {
+    "id": 2907223,
+    "title": "Doomshade: Forced to Fade",
+    "description": "This special challenge can be completed during the raid, Doomshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290722301,
+        "label": "Defeat all Fading Shades before the next group spawn."
+      }
+    ]
+  },
+  {
+    "id": 2907222,
+    "title": "Doomshade: None Togather Now",
+    "description": "This special challenge can be completed during the raid, Doomshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290722201,
+        "label": "Don't allow any shadows to gather."
+      }
+    ]
+  },
+  {
+    "id": 2907113,
+    "title": "Free the Goranga: In Their Time",
+    "description": "This special challenge can be completed during the raid, Free the Goranga.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290711301,
+        "label": "Kill all liquid shadows before more appear."
+      }
+    ]
+  },
+  {
+    "id": 2907111,
+    "title": "Free the Goranga: Price of No Freedom",
+    "description": "This special challenge can be completed during the raid, Free the Goranga.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290711101,
+        "label": "Free none of the goranga."
+      }
+    ]
+  },
+  {
+    "id": 2907112,
+    "title": "Free the Goranga: The Needs of a Few",
+    "description": "This special challenge can be completed during the raid, Free the Goranga.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290711201,
+        "label": "Free only one of the groups of goranga."
+      }
+    ]
+  },
+  {
+    "id": 2907233,
+    "title": "Netherbian Swarm Commander: Each in Turn",
+    "description": "This special challenge can be completed during the raid, Netherbian Swarm Commander.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290723301,
+        "label": "Defeat all minor enemies before more arrive."
+      }
+    ]
+  },
+  {
+    "id": 2907232,
+    "title": "Netherbian Swarm Commander: Infestation Free",
+    "description": "This special challenge can be completed during the raid, Netherbian Swarm Commander.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290723201,
+        "label": "Don't allow any infestations to produce a netherbian."
+      }
+    ]
+  },
+  {
+    "id": 2907231,
+    "title": "Netherbian Swarm Commander: Save the Innocent",
+    "description": "This special challenge can be completed during the raid, Netherbian Swarm Commander.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290723101,
+        "label": "Kill no newborn drones."
+      }
+    ]
+  },
+  {
+    "id": 2907512,
+    "title": "Oubliette of Light: Complete Control",
+    "description": "This special challenge can be completed during the raid, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290751201,
+        "label": "Kill all jailers before new ones appear."
+      }
+    ]
+  },
+  {
+    "id": 2907511,
+    "title": "Oubliette of Light: Graspless",
+    "description": "This special challenge can be completed during the raid, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290751101,
+        "label": "Don't let anyone get grabbed by the grasping shades."
+      }
+    ]
+  },
+  {
+    "id": 2907513,
+    "title": "Oubliette of Light: Unchained",
+    "description": "This special challenge can be completed during the raid, Oubliette of Light.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290751301,
+        "label": "Let no one lose their shadows."
+      }
+    ]
+  },
+  {
+    "id": 2907613,
+    "title": "Primal Vampire: Drought",
+    "description": "This special challenge can be completed during the raid, Primal Vampire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290761301,
+        "label": "Do not allow any Bloodrains to happen."
+      }
+    ]
+  },
+  {
+    "id": 2907611,
+    "title": "Primal Vampire: Feastless",
+    "description": "This special challenge can be completed during the raid, Primal Vampire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290761101,
+        "label": "Don't let any feasts explode from the death of the Primal Vampire."
+      }
+    ]
+  },
+  {
+    "id": 2907612,
+    "title": "Primal Vampire: No Ascent",
+    "description": "This special challenge can be completed during the raid, Primal Vampire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290761201,
+        "label": "Do not allow an amorphous vampire to ascend."
+      }
+    ]
+  },
+  {
+    "id": 2907311,
+    "title": "Shei Vinitras: Dance Like a Puppet",
+    "description": "This special challenge can be completed during the raid, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290731101,
+        "label": "Do not allow Datiar Xi Pharuaim or Datiar Xi Tekar to touch anyone."
+      }
+    ]
+  },
+  {
+    "id": 2907312,
+    "title": "Shei Vinitras: Don't Cut the Strings",
+    "description": "This special challenge can be completed during the raid, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290731201,
+        "label": "Do not allow anyone to die to Touch of Vinitras."
+      }
+    ]
+  },
+  {
+    "id": 2907313,
+    "title": "Shei Vinitras: Mending Ways",
+    "description": "This special challenge can be completed during the raid, Shei Vinitras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290731301,
+        "label": "Allow Shei Vinitras to be healed at least five times."
+      }
+    ]
+  },
+  {
+    "id": 2907410,
+    "title": "Vanquisher of Aten Ha Ra",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Aten Ha Ra.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290741001,
+        "label": "Aten Ha Ra: Calm the Stones"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290741002,
+        "label": "Aten Ha Ra: Merge Not"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290741003,
+        "label": "Aten Ha Ra: Unstomped"
+      }
+    ]
+  },
+  {
+    "id": 2907620,
+    "title": "Vanquisher of Close the Gate",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Close the Gate.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290762001,
+        "label": "Close the Gate: No Moss"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290762002,
+        "label": "Close the Gate: Shadow Self"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290762003,
+        "label": "Close the Gate: Underwhelming Shadows"
+      }
+    ]
+  },
+  {
+    "id": 2907220,
+    "title": "Vanquisher of Doomshade",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Doomshade.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290722001,
+        "label": "Doomshade: All Togather Now"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290722002,
+        "label": "Doomshade: None Togather Now"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290722003,
+        "label": "Doomshade: Forced to Fade"
+      }
+    ]
+  },
+  {
+    "id": 2907110,
+    "title": "Vanquisher of Free the Goranga",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Free the Goranga.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290711001,
+        "label": "Free the Goranga: Price of No Freedom"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290711002,
+        "label": "Free the Goranga: The Needs of a Few"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290711003,
+        "label": "Free the Goranga: In Their Time"
+      }
+    ]
+  },
+  {
+    "id": 2907230,
+    "title": "Vanquisher of Netherbian Swarm Commander",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Netherbian Swarm Commander.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290723001,
+        "label": "Netherbian Swarm Commander: Save the Innocent"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290723002,
+        "label": "Netherbian Swarm Commander: Infestation Free"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290723003,
+        "label": "Netherbian Swarm Commander: Each in Turn"
+      }
+    ]
+  },
+  {
+    "id": 2907510,
+    "title": "Vanquisher of Oubliette of Light",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Oubliette of Light.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290751001,
+        "label": "Oubliette of Light: Graspless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290751002,
+        "label": "Oubliette of Light: Complete Control"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290751003,
+        "label": "Oubliette of Light: Unchained"
+      }
+    ]
+  },
+  {
+    "id": 2907610,
+    "title": "Vanquisher of Primal Vampire",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Primal Vampire.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290761001,
+        "label": "Primal Vampire: Feastless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290761002,
+        "label": "Primal Vampire: No Ascent"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290761003,
+        "label": "Primal Vampire: Drought"
+      }
+    ]
+  },
+  {
+    "id": 2907310,
+    "title": "Vanquisher of Shei Vinitras",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Shei Vinitras.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290731001,
+        "label": "Shei Vinitras: Dance Like a Puppet"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290731002,
+        "label": "Shei Vinitras: Don't Cut the Strings"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290731003,
+        "label": "Shei Vinitras: Mending Ways"
+      }
+    ]
+  },
+  {
+    "id": 2907210,
+    "title": "Vanquisher of Zelnithak",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Zelnithak.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290721001,
+        "label": "Zelnithak: Unreleased Power"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290721002,
+        "label": "Zelnithak: Unsharded"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290721003,
+        "label": "Zelnithak: In Bounds"
+      }
+    ]
+  },
+  {
+    "id": 2907213,
+    "title": "Zelnithak: In Bounds",
+    "description": "This special challenge can be completed during the raid, Zelnithak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290721301,
+        "label": "During the entire battle with Zelnithak, everyone must remain within the binding runes."
+      }
+    ]
+  },
+  {
+    "id": 2907211,
+    "title": "Zelnithak: Unreleased Power",
+    "description": "This special challenge can be completed during the raid, Zelnithak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290721101,
+        "label": "Allow no zelniaks to reach their full potential before death."
+      }
+    ]
+  },
+  {
+    "id": 2907212,
+    "title": "Zelnithak: Unsharded",
+    "description": "This special challenge can be completed during the raid, Zelnithak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2907,
+    "subcategoryName": "Raids",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290721201,
+        "label": "Allow no one to be harmed by stone shards."
+      }
+    ]
+  },
+  {
+    "id": 2908020,
+    "title": "Adept Hunter of Terror of Luclin",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290802001,
+        "label": "Hunter of Ka Vethan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290802002,
+        "label": "Hunter of Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 2908600,
+    "title": "Hunter of Basilica of Adumbration",
+    "description": "This achievement is gained upon defeating the following rare monsters in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290860001,
+        "label": "Congealed Shadow Mass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290860002,
+        "label": "Dark Agent of Luclin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290860003,
+        "label": "Gloomclaw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290860004,
+        "label": "Irate Servant of Luclin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290860005,
+        "label": "Itzal, Luclin's Hunter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290860006,
+        "label": "Mistakenly Animated Salt Golem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290860007,
+        "label": "Xetheg, Luclin's Warden"
+      }
+    ]
+  },
+  {
+    "id": 2908700,
+    "title": "Hunter of Bloodfalls",
+    "description": "This achievement is gained upon defeating the following rare monsters in Bloodfalls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290870001,
+        "label": "A Retainer of Shadow"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290870002,
+        "label": "Centien Xi Va Xakra"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290870003,
+        "label": "Coagulus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290870004,
+        "label": "Cruor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290870005,
+        "label": "Lady Constance"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290870006,
+        "label": "Nikolas the Exiled"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290870007,
+        "label": "Pli Xin Laiko"
+      }
+    ]
+  },
+  {
+    "id": 2908300,
+    "title": "Hunter of Ka Vethan",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ka Vethan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290830001,
+        "label": "Centi Thall"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290830002,
+        "label": "Diabo Tatrua"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290830003,
+        "label": "Diabo Va Thall"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290830004,
+        "label": "Diabo Xi Va"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290830005,
+        "label": "Diabo Xi Xin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290830006,
+        "label": "The Protector"
+      }
+    ]
+  },
+  {
+    "id": 2908100,
+    "title": "Hunter of Maiden's Eye",
+    "description": "This achievement is gained upon defeating the following rare monsters in Maiden's Eye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290810001,
+        "label": "Centien Rashen Xaui"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290810002,
+        "label": "Darkmeat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290810003,
+        "label": "Diabo Xi Akuel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290810004,
+        "label": "Lucca Brightfeld"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290810005,
+        "label": "Namdrows"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290810006,
+        "label": "Quietus the Forgotten"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290810007,
+        "label": "Temariel Xi Tetoracu"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290810008,
+        "label": "Tess Zelinstein"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 290810009,
+        "label": "Txiki"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 290810010,
+        "label": "Xenacious Von Deek"
+      }
+    ]
+  },
+  {
+    "id": 2908500,
+    "title": "Hunter of Shadow Valley",
+    "description": "This achievement is gained upon defeating the following rare monsters in Shadow Valley.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290850001,
+        "label": "a scorched terror"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290850002,
+        "label": "a tenebrous slight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290850003,
+        "label": "an avaricious mass"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290850004,
+        "label": "an illusive dim"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290850005,
+        "label": "Ander, Wolf of Shadows"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290850006,
+        "label": "Bynn the Tormented"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290850007,
+        "label": "Tearc, Shade Keeper"
+      }
+    ]
+  },
+  {
+    "id": 2908200,
+    "title": "Hunter of Umbral Plains",
+    "description": "This achievement is gained upon defeating the following rare monsters in Umbral Plains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290820001,
+        "label": "Bloodwretch"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290820002,
+        "label": "Captain Resh Sogran"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290820003,
+        "label": "Fleshrot"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290820004,
+        "label": "Fyrthek Fior"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290820005,
+        "label": "Gantru Shojralen"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290820006,
+        "label": "Nightfall"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290820007,
+        "label": "Rumblecrush"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290820008,
+        "label": "Shak Dathor Warlord"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 290820009,
+        "label": "Sylra Fris"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 290820010,
+        "label": "Telaris Xeturisun"
+      }
+    ]
+  },
+  {
+    "id": 2908400,
+    "title": "Hunter of Vex Thal",
+    "description": "This achievement is gained upon defeating the following rare monsters in Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290840001,
+        "label": "Diabo Xi Va Temariel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290840002,
+        "label": "Diabo Xi Xin Thall"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290840003,
+        "label": "Kaas Thox Xi Ans Dyek"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290840004,
+        "label": "Thall Va Kelun"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290840005,
+        "label": "Thall Xundraux Diabo"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290840006,
+        "label": "Thox Xakra"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290840007,
+        "label": "Va Xakra"
+      }
+    ]
+  },
+  {
+    "id": 2908010,
+    "title": "Novice Hunter of Terror of Luclin",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290801001,
+        "label": "Hunter of Maiden's Eye"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290801002,
+        "label": "Hunter of Umbral Plains"
+      }
+    ]
+  },
+  {
+    "id": 2908030,
+    "title": "Veteran Hunter of Terror of Luclin",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 2908,
+    "subcategoryName": "Hunts",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290803001,
+        "label": "Hunter of Shadow Valley"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290803002,
+        "label": "Hunter of Basilica of Adumbration"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290803003,
+        "label": "Hunter of Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2909241,
+    "title": "Akhevan Insignia",
+    "description": "Insignia of certain Akheva with storied pasts.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290924101,
+        "label": "Insignia of Thall"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290924102,
+        "label": "Insignia of Centien"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290924103,
+        "label": "Insignia of Senshali"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290924104,
+        "label": "Insignia of Liako"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290924105,
+        "label": "Insignia of Zethon"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290924106,
+        "label": "Insignia of Va Liako"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290924107,
+        "label": "Insignia of Xakra"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290924108,
+        "label": "Insignia of Warders"
+      }
+    ]
+  },
+  {
+    "id": 2909352,
+    "title": "Ancient Halasian Runes",
+    "description": "Various runes etched to ease the daily struggle of ancient life.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290935201,
+        "label": "Faded Rune of Fertility"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290935202,
+        "label": "Faded Rune of Knowledge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290935203,
+        "label": "Faded Rune of the Dawn"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290935204,
+        "label": "Faded Rune of the Mother"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290935205,
+        "label": "Faded Rune of Kinship"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290935206,
+        "label": "Faded Rune of Protection"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290935207,
+        "label": "Faded Rune of Sanctuary"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290935208,
+        "label": "Faded Rune of the Ancestors"
+      }
+    ]
+  },
+  {
+    "id": 2909360,
+    "title": "Basilica of Adumbration Scavenger",
+    "description": "This achievement is gained upon completing all collections in Basilica of Adumbration.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290936001,
+        "label": "Prisoner Grub"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290936002,
+        "label": "Basilica Sentencings"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290936003,
+        "label": "Correspondence from Lcea Katta"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290936004,
+        "label": "Gargoyle Fragments"
+      }
+    ]
+  },
+  {
+    "id": 2909362,
+    "title": "Basilica Sentencings",
+    "description": "Sentences passed on a variety of particularly infamous criminals.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290936201,
+        "label": "Basilica Sentencing: Xys Akuel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290936202,
+        "label": "Basilica Sentencing: Olyam Banock"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290936203,
+        "label": "Basilica Sentencing: Madasami Otajum"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290936204,
+        "label": "Basilica Sentencing: Huntsman Krilax"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290936205,
+        "label": "Basilica Sentencing: Centien Zun'xa"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290936206,
+        "label": "Basilica Sentencing: Valdanov Zevfeer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290936207,
+        "label": "Basilica Sentencing: Mayong Mistmoore"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290936208,
+        "label": "Basilica Sentencing: Intruders"
+      }
+    ]
+  },
+  {
+    "id": 2909372,
+    "title": "Bloodfalls Battlefield",
+    "description": "Indications of brutality inflicted upon the merciless.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290937201,
+        "label": "Akhevan Bone Shards"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290937202,
+        "label": "Broken Shadowed Shield"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290937203,
+        "label": "Cracked Vampyric Sword"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290937204,
+        "label": "Dulled Vampyric Dagger"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290937205,
+        "label": "Extracted Vampire Fangs"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290937206,
+        "label": "Pebble of Condensed Shadow"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290937207,
+        "label": "Torn Invasion Battlemap"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290937208,
+        "label": "Torn Vampyric Shroud"
+      }
+    ]
+  },
+  {
+    "id": 2909370,
+    "title": "Bloodfalls Scavenger",
+    "description": "This achievement is gained upon completing all collections in Bloodfalls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290937001,
+        "label": "Drops of Blood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290937002,
+        "label": "Bloodfalls Battlefield"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290937003,
+        "label": "Vampire Chess Set"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290937004,
+        "label": "Flora of the Bloodfalls"
+      }
+    ]
+  },
+  {
+    "id": 2909124,
+    "title": "Bountiful Poisonous Webcaps",
+    "description": "Numerous webcaps, each more deadly than the last.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290912401,
+        "label": "Claret Webcap"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290912402,
+        "label": "Rotting Webcap Spores"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290912403,
+        "label": "Festering Webcap Spores"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290912404,
+        "label": "Pustulent Webcap Spores"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290912405,
+        "label": "Fools Webcap"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290912406,
+        "label": "Decaying Webcap"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290912407,
+        "label": "Bruising Webcap"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290912408,
+        "label": "Shrouded Webcap"
+      }
+    ]
+  },
+  {
+    "id": 2909113,
+    "title": "Breaker of Chains",
+    "description": "Remnants of those who claimed freedom through violence.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290911301,
+        "label": "Broken Wrist Shackles"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290911302,
+        "label": "Broken Ankle Restraints"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290911303,
+        "label": "Wolf-Hide Whip"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290911304,
+        "label": "Snapped Akhevan Jailor Key"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290911305,
+        "label": "Broken Slave Collar"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290911306,
+        "label": "Snapped Guard Keyring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290911307,
+        "label": "Torn Wolf Treat Sack"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290911308,
+        "label": "Crushed Slave Summoning Bell"
+      }
+    ]
+  },
+  {
+    "id": 2909243,
+    "title": "Captured Glimpses",
+    "description": "Glimpses of memories too important to forget.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290924301,
+        "label": "Memory of Rejoice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290924302,
+        "label": "Memory of Lovers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290924303,
+        "label": "Memory of Triumph"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290924304,
+        "label": "Memory of Urgency"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290924305,
+        "label": "Memory of Shar Vahl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290924306,
+        "label": "Memory of Danger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290924307,
+        "label": "Memory of Secrecy"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290924308,
+        "label": "Memory of Mystery"
+      }
+    ]
+  },
+  {
+    "id": 2909363,
+    "title": "Correspondence from Lcea Katta",
+    "description": "A unique sequence of messages written by Lcea Katta.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290936301,
+        "label": "Correspondence from Lcea Katta, #1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290936302,
+        "label": "Correspondence from Lcea Katta, #2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290936303,
+        "label": "Correspondence from Lcea Katta, #3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290936304,
+        "label": "Correspondence from Lcea Katta, #4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290936305,
+        "label": "Correspondence from Lcea Katta, #5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290936306,
+        "label": "Correspondence from Lcea Katta, #6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290936307,
+        "label": "Correspondence from Lcea Katta, #7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290936308,
+        "label": "Correspondence from Lcea Katta, #8"
+      }
+    ]
+  },
+  {
+    "id": 2909122,
+    "title": "Crude Fyr Jen Tools",
+    "description": "Common tools of the Fyr Jen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290912201,
+        "label": "Crude Fyr Jen Burin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290912202,
+        "label": "Crude Fyr Jen Scrapper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290912203,
+        "label": "Crude Fyr Jen Mallet"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290912204,
+        "label": "Crude Fyr Jen Cloth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290912205,
+        "label": "Crude Fyr Jen Cork"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290912206,
+        "label": "Crude Fyr Jen Grinder"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290912207,
+        "label": "Crude Fyr Jen Slab"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290912208,
+        "label": "Crude Fyr Jen Banding"
+      }
+    ]
+  },
+  {
+    "id": 2909371,
+    "title": "Drops of Blood",
+    "description": "Blood drops preserved in a variety of unique states.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290937101,
+        "label": "Blackened Drop of Blood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290937102,
+        "label": "Caustic Drop of Blood"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290937103,
+        "label": "Clotted Drop of Blood"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290937104,
+        "label": "Crimson Drop of Blood"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290937105,
+        "label": "Dried Drop of Blood"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290937106,
+        "label": "Fresh Drop of Blood"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290937107,
+        "label": "Frozen Drop of Blood"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290937108,
+        "label": "Viscous Drop of Blood"
+      }
+    ]
+  },
+  {
+    "id": 2909121,
+    "title": "Elysians Bone Relics",
+    "description": "Unique examples of Elysian bones.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290912101,
+        "label": "Fire Engraved Elysian Bone Relic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290912102,
+        "label": "Wind Engraved Elysian Bone Relic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290912103,
+        "label": "Water Engraved Elysian Bone Relic"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290912104,
+        "label": "Polished Section of Elysian Bone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290912105,
+        "label": "Elysian Bone Fragment"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290912106,
+        "label": "Charred Elysian Bones"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290912107,
+        "label": "Elysian Bone Chips"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290912108,
+        "label": "Elysian Jawbone Relic"
+      }
+    ]
+  },
+  {
+    "id": 2909374,
+    "title": "Flora of the Bloodfalls",
+    "description": "Unsurprisingly, they're all somehow related to actual blood.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290937401,
+        "label": "Bloodgood Leaf"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290937402,
+        "label": "Blood-starved Branch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290937403,
+        "label": "Dragon's Blood Bark"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290937404,
+        "label": "Dried Sanguine Leaf"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290937405,
+        "label": "Exposed Roots"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290937406,
+        "label": "Fallen Blood Leaf"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290937407,
+        "label": "Razorleaf Fern"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290937408,
+        "label": "Severed Bloodroot"
+      }
+    ]
+  },
+  {
+    "id": 2909111,
+    "title": "Found Paper",
+    "description": "Notes written on a variety of seemingly disparate subjects.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290911101,
+        "label": "Strangely Worded Note about Hearth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290911102,
+        "label": "Strangely Worded Note about Towers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290911103,
+        "label": "Strangely Worded Note about Saws"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290911104,
+        "label": "Strangely Worded Note about Mongrels"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290911105,
+        "label": "Strangely Worded Note about Beasts"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290911106,
+        "label": "Strangely Worded Note about Bedding"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290911107,
+        "label": "Strangely Worded Note about Globes"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290911108,
+        "label": "Strangely Worded Note about Legs"
+      }
+    ]
+  },
+  {
+    "id": 2909364,
+    "title": "Gargoyle Fragments",
+    "description": "Broken pieces of gargoyles, long freed of their tireless watch.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290936401,
+        "label": "Loose Gargoyle Fang"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290936402,
+        "label": "Cracked Gargoyle Claw"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290936403,
+        "label": "Chipped Gargoyle Pieces"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290936404,
+        "label": "Detached Gargoyle Horn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290936405,
+        "label": "Broken Gargoyle Tail"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290936406,
+        "label": "Shattered Gargoyle Eye"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290936407,
+        "label": "Sundered Gargoyle Wing"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290936408,
+        "label": "Crumbling Gargoyle Jaw"
+      }
+    ]
+  },
+  {
+    "id": 2909230,
+    "title": "Ka Vethan Scavenger",
+    "description": "This achievement is gained upon completing all collections in Ka Vethan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290923001,
+        "label": "Path of Shadow, Protected by Blood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290923002,
+        "label": "Quiet as a Church Mouse"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290923003,
+        "label": "Lingering Shadows"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290923004,
+        "label": "Sacrificial Artifacts"
+      }
+    ]
+  },
+  {
+    "id": 2909233,
+    "title": "Lingering Shadows",
+    "description": "Shadows of the past clinging to the present.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290923301,
+        "label": "Improvised Shadow Bolt"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290923302,
+        "label": "Stripped Shadow Nut"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290923303,
+        "label": "Stripped Shadow Screw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290923304,
+        "label": "Misshapen Shadow Brick"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290923305,
+        "label": "Jury-Rigged Shadow Hammer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290923306,
+        "label": "Bent Shadow Nail"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290923307,
+        "label": "Broken Shadow Trowel"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290923308,
+        "label": "Dulled Shadow Chisel"
+      }
+    ]
+  },
+  {
+    "id": 2909200,
+    "title": "Lost in Shadows",
+    "description": "This achievement is gained upon completing the following tier 2 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290920001,
+        "label": "Ka Vethan Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290920002,
+        "label": "Vex Thal Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2909110,
+    "title": "Maiden's Eye Scavenger",
+    "description": "This achievement is gained upon completing all collections in Maiden's Eye.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290911001,
+        "label": "Found Paper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290911002,
+        "label": "Vampyre Diaryes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290911003,
+        "label": "Breaker of Chains"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290911004,
+        "label": "Outpost Reclamation Orders"
+      }
+    ]
+  },
+  {
+    "id": 2909100,
+    "title": "Mired in Omens",
+    "description": "This achievement is gained upon completing the following tier 1 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290910001,
+        "label": "Maiden's Eye Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290910002,
+        "label": "Umbral Plains Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2909114,
+    "title": "Outpost Reclamation Orders",
+    "description": "Records of various orders issued by the powerful.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290911401,
+        "label": "Outpost Reclamation Order, \"Reminder\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290911402,
+        "label": "Outpost Reclamation Order, \"Escape\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290911403,
+        "label": "Outpost Reclamation Order, \"Work\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290911404,
+        "label": "Outpost Reclamation Order, \"Beatings\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290911405,
+        "label": "Outpost Reclamation Order, \"Respect\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290911406,
+        "label": "Outpost Reclamation Order, \"Conflict\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290911407,
+        "label": "Outpost Reclamation Order, \"Observation\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290911408,
+        "label": "Outpost Reclamation Order, \"Security\""
+      }
+    ]
+  },
+  {
+    "id": 2909231,
+    "title": "Path of Shadow, Protected by Blood",
+    "description": "Descriptions of a path few would dare travel.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290923101,
+        "label": "The Path of Shadows: Exuberance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290923102,
+        "label": "The Path of Shadows: Resplendence"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290923103,
+        "label": "The Path of Shadows: Radiance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290923104,
+        "label": "The Path of Shadows: Submissiveness"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290923105,
+        "label": "The Path of Shadows: Consonance"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290923106,
+        "label": "The Path of Shadows: Remembrance"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290923107,
+        "label": "The Path of Shadows: Transcendence"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290923108,
+        "label": "The Path of Shadows: Omnipotence"
+      }
+    ]
+  },
+  {
+    "id": 2909361,
+    "title": "Prisoner Grub",
+    "description": "Recipes for making the most out of the absolute least.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290936101,
+        "label": "Prisoner Grub, Recipe #1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290936102,
+        "label": "Prisoner Grub, Recipe #2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290936103,
+        "label": "Prisoner Grub, Recipe #3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290936104,
+        "label": "Prisoner Grub, Recipe #4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290936105,
+        "label": "Prisoner Grub, Recipe #5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290936106,
+        "label": "Prisoner Grub, Recipe #6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290936107,
+        "label": "Prisoner Grub, Recipe #7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290936108,
+        "label": "Prisoner Grub, Recipe #8"
+      }
+    ]
+  },
+  {
+    "id": 2909232,
+    "title": "Quiet as a Church Mouse",
+    "description": "Notes passed in secret from one devout to another.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290923201,
+        "label": "Notes between Sextons: These Fools Need Help"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290923202,
+        "label": "Notes between Sextons: False Idols"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290923203,
+        "label": "Notes between Sextons: Worthy This Time"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290923204,
+        "label": "Notes between Sextons: A Fool and His Folly"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290923205,
+        "label": "Notes between Sextons: Buckets of Blood"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290923206,
+        "label": "Notes between Sextons: Being Watched"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290923207,
+        "label": "Notes between Sextons: Deserters To Be Punished"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290923208,
+        "label": "Notes between Sextons: Respect Your Altar"
+      }
+    ]
+  },
+  {
+    "id": 2909353,
+    "title": "Raven Gifts",
+    "description": "Hand-made items treasured by those who received them.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290935301,
+        "label": "String of Beetle Shell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290935302,
+        "label": "Charred Terror Twist"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290935303,
+        "label": "Black Obsidian Spall"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290935304,
+        "label": "Woven Chain Link"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290935305,
+        "label": "Crumbling Bone Clasp"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290935306,
+        "label": "Bound Feather Trinket"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290935307,
+        "label": "Picked Hardened Shadow"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290935308,
+        "label": "Shined Gargoyle Scale"
+      }
+    ]
+  },
+  {
+    "id": 2909242,
+    "title": "Reliefs of Vex Thal",
+    "description": "Depictions of Akhevan society in Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290924201,
+        "label": "Engraving of a Peering Akheva"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290924202,
+        "label": "Engraving of an Akheva Sacrifice"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290924203,
+        "label": "Engraving of the Akheva Destiny"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290924204,
+        "label": "Engraving of Akheva Authority"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290924205,
+        "label": "Engraving of the Akhevan Way"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290924206,
+        "label": "Engraving of Akheva Leadership"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290924207,
+        "label": "Engraving of Akhevan Might"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290924208,
+        "label": "Engraving of Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 2909351,
+    "title": "Riven Halasian Weapons and Gear",
+    "description": "Reminders of a noble people's sacrifice.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290935101,
+        "label": "Weathered Lancea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290935102,
+        "label": "Tattered War Helm"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290935103,
+        "label": "Tarnished Long Sword"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290935104,
+        "label": "Cracked Burda Club"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290935105,
+        "label": "Frayed Leather Sling"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290935106,
+        "label": "Splintered Round Shield"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290935107,
+        "label": "Petrified Leather Bracer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290935108,
+        "label": "Rended Runic Cuirass"
+      }
+    ]
+  },
+  {
+    "id": 2909234,
+    "title": "Sacrificial Artifacts",
+    "description": "Artifacts that at one time held deep value, if only to their owners.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290923401,
+        "label": "Lost-Lineage Fang Necklace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290923402,
+        "label": "Bloody Onyx Signet Ring"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290923403,
+        "label": "Lensless Spectacles"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290923404,
+        "label": "Torn Makeshift Doll"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290923405,
+        "label": "Crudely Carved Shadow Dog"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290923406,
+        "label": "Hastily Pulled Gold Tooth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290923407,
+        "label": "Badly Damaged Family Necklace"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290923408,
+        "label": "Broken Half Locket"
+      }
+    ]
+  },
+  {
+    "id": 2909350,
+    "title": "Shadow Valley Scavenger",
+    "description": "This achievement is gained upon completing all collections in Shadow Valley.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290935001,
+        "label": "Riven Halasian Weapons and Gear"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290935002,
+        "label": "Ancient Halasian Runes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290935003,
+        "label": "Raven Gifts"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290935004,
+        "label": "Shadowed Remembrances"
+      }
+    ]
+  },
+  {
+    "id": 2909354,
+    "title": "Shadowed Remembrances",
+    "description": "Long lost moments of tragedy forever haunting the shadows.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290935401,
+        "label": "Shadowed Remembrance of Death"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290935402,
+        "label": "Shadowed Remembrance of Rage"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290935403,
+        "label": "Shadowed Remembrance of Twilight"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290935404,
+        "label": "Shadowed Remembrance of Destruction"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290935405,
+        "label": "Shadowed Remembrance of Battle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290935406,
+        "label": "Shadowed Remembrance of Loss"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290935407,
+        "label": "Shadowed Remembrance of Harm"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290935408,
+        "label": "Shadowed Remembrance of Strife"
+      }
+    ]
+  },
+  {
+    "id": 2909300,
+    "title": "Steeped in Blood",
+    "description": "This achievement is gained upon completing the following tier 3 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290930001,
+        "label": "Shadow Valley Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290930002,
+        "label": "Basilica of Adumbration Scavenger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290930003,
+        "label": "Bloodfalls Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2909123,
+    "title": "Twilight Orchid Medley",
+    "description": "Examples of the many varieties of Nightshade Orchids.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290912301,
+        "label": "Perse Nightshade Orchid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290912302,
+        "label": "Indigo Nightshade Orchid"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290912303,
+        "label": "Verdant Nightshade Orchid"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290912304,
+        "label": "Tawny Nightshade Orchid"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290912305,
+        "label": "Amaranth Nightshade Orchid"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290912306,
+        "label": "Ocherous Nightshade Orchid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290912307,
+        "label": "Verdure Nightshade Orchid"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290912308,
+        "label": "Lycopene Nightshade Orchid"
+      }
+    ]
+  },
+  {
+    "id": 2909120,
+    "title": "Umbral Plains Scavenger",
+    "description": "This achievement is gained upon completing all collections in Umbral Plains.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290912001,
+        "label": "Elysians Bone Relics"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290912002,
+        "label": "Crude Fyr Jen Tools"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290912003,
+        "label": "Twilight Orchid Medley"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290912004,
+        "label": "Bountiful Poisonous Webcaps"
+      }
+    ]
+  },
+  {
+    "id": 2909373,
+    "title": "Vampire Chess Set",
+    "description": "A chess set only a vampire could love.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290937301,
+        "label": "Vampire Chess Board"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290937302,
+        "label": "Vampire Chess Kings"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290937303,
+        "label": "Vampire Chess Queens"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290937304,
+        "label": "Vampire Chess Bishops"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290937305,
+        "label": "Vampire Chess Knights"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290937306,
+        "label": "Vampire Chess Rooks"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290937307,
+        "label": "Vampire Chess Pawns"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290937308,
+        "label": "Vampire Chess Set Box"
+      }
+    ]
+  },
+  {
+    "id": 2909112,
+    "title": "Vampyre Diaryes",
+    "description": "Excerpts from the diary of one Lucca Brightfeld.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290911201,
+        "label": "The Diary of Lucca Brightfeld, Part 1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290911202,
+        "label": "The Diary of Lucca Brightfeld, Part 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290911203,
+        "label": "The Diary of Lucca Brightfeld, Part 3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290911204,
+        "label": "The Diary of Lucca Brightfeld, Part 4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290911205,
+        "label": "The Diary of Lucca Brightfeld, Part 5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290911206,
+        "label": "The Diary of Lucca Brightfeld, Part 6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290911207,
+        "label": "The Diary of Lucca Brightfeld, Part 7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290911208,
+        "label": "The Diary of Lucca Brightfeld, Part 8"
+      }
+    ]
+  },
+  {
+    "id": 2909244,
+    "title": "Vex Thal Librarian",
+    "description": "Keepers of knowledge in the shadows of Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290924401,
+        "label": "Tavuel xi Sivuela"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290924402,
+        "label": "Lytaer xi Akheva"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290924403,
+        "label": "N'atulus ora Tetorau"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290924404,
+        "label": "Atraeth xi Va"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 290924405,
+        "label": "Ishinaer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 290924406,
+        "label": "Ans Draues xi Aten Ha Ra"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 290924407,
+        "label": "Tatrua Thena Sivuela"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 290924408,
+        "label": "Ans Tekuel"
+      }
+    ]
+  },
+  {
+    "id": 2909240,
+    "title": "Vex Thal Scavenger",
+    "description": "This achievement is gained upon completing all collections in Vex Thal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2909,
+    "subcategoryName": "Collections",
+    "categoryId": 2900,
+    "categoryName": "Terror of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 290924001,
+        "label": "Akhevan Insignia"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 290924002,
+        "label": "Reliefs of Vex Thal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 290924003,
+        "label": "Captured Glimpses"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 290924004,
+        "label": "Vex Thal Librarian"
+      }
+    ]
+  }
+]

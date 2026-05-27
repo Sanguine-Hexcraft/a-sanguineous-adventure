@@ -1,0 +1,4958 @@
+[
+  {
+    "id": 2700040,
+    "title": "Challenger of Torment of Velious",
+    "description": "This achievement is gained upon completing all the mission challenges in Torment of Velious",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000019,
+        "label": "Grounded (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000020,
+        "label": "Don't Cry (Group)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000021,
+        "label": "Stay Warm (Group)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000022,
+        "label": "Zero Command (Group)"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000023,
+        "label": "Zero Tolerance (Group)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000024,
+        "label": "Zero Loss (Group)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000025,
+        "label": "Unrushed"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000026,
+        "label": "No Joy Rides"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000027,
+        "label": "Do Not Disturb (Group)"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000028,
+        "label": "All Credit to Rallos"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000029,
+        "label": "Bend the Knee (Group)"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 27000030,
+        "label": "None Survive"
+      }
+    ]
+  },
+  {
+    "id": 2700020,
+    "title": "Champion of Torment of Velious",
+    "description": "This achievement is gained upon completing all the quests in Torment of Velious",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000004,
+        "label": "Mercenary of The Eastern Wastes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000005,
+        "label": "Partisan of The Eastern Wastes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000006,
+        "label": "Mercenary of The Ry`Gorr Mines"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000007,
+        "label": "Mercenary of Crystal Caverns"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000008,
+        "label": "Partisan of Crystal Caverns"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000009,
+        "label": "Mercenary of The Great Divide"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000010,
+        "label": "Partisan of The Great Divide"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000011,
+        "label": "Mercenary of The Tower of Frozen Shadow"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000012,
+        "label": "Mercenary of Velketor's Labyrinth"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000013,
+        "label": "Mercenary of Kael Drakkel"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000014,
+        "label": "Partisan of Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 2700060,
+    "title": "Conqueror of Torment of Velious",
+    "description": "This achievement is gained upon completing all the raids in Torment of Velious",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000034,
+        "label": "Conqueror of The Eastern Wastes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000035,
+        "label": "Conqueror of The Great Divide"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000036,
+        "label": "Conqueror of The Tower of Frozen Shadow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000037,
+        "label": "Conqueror of Velketor's Labyrinth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000038,
+        "label": "Conqueror of Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 2700080,
+    "title": "Explorer of Torment of Velious",
+    "description": "This achievement is gained upon visiting all the zones in Torment of Velious",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000048,
+        "label": "The Eastern Wastes Traveler"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000049,
+        "label": "The Ry`Gorr Mines Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000050,
+        "label": "Crystal Caverns Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000051,
+        "label": "The Great Divide Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000052,
+        "label": "The Tower of Frozen Shadow Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000053,
+        "label": "Velketor's Labyrinth Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000054,
+        "label": "Kael Drakkel Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2700010,
+    "title": "Icebreaker",
+    "description": "This achievement is gained upon completing all quests and missions in Torment of Velious",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000000,
+        "label": "Champion of Torment of Velious"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000001,
+        "label": "Paragon of Torment of Velious"
+      }
+    ]
+  },
+  {
+    "id": 2700000,
+    "title": "Master of Torment of Velious",
+    "description": "This achievement is gained upon completing all quests, missions, and mission challenges in Torment of Velious",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000000,
+        "label": "Champion of Torment of Velious"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000001,
+        "label": "Paragon of Torment of Velious"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000002,
+        "label": "Challenger of Torment of Velious"
+      }
+    ]
+  },
+  {
+    "id": 2700030,
+    "title": "Paragon of Torment of Velious",
+    "description": "This achievement is gained upon completing all the missions in Torment of Velious",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000015,
+        "label": "Hero of The Eastern Wastes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000016,
+        "label": "Hero of The Great Divide"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000017,
+        "label": "Hero of Velketor's Labyrinth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000018,
+        "label": "Hero of Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 2700050,
+    "title": "Restless Slayer",
+    "description": "This achievement is gained upon completing all the Hunter achievements in Torment of Velious",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000031,
+        "label": "Novice Hunter of Torment of Velious"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000032,
+        "label": "Adept Hunter of Torment of Velious"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000033,
+        "label": "Veteran Hunter of Torment of Velious"
+      }
+    ]
+  },
+  {
+    "id": 27000000,
+    "title": "Torment of Velious Master Scavenger",
+    "description": "This achievement is gained upon completing all the collection achievements in Torment of Velious",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000086,
+        "label": "Relics of Restlessness"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000087,
+        "label": "Relics of the Reclusive"
+      }
+    ]
+  },
+  {
+    "id": 2700070,
+    "title": "Vanquisher of Torment of Velious",
+    "description": "This achievement is gained upon completing all the raid challenges in Torment of Velious",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2701,
+    "subcategoryName": "General",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000039,
+        "label": "Vanquisher of Griklor the Restless"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000040,
+        "label": "Vanquisher of Servant of the Sleeper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000041,
+        "label": "Vanquisher of Restless Assault"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000042,
+        "label": "Vanquisher of Heart of Frozen Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000043,
+        "label": "Vanquisher of Till Death Do Us Part"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000044,
+        "label": "Vanquisher of Tserrina Syl`Tor"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000045,
+        "label": "Vanquisher of Seeking the Sorceror"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000046,
+        "label": "Vanquisher of Animated Derakor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000047,
+        "label": "Vanquisher of Restless Avatar of War"
+      }
+    ]
+  },
+  {
+    "id": 2783000,
+    "title": "Crystal Caverns Traveler",
+    "description": "This achievement is gained upon visiting Crystal Caverns",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000273,
+        "label": "Visit Crystal Caverns"
+      }
+    ]
+  },
+  {
+    "id": 2782900,
+    "title": "Kael Drakkel Traveler",
+    "description": "This achievement is gained upon visiting Kael Drakkel",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000277,
+        "label": "Visit Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 2782400,
+    "title": "The Eastern Wastes Traveler",
+    "description": "This achievement is gained upon visiting The Eastern Wastes",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000271,
+        "label": "Visit The Eastern Wastes"
+      }
+    ]
+  },
+  {
+    "id": 2782700,
+    "title": "The Great Divide Traveler",
+    "description": "This achievement is gained upon visiting The Great Divide",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000274,
+        "label": "Visit The Great Divide"
+      }
+    ]
+  },
+  {
+    "id": 2782600,
+    "title": "The Ry`Gorr Mines Traveler",
+    "description": "This achievement is gained upon visiting The Ry`Gorr Mines",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000272,
+        "label": "Visit The Ry`Gorr Mines"
+      }
+    ]
+  },
+  {
+    "id": 2782500,
+    "title": "The Tower of Frozen Shadow Traveler",
+    "description": "This achievement is gained upon visiting The Tower of Frozen Shadow",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000275,
+        "label": "Visit The Tower of Frozen Shadow"
+      }
+    ]
+  },
+  {
+    "id": 2782800,
+    "title": "Velketor's Labyrinth Traveler",
+    "description": "This achievement is gained upon visiting Velketor's Labyrinth",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2702,
+    "subcategoryName": "Exploration",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000276,
+        "label": "Visit Velketor's Labyrinth"
+      }
+    ]
+  },
+  {
+    "id": 90056,
+    "title": "Keys of Frozen Shadow (ToV)",
+    "description": "These keys unlock the portals connecting the floors in the Tower of Frozen Shadow.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2703,
+    "subcategoryName": "Progression",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3079,
+        "label": "Key of Acquiescence"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3080,
+        "label": "Key of Optimism"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3081,
+        "label": "Key of Melancholy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3082,
+        "label": "Key of Disdain"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3083,
+        "label": "Key of Regret"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3084,
+        "label": "Key of Repudiation"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3085,
+        "label": "Tserrina's Spare Key"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 3086,
+        "label": "Key of Trauma"
+      }
+    ]
+  },
+  {
+    "id": 2783010,
+    "title": "Mercenary of Crystal Caverns",
+    "description": "This achievement is gained upon completing the following quests in Crystal Caverns:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000264,
+        "label": "Roderick Coldheart - Crystal Geonids"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000265,
+        "label": "Roderick Coldheart - Crystal Terrors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000266,
+        "label": "Roderick Coldheart - Crystal Spiders"
+      }
+    ]
+  },
+  {
+    "id": 2782910,
+    "title": "Mercenary of Kael Drakkel",
+    "description": "This achievement is gained upon completing the following quests in Kael Drakkel:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000257,
+        "label": "Derakor the Vindicator - Citizens Revolting"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000258,
+        "label": "Derakor the Vindicator - Put Soldiers to Rest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000259,
+        "label": "Derakor the Vindicator - Heroes Must Die (Again)"
+      }
+    ]
+  },
+  {
+    "id": 2782410,
+    "title": "Mercenary of The Eastern Wastes",
+    "description": "This achievement is gained upon completing the following quests in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000233,
+        "label": "Reclamation Officer Borminn - Giants with a Big Heart"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000234,
+        "label": "Reclamation Officer Borminn - Stubborn, Even in Death"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000235,
+        "label": "Reclamation Officer Borminn - Deafening Quietus"
+      }
+    ]
+  },
+  {
+    "id": 2782710,
+    "title": "Mercenary of The Great Divide",
+    "description": "This achievement is gained upon completing the following quests in The Great Divide:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000246,
+        "label": "Brollo Aleslay - Just Play Dead"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000247,
+        "label": "Brollo Aleslay - Cool and Refreshing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000248,
+        "label": "Brollo Aleslay - Lake-Effect Snow Devils"
+      }
+    ]
+  },
+  {
+    "id": 2782610,
+    "title": "Mercenary of The Ry`Gorr Mines",
+    "description": "This achievement is gained upon completing the following quests in The Ry`Gorr Mines:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000243,
+        "label": "Roderick Coldheart - Orcs Everywhere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000244,
+        "label": "Roderick Coldheart - Restless Dead"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000245,
+        "label": "Milliace Gemshard - Velium Ore Samples"
+      }
+    ]
+  },
+  {
+    "id": 2782510,
+    "title": "Mercenary of The Tower of Frozen Shadow",
+    "description": "This achievement is gained upon completing the following quests in The Tower of Frozen Shadow:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000240,
+        "label": "Emli Widgetton - Oh, It's You Again!"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000241,
+        "label": "Emli Widgetton - This Will Come Back to Haunt Us"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000242,
+        "label": "Emli Widgetton - Restless Mess"
+      }
+    ]
+  },
+  {
+    "id": 2782810,
+    "title": "Mercenary of Velketor's Labyrinth",
+    "description": "This achievement is gained upon completing the following quests in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000253,
+        "label": "Radiwol Perpin - Restless Orc Syndrome"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000254,
+        "label": "Radiwol Perpin - Glacial Apophysis"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000255,
+        "label": "Radiwol Perpin - Invisible Complement"
+      }
+    ]
+  },
+  {
+    "id": 2783020,
+    "title": "Partisan of Crystal Caverns",
+    "description": "This achievement is gained upon completing the following quests in Crystal Caverns:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000267,
+        "label": "Andera Velmist - Invading Ice"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000268,
+        "label": "Andera Velmist - Supply Run"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000269,
+        "label": "Andera Velmist - Spider Eggs"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000270,
+        "label": "Andera Velmist - Spider Harness"
+      }
+    ]
+  },
+  {
+    "id": 2782920,
+    "title": "Partisan of Kael Drakkel",
+    "description": "This achievement is gained upon completing the following quests in Kael Drakkel:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000260,
+        "label": "Derakor the Vindicator - Find the Survivors"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000261,
+        "label": "Svekk Fangbinder - Wolf Bites Giant"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000262,
+        "label": "Iceweaver Beldikan - The Ice Moves"
+      }
+    ]
+  },
+  {
+    "id": 2782420,
+    "title": "Partisan of The Eastern Wastes",
+    "description": "This achievement is gained upon completing the following quests in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000236,
+        "label": "Ada - The Way Back Home"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000237,
+        "label": "Yealdin Stormfell - The Last of the Storm Boars"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000238,
+        "label": "Grunak - You Can't Go Back Home"
+      }
+    ]
+  },
+  {
+    "id": 2782720,
+    "title": "Partisan of The Great Divide",
+    "description": "This achievement is gained upon completing the following quests in The Great Divide:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000249,
+        "label": "Loremaster Dorian - Reliks of the Past"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000250,
+        "label": "Tobart Dirkins - Give Us Your Tired"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000251,
+        "label": "Taskmaster Abyott - O.M.A.D."
+      }
+    ]
+  },
+  {
+    "id": 2782425,
+    "title": "Rallos Zek's Earring",
+    "description": "This achievement is gained upon crafting Rallos Zek's Earring.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2704,
+    "subcategoryName": "Quests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000497,
+        "label": "Crusader Vraket - All Hail the cleansing"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000498,
+        "label": "Crusader Vraket - Orcs on Ice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000499,
+        "label": "Crusader Vraket - The Foundation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000500,
+        "label": "Crusader Vraket - The Morale of Dispair"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000501,
+        "label": "Crusader Vraket - Strategic Results"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000502,
+        "label": "Crusader Vraket - Tactical Observations"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000503,
+        "label": "Crusader Vraket - Totality of War"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000504,
+        "label": "Craft Endowed Earring of Rallos Zek"
+      }
+    ]
+  },
+  {
+    "id": 2782930,
+    "title": "Hero of Kael Drakkel",
+    "description": "This achievement is gained upon completing the following mission in Kael Drakkel:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2705,
+    "subcategoryName": "Missions",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000263,
+        "label": "Iceweaver Sjeon - Icebound Avatar"
+      }
+    ]
+  },
+  {
+    "id": 2782430,
+    "title": "Hero of The Eastern Wastes",
+    "description": "This achievement is gained upon completing the following mission in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2705,
+    "subcategoryName": "Missions",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000239,
+        "label": "Bethun Brewbeard - Griklor the Restless"
+      }
+    ]
+  },
+  {
+    "id": 2782730,
+    "title": "Hero of The Great Divide",
+    "description": "This achievement is gained upon completing the following mission in The Great Divide:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2705,
+    "subcategoryName": "Missions",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000252,
+        "label": "Zrelik the Brave  - Restless Assault"
+      }
+    ]
+  },
+  {
+    "id": 2782830,
+    "title": "Hero of Velketor's Labyrinth",
+    "description": "This achievement is gained upon completing the following mission in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2705,
+    "subcategoryName": "Missions",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000256,
+        "label": "Horasug  - Seeking the Sorcerer"
+      }
+    ]
+  },
+  {
+    "id": 2782851,
+    "title": "A Little Help From My Friends",
+    "description": "This special challenge can be completed during the raid event 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000153,
+        "label": "Earn the assistance of the crystal guardians."
+      }
+    ]
+  },
+  {
+    "id": 2782462,
+    "title": "Always Protected",
+    "description": "This special challenge can be completed during the raid event 'Servant of the Sleeper'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000128,
+        "label": "Prevent the Servant of the Sleeper's target from being struck by an explosion."
+      }
+    ]
+  },
+  {
+    "id": 2782555,
+    "title": "Bad Blood",
+    "description": "This special challenge can be completed during the raid event 'Till Death Do Us Part'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000139,
+        "label": "Defeat the bride and her wedding party or the groom and his wedding party in the blood pool."
+      }
+    ]
+  },
+  {
+    "id": 2782561,
+    "title": "Bad Luck",
+    "description": "This special challenge can be completed during the raid event 'Tserrina Syl`Tor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000144,
+        "label": "Break the wrong shadow reflection."
+      }
+    ]
+  },
+  {
+    "id": 2782957,
+    "title": "Bend the Knee",
+    "description": "This special challenge can be completed during the raid event 'Restless Avatar of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000166,
+        "label": "Never fail to bend the knee when Rallos requires it."
+      }
+    ]
+  },
+  {
+    "id": 2782940,
+    "title": "Conqueror of Kael Drakkel",
+    "description": "This achievement is gained upon completing the following raids in Kael Drakkel:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000159,
+        "label": "Iceweaver Sjeon - Animated Derakor"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000160,
+        "label": "Iceweaver Sjeon - Restless Avatar of War"
+      }
+    ]
+  },
+  {
+    "id": 2782440,
+    "title": "Conqueror of The Eastern Wastes",
+    "description": "This achievement is gained upon completing the following raids in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000122,
+        "label": "Bethun Brewbeard - Griklor the Restless"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000123,
+        "label": "Bethun Brewbeard - Servant of the Sleeper"
+      }
+    ]
+  },
+  {
+    "id": 2782740,
+    "title": "Conqueror of The Great Divide",
+    "description": "This achievement is gained upon completing the following raid in The Great Divide:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000145,
+        "label": "Zrelik the Brave  - Restless Assault"
+      }
+    ]
+  },
+  {
+    "id": 2782540,
+    "title": "Conqueror of The Tower of Frozen Shadow",
+    "description": "This achievement is gained upon completing the following raids in The Tower of Frozen Shadow:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000133,
+        "label": "Dagmar Midcap - Heart of Frozen Shadow"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000134,
+        "label": "Dagmar Midcap - Till Death Do Us Part"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000135,
+        "label": "Dagmar Midcap - Tserrina Syl`Tor"
+      }
+    ]
+  },
+  {
+    "id": 2782840,
+    "title": "Conqueror of Velketor's Labyrinth",
+    "description": "This achievement is gained upon completing the following raid in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000152,
+        "label": "Horasug  - Seeking the Sorcerer"
+      }
+    ]
+  },
+  {
+    "id": 2782853,
+    "title": "Do Not Disturb",
+    "description": "This special challenge can be completed during the raid event 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000155,
+        "label": "Do not disturb any witches."
+      }
+    ]
+  },
+  {
+    "id": 2782852,
+    "title": "Don't Choke",
+    "description": "This special challenge can be completed during the raid event 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000154,
+        "label": "Do not let anyone die to a smoky crystal shard."
+      }
+    ]
+  },
+  {
+    "id": 2782452,
+    "title": "Don't Cry",
+    "description": "This special challenge can be completed during the raid event 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000125,
+        "label": "Do not allow the Ry`Gorr to unleash their war cry."
+      }
+    ]
+  },
+  {
+    "id": 2782951,
+    "title": "Don't Eat the Dead",
+    "description": "This special challenge can be completed during the raid event 'Animated Derakor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000161,
+        "label": "Do not let any of the undead sacrifice themselves to Derakor."
+      }
+    ]
+  },
+  {
+    "id": 2782461,
+    "title": "Eye of the Eye",
+    "description": "This special challenge can be completed during the raid event 'Servant of the Sleeper'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000127,
+        "label": "Prevent the Servant of the Sleeper from leaving its platform."
+      }
+    ]
+  },
+  {
+    "id": 2782451,
+    "title": "Grounded",
+    "description": "This special challenge can be completed during the raid event 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000124,
+        "label": "Do not allow Griklor to spend too long on his mount."
+      }
+    ]
+  },
+  {
+    "id": 2782552,
+    "title": "Indiscriminate Slayer",
+    "description": "This special challenge can be completed during the raid event 'Heart of Frozen Shadow'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000137,
+        "label": "Kill at least 10 enemies that aren't afflicted with restless ice."
+      }
+    ]
+  },
+  {
+    "id": 2782553,
+    "title": "It's a No Slow from Me, Dog",
+    "description": "This special challenge can be completed during the raid event 'Heart of Frozen Shadow'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000138,
+        "label": "Do not slow any Drolvargs."
+      }
+    ]
+  },
+  {
+    "id": 2782463,
+    "title": "Kill the Healer!",
+    "description": "This special challenge can be completed during the raid event 'Servant of the Sleeper'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000129,
+        "label": "Do not allow any velium custodians to reach the Servant of the Sleeper."
+      }
+    ]
+  },
+  {
+    "id": 2782560,
+    "title": "Low Down Bloodsuckers",
+    "description": "This special challenge can be completed during the raid event 'Tserrina Syl`Tor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000143,
+        "label": "Lower all the vampires below 20% health before killing the last vampire bat."
+      }
+    ]
+  },
+  {
+    "id": 2782559,
+    "title": "Never Bitten",
+    "description": "This special challenge can be completed during the raid event 'Tserrina Syl`Tor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000142,
+        "label": "Do not allow anyone to be bitten by a vampire bat."
+      }
+    ]
+  },
+  {
+    "id": 2782556,
+    "title": "Nice Day for a Dead Wedding",
+    "description": "This special challenge can be completed during the raid event 'Till Death Do Us Part'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000140,
+        "label": "Defeat 6 more members of the wedding party than necessary."
+      }
+    ]
+  },
+  {
+    "id": 2782952,
+    "title": "No Golems",
+    "description": "This special challenge can be completed during the raid event 'Animated Derakor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000162,
+        "label": "Do not let any of the crystals mature into golems."
+      }
+    ]
+  },
+  {
+    "id": 2782956,
+    "title": "No Sacrifice",
+    "description": "This special challenge can be completed during the raid event 'Restless Avatar of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000165,
+        "label": "Never sacrifice someone when Rallos requires it."
+      }
+    ]
+  },
+  {
+    "id": 2782953,
+    "title": "Nobody Called",
+    "description": "This special challenge can be completed during the raid event 'Animated Derakor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000163,
+        "label": "Ensure that no one gets too close to the crystals."
+      }
+    ]
+  },
+  {
+    "id": 2782551,
+    "title": "Now That's Cold",
+    "description": "This special challenge can be completed during the raid event 'Heart of Frozen Shadow'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000136,
+        "label": "Trigger the Tendrils of Restless Ice at least 7 times."
+      }
+    ]
+  },
+  {
+    "id": 2782955,
+    "title": "Sacrifice Is All",
+    "description": "This special challenge can be completed during the raid event 'Restless Avatar of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000164,
+        "label": "Always sacrifice someone when Rallos requires it."
+      }
+    ]
+  },
+  {
+    "id": 2782453,
+    "title": "Stay Warm",
+    "description": "This special challenge can be completed during the raid event 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000126,
+        "label": "Individual: Do not allow Griklor to strike you with Radiant Cold."
+      }
+    ]
+  },
+  {
+    "id": 2782557,
+    "title": "The Last Word",
+    "description": "This special challenge can be completed during the raid event 'Till Death Do Us Part'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000141,
+        "label": "Allow Nosja to get the killshot on Daman or allow Daman to get the killshot on Nosja."
+      }
+    ]
+  },
+  {
+    "id": 2782950,
+    "title": "Vanquisher of Animated Derakor",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000080,
+        "label": "Don't Eat the Dead"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000081,
+        "label": "No Golems"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000082,
+        "label": "Nobody Called"
+      }
+    ]
+  },
+  {
+    "id": 2782450,
+    "title": "Vanquisher of Griklor the Restless",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000062,
+        "label": "Grounded"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000063,
+        "label": "Don't Cry"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000064,
+        "label": "Stay Warm"
+      }
+    ]
+  },
+  {
+    "id": 2782550,
+    "title": "Vanquisher of Heart of Frozen Shadow",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000068,
+        "label": "Now That's Cold"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000069,
+        "label": "Indiscriminate Slayer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000070,
+        "label": "It's a No Slow from Me, Dog"
+      }
+    ]
+  },
+  {
+    "id": 2782750,
+    "title": "Vanquisher of Restless Assault",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000494,
+        "label": "Zero Command"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000495,
+        "label": "Zero Tolerance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000496,
+        "label": "Zero Loss"
+      }
+    ]
+  },
+  {
+    "id": 2782954,
+    "title": "Vanquisher of Restless Avatar of War",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000083,
+        "label": "Sacrifice Is All"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000084,
+        "label": "No Sacrifice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000085,
+        "label": "Bend the Knee"
+      }
+    ]
+  },
+  {
+    "id": 2782850,
+    "title": "Vanquisher of Seeking the Sorceror",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000077,
+        "label": "A Little Help From My Friends"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000078,
+        "label": "Don't Choke"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000079,
+        "label": "Do Not Disturb"
+      }
+    ]
+  },
+  {
+    "id": 2782460,
+    "title": "Vanquisher of Servant of the Sleeper",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000065,
+        "label": "Eye of the Eye"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000066,
+        "label": "Always Protected"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000067,
+        "label": "Kill the Healer!"
+      }
+    ]
+  },
+  {
+    "id": 2782554,
+    "title": "Vanquisher of Till Death Do Us Part",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000071,
+        "label": "Bad Blood"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000072,
+        "label": "Nice Day for a Dead Wedding"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000073,
+        "label": "The Last Word"
+      }
+    ]
+  },
+  {
+    "id": 2782558,
+    "title": "Vanquisher of Tserrina Syl`Tor",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000074,
+        "label": "Never Bitten"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000075,
+        "label": "Low Down Bloodsuckers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000076,
+        "label": "Bad Luck"
+      }
+    ]
+  },
+  {
+    "id": 2782751,
+    "title": "Zero Command",
+    "description": "This special challenge can be completed during the raid event 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000146,
+        "label": "Do not activate any coldain defenders."
+      }
+    ]
+  },
+  {
+    "id": 2782753,
+    "title": "Zero Loss",
+    "description": "This special challenge can be completed during the raid event 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000148,
+        "label": "Ensure that no coldain civilians die."
+      }
+    ]
+  },
+  {
+    "id": 2782752,
+    "title": "Zero Tolerance",
+    "description": "This special challenge can be completed during the raid event 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2706,
+    "subcategoryName": "Raids",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000147,
+        "label": "Do not allow any adventurers to become restless dead."
+      }
+    ]
+  },
+  {
+    "id": 2782971,
+    "title": "All Credit to Rallos",
+    "description": "This special challenge can be completed during the mission 'Icebound Avatar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000167,
+        "label": "Allow the Avatar of War to get the final blow on all of the undead giants."
+      }
+    ]
+  },
+  {
+    "id": 2782972,
+    "title": "Bend the Knee (Group)",
+    "description": "This special challenge can be completed during the mission 'Icebound Avatar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000168,
+        "label": "Never fail to bend the knee when Rallos requires it."
+      }
+    ]
+  },
+  {
+    "id": 2782873,
+    "title": "Do Not Disturb (Group)",
+    "description": "This special challenge can be completed during the mission 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000158,
+        "label": "Do not disturb any witches."
+      }
+    ]
+  },
+  {
+    "id": 2782472,
+    "title": "Don't Cry (Group)",
+    "description": "This special challenge can be completed during the mission 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000131,
+        "label": "Do not allow the Ry`Gorr to unleash their war cry."
+      }
+    ]
+  },
+  {
+    "id": 2782471,
+    "title": "Grounded (Group)",
+    "description": "This special challenge can be completed during the mission 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000130,
+        "label": "Do not allow Griklor to spend too long on his mount."
+      }
+    ]
+  },
+  {
+    "id": 2782872,
+    "title": "No Joy Rides",
+    "description": "This special challenge can be completed during the mission 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000157,
+        "label": "Do not let anyone be controlled by an Undead Guide for more than 30 seconds."
+      }
+    ]
+  },
+  {
+    "id": 2782973,
+    "title": "None Survive",
+    "description": "This special challenge can be completed during the mission 'Icebound Avatar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000169,
+        "label": "Defeat all of the minions of Zek before you defeat the Avatar of War."
+      }
+    ]
+  },
+  {
+    "id": 2783070,
+    "title": "Savior of Crystal Caverns",
+    "description": "This achievement is gained upon completing all quests in Crystal Caverns",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000007,
+        "label": "Mercenary of Crystal Caverns"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000008,
+        "label": "Partisan of Crystal Caverns"
+      }
+    ]
+  },
+  {
+    "id": 2782970,
+    "title": "Savior of Kael Drakkel",
+    "description": "This achievement is gained upon completing all quests and missions in Kael Drakkel",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000013,
+        "label": "Mercenary of Kael Drakkel"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000014,
+        "label": "Partisan of Kael Drakkel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000018,
+        "label": "Hero of Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 2782470,
+    "title": "Savior of The Eastern Wastes",
+    "description": "This achievement is gained upon completing all quests and missions in The Eastern Wastes",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000004,
+        "label": "Mercenary of The Eastern Wastes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000005,
+        "label": "Partisan of The Eastern Wastes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000015,
+        "label": "Hero of The Eastern Wastes"
+      }
+    ]
+  },
+  {
+    "id": 2782770,
+    "title": "Savior of The Great Divide",
+    "description": "This achievement is gained upon completing all quests and missions in The Great Divide",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000009,
+        "label": "Mercenary of The Great Divide"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000010,
+        "label": "Partisan of The Great Divide"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000016,
+        "label": "Hero of The Great Divide"
+      }
+    ]
+  },
+  {
+    "id": 2782870,
+    "title": "Savior of Velketor's Labyrinth",
+    "description": "This achievement is gained upon completing all quests and missions in Velketor's Labyrinth",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000012,
+        "label": "Mercenary of Velketor's Labyrinth"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000017,
+        "label": "Hero of Velketor's Labyrinth"
+      }
+    ]
+  },
+  {
+    "id": 2782473,
+    "title": "Stay Warm (Group)",
+    "description": "This special challenge can be completed during the mission 'Griklor the Restless'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000132,
+        "label": "Individual: Do not allow Griklor to strike you with Radiant Cold."
+      }
+    ]
+  },
+  {
+    "id": 2782871,
+    "title": "Unrushed",
+    "description": "This special challenge can be completed during the mission 'Seeking the Sorceror'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000156,
+        "label": "Do not let anyone but Tijoely's target be struck by Tijoely's Rush."
+      }
+    ]
+  },
+  {
+    "id": 2782771,
+    "title": "Zero Command (Group)",
+    "description": "This special challenge can be completed during the mission 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000149,
+        "label": "Do not activate any coldain defenders."
+      }
+    ]
+  },
+  {
+    "id": 2782773,
+    "title": "Zero Loss (Group)",
+    "description": "This special challenge can be completed during the mission 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000151,
+        "label": "Ensure that no coldain civilians die."
+      }
+    ]
+  },
+  {
+    "id": 2782772,
+    "title": "Zero Tolerance (Group)",
+    "description": "This special challenge can be completed during the mission 'Restless Assault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2707,
+    "subcategoryName": "Conquests",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000150,
+        "label": "Do not allow any adventurers to become restless dead."
+      }
+    ]
+  },
+  {
+    "id": 2700090,
+    "title": "Adept Hunter of Torment of Velious",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000058,
+        "label": "Hunter of The Great Divide"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000059,
+        "label": "Hunter of The Tower of Frozen Shadow"
+      }
+    ]
+  },
+  {
+    "id": 2783080,
+    "title": "Hunter of Crystal Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in Crystal Caverns:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000183,
+        "label": "Crystal Grinder"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000184,
+        "label": "Gem collector"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000185,
+        "label": "Life Leech"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000186,
+        "label": "Queen Dracnia"
+      }
+    ]
+  },
+  {
+    "id": 2782980,
+    "title": "Hunter of Kael Drakkel",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kael Drakkel:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000223,
+        "label": "Black Fang"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000224,
+        "label": "Direfang"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000225,
+        "label": "Drendar Blackblade"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000226,
+        "label": "Fjokar Frozenshard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000227,
+        "label": "Irrek Bloodfist"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000228,
+        "label": "Kallis Stormcaller"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000229,
+        "label": "Keldor Dek`Torek"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000230,
+        "label": "Klraggek the Slayer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000231,
+        "label": "Velden Dragonbane"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000232,
+        "label": "Vkjen Thunderslayer"
+      }
+    ]
+  },
+  {
+    "id": 2782480,
+    "title": "Hunter of The Eastern Wastes",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000170,
+        "label": "a returned dracoliche"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000171,
+        "label": "Bolman"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000172,
+        "label": "Cadcane the Unmourned"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000173,
+        "label": "Coldears"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000174,
+        "label": "Mahaha"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000175,
+        "label": "Monolith the Unstoppable"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000176,
+        "label": "Servant of the Sleeper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000177,
+        "label": "Sofia the Quiet"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000178,
+        "label": "Vekboz Wolfpunch"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000179,
+        "label": "Windchill"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000180,
+        "label": "Zburator the Damned"
+      }
+    ]
+  },
+  {
+    "id": 2782780,
+    "title": "Hunter of The Great Divide",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Great Divide:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000187,
+        "label": "a forgotten raid leader"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000188,
+        "label": "a tizmak augur"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000189,
+        "label": "Blizzent"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000190,
+        "label": "Bloodmaw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000191,
+        "label": "Gerton Dumkin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000192,
+        "label": "Gorul Longshanks"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000193,
+        "label": "Laima Ratgur"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000194,
+        "label": "Loremaster Metiheib the Lost"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000195,
+        "label": "Lost Squire of Narandi"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000196,
+        "label": "Margidor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000197,
+        "label": "Orfur, Priest of Zek"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 27000198,
+        "label": "Thosgromri Warmgranite"
+      }
+    ]
+  },
+  {
+    "id": 2782680,
+    "title": "Hunter of The Ry`Gorr Mines",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ry`Gorr Mines:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000181,
+        "label": "Ry`Gorr Herbalist"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000182,
+        "label": "Ry`Gorr Inspector"
+      }
+    ]
+  },
+  {
+    "id": 2782580,
+    "title": "Hunter of The Tower of Frozen Shadow",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Tower of Frozen Shadow:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000199,
+        "label": "a shrouded bat"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000200,
+        "label": "a skeleton sleeper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000201,
+        "label": "Amontehepna the Second"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000202,
+        "label": "Ascendant Svartmane"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000203,
+        "label": "Cara Omica"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000204,
+        "label": "D`dee the Chilled"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000205,
+        "label": "Dark Huntress"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000206,
+        "label": "Malvus Darque"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000207,
+        "label": "Narmak Berreka"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000208,
+        "label": "Deacon Foels Tomorin"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000209,
+        "label": "Vhal`Sera"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 27000210,
+        "label": "Xalgoti"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 27000211,
+        "label": "Zorglim the Dead"
+      }
+    ]
+  },
+  {
+    "id": 2782880,
+    "title": "Hunter of Velketor's Labyrinth",
+    "description": "This achievement is gained upon defeating the following rare monsters in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000212,
+        "label": "a restless devourer"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000213,
+        "label": "a restless tarantula"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000214,
+        "label": "a velium horror"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000215,
+        "label": "an icy torment"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000216,
+        "label": "Bledrek"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000217,
+        "label": "Kerdelb"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000218,
+        "label": "Marlek Icepaw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000219,
+        "label": "Neemzaq"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 27000220,
+        "label": "Qabruh"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 27000221,
+        "label": "Vorgak"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 27000222,
+        "label": "Zarhbub Icepaw"
+      }
+    ]
+  },
+  {
+    "id": 2700085,
+    "title": "Novice Hunter of Torment of Velious",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000055,
+        "label": "Hunter of The Eastern Wastes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000056,
+        "label": "Hunter of The Ry`Gorr Mines"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000057,
+        "label": "Hunter of Crystal Caverns"
+      }
+    ]
+  },
+  {
+    "id": 2700095,
+    "title": "Veteran Hunter of Torment of Velious",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2708,
+    "subcategoryName": "Hunts",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000060,
+        "label": "Hunter of Velketor's Labyrinth"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000061,
+        "label": "Hunter of Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 27082740,
+    "title": "Bare Necessities of a Simpler Time (The Great Divide)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000390,
+        "label": "Hoarfrost Tempered Britches"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000391,
+        "label": "Hoarfrost Tempered Vest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000392,
+        "label": "Hoarfrost Tempered Cuffs"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000393,
+        "label": "Hoarfrost Tempered Clogs"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000394,
+        "label": "Hoarfrost Tempered Undershirt"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000395,
+        "label": "Hoarfrost Tempered Ushanka"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000396,
+        "label": "Hoarfrost Tempered Smallclothes"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000397,
+        "label": "Hoarfrost Tempered Scarf"
+      }
+    ]
+  },
+  {
+    "id": 27082940,
+    "title": "Chilly Critters (Kael Drakkel)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000454,
+        "label": "Restless Cicada"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000455,
+        "label": "Restless Moth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000456,
+        "label": "Restless Dung Beetle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000457,
+        "label": "Restless Earwig"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000458,
+        "label": "Restless Locust"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000459,
+        "label": "Restless Junebug"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000460,
+        "label": "Restless Termite"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000461,
+        "label": "Restless Monarch Butterfly"
+      }
+    ]
+  },
+  {
+    "id": 27082800,
+    "title": "Chilly Down Here",
+    "description": "Complete the following collections found in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000110,
+        "label": "Eight Legged Bits (Velketor's Labyrinth)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000111,
+        "label": "Useless Tools (Velketor's Labyrinth)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000112,
+        "label": "Unfit for Adventures (Velketor's Labyrinth)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000113,
+        "label": "Trash from the Past (Velketor's Labyrinth)"
+      }
+    ]
+  },
+  {
+    "id": 27082500,
+    "title": "Cold and Dark",
+    "description": "Complete the following collections found in The Tower of Frozen Shadow:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000099,
+        "label": "Wedding Favors (The Tower of Frozen Shadow)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000100,
+        "label": "Embalming Tools (The Tower of Frozen Shadow)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000101,
+        "label": "How to Embalm, V234.0 (The Tower of Frozen Shadow)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000102,
+        "label": "Left in the Tower (The Tower of Frozen Shadow)"
+      }
+    ]
+  },
+  {
+    "id": 27082700,
+    "title": "Coldain Collectibles",
+    "description": "Complete the following collections found in The Great Divide:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000106,
+        "label": "Tools of the Lost Miners (The Great Divide)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000107,
+        "label": "Earning Our Keep (The Great Divide)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000108,
+        "label": "Remnants of a Somber Divide (The Great Divide)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000109,
+        "label": "Bare Necessities of a Simpler Time (The Great Divide)"
+      }
+    ]
+  },
+  {
+    "id": 27083020,
+    "title": "Creepy Crawly and Wiggly (Crystal Caverns)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000470,
+        "label": "Spider Leg Cluster"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000471,
+        "label": "Broken Joint Tentacle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000472,
+        "label": "Pulverized Spider Leg"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000473,
+        "label": "Thin Tentacle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000474,
+        "label": "Thickened Tentacle"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000475,
+        "label": "Crimped Tentacle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000476,
+        "label": "Intact Spider Leg"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000477,
+        "label": "Frozen Spider Leg"
+      }
+    ]
+  },
+  {
+    "id": 27083000,
+    "title": "Crystalline Collectibles",
+    "description": "Complete the following collections found in Crystal Caverns:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000118,
+        "label": "Froststone Barter (Crystal Caverns)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000119,
+        "label": "Creepy Crawly and Wiggly (Crystal Caverns)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000120,
+        "label": "Silk Silk Silk (Crystal Caverns)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000121,
+        "label": "Ice Stones (Crystal Caverns)"
+      }
+    ]
+  },
+  {
+    "id": 27082600,
+    "title": "Digging Deep",
+    "description": "Complete the following collections found in The Ry`Gorr Mines:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000103,
+        "label": "Messy Miners"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000104,
+        "label": "Orcish Earrings"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000105,
+        "label": "Frozen Equipment"
+      }
+    ]
+  },
+  {
+    "id": 27082720,
+    "title": "Earning Our Keep (The Great Divide)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000374,
+        "label": "Ice-Encased ID Badge - K031688"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000375,
+        "label": "Ice-Encased ID Badge - S061783"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000376,
+        "label": "Ice-Encased ID Badge - E031699"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000377,
+        "label": "Ice-Encased ID Badge - P051817"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000378,
+        "label": "Ice-Encased ID Badge - V120500"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000379,
+        "label": "Ice-Encased ID Badge - E111616"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000380,
+        "label": "Ice-Encased ID Badge - D110419"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000381,
+        "label": "Ice-Encased ID Badge - S091906"
+      }
+    ]
+  },
+  {
+    "id": 27082810,
+    "title": "Eight Legged Bits (Velketor's Labyrinth)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000398,
+        "label": "Crystal Spider's Mandible"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000399,
+        "label": "Crystal Spider's Leg"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000400,
+        "label": "Crystal Spider's Eye"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000401,
+        "label": "Crystal Spider's Cephalothorax"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000402,
+        "label": "Crystal Spider's Abdomen"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000403,
+        "label": "Crystal Spider's Spinneret"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000404,
+        "label": "Crystal Spider's Claw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000405,
+        "label": "Crystal Spider's Fur"
+      }
+    ]
+  },
+  {
+    "id": 27082520,
+    "title": "Embalming Tools (The Tower of Frozen Shadow)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000318,
+        "label": "Frozen Needle Injector"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000319,
+        "label": "Stack of Eye Caps"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000320,
+        "label": "Various Rusty Scalpels"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000321,
+        "label": "Stained Aneurysm Hook"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000322,
+        "label": "Clogged Arterial Tube"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000323,
+        "label": "Embalming Fluid Bellows"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000324,
+        "label": "Snapped Trocar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000325,
+        "label": "Corpse Makeup Kit"
+      }
+    ]
+  },
+  {
+    "id": 27083010,
+    "title": "Froststone Barter (Crystal Caverns)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000462,
+        "label": "Black Blank Emblem"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000463,
+        "label": "Blue Blank Emblem"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000464,
+        "label": "Black Hammer Emblem"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000465,
+        "label": "Blue Hammer Emblem"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000466,
+        "label": "Red Blank Emblem"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000467,
+        "label": "White Wine Emblem"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000468,
+        "label": "Green Wine Emblem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000469,
+        "label": "Royal Wine Emblem"
+      }
+    ]
+  },
+  {
+    "id": 27082630,
+    "title": "Frozen Equipment (The Ry`Gorr Mines)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000358,
+        "label": "Frozen Orc Wristlet"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000359,
+        "label": "Large Frozen Orc Belt Buckle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000360,
+        "label": "Frozen Orc Tooth Trophy Necklace"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000361,
+        "label": "Frozen Orc Skullcap"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000362,
+        "label": "Frozen Orc Armor Ring"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000363,
+        "label": "Frozen Steel Orc Earring"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000364,
+        "label": "Frozen Gold Orc Earring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000365,
+        "label": "Frozen Platinum Orc Earring"
+      }
+    ]
+  },
+  {
+    "id": 27082430,
+    "title": "Frozen Fauna (The Eastern Wastes)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000294,
+        "label": "Icebound Worm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000295,
+        "label": "Icebound Beetle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000296,
+        "label": "Icebound Spider"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000297,
+        "label": "Icebound Moth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000298,
+        "label": "Icebound Ant"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000299,
+        "label": "Icebound Kit"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000300,
+        "label": "Icebound Dragonfly"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000301,
+        "label": "Icebound Mackerel"
+      }
+    ]
+  },
+  {
+    "id": 27082530,
+    "title": "How to Embalm, V234.0 (The Tower of Frozen Shadow)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000326,
+        "label": "Page 12 of Embalmer's Tomb"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000327,
+        "label": "Page 622 of Embalmer's Tomb"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000328,
+        "label": "Page 94 of Embalmer's Tomb"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000329,
+        "label": "Page 333 of Embalmer's Tomb"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000330,
+        "label": "Page 209 of Embalmer's Tomb"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000331,
+        "label": "Page 501 of Embalmer's Tomb"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000332,
+        "label": "Page 728 of Embalmer's Tomb"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000333,
+        "label": "Page 447 of Embalmer's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 27083040,
+    "title": "Ice Stones (Crystal Caverns)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000486,
+        "label": "Crumbled Ice Stone"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000487,
+        "label": "Compressed Ice Stone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000488,
+        "label": "Saw Edged Ice Stone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000489,
+        "label": "Spotted Ice Stone"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000490,
+        "label": "Teardrop Ice Stone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000491,
+        "label": "Aqua Ice Stone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000492,
+        "label": "Kidney Ice Stone"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000493,
+        "label": "Glacial Ice Stone"
+      }
+    ]
+  },
+  {
+    "id": 27082420,
+    "title": "Items Lost (The Eastern Wastes)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000286,
+        "label": "Dwarven Made Spoon"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000287,
+        "label": "Giant Made Cup"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000288,
+        "label": "Orcish Boot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000289,
+        "label": "Coldain Chain Link"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000290,
+        "label": "Kromrif Belt Buckle"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000291,
+        "label": "Ry`Gorr Spiked Stud"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000292,
+        "label": "Hag's Wristband"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000293,
+        "label": "Hag's Amulet"
+      }
+    ]
+  },
+  {
+    "id": 27082900,
+    "title": "Kromzek Collectibles",
+    "description": "Complete the following collections found in Kael Drakkel:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000114,
+        "label": "Weapon Fragments (Kael Drakkel)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000115,
+        "label": "Spoils of War (Kael Drakkel)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000116,
+        "label": "Pieces of a Civilization (Kael Drakkel)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000117,
+        "label": "Chilly Critters (Kael Drakkel)"
+      }
+    ]
+  },
+  {
+    "id": 27082540,
+    "title": "Left in the Tower (The Tower of Frozen Shadow)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000334,
+        "label": "Restless Drolvarg Fang"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000335,
+        "label": "Ectoplasm Covered Quill"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000336,
+        "label": "Frozen Servant's Bell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000337,
+        "label": "Restless Mummy's Wrapping"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000338,
+        "label": "Frozen Wedding Program"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000339,
+        "label": "Shadow Drake Fang"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000340,
+        "label": "Discarded Old Keyring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000341,
+        "label": "Vial of Frozen Blood"
+      }
+    ]
+  },
+  {
+    "id": 27082610,
+    "title": "Messy Miners (The Ry`Gorr Mines)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000342,
+        "label": "Ripped Ore-Encrusted Sack"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000343,
+        "label": "Small Cold Chisel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000344,
+        "label": "Medium Cold Chisel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000345,
+        "label": "Large Cold Chisel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000346,
+        "label": "Jeweler's Loupe"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000347,
+        "label": "Broken Pick Haft"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000348,
+        "label": "Diamond-Edged Wire Saw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000349,
+        "label": "Rock Pick Hammer"
+      }
+    ]
+  },
+  {
+    "id": 27082410,
+    "title": "Nails and Teeth (The Eastern Wastes)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000278,
+        "label": "Frozen Giant Toenail"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000279,
+        "label": "Frozen Ghoul Tooth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000280,
+        "label": "Frozen Orc Fang"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000281,
+        "label": "Frozen Dracoliche Incisor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000282,
+        "label": "Frozen Coldain Fingernail"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000283,
+        "label": "Frozen Hag's Molar"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000284,
+        "label": "Frozen Mammoth Toenail"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000285,
+        "label": "Frozen Direwolf Fang"
+      }
+    ]
+  },
+  {
+    "id": 27082400,
+    "title": "One Man's Wastes...",
+    "description": "Complete the following collections found in The Eastern Wastes:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000095,
+        "label": "Nails and Teeth (The Eastern Wastes)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000096,
+        "label": "Items Lost (The Eastern Wastes)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000097,
+        "label": "Frozen Fauna (The Eastern Wastes)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000098,
+        "label": "Restlessly Shattered (The Eastern Wastes)"
+      }
+    ]
+  },
+  {
+    "id": 27082620,
+    "title": "Orcish Earrings (The Ry`Gorr Mines)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000350,
+        "label": "Iron Orc Earring"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000351,
+        "label": "Bronze Orc Earring"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000352,
+        "label": "Brass Orc Earring"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000353,
+        "label": "Steel Orc Earring"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000354,
+        "label": "Copper Orc Earring"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000355,
+        "label": "Silver Orc Earring"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000356,
+        "label": "Gold Orc Earring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000357,
+        "label": "Platinum Orc Earring"
+      }
+    ]
+  },
+  {
+    "id": 27082930,
+    "title": "Pieces of a Civilization (Kael Drakkel)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000446,
+        "label": "Frozen Giant's Nose"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000447,
+        "label": "Frozen Giant's Toe"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000448,
+        "label": "Frozen Giant's Finger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000449,
+        "label": "Frozen Giant's Tooth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000450,
+        "label": "Frozen Direwolf Paw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000451,
+        "label": "Frozen Direwolf Ear"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000452,
+        "label": "Frozen Direwolf Tooth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000453,
+        "label": "Frozen Direwolf Eye"
+      }
+    ]
+  },
+  {
+    "id": 27000010,
+    "title": "Relics of Restlessness",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000088,
+        "label": "One Man's Wastes..."
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000089,
+        "label": "Digging Deep"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000090,
+        "label": "Crystalline Collectibles"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000091,
+        "label": "Coldain Collectibles"
+      }
+    ]
+  },
+  {
+    "id": 27000020,
+    "title": "Relics of the Reclusive",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000092,
+        "label": "Cold and Dark"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000093,
+        "label": "Chilly Down Here"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000094,
+        "label": "Kromzek Collectibles"
+      }
+    ]
+  },
+  {
+    "id": 27082730,
+    "title": "Remnants of a Somber Divide (The Great Divide)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000382,
+        "label": "Frost Imbued Wurm Claw"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000383,
+        "label": "Frost Imbued Tizmak Hoof"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000384,
+        "label": "Frost Imbued Handkerchief"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000385,
+        "label": "Frost Imbued Direwolf Tooth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000386,
+        "label": "Frost Imbued Vertebrae"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000387,
+        "label": "Frost Imbued Finger Bone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000388,
+        "label": "Frost Imbued Mask"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000389,
+        "label": "Frost Imbued Skull"
+      }
+    ]
+  },
+  {
+    "id": 27082440,
+    "title": "Restlessly Shattered (The Eastern Wastes)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000302,
+        "label": "Restless Ice Covered Twig"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000303,
+        "label": "Restless Ice Rimed Stone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000304,
+        "label": "Restless Ice Encrusted Seashell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000305,
+        "label": "Restless Ice Glazed Stone Chip"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000306,
+        "label": "Restless Ice Smeared Bone Chip"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000307,
+        "label": "Restless Ice Blanketed Paver"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000308,
+        "label": "Restless Ice Enveloped Tile"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000309,
+        "label": "Shard of Restless Ice"
+      }
+    ]
+  },
+  {
+    "id": 27083030,
+    "title": "Silk Silk Silk (Crystal Caverns)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000478,
+        "label": "Frozen Crystal Spider Silk"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000479,
+        "label": "Bloodied Silk Strands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000480,
+        "label": "Amber Silk Strands"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000481,
+        "label": "Tangled Raw Silk"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000482,
+        "label": "Kinked Silk Strand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000483,
+        "label": "Coiled Silk Strand"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000484,
+        "label": "Folded Silk Strand"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000485,
+        "label": "Bloodied Frozen Crystal Spider Silk"
+      }
+    ]
+  },
+  {
+    "id": 27082920,
+    "title": "Spoils of War (Kael Drakkel)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000438,
+        "label": "Dwarven Clan Ring"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000439,
+        "label": "Dervish Bone Necklace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000440,
+        "label": "King's Court Trophy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000441,
+        "label": "Lucky Horseshoe"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000442,
+        "label": "Emissary's Scroll"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000443,
+        "label": "Ornamental Dagger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000444,
+        "label": "Fancy Key"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000445,
+        "label": "Champions Medal"
+      }
+    ]
+  },
+  {
+    "id": 27082710,
+    "title": "Tools of the Lost Miners (The Great Divide)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000366,
+        "label": "Velium Covered Lunch Bucket"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000367,
+        "label": "Velium Covered Coal Lamp"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000368,
+        "label": "Velium Covered Coke"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000369,
+        "label": "Velium Covered Spittoon"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000370,
+        "label": "Velium Covered Pick"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000371,
+        "label": "Velium Covered Awl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000372,
+        "label": "Velium Covered Chisel"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000373,
+        "label": "Velium Covered Wedge"
+      }
+    ]
+  },
+  {
+    "id": 27082840,
+    "title": "Trash from the Past (Velketor's Labyrinth)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000422,
+        "label": "Discarded Guild Banner"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000423,
+        "label": "Discarded Health Potion Vial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000424,
+        "label": "Discarded Power Source"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000425,
+        "label": "Discarded Mana Potion Vial"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000426,
+        "label": "Discarded Quiver of Arrows"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000427,
+        "label": "Discarded Crossbow Bolt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000428,
+        "label": "Discarded Rations Container"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000429,
+        "label": "Discarded Water Skin"
+      }
+    ]
+  },
+  {
+    "id": 27082830,
+    "title": "Unfit for Adventures (Velketor's Labyrinth)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000414,
+        "label": "Shattered Hammer"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000415,
+        "label": "Brittle Sword"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000416,
+        "label": "Dulled Dagger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000417,
+        "label": "Broken Great Staff"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000418,
+        "label": "Snapped Wand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000419,
+        "label": "Warped Longbow"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000420,
+        "label": "Useless Katar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000421,
+        "label": "Stringless Lute"
+      }
+    ]
+  },
+  {
+    "id": 27082820,
+    "title": "Useless Tools (Velketor's Labyrinth)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000406,
+        "label": "Chipped Cauldron"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000407,
+        "label": "Broken Alchemy Vial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000408,
+        "label": "Burnt Lab Note"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000409,
+        "label": "Fragile Phurbu"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000410,
+        "label": "Cracked Censer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000411,
+        "label": "Broken Scrying Bowl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000412,
+        "label": "Dented Chalice"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000413,
+        "label": "Dulled Boline"
+      }
+    ]
+  },
+  {
+    "id": 27082910,
+    "title": "Weapon Fragments (Kael Drakkel)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000430,
+        "label": "Shattered Dagger"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000431,
+        "label": "Rotted Hilt-Wrap"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000432,
+        "label": "Rusted Spear Tips"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000433,
+        "label": "Shield Fragments"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000434,
+        "label": "Broken Blade Tips"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000435,
+        "label": "Shredded Shield Strapping"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000436,
+        "label": "Stomped Shield"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000437,
+        "label": "Broken Chair"
+      }
+    ]
+  },
+  {
+    "id": 27082510,
+    "title": "Wedding Favors (The Tower of Frozen Shadow)",
+    "description": "This achievement is gained upon collecting the following items:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2709,
+    "subcategoryName": "Collections",
+    "categoryId": 2700,
+    "categoryName": "Torment of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 27000310,
+        "label": "Monogrammed Napkins"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 27000311,
+        "label": "Earthen Cookware"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 27000312,
+        "label": "Skull-Shaped Wine Rack"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 27000313,
+        "label": "Citrus Juicer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 27000314,
+        "label": "Frozen Cheeseboard"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 27000315,
+        "label": "Monogrammed Decanter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 27000316,
+        "label": "Wedding Card Box"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 27000317,
+        "label": "Mr. and Mrs. Clock"
+      }
+    ]
+  }
+]

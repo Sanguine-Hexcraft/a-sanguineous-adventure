@@ -1,0 +1,5928 @@
+[
+  {
+    "id": 1800065,
+    "title": "Champion of the House of Thule",
+    "description": "This achievement is gained upon completing all the quests in the House of Thule.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800065,
+        "label": "Mercenary of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800066,
+        "label": "Partisan of The Feerrott"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800067,
+        "label": "Mercenary of the House of Thule"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800068,
+        "label": "Partisan of the House of Thule"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800069,
+        "label": "Mercenary of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800070,
+        "label": "Partisan of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800071,
+        "label": "Mercenary of The Grounds"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1800072,
+        "label": "Partisan of The Grounds"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1800073,
+        "label": "Mercenary of The Library"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1800074,
+        "label": "Partisan of The Library"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1800075,
+        "label": "Mercenary of The Well"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1800076,
+        "label": "Partisan of The Well"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1800077,
+        "label": "Mercenary of Erudin Burning"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1800078,
+        "label": "Partisan of Erudin Burning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1800079,
+        "label": "Mercenary of Morell's Castle"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1800080,
+        "label": "Partisan of Morell's Castle"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1800081,
+        "label": "Mercenary of Sanctum Somnium"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1800082,
+        "label": "Partisan of Sanctum Somnium"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1800083,
+        "label": "Mercenary of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1800084,
+        "label": "Partisan of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1800085,
+        "label": "Mercenary of Miragul's Nightmare"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1800086,
+        "label": "Partisan of Miragul's Nightmare"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1800087,
+        "label": "Mercenary of Fear Itself"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1800088,
+        "label": "Partisan of Fear Itself"
+      }
+    ]
+  },
+  {
+    "id": 1800105,
+    "title": "Conqueror of the House of Thule",
+    "description": "This achievement is gained upon completing all the raids in the House of Thule.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800105,
+        "label": "Conquerer of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800106,
+        "label": "Conquerer of the House of Thule"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800107,
+        "label": "Conquerer of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800108,
+        "label": "Conquerer of The Grounds"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800109,
+        "label": "Conquerer of The Library"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800110,
+        "label": "Conquerer of The Well"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800111,
+        "label": "Conquerer of Erudin Burning"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1800112,
+        "label": "Conquerer of Morell's Castle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1800113,
+        "label": "Conquerer of Sanctum Somnium"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1800114,
+        "label": "Conquerer of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1800115,
+        "label": "Conquerer of Miragul's Nightmare"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1800116,
+        "label": "Conquerer of Fear Itself"
+      }
+    ]
+  },
+  {
+    "id": 1800195,
+    "title": "Dreamslayer",
+    "description": "This achievement is gained upon completing all Hunter achievements. Completing this achievement grants the title 'the Dreamslayer'",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800195,
+        "label": "Novice Hunter of the House of Thule"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800196,
+        "label": "Adept Hunter of the House of Thule"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800197,
+        "label": "Veteran Hunter of the House of Thule"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800198,
+        "label": "Expert Hunter of the House of Thule"
+      }
+    ]
+  },
+  {
+    "id": 1800120,
+    "title": "House of Thule Challenger",
+    "description": "This achievement is gained upon completing all the mission challenges in the House of Thule. Completing this achievement grants the title ', Lord of the Manor' or ', Lady of the Manor'",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800120,
+        "label": "Fall of the Tae Ew: Time Trial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800121,
+        "label": "Fall of the Tae Ew: Challenge of Toughness"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800122,
+        "label": "Guard Breaker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800123,
+        "label": "A Tearable Fear: Time Trial"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800124,
+        "label": "A Tearable Fear: Challenge of Toughness"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800125,
+        "label": "Make it Quick"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800126,
+        "label": "Welcome to my Nightmare: Time Trial"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1800127,
+        "label": "Welcome to my Nightmare: Challenge of Toughness"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1800128,
+        "label": "There's a Curse for That"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1800129,
+        "label": "Redemption: Time Trial"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1800130,
+        "label": "Redemption: Challenge of Toughness"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1800131,
+        "label": "An Icy Death"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1800132,
+        "label": "The Gardener: Time Trial"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1800133,
+        "label": "The Gardener: Challenge of Toughness"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1800134,
+        "label": "Deconstructed"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1800135,
+        "label": "Mashing Pumpkins: Time Trial"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1800136,
+        "label": "Mashing Pumpkins: Challenge of Toughness"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1800137,
+        "label": "Black Thumb"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1800138,
+        "label": "The Stuff of Dreams: Time Trial"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1800139,
+        "label": "The Stuff of Dreams: Challenge of Toughness"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1800140,
+        "label": "Who's the Boss"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1800141,
+        "label": "A Moment of Clarity: Time Trial"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1800142,
+        "label": "A Moment of Clarity: Challenge of Toughness"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1800143,
+        "label": "You're Fired"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1800144,
+        "label": "What Lies Below: Time Trial"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1800145,
+        "label": "What Lies Below: Challenge of Toughness"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1800146,
+        "label": "Hollow Victory"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1800147,
+        "label": "No Freedom in Death: Time Trial"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1800148,
+        "label": "No Freedom in Death: Challenge of Toughness"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 1800149,
+        "label": "The Great Escape"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 1800150,
+        "label": "The Illuminating Truth: Time Trial"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 1800151,
+        "label": "The Illuminating Truth: Challenge of Toughness"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 1800152,
+        "label": "Special Delivery"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 1800153,
+        "label": "The Pit of All Fears: Time Trial"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 1800154,
+        "label": "The Pit of All Fears: Challenge of Toughness"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 1800155,
+        "label": "Arachnophobia"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 1800156,
+        "label": "Hippity Hoppity Kill: Time Trial"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 1800157,
+        "label": "Hippity Hoppity Kill: Challenge of Toughness"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 1800158,
+        "label": "Fast Talker"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 1800159,
+        "label": "Morell's Challenge: Time Trial"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 1800160,
+        "label": "Morell's Challenge: Challenge of Toughness"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 1800161,
+        "label": "Discover the Rainbow"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 1800162,
+        "label": "Catastrophic Power: Time Trial"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 1800163,
+        "label": "Catastrophic Power: Challenge of Toughness"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 1800164,
+        "label": "Exterminator"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 1800165,
+        "label": "Miragul's Vendetta: Time Trial"
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 1800166,
+        "label": "Miragul's Vendetta: Challenge of Toughness"
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 1800167,
+        "label": "Bone Breaker"
+      },
+      {
+        "order": 49,
+        "type": 1,
+        "value": 1800168,
+        "label": "An Offering to Thule: Time Trial"
+      },
+      {
+        "order": 50,
+        "type": 1,
+        "value": 1800169,
+        "label": "An Offering to Thule: Challenge of Toughness"
+      },
+      {
+        "order": 51,
+        "type": 1,
+        "value": 1800170,
+        "label": "Your Three Best Friends"
+      }
+    ]
+  },
+  {
+    "id": 1800050,
+    "title": "House of Thule Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the House of Thule.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 270489,
+        "label": "Sunrise Hills Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800050,
+        "label": "Feerrott Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800051,
+        "label": "House of Thule Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800053,
+        "label": "The Grounds Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800055,
+        "label": "The Well Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800054,
+        "label": "The Library Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800056,
+        "label": "Erudin Burning Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1800052,
+        "label": "House of Thule, Upper Floors Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1800059,
+        "label": "Al'Kabor's Nightmare Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1800060,
+        "label": "Miragul's Nightmare Traveler"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270490,
+        "label": "Miragul's Phylactery Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1800061,
+        "label": "Fear Itself Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1800057,
+        "label": "Morell's Castle Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1800058,
+        "label": "Sanctum Somnium Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1800500,
+    "title": "In the Absence of Fear",
+    "description": "This achievement is gained upon completing the following quests and missions for the House of Thule launch event.",
+    "points": 25,
+    "isHidden": true,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800500,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800501,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800502,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800503,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800504,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800509,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1800510,
+        "label": "Display: In the Absence of Fear"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800509,
+        "label": "Mission: Invasion of the Fearless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800500,
+        "label": "Quest: Missing Persons"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800501,
+        "label": "Quest: Lone Wolf Hero"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800502,
+        "label": "Quest: I Want to Conquer the World"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800503,
+        "label": "Quest: Not Afraid of Ghosts"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800504,
+        "label": "Quest: Long Live the King"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800510,
+        "label": "One of the following:"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 1800505,
+        "label": "Quest: Wall Under Attack"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 1800506,
+        "label": "Quest: Destroy Nevafeer Staging"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 1800507,
+        "label": "Quest: Waylay Reinforcements"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 1800508,
+        "label": "Quest: Nevafeer Leader Attack"
+      }
+    ]
+  },
+  {
+    "id": 1800200,
+    "title": "Master of the House of Thule",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in the House of Thule.",
+    "points": 80,
+    "isHidden": true,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800200,
+        "label": "Champion of the House of Thule"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800201,
+        "label": "Paragon of the House of Thule"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800202,
+        "label": "Dreamslayer"
+      }
+    ]
+  },
+  {
+    "id": 1800090,
+    "title": "Paragon of the House of Thule",
+    "description": "This achievement is gained upon completing all the missions in the House of Thule.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1801,
+    "subcategoryName": "General",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800090,
+        "label": "Hero of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800091,
+        "label": "Hero of the House of Thule"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800092,
+        "label": "Hero of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800093,
+        "label": "Hero of The Grounds"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1800094,
+        "label": "Hero of The Library"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1800095,
+        "label": "Hero of The Well"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1800096,
+        "label": "Hero of Erudin Burning"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1800097,
+        "label": "Hero of Morell's Castle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1800098,
+        "label": "Hero of Sanctum Somnium"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1800099,
+        "label": "Hero of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1800100,
+        "label": "Hero of Miragul's Nightmare"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1800101,
+        "label": "Hero of Fear Itself"
+      }
+    ]
+  },
+  {
+    "id": 1870900,
+    "title": "Al'Kabor's Nightmare Traveler",
+    "description": "This achievement is gained upon visiting Al'Kabor's Nightmare.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870900,
+        "label": "Visit Al'Kabor's Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1870600,
+    "title": "Erudin Burning Traveler",
+    "description": "This achievement is gained upon visiting Erudin Burning.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870600,
+        "label": "Visit Erudin Burning"
+      }
+    ]
+  },
+  {
+    "id": 1871100,
+    "title": "Fear Itself Traveler",
+    "description": "This achievement is gained upon visiting Fear Itself.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871100,
+        "label": "Visit Fear Itself"
+      }
+    ]
+  },
+  {
+    "id": 1870000,
+    "title": "Feerrott Traveler",
+    "description": "This achievement is gained upon visiting The Feerrott.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870000,
+        "label": "Visit The Feerrott"
+      }
+    ]
+  },
+  {
+    "id": 1870100,
+    "title": "House of Thule Traveler",
+    "description": "This achievement is gained upon visiting the House of Thule.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870100,
+        "label": "Visit the House of Thule"
+      }
+    ]
+  },
+  {
+    "id": 1870200,
+    "title": "House of Thule, Upper Floors Traveler",
+    "description": "This achievement is gained upon visiting the House of Thule, Upper Floors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870200,
+        "label": "Visit the House of Thule, Upper Floors"
+      }
+    ]
+  },
+  {
+    "id": 1871000,
+    "title": "Miragul's Nightmare Traveler",
+    "description": "This achievement is gained upon visiting Miragul's Nightmare.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871000,
+        "label": "Visit Miragul's Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1871300,
+    "title": "Miragul's Phylactery Traveler",
+    "description": "This achievement is gained upon visiting Miragul's Phylactery.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270439,
+        "label": "Visit Miragul's Phylactery"
+      }
+    ]
+  },
+  {
+    "id": 1870700,
+    "title": "Morell's Castle Traveler",
+    "description": "This achievement is gained upon visiting Morell's Castle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870700,
+        "label": "Visit Morell's Castle"
+      }
+    ]
+  },
+  {
+    "id": 1870800,
+    "title": "Sanctum Somnium Traveler",
+    "description": "This achievement is gained upon visiting Sanctum Somnium.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870800,
+        "label": "Visit Sanctum Somnium"
+      }
+    ]
+  },
+  {
+    "id": 1871200,
+    "title": "Sunrise Hills Traveler",
+    "description": "This achievement is gained upon visiting Sunrise Hills.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270438,
+        "label": "Visit Sunrise Hills"
+      }
+    ]
+  },
+  {
+    "id": 1870300,
+    "title": "The Grounds Traveler",
+    "description": "This achievement is gained upon visiting The Grounds.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870300,
+        "label": "Visit The Grounds"
+      }
+    ]
+  },
+  {
+    "id": 1870400,
+    "title": "The Library Traveler",
+    "description": "This achievement is gained upon visiting The Library.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870400,
+        "label": "Visit The Library"
+      }
+    ]
+  },
+  {
+    "id": 1870500,
+    "title": "The Well Traveler",
+    "description": "This achievement is gained upon visiting The Well.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1802,
+    "subcategoryName": "Exploration",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870500,
+        "label": "Visit The Well"
+      }
+    ]
+  },
+  {
+    "id": 1800010,
+    "title": "Have Fun Storming the Castle (Group)",
+    "description": "Completing the following missions will grant you access to Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870230,
+        "label": "Redemption"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870930,
+        "label": "Catastrophic Power"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871030,
+        "label": "Miragul's Vendetta"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871130,
+        "label": "An Offering to Thule"
+      }
+    ]
+  },
+  {
+    "id": 1800030,
+    "title": "Have Fun Storming the Castle (Raid)",
+    "description": "Completing the following raids will grant you access to Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870240,
+        "label": "Guardian of the House"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870940,
+        "label": "At World's End"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871040,
+        "label": "The Force of Eternity"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871140,
+        "label": "Cazic's Final Stand"
+      }
+    ]
+  },
+  {
+    "id": 1800000,
+    "title": "It's Dangerous to Go Alone (Group)",
+    "description": "Completing the following missions will grant you access to the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870030,
+        "label": "Fall of the Tae Ew"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870130,
+        "label": "Welcome to My Nightmare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870330,
+        "label": "The Gardener"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870531,
+        "label": "No Freedom in Death"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870430,
+        "label": "The Stuff of Dreams"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870630,
+        "label": "The Illuminating Truth"
+      }
+    ]
+  },
+  {
+    "id": 1800020,
+    "title": "It's Dangerous to Go Alone (Raid)",
+    "description": "Completing the following raids will grant you access to the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870040,
+        "label": "Ritual of Terror"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870140,
+        "label": "Tick Tock"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870340,
+        "label": "The Roots of Evil"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870540,
+        "label": "Terror in the Dark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870440,
+        "label": "The Librarian's Nightmare"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870640,
+        "label": "The Torches of Truth"
+      }
+    ]
+  },
+  {
+    "id": 1800040,
+    "title": "Knocking on Sanctum's Door (Raid)",
+    "description": "Completing the following raids will grant you access to Sanctum Somnium raids:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870740,
+        "label": "The Awakening"
+      }
+    ]
+  },
+  {
+    "id": 1800045,
+    "title": "Rusty Gate Key",
+    "description": "Using the Rusty Gate Key will attune you to House of Thule, Upper Floor raids.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800045,
+        "label": "Rusty Gate Key used."
+      }
+    ]
+  },
+  {
+    "id": 1800047,
+    "title": "Sanctum Key",
+    "description": "Using the Sanctum Key will attune you to Sanctum Somnium raids.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800047,
+        "label": "Sanctum Key used."
+      }
+    ]
+  },
+  {
+    "id": 1800046,
+    "title": "Tremulous Key",
+    "description": "Using the Tremulous Key will attune you to the Fear Itself raid.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1803,
+    "subcategoryName": "Progression",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800046,
+        "label": "Tremulous Key used."
+      }
+    ]
+  },
+  {
+    "id": 1870910,
+    "title": "Mercenary of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon completing the following kill quests in Al'Kabor's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870910,
+        "label": "Defend What?"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870911,
+        "label": "EverWarmth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870912,
+        "label": "Dangerous Dissonance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870913,
+        "label": "Drachnicide"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870914,
+        "label": "Death to the Dead"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870915,
+        "label": "Aiding the Hunt"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870916,
+        "label": "On the Doorstep"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870917,
+        "label": "For the Sake of Life"
+      }
+    ]
+  },
+  {
+    "id": 1870610,
+    "title": "Mercenary of Erudin Burning",
+    "description": "This achievement is gained upon completing the following kill quests in Erudin Burning:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870610,
+        "label": "Extermination"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870611,
+        "label": "Combating Death"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870612,
+        "label": "A Source of Nightmares"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870613,
+        "label": "Possessing a Tome"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870614,
+        "label": "On the Rebound"
+      }
+    ]
+  },
+  {
+    "id": 1871110,
+    "title": "Mercenary of Fear Itself",
+    "description": "This achievement is gained upon completing the following kill quests in Fear Itself:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871110,
+        "label": "Corpse Camped"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871111,
+        "label": "Pushing Onwards"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871112,
+        "label": "The Antidote Within"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871113,
+        "label": "In Fear of Death"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871114,
+        "label": "Overwhelming Odds"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1871115,
+        "label": "Encroaching Undeath"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1871116,
+        "label": "Frozen in Fear"
+      }
+    ]
+  },
+  {
+    "id": 1871010,
+    "title": "Mercenary of Miragul's Nightmare",
+    "description": "This achievement is gained upon completing the following kill quests in Miragul's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871010,
+        "label": "A Shred of Emotion"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871011,
+        "label": "To Eat or Be Eaten"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871012,
+        "label": "Shades of Black"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871013,
+        "label": "An Unseen Presence"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871014,
+        "label": "Shades and Ichors"
+      }
+    ]
+  },
+  {
+    "id": 1870710,
+    "title": "Mercenary of Morell's Castle",
+    "description": "This achievement is gained upon completing the following kill quests in Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870710,
+        "label": "Bring Me a Dream"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870711,
+        "label": "Candy Caper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870712,
+        "label": "Clearing the Waterways"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870713,
+        "label": "Controlling the Population"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870714,
+        "label": "A Fair Share"
+      }
+    ]
+  },
+  {
+    "id": 1870810,
+    "title": "Mercenary of Sanctum Somnium",
+    "description": "This achievement is gained upon completing the following kill quests in Sanctum Somnium:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870810,
+        "label": "Clean Up Duty"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870811,
+        "label": "Janitorial Service"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870812,
+        "label": "Not Too Proud to Clean"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870813,
+        "label": "Unwanted"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870814,
+        "label": "Let Them Beg"
+      }
+    ]
+  },
+  {
+    "id": 1870010,
+    "title": "Mercenary of The Feerrott",
+    "description": "This achievement is gained upon completing the following kill quests in The Feerrott:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870010,
+        "label": "Tangling With Wolves"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870011,
+        "label": "A Strong Silk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870012,
+        "label": "A Panting Lizard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870013,
+        "label": "Meat For Eat"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870014,
+        "label": "Appeasing a Teir'Dal"
+      }
+    ]
+  },
+  {
+    "id": 1870310,
+    "title": "Mercenary of The Grounds",
+    "description": "This achievement is gained upon completing the following kill quests in The Grounds:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870310,
+        "label": "The Garden of Feedin'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870311,
+        "label": "The Bigger They Are"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870312,
+        "label": "Taking on the Hive"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870313,
+        "label": "Here Doggy Doggy"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870314,
+        "label": "No Scream Underwater"
+      }
+    ]
+  },
+  {
+    "id": 1870110,
+    "title": "Mercenary of the House of Thule",
+    "description": "This achievement is gained upon completing the following kill quests in the House of Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870110,
+        "label": "Thinning Out Their Numbers: Rotdogs and Snakes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870111,
+        "label": "Thinning Out Their Numbers: Skeletons and Bone Golems"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870112,
+        "label": "Thinning Out Their Numbers: Terror Guards"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870113,
+        "label": "Thinning Out Their Numbers: Terror Spinners and Sleeper Cubes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870114,
+        "label": "Thinning Out Their Numbers: Bone Crafters and Quaking Haunts"
+      }
+    ]
+  },
+  {
+    "id": 1870210,
+    "title": "Mercenary of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon completing the following kill quests in the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870210,
+        "label": "Spirit Bound"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870211,
+        "label": "Drawn to Flame"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870212,
+        "label": "Of Ice and Men"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870213,
+        "label": "Blood Mad"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870214,
+        "label": "I Was Crazy Once"
+      }
+    ]
+  },
+  {
+    "id": 1870410,
+    "title": "Mercenary of The Library",
+    "description": "This achievement is gained upon completing the following kill quests in The Library:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870410,
+        "label": "Undesirable Dreams"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870411,
+        "label": "Research Assistant"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870412,
+        "label": "Independent Research"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870413,
+        "label": "Deadly Knowledge"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870414,
+        "label": "Bibliophiles"
+      }
+    ]
+  },
+  {
+    "id": 1870510,
+    "title": "Mercenary of The Well",
+    "description": "This achievement is gained upon completing the following kill quests in The Well:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870510,
+        "label": "Drowned in Mud"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870511,
+        "label": "Slithering"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870512,
+        "label": "Spider Fright"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870513,
+        "label": "Covered in Scorpions"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870514,
+        "label": "Aquaphobia"
+      }
+    ]
+  },
+  {
+    "id": 1870920,
+    "title": "Partisan of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon completing the following quests in Al'Kabor's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870920,
+        "label": "The Rivervale Ruins"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870921,
+        "label": "Wastelands of Everfrost"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870922,
+        "label": "Faydark's Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870923,
+        "label": "Ruined Relic Recovery"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870924,
+        "label": "A Struggle to Survive"
+      }
+    ]
+  },
+  {
+    "id": 1870620,
+    "title": "Partisan of Erudin Burning",
+    "description": "This achievement is gained upon completing the following quests in Erudin Burning:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870620,
+        "label": "Heretics Among Us"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870621,
+        "label": "The Fallen Citadel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870622,
+        "label": "Erudin's Apocalypse"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870623,
+        "label": "The Destroyers' Den"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870624,
+        "label": "Raiders of the Sacred Tomes"
+      }
+    ]
+  },
+  {
+    "id": 1871120,
+    "title": "Partisan of Fear Itself",
+    "description": "This achievement is gained upon completing the following quests in Fear Itself:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871120,
+        "label": "Bite of the Beast"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871121,
+        "label": "Follower of Fear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871122,
+        "label": "At the Altar of Fear"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871123,
+        "label": "Foundation of Fear"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871124,
+        "label": "Terror Personified"
+      }
+    ]
+  },
+  {
+    "id": 1871020,
+    "title": "Partisan of Miragul's Nightmare",
+    "description": "This achievement is gained upon completing the following quests in Miragul's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871020,
+        "label": "The Sword of Shadows"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871021,
+        "label": "Beauty Lost"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871022,
+        "label": "Please Release Me"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871023,
+        "label": "Such a Prankster"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871024,
+        "label": "Prisoner of the Portal"
+      }
+    ]
+  },
+  {
+    "id": 1870720,
+    "title": "Partisan of Morell's Castle",
+    "description": "This achievement is gained upon completing the following quests in Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870720,
+        "label": "Satyrical Riddles"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870721,
+        "label": "Gouzah Safari"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870722,
+        "label": "Pirate's Blues"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870723,
+        "label": "A Few Buckets of Sand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870724,
+        "label": "Suspiciously Sweet Treats"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870725,
+        "label": "The Staff Retreat"
+      }
+    ]
+  },
+  {
+    "id": 1870820,
+    "title": "Partisan of Sanctum Somnium",
+    "description": "This achievement is gained upon completing the following quests in Sanctum Somnium:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870820,
+        "label": "Morell's Sanctuary"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870821,
+        "label": "Dreamland Assault"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870822,
+        "label": "The Key to the Tower"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870823,
+        "label": "Me Gold!"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870824,
+        "label": "Stash and Go"
+      }
+    ]
+  },
+  {
+    "id": 1870020,
+    "title": "Partisan of The Feerrott",
+    "description": "This achievement is gained upon completing the following quests in The Feerrott:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870020,
+        "label": "An Expedition Gone Awry"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870021,
+        "label": "Uncovering the Truth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870022,
+        "label": "A Cursed Cure"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870023,
+        "label": "Protecting the Weak (Minded)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870024,
+        "label": "There's Something In the Water"
+      }
+    ]
+  },
+  {
+    "id": 1870320,
+    "title": "Partisan of The Grounds",
+    "description": "This achievement is gained upon completing the following quests in The Grounds:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870320,
+        "label": "Giladan's Assistant"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870321,
+        "label": "What a Mess"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870322,
+        "label": "It Only Gets Worse"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870323,
+        "label": "The Last One"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870324,
+        "label": "Dissolution of Reason"
+      }
+    ]
+  },
+  {
+    "id": 1870120,
+    "title": "Partisan of the House of Thule",
+    "description": "This achievement is gained upon completing the following quests in the House of Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870120,
+        "label": "Find My Brudders"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870121,
+        "label": "The Beast of Rot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870122,
+        "label": "The Beast of the Unknown"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870123,
+        "label": "The Beast of Rage"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870124,
+        "label": "The Beast of Horror"
+      }
+    ]
+  },
+  {
+    "id": 1870220,
+    "title": "Partisan of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon completing the following quests in the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870220,
+        "label": "Morzad Chronicle - Argan's Memoir"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870221,
+        "label": "Morzad Chronicle - Abbit's Betrayal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870222,
+        "label": "Morzad Chronicle - Never Trust a Morzad"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870223,
+        "label": "Morzad Chronicle - Dead or Alive or Other"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870224,
+        "label": "Morzad Chronicle - The Morzad Confrontation"
+      }
+    ]
+  },
+  {
+    "id": 1870420,
+    "title": "Partisan of The Library",
+    "description": "This achievement is gained upon completing the following quests in The Library:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870420,
+        "label": "Interview with a Scholar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870421,
+        "label": "History of the World, Part 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870422,
+        "label": "Book of Secrets"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870423,
+        "label": "Book Hunt"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870424,
+        "label": "You Spoony Bard!"
+      }
+    ]
+  },
+  {
+    "id": 1870520,
+    "title": "Partisan of The Well",
+    "description": "This achievement is gained upon completing the following quests in The Well:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1804,
+    "subcategoryName": "Quests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870520,
+        "label": "Down the Hole"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870521,
+        "label": "All Alone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870522,
+        "label": "At Peace I Will Be"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870523,
+        "label": "All Is Not Forgotten Part 1"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870524,
+        "label": "All Is Not Forgotten Part 2"
+      }
+    ]
+  },
+  {
+    "id": 1870930,
+    "title": "Hero of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon completing the following missions in Al'Kabor's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870930,
+        "label": "Catastrophic Power"
+      }
+    ]
+  },
+  {
+    "id": 1870630,
+    "title": "Hero of Erudin Burning",
+    "description": "This achievement is gained upon completing the following missions in Erudin Burning:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870630,
+        "label": "The Illuminating Truth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870631,
+        "label": "The Pit of All Fears"
+      }
+    ]
+  },
+  {
+    "id": 1871130,
+    "title": "Hero of Fear Itself",
+    "description": "This achievement is gained upon completing the following missions in Fear Itself:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871130,
+        "label": "An Offering to Thule"
+      }
+    ]
+  },
+  {
+    "id": 1871030,
+    "title": "Hero of Miragul's Nightmare",
+    "description": "This achievement is gained upon completing the following missions in Miragul's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871030,
+        "label": "Miragul's Vendetta"
+      }
+    ]
+  },
+  {
+    "id": 1870730,
+    "title": "Hero of Morell's Castle",
+    "description": "This achievement is gained upon completing the following missions in Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870730,
+        "label": "Hippity Hoppity Kill"
+      }
+    ]
+  },
+  {
+    "id": 1870830,
+    "title": "Hero of Sanctum Somnium",
+    "description": "This achievement is gained upon completing the following missions in Sanctum Somnium:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870830,
+        "label": "Morell's Challenge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870831,
+        "label": "Morell Ascendant"
+      }
+    ]
+  },
+  {
+    "id": 1870030,
+    "title": "Hero of The Feerrott",
+    "description": "This achievement is gained upon completing the following missions in The Feerrott:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870030,
+        "label": "Fall of the Tae Ew"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870031,
+        "label": "A Tearable Fear"
+      }
+    ]
+  },
+  {
+    "id": 1870330,
+    "title": "Hero of The Grounds",
+    "description": "This achievement is gained upon completing the following missions in The Grounds:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870330,
+        "label": "The Gardener"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870331,
+        "label": "Mashing Pumpkins"
+      }
+    ]
+  },
+  {
+    "id": 1870130,
+    "title": "Hero of the House of Thule",
+    "description": "This achievement is gained upon completing the following missions in the House of Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870130,
+        "label": "Welcome to My Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1870230,
+    "title": "Hero of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon completing the following missions in the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870230,
+        "label": "Redemption"
+      }
+    ]
+  },
+  {
+    "id": 1870430,
+    "title": "Hero of The Library",
+    "description": "This achievement is gained upon completing the following missions in The Library:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870430,
+        "label": "The Stuff of Dreams"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870431,
+        "label": "A Moment of Clarity"
+      }
+    ]
+  },
+  {
+    "id": 1870530,
+    "title": "Hero of The Well",
+    "description": "This achievement is gained upon completing the following missions in The Well:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1805,
+    "subcategoryName": "Missions",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870531,
+        "label": "No Freedom in Death"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870530,
+        "label": "What Lies Below"
+      }
+    ]
+  },
+  {
+    "id": 1870940,
+    "title": "Conqueror of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon completing the following raids in Al'Kabor's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870940,
+        "label": "At World's End"
+      }
+    ]
+  },
+  {
+    "id": 1870640,
+    "title": "Conqueror of Erudin Burning",
+    "description": "This achievement is gained upon completing the following raids in Erudin Burning:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870640,
+        "label": "The Torches of Truth"
+      }
+    ]
+  },
+  {
+    "id": 1871140,
+    "title": "Conqueror of Fear Itself",
+    "description": "This achievement is gained upon completing the following raids in Fear Itself:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871140,
+        "label": "Cazic's Final Stand"
+      }
+    ]
+  },
+  {
+    "id": 1871040,
+    "title": "Conqueror of Miragul's Nightmare",
+    "description": "This achievement is gained upon completing the following raids in Miragul's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871040,
+        "label": "The Force of Eternity"
+      }
+    ]
+  },
+  {
+    "id": 1870740,
+    "title": "Conqueror of Morell's Castle",
+    "description": "This achievement is gained upon completing the following raids in Morell's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870740,
+        "label": "The Awakening"
+      }
+    ]
+  },
+  {
+    "id": 1870840,
+    "title": "Conqueror of Sanctum Somnium",
+    "description": "This achievement is gained upon completing the following raids in Sanctum Somnium:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870840,
+        "label": "Taking the Tower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870841,
+        "label": "The Essence of Dreams"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870842,
+        "label": "Under the Sea"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870843,
+        "label": "Islands of Sand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870844,
+        "label": "Elements of a Dream"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870845,
+        "label": "The Cages of Testing"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870846,
+        "label": "Morell Ascendant"
+      }
+    ]
+  },
+  {
+    "id": 1870040,
+    "title": "Conqueror of The Feerrott",
+    "description": "This achievement is gained upon completing the following raids in The Feerrott:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870040,
+        "label": "Ritual of Terror"
+      }
+    ]
+  },
+  {
+    "id": 1870340,
+    "title": "Conqueror of The Grounds",
+    "description": "This achievement is gained upon completing the following raids in The Grounds:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870340,
+        "label": "The Roots of Evil"
+      }
+    ]
+  },
+  {
+    "id": 1870140,
+    "title": "Conqueror of the House of Thule",
+    "description": "This achievement is gained upon completing the following raids in the House of Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870140,
+        "label": "Tick Tock"
+      }
+    ]
+  },
+  {
+    "id": 1870240,
+    "title": "Conqueror of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon completing the following raids in the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870240,
+        "label": "Guardian of the House"
+      }
+    ]
+  },
+  {
+    "id": 1870440,
+    "title": "Conqueror of The Library",
+    "description": "This achievement is gained upon completing the following raids in The Library:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870440,
+        "label": "The Librarian's Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1870540,
+    "title": "Conqueror of The Well",
+    "description": "This achievement is gained upon completing the following raids in The Well:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1806,
+    "subcategoryName": "Raids",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870540,
+        "label": "Terror in the Dark"
+      }
+    ]
+  },
+  {
+    "id": 1870454,
+    "title": "A Moment of Clarity: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870454,
+        "label": "Complete \"A Moment of Clarity\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870453,
+    "title": "A Moment of Clarity: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870453,
+        "label": "Complete \"A Moment of Clarity\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870054,
+    "title": "A Tearable Fear: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870054,
+        "label": "Complete \"A Tearable Fear\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870053,
+    "title": "A Tearable Fear: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870053,
+        "label": "Complete \"A Tearable Fear\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870252,
+    "title": "An Icy Death",
+    "description": "This special challenge can be completed during the mission \"Redemption\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870252,
+        "label": "Defeat Balni Stoneskull and Frugvi Jumpmaker while they are submerged in the icy water."
+      }
+    ]
+  },
+  {
+    "id": 1871151,
+    "title": "An Offering to Thule: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871151,
+        "label": "Complete \"An Offering to Thule\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1871150,
+    "title": "An Offering to Thule: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871150,
+        "label": "Complete \"An Offering to Thule\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870655,
+    "title": "Arachnophobia",
+    "description": "This special challenge can be completed during the mission \"The Pit of All Fears\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870655,
+        "label": "Defeat 5 young terrorspinners before defeating Hulkenfang."
+      }
+    ]
+  },
+  {
+    "id": 1870355,
+    "title": "Black Thumb",
+    "description": "This special challenge can be completed during the mission \"Mashing Pumpkins\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870355,
+        "label": "Smash 20 pumpkins within 15 seconds."
+      }
+    ]
+  },
+  {
+    "id": 1871052,
+    "title": "Bone Breaker",
+    "description": "This special challenge can be completed during the mission \"Miragul's Vendetta\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871052,
+        "label": "Destroy all undead necromancers and shadowknights within 60 minutes of entering the mission."
+      }
+    ]
+  },
+  {
+    "id": 1870951,
+    "title": "Catastrophic Power: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870951,
+        "label": "Complete \"Catastrophic Power\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870950,
+    "title": "Catastrophic Power: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870950,
+        "label": "Complete \"Catastrophic Power\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870352,
+    "title": "Deconstructed",
+    "description": "This special challenge can be completed during the mission \"The Gardener\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870352,
+        "label": "Defeat Gardener Aeriht without destroying any of his constructs."
+      }
+    ]
+  },
+  {
+    "id": 1870852,
+    "title": "Discover the Rainbow",
+    "description": "This special challenge can be completed during the mission \"Morell's Challenge\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870852,
+        "label": "Find the red, orange, yellow, blue, and purple beacons in that order."
+      }
+    ]
+  },
+  {
+    "id": 1870952,
+    "title": "Exterminator",
+    "description": "This special challenge can be completed during the mission \"Catastrophic Power\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870952,
+        "label": "Defeat all drachnids before confronting Al'Kabor."
+      }
+    ]
+  },
+  {
+    "id": 1870051,
+    "title": "Fall of the Tae Ew: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870051,
+        "label": "Complete \"Fall of the Tae Ew\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870050,
+    "title": "Fall of the Tae Ew: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870050,
+        "label": "Complete \"Fall of the Tae Ew\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870752,
+    "title": "Fast Talker",
+    "description": "This special challenge can be completed during the mission \"Hippity Hoppity Kill\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870752,
+        "label": "Speak to Tergan, Nalder, Thaelin, and Saena in less than 10 seconds."
+      }
+    ]
+  },
+  {
+    "id": 1870052,
+    "title": "Guard Breaker",
+    "description": "This special challenge can be completed during the mission \"Fall of the Tae Ew\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870052,
+        "label": "Defeat all the Amygdalan Guardians within 4 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870751,
+    "title": "Hippity Hoppity Kill: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870751,
+        "label": "Complete \"Hippity Hoppity Kill\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870750,
+    "title": "Hippity Hoppity Kill: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870750,
+        "label": "Complete \"Hippity Hoppity Kill\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870552,
+    "title": "Hollow Victory",
+    "description": "This special challenge can be completed during the mission \"What Lies Below\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870552,
+        "label": "Defeat Zurlak while the entire party is afflicted with Barren Soul."
+      }
+    ]
+  },
+  {
+    "id": 1870055,
+    "title": "Make it Quick",
+    "description": "This special challenge can be completed during the mission \"A Tearable Fear\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870055,
+        "label": "Defeat Cyndreela in less than 75 seconds."
+      }
+    ]
+  },
+  {
+    "id": 1870354,
+    "title": "Mashing Pumpkins: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870354,
+        "label": "Complete \"Mashing Pumpkins\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870353,
+    "title": "Mashing Pumpkins: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870353,
+        "label": "Complete \"Mashing Pumpkins\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1871051,
+    "title": "Miragul's Vendetta: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871051,
+        "label": "Complete \"Miragul's Vendetta\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1871050,
+    "title": "Miragul's Vendetta: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871050,
+        "label": "Complete \"Miragul's Vendetta\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870854,
+    "title": "Morell Ascendant: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870854,
+        "label": "Complete \"Morell Ascendant\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870853,
+    "title": "Morell Ascendant: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870853,
+        "label": "Complete \"Morell Ascendant\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870851,
+    "title": "Morell's Challenge: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870851,
+        "label": "Complete \"Morell's Challenge\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870850,
+    "title": "Morell's Challenge: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870850,
+        "label": "Complete \"Morell's Challenge\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870554,
+    "title": "No Freedom in Death: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870554,
+        "label": "Complete \"No Freedom in Death\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870553,
+    "title": "No Freedom in Death: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870553,
+        "label": "Complete \"No Freedom in Death\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870251,
+    "title": "Redemption: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870251,
+        "label": "Complete \"Redemption\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870250,
+    "title": "Redemption: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870250,
+        "label": "Complete \"Redemption\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1800250,
+    "title": "Savior of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon completing all quests and missions in Al'Kabor's Nightmare",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800250,
+        "label": "Mercenary of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800251,
+        "label": "Partisan of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800252,
+        "label": "Hero of Al'Kabor's Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1800235,
+    "title": "Savior of Erudin Burning",
+    "description": "This achievement is gained upon completing all quests and missions in Erudin Burning",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800235,
+        "label": "Mercenary of Erudin Burning"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800236,
+        "label": "Partisan of Erudin Burning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800237,
+        "label": "Hero of Erudin Burning"
+      }
+    ]
+  },
+  {
+    "id": 1800260,
+    "title": "Savior of Fear Itself",
+    "description": "This achievement is gained upon completing all quests and missions in Fear Itself",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800260,
+        "label": "Mercenary of Fear Itself"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800261,
+        "label": "Partisan of Fear Itself"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800262,
+        "label": "Hero of Fear Itself"
+      }
+    ]
+  },
+  {
+    "id": 1800255,
+    "title": "Savior of Miragul's Nightmare",
+    "description": "This achievement is gained upon completing all quests and missions in Miragul's Nightmare",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800255,
+        "label": "Mercenary of Miragul's Nightmare"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800256,
+        "label": "Partisan of Miragul's Nightmare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800257,
+        "label": "Hero of Miragul's Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 1800240,
+    "title": "Savior of Morell's Castle",
+    "description": "This achievement is gained upon completing all quests and missions in Morell's Castle",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800240,
+        "label": "Mercenary of Morell's Castle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800241,
+        "label": "Partisan of Morell's Castle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800242,
+        "label": "Hero of Morell's Castle"
+      }
+    ]
+  },
+  {
+    "id": 1800245,
+    "title": "Savior of Sanctum Somnium",
+    "description": "This achievement is gained upon completing all quests and missions in Sanctum Somnium",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800245,
+        "label": "Mercenary of Sanctum Somnium"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800246,
+        "label": "Partisan of Sanctum Somnium"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800247,
+        "label": "Hero of Sanctum Somnium"
+      }
+    ]
+  },
+  {
+    "id": 1800205,
+    "title": "Savior of The Feerrott",
+    "description": "This achievement is gained upon completing all quests and missions in The Feerrott",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800205,
+        "label": "Mercenary of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800206,
+        "label": "Partisan of The Feerrott"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800207,
+        "label": "Hero of The Feerrott"
+      }
+    ]
+  },
+  {
+    "id": 1800220,
+    "title": "Savior of The Grounds",
+    "description": "This achievement is gained upon completing all quests and missions in The Grounds",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800220,
+        "label": "Mercenary of The Grounds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800221,
+        "label": "Partisan of The Grounds"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800222,
+        "label": "Hero of The Grounds"
+      }
+    ]
+  },
+  {
+    "id": 1800210,
+    "title": "Savior of the House of Thule",
+    "description": "This achievement is gained upon completing all quests and missions in the House of Thule",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800210,
+        "label": "Mercenary of the House of Thule"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800211,
+        "label": "Partisan of the House of Thule"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800212,
+        "label": "Hero of the House of Thule"
+      }
+    ]
+  },
+  {
+    "id": 1800215,
+    "title": "Savior of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon completing all quests and missions in the House of Thule, Upper Floors",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800215,
+        "label": "Mercenary of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800216,
+        "label": "Partisan of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800217,
+        "label": "Hero of the House of Thule, Upper Floors"
+      }
+    ]
+  },
+  {
+    "id": 1800225,
+    "title": "Savior of The Library",
+    "description": "This achievement is gained upon completing all quests and missions in The Library",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800225,
+        "label": "Mercenary of The Library"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800226,
+        "label": "Partisan of The Library"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800227,
+        "label": "Hero of The Library"
+      }
+    ]
+  },
+  {
+    "id": 1800230,
+    "title": "Savior of The Well",
+    "description": "This achievement is gained upon completing all quests and missions in The Well",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800230,
+        "label": "Mercenary of The Well"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800231,
+        "label": "Partisan of The Well"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800232,
+        "label": "Hero of The Well"
+      }
+    ]
+  },
+  {
+    "id": 1870652,
+    "title": "Special Delivery",
+    "description": "This special challenge can be completed during the mission \"The Illuminating Truth\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870652,
+        "label": "Return the wood, oil, and page within 10 minutes of being asked to get them."
+      }
+    ]
+  },
+  {
+    "id": 1870351,
+    "title": "The Gardener: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870351,
+        "label": "Complete \"The Gardener\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870350,
+    "title": "The Gardener: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870350,
+        "label": "Complete \"The Gardener\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870555,
+    "title": "The Great Escape",
+    "description": "This special challenge can be completed during the mission \"No Freedom in Death\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870555,
+        "label": "Complete the mission without killing any Lost Souls."
+      }
+    ]
+  },
+  {
+    "id": 1870651,
+    "title": "The Illuminating Truth: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870651,
+        "label": "Complete \"The Illuminating Truth\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870650,
+    "title": "The Illuminating Truth: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870650,
+        "label": "Complete \"The Illuminating Truth\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870654,
+    "title": "The Pit of All Fears: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870654,
+        "label": "Complete \"The Pit of All Fears\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870653,
+    "title": "The Pit of All Fears: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870653,
+        "label": "Complete \"The Pit of All Fears\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870451,
+    "title": "The Stuff of Dreams: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870451,
+        "label": "Complete \"The Stuff of Dreams\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870450,
+    "title": "The Stuff of Dreams: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870450,
+        "label": "Complete \"The Stuff of Dreams\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870152,
+    "title": "There's a Curse for That",
+    "description": "This special challenge can be completed during the mission \"Welcome to my Nightmare\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870152,
+        "label": "Defeat Breoro while afflicted by all four of the beast's curses."
+      }
+    ]
+  },
+  {
+    "id": 1870855,
+    "title": "They Must Be Purified",
+    "description": "This special challenge can be completed during the mission \"Morell Ascendant\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870855,
+        "label": "Defeat all choleric unicorns without killing any apoplectic satyrs or deranged gouzah rabbits."
+      }
+    ]
+  },
+  {
+    "id": 1870151,
+    "title": "Welcome to my Nightmare: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870151,
+        "label": "Complete \"Welcome to my Nightmare\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870150,
+    "title": "Welcome to my Nightmare: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870150,
+        "label": "Complete \"Welcome to my Nightmare\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870551,
+    "title": "What Lies Below: Challenge of Toughness",
+    "description": "This achievement is gained upon completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870551,
+        "label": "Complete \"What Lies Below\" without any player dying."
+      }
+    ]
+  },
+  {
+    "id": 1870550,
+    "title": "What Lies Below: Time Trial",
+    "description": "This achievement is gained upon completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870550,
+        "label": "Complete \"What Lies Below\" in under 45 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1870452,
+    "title": "Who's the Boss",
+    "description": "This special challenge can be completed during the mission \"The Stuff of Dreams\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870452,
+        "label": "Defeat all named enemies except Matilda before defeating their minions."
+      }
+    ]
+  },
+  {
+    "id": 1870455,
+    "title": "You're Fired",
+    "description": "This special challenge can be completed during the mission \"A Moment of Clarity\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870455,
+        "label": "Defeat all assistants before defeating any librarians."
+      }
+    ]
+  },
+  {
+    "id": 1871152,
+    "title": "Your Three Best Friends",
+    "description": "This special challenge can be completed during the mission \"An Offering to Thule\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1807,
+    "subcategoryName": "Conquests",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871152,
+        "label": "Defeat Dread, Fright, and Terror after all other creatures are defeated."
+      }
+    ]
+  },
+  {
+    "id": 1800180,
+    "title": "Adept Hunter of the House of Thule",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800180,
+        "label": "Hunter of The Grounds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800181,
+        "label": "Hunter of The Well"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800182,
+        "label": "Hunter of The Library"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800183,
+        "label": "Hunter of Erudin Burning"
+      }
+    ]
+  },
+  {
+    "id": 1800190,
+    "title": "Expert Hunter of the House of Thule",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800190,
+        "label": "Hunter of Morell's Castle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800191,
+        "label": "Hunter of Sanctum Somnium"
+      }
+    ]
+  },
+  {
+    "id": 1870960,
+    "title": "Hunter of Al'Kabor's Nightmare",
+    "description": "This achievement is gained upon defeating the following rare monsters in Al'Kabor's Nightmare:",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870960,
+        "label": "Princess Klaknak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870961,
+        "label": "Queen Klaknak"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870962,
+        "label": "Graster"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870963,
+        "label": "Winfrey the Mad"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870964,
+        "label": "Mooto"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870965,
+        "label": "Jenni Hollowfield"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870966,
+        "label": "Drenz"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870967,
+        "label": "a berserk mammoth"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870968,
+        "label": "General Jyleel"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870969,
+        "label": "Heartwood Master"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870970,
+        "label": "Zyren Shadowriver"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870971,
+        "label": "Emperor Crush"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870972,
+        "label": "Plaguebone Overlord"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870973,
+        "label": "a drolvarg captain"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870974,
+        "label": "a drachnid bloodknight"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870975,
+        "label": "a mountain giant patriarch"
+      }
+    ]
+  },
+  {
+    "id": 1870660,
+    "title": "Hunter of Erudin Burning",
+    "description": "This achievement is gained upon defeating the following rare monsters in Erudin Burning:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870660,
+        "label": "Garnak Pryphan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870661,
+        "label": "Kanah the Heartslicer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870662,
+        "label": "Algot the Deathshaper"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870663,
+        "label": "Femurstack"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870664,
+        "label": "Handar Prentius"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870665,
+        "label": "Vindel the Ripper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870666,
+        "label": "The Tome-Eater"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870667,
+        "label": "Maggotscalp"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870668,
+        "label": "Brutus"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870669,
+        "label": "Damar the Overseer"
+      }
+    ]
+  },
+  {
+    "id": 1871160,
+    "title": "Hunter of Fear Itself",
+    "description": "This achievement is gained upon defeating the following rare monsters in Fear Itself:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871160,
+        "label": "Irak Altil"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871161,
+        "label": "Odium"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871162,
+        "label": "Katerra the Anguished"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871163,
+        "label": "Fright"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871164,
+        "label": "Iron Fist"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1871165,
+        "label": "Zykean"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1871166,
+        "label": "Wraith of a Shissar"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1871167,
+        "label": "Shakare"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1871168,
+        "label": "Nightmare of Thule"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1871169,
+        "label": "Tempest Reaver"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1871170,
+        "label": "Giant Phoboplasm"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1871171,
+        "label": "Possessed Samhain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1871172,
+        "label": "Ireblind Imp"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1871173,
+        "label": "Undead Shiverback"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1871174,
+        "label": "Dread"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1871175,
+        "label": "Terror"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1871176,
+        "label": "Engorged Spinechiller"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1871177,
+        "label": "Twisted Tormentor"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1871178,
+        "label": "Decrepit Warder"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1871179,
+        "label": "Mindleech"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1871180,
+        "label": "Deranged Toad"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1871181,
+        "label": "Essence of Terror"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1871182,
+        "label": "Dyalgem"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1871183,
+        "label": "Mastelyn"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1871184,
+        "label": "Undaleen"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1871185,
+        "label": "Rerekalen"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1871186,
+        "label": "Argendev"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1871187,
+        "label": "Ancient Dracoliche"
+      }
+    ]
+  },
+  {
+    "id": 1871060,
+    "title": "Hunter of Miragul's Nightmare",
+    "description": "This achievement is gained upon defeating the following rare monsters in Miragul's Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1871060,
+        "label": "Soul Taster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1871061,
+        "label": "Fearstalker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1871062,
+        "label": "Iglum the Deformed"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1871063,
+        "label": "Bloodfeather"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1871064,
+        "label": "Shadowlord Gixblat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1871065,
+        "label": "Gilibus the Unseen"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1871066,
+        "label": "Foeslicer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1871067,
+        "label": "Sotor the Unmerciful"
+      }
+    ]
+  },
+  {
+    "id": 1870760,
+    "title": "Hunter of Morell's Castle",
+    "description": "This achievement is gained upon defeating the following rare monsters in Morell's Castle:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870760,
+        "label": "Feral Jackrabbit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870761,
+        "label": "Bishop the Scorned"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870762,
+        "label": "Esmeralda the Vengeful"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870763,
+        "label": "Guardian Ather"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870764,
+        "label": "Gezriela"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870765,
+        "label": "Chief Maeder"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870766,
+        "label": "Gnarlvine"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870767,
+        "label": "Wisp of Hope"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870768,
+        "label": "Dreamweaver"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870769,
+        "label": "Greeta"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870770,
+        "label": "Songstress Laioni"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870771,
+        "label": "Zerkelos the Damned"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870772,
+        "label": "Oruff the Seer"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870773,
+        "label": "Silbacle"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870774,
+        "label": "Nesseun"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870775,
+        "label": "Redmur the Dreamlancer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1870776,
+        "label": "Omander the Devoted"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1870777,
+        "label": "The Puppeteer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1870778,
+        "label": "Speckles"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1870779,
+        "label": "Seawitch Persion"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1870780,
+        "label": "Bielaisk"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1870781,
+        "label": "Hans"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1870782,
+        "label": "Forest Phantasm"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1870783,
+        "label": "Daelai"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1870784,
+        "label": "The Constructor"
+      }
+    ]
+  },
+  {
+    "id": 1870860,
+    "title": "Hunter of Sanctum Somnium",
+    "description": "This achievement is gained upon defeating the following rare monsters in Sanctum Somnium:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870860,
+        "label": "an arcane warden"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870861,
+        "label": "Archmagus Erlen"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870862,
+        "label": "Archmagus Nesalie"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870863,
+        "label": "The Beast King"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870864,
+        "label": "a bladedancer guardian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870865,
+        "label": "a bright warden"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870866,
+        "label": "Conjurer Nallen"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870867,
+        "label": "Demonologist Sharra"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870868,
+        "label": "The Dream Collector"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870869,
+        "label": "The Dream Destroyer"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870870,
+        "label": "Executor Bashka"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870871,
+        "label": "a flesheating beetle"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870872,
+        "label": "a giant warlord"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870873,
+        "label": "a goblin raid leader"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870874,
+        "label": "High Priest Casmion"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870875,
+        "label": "High Priest Darsia"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1870876,
+        "label": "an infected rat"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1870877,
+        "label": "Knight Captain Elena"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1870878,
+        "label": "Knight Captain Rosch"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1870879,
+        "label": "Larrow the Demented"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1870880,
+        "label": "a lifeweaver servant"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1870881,
+        "label": "Master Thief Quentin"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1870882,
+        "label": "a psychotic leprechaun"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1870883,
+        "label": "Rites Master Lorett"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1870884,
+        "label": "a shadow warden"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1870885,
+        "label": "a shieldbearer guardian"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1870886,
+        "label": "a soulmage servant"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1870887,
+        "label": "a spellsword guardian"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1870888,
+        "label": "a spellward servant"
+      }
+    ]
+  },
+  {
+    "id": 1870060,
+    "title": "Hunter of The Feerrott",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Feerrott:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870060,
+        "label": "Malice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870061,
+        "label": "The Leaper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870062,
+        "label": "Tanglewolf Alpha"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870063,
+        "label": "Whitepaw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870064,
+        "label": "Vermilion"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870065,
+        "label": "Sable"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870066,
+        "label": "Enraged Gorilla Patriarch"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870067,
+        "label": "Festerback"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870068,
+        "label": "Blackbone"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870069,
+        "label": "Fearful Specter"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870070,
+        "label": "Patches"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870071,
+        "label": "Diggory the Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870072,
+        "label": "Donna the Explorer"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870073,
+        "label": "Expedition Leader Krupp"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870074,
+        "label": "Shaman Ixchell"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870075,
+        "label": "Watcher Yaotl"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1870076,
+        "label": "Huetzin the Brute"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1870077,
+        "label": "Temilotzin the Zealot"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1870078,
+        "label": "Xiucozcatl the Feared"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1870079,
+        "label": "Sentinel Quilaztli"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1870080,
+        "label": "Voracious Feeder"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1870081,
+        "label": "Terror Unleashed"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1870082,
+        "label": "Bouncer Captain Grak"
+      }
+    ]
+  },
+  {
+    "id": 1870360,
+    "title": "Hunter of The Grounds",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Grounds:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870360,
+        "label": "Slynassin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870361,
+        "label": "Venilinam"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870362,
+        "label": "Minadra"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870363,
+        "label": "Zonoraz"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870364,
+        "label": "Riggbit"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870365,
+        "label": "Croakem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870366,
+        "label": "Helias"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870367,
+        "label": "Pelias"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870368,
+        "label": "Rend"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870369,
+        "label": "Raze"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870370,
+        "label": "Arenrhaed"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870371,
+        "label": "Agraena"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870372,
+        "label": "Grigoran"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870373,
+        "label": "Andrevas"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870374,
+        "label": "Distraught Heap"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870375,
+        "label": "Chaotic Heap"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1870376,
+        "label": "Kijaemz"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1870377,
+        "label": "Biunahde"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1870378,
+        "label": "Vicious Gourd"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1870379,
+        "label": "Patch Guardian"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1870380,
+        "label": "Compost Cube"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1870381,
+        "label": "Beget Cube"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1870382,
+        "label": "Angry Wasp"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1870383,
+        "label": "Vile Wasp"
+      }
+    ]
+  },
+  {
+    "id": 1870160,
+    "title": "Hunter of the House of Thule",
+    "description": "This achievement is gained upon defeating the following rare monsters in the House of Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870160,
+        "label": "Nightmare Widow"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870161,
+        "label": "Gristle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870162,
+        "label": "Bonecracker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870163,
+        "label": "Isabeaux Darkdreamer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870164,
+        "label": "The Executioner"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870165,
+        "label": "Fearsniffer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870166,
+        "label": "Nightscale"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870167,
+        "label": "Gibbering Haunt"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1870168,
+        "label": "Old Rusty"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1870169,
+        "label": "Darnor the Terror Lord"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1870170,
+        "label": "Dreameater"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1870171,
+        "label": "Dreamslayer"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1870172,
+        "label": "Executioner Brand"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1870173,
+        "label": "Sleepeater"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1870174,
+        "label": "Shaman Jorg"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1870175,
+        "label": "Ganborn"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1870176,
+        "label": "Giblets"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1870177,
+        "label": "Nightmare Golem"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1870178,
+        "label": "Fearhowler"
+      }
+    ]
+  },
+  {
+    "id": 1870260,
+    "title": "Hunter of the House of Thule, Upper Floors",
+    "description": "This achievement is gained upon defeating the following rare monsters in the House of Thule, Upper Floors:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870260,
+        "label": "Icefang"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870261,
+        "label": "Icy Devourer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870262,
+        "label": "Spitecrawler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870263,
+        "label": "Nightfang"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870264,
+        "label": "Bodabas"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870265,
+        "label": "Swirling Fog Elemental"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870266,
+        "label": "Bloodmane"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870267,
+        "label": "Rotticus"
+      }
+    ]
+  },
+  {
+    "id": 1870460,
+    "title": "Hunter of The Library",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Library:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870460,
+        "label": "Professor Glumb"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870461,
+        "label": "Curator Majda"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870462,
+        "label": "Head Librarian Matilda"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1870463,
+        "label": "Archivist Herrdar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1870464,
+        "label": "Chronicler Cerro"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1870465,
+        "label": "Tome of the Fallen"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1870466,
+        "label": "Compendium of Nightmares"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1870467,
+        "label": "Ardull the Watcher"
+      }
+    ]
+  },
+  {
+    "id": 1870560,
+    "title": "Hunter of The Well",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Well:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1870560,
+        "label": "Death Spider"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1870561,
+        "label": "Death Stinger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1870562,
+        "label": "Doom Snake"
+      }
+    ]
+  },
+  {
+    "id": 1800175,
+    "title": "Novice Hunter of the House of Thule",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800175,
+        "label": "Hunter of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800176,
+        "label": "Hunter of the House of Thule"
+      }
+    ]
+  },
+  {
+    "id": 1800185,
+    "title": "Veteran Hunter of the House of Thule",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1808,
+    "subcategoryName": "Hunts",
+    "categoryId": 1800,
+    "categoryName": "House of Thule",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1800185,
+        "label": "Hunter of the House of Thule, Upper Floors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1800186,
+        "label": "Hunter of Al'Kabor's Nightmare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1800187,
+        "label": "Hunter of Miragul's Nightmare"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1800188,
+        "label": "Hunter of Fear Itself"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6180 @@
+[
+  {
+    "id": 100060,
+    "title": "Conqueror of Norrath",
+    "description": "This achievement is gained upon completing all the raids in The Original Three Continents.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 101,
+    "subcategoryName": "General",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 1001520,
+        "label": "Conqueror of The Caverns of Exile"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001484,
+        "label": "Conqueror of Kedge Keep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001485,
+        "label": "Conqueror of Nagafen's Lair"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001486,
+        "label": "Conqueror of The Permafrost Caverns"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001487,
+        "label": "Conqueror of The Plane of Fear"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001488,
+        "label": "Conqueror of The Plane of Hate"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001489,
+        "label": "Conqueror of The Plane of Sky"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001490,
+        "label": "Conqueror of The Ruins of Old Paineel or The Hole"
+      }
+    ]
+  },
+  {
+    "id": 100000050,
+    "title": "Norrathian Explorer",
+    "description": "This achievement is gained upon visiting all the following places:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 101,
+    "subcategoryName": "General",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270856,
+        "label": "Faydwer Explorer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270859,
+        "label": "Northeast Antonica Explorer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270858,
+        "label": "Northwest Antonica Explorer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270857,
+        "label": "Odus Explorer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270861,
+        "label": "Southeast Antonica Explorer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270860,
+        "label": "Southwest Antonica Explorer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270862,
+        "label": "The Planes Explorer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270865,
+        "label": "Special Events Explorer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270864,
+        "label": "Housing Explorer"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270863,
+        "label": "Guild Locals Explorer"
+      }
+    ]
+  },
+  {
+    "id": 100085,
+    "title": "Norrathian Slayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 101,
+    "subcategoryName": "General",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001002,
+        "label": "Hunter of Faydwer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001005,
+        "label": "Hunter of Northeast Antonica"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001004,
+        "label": "Hunter of Northwest Antonica"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001003,
+        "label": "Hunter of Odus"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001007,
+        "label": "Hunter of Southeast Antonica"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001006,
+        "label": "Hunter of Southwest Antonica"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 1001008,
+        "label": "Hunter of The Planes"
+      }
+    ]
+  },
+  {
+    "id": 100005500,
+    "title": "Ak'Anon Traveler",
+    "description": "This achievement is gained upon visiting Ak'Anon.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270049,
+        "label": "Visit Ak'Anon"
+      }
+    ]
+  },
+  {
+    "id": 100003600,
+    "title": "Befallen Traveler",
+    "description": "This achievement is gained upon visiting Befallen.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270032,
+        "label": "Visit Befallen"
+      }
+    ]
+  },
+  {
+    "id": 100001700,
+    "title": "Blackburrow Traveler",
+    "description": "This achievement is gained upon visiting Blackburrow.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270015,
+        "label": "Visit Blackburrow"
+      }
+    ]
+  },
+  {
+    "id": 100006800,
+    "title": "Butcherblock Mountains Traveler",
+    "description": "This achievement is gained upon visiting Butcherblock Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270062,
+        "label": "Visit Butcherblock Mountains"
+      }
+    ]
+  },
+  {
+    "id": 100005800,
+    "title": "Crushbone Traveler",
+    "description": "This achievement is gained upon visiting Crushbone.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270052,
+        "label": "Visit Crushbone"
+      }
+    ]
+  },
+  {
+    "id": 100007000,
+    "title": "Dagnor's Cauldron Traveler",
+    "description": "This achievement is gained upon visiting Dagnor's Cauldron.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270064,
+        "label": "Visit Dagnor's Cauldron"
+      }
+    ]
+  },
+  {
+    "id": 100049500,
+    "title": "Dragoncrypt Traveler",
+    "description": "This achievement is gained upon visiting Dragoncrypt.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270425,
+        "label": "Visit Dragoncrypt"
+      }
+    ]
+  },
+  {
+    "id": 100001000,
+    "title": "East Freeport Traveler",
+    "description": "This achievement is gained upon visiting East Freeport.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270008,
+        "label": "Visit East Freeport"
+      }
+    ]
+  },
+  {
+    "id": 100001500,
+    "title": "Eastern Plains of Karana Traveler",
+    "description": "This achievement is gained upon visiting Eastern Plains of Karana.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270013,
+        "label": "Visit Eastern Plains of Karana"
+      }
+    ]
+  },
+  {
+    "id": 100009800,
+    "title": "Erud's Crossing Traveler",
+    "description": "This achievement is gained upon visiting Erud's Crossing.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270091,
+        "label": "Visit Erud's Crossing"
+      }
+    ]
+  },
+  {
+    "id": 100002400,
+    "title": "Erudin Traveler",
+    "description": "This achievement is gained upon visiting Erudin.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270022,
+        "label": "Visit Erudin"
+      }
+    ]
+  },
+  {
+    "id": 100003000,
+    "title": "Everfrost Peaks Traveler",
+    "description": "This achievement is gained upon visiting Everfrost Peaks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270026,
+        "label": "Visit Everfrost Peaks"
+      }
+    ]
+  },
+  {
+    "id": 100000051,
+    "title": "Faydwer Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Faydwer.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270765,
+        "label": "Ak'Anon Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270766,
+        "label": "Butcherblock Mountains Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270761,
+        "label": "Crushbone Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270769,
+        "label": "Dagnor's Cauldron Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270771,
+        "label": "Kedge Keep Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270768,
+        "label": "North Kaladim Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270758,
+        "label": "Northern Felwithe Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270767,
+        "label": "South Kaladim Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270759,
+        "label": "Southern Felwithe Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270763,
+        "label": "The Castle of Mistmoore Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270770,
+        "label": "The Estate of Unrest Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270760,
+        "label": "The Greater Faydark Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270762,
+        "label": "The Lesser Faydark Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270772,
+        "label": "The Ocean of Tears Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270764,
+        "label": "The Steamfont Mountains Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100038400,
+    "title": "Freeport Sewers Traveler",
+    "description": "This achievement is gained upon visiting Freeport Sewers.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270320,
+        "label": "Visit Freeport Sewers"
+      }
+    ]
+  },
+  {
+    "id": 100005200,
+    "title": "Grobb Traveler",
+    "description": "This achievement is gained upon visiting Grobb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270047,
+        "label": "Visit Grobb"
+      }
+    ]
+  },
+  {
+    "id": 100073800,
+    "title": "Guild Hall (Grand) Traveler",
+    "description": "This achievement is gained upon visiting a Grand Guild Hall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270463,
+        "label": "Visit a Grand Guild Hall"
+      }
+    ]
+  },
+  {
+    "id": 100075100,
+    "title": "Guild Hall (Modest) Traveler",
+    "description": "This achievement is gained upon visiting a Modest Guild Hall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270476,
+        "label": "Visit a Modest Guild Hall"
+      }
+    ]
+  },
+  {
+    "id": 100073700,
+    "title": "Guild Hall (Palatial) Traveler",
+    "description": "This achievement is gained upon visiting a Palatial Guild Hall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270462,
+        "label": "Visit a Palatial Guild Hall"
+      }
+    ]
+  },
+  {
+    "id": 100034500,
+    "title": "Guild Hall Traveler",
+    "description": "This achievement is gained upon visiting your Guild Hall.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270284,
+        "label": "Visit your Guild Hall"
+      }
+    ]
+  },
+  {
+    "id": 100034400,
+    "title": "Guild Lobby Traveler",
+    "description": "This achievement is gained upon visiting the Guild Lobby.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270283,
+        "label": "Visit the Guild Lobby"
+      }
+    ]
+  },
+  {
+    "id": 100000058,
+    "title": "Guild Locals Explorer",
+    "description": "This achievement is gained upon visiting the following Guild Locals.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270839,
+        "label": "Guild Hall Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270838,
+        "label": "Guild Lobby Traveler"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270841,
+        "label": "Guild Hall (Grand) Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270840,
+        "label": "Guild Hall (Modest) Traveler"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270842,
+        "label": "Guild Hall (Palatial) Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100002900,
+    "title": "Halas Traveler",
+    "description": "This achievement is gained upon visiting Halas.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270025,
+        "label": "Visit Halas"
+      }
+    ]
+  },
+  {
+    "id": 100000600,
+    "title": "High Keep Traveler",
+    "description": "This achievement is gained upon visiting High Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270005,
+        "label": "Visit High Keep"
+      }
+    ]
+  },
+  {
+    "id": 100000500,
+    "title": "Highpass Hold Traveler",
+    "description": "This achievement is gained upon visiting Highpass Hold.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270004,
+        "label": "Visit Highpass Hold"
+      }
+    ]
+  },
+  {
+    "id": 100077400,
+    "title": "House (Bixie Hive) Traveler",
+    "description": "This achievement is gained upon visiting a Bixie Hive House.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270478,
+        "label": "Visit a Bixie Hive House"
+      }
+    ]
+  },
+  {
+    "id": 100076600,
+    "title": "House (Evantil's Abode) Traveler",
+    "description": "This achievement is gained upon visiting an Evantil's Abode House.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270477,
+        "label": "Visit an Evantil's Abode House"
+      }
+    ]
+  },
+  {
+    "id": 100072300,
+    "title": "House (Hermit's Hideaway) Traveler",
+    "description": "This achievement is gained upon visiting a Hermit's Hideaway House.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270449,
+        "label": "Visit a Hermit's Hideaway House"
+      }
+    ]
+  },
+  {
+    "id": 100071900,
+    "title": "House (One Room Stone Interior) Traveler",
+    "description": "This achievement is gained upon visiting a One Room House with Stone Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270445,
+        "label": "Visit a One Room House with Stone Interior"
+      }
+    ]
+  },
+  {
+    "id": 100071500,
+    "title": "House (One Room Stucco Interior) Traveler",
+    "description": "This achievement is gained upon visiting a One Room House with Stucco Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270441,
+        "label": "Visit a One Room House with Stucco Interior"
+      }
+    ]
+  },
+  {
+    "id": 100071800,
+    "title": "House (One Room Wood Interior) Traveler",
+    "description": "This achievement is gained upon visiting a One Room House with Wood Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270444,
+        "label": "Visit a One Room House with Wood Interior"
+      }
+    ]
+  },
+  {
+    "id": 100071700,
+    "title": "House (Three Room Stone Interior) Traveler",
+    "description": "This achievement is gained upon visiting a Three Room House with Stone Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270443,
+        "label": "Visit a Three Room House with Stone Interior"
+      }
+    ]
+  },
+  {
+    "id": 100071400,
+    "title": "House (Three Room Stucco Interior) Traveler",
+    "description": "This achievement is gained upon visiting a Three Room House with Stucco Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270440,
+        "label": "Visit a Three Room House with Stucco Interior"
+      }
+    ]
+  },
+  {
+    "id": 100071600,
+    "title": "House (Three Room Wood Interior) Traveler",
+    "description": "This achievement is gained upon visiting a Three Room House with Wood Interior.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270442,
+        "label": "Visit a Three Room House with Wood Interior"
+      }
+    ]
+  },
+  {
+    "id": 100000059,
+    "title": "Housing Explorer",
+    "description": "This achievement is gained upon visiting the following Housing zones.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270845,
+        "label": "House (One Room Stone Interior) Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270843,
+        "label": "House (One Room Stucco Interior) Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270844,
+        "label": "House (One Room Wood Interior) Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270848,
+        "label": "House (Three Room Stone Interior) Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270846,
+        "label": "House (Three Room Stucco Interior) Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270847,
+        "label": "House (Three Room Wood Interior) Traveler"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270851,
+        "label": "House (Bixie Hive) Traveler"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270850,
+        "label": "House (Evantil's Abode) Traveler"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270849,
+        "label": "House (Hermit's Hideaway) Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100018100,
+    "title": "Jaggedpine Forest Traveler",
+    "description": "This achievement is gained upon visiting Jaggedpine Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270149,
+        "label": "Visit Jaggedpine Forest"
+      }
+    ]
+  },
+  {
+    "id": 100006400,
+    "title": "Kedge Keep Traveler",
+    "description": "This achievement is gained upon visiting Kedge Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270058,
+        "label": "Visit Kedge Keep"
+      }
+    ]
+  },
+  {
+    "id": 100002000,
+    "title": "Kithicor Forest Traveler",
+    "description": "This achievement is gained upon visiting Kithicor Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270018,
+        "label": "Visit Kithicor Forest"
+      }
+    ]
+  },
+  {
+    "id": 100005100,
+    "title": "Lake Rathetear Traveler",
+    "description": "This achievement is gained upon visiting Lake Rathetear.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270046,
+        "label": "Visit Lake Rathetear"
+      }
+    ]
+  },
+  {
+    "id": 100003200,
+    "title": "Nagafen's Lair Traveler",
+    "description": "This achievement is gained upon visiting Nagafen's Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270028,
+        "label": "Visit Nagafen's Lair"
+      }
+    ]
+  },
+  {
+    "id": 100004400,
+    "title": "Najena Traveler",
+    "description": "This achievement is gained upon visiting Najena.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270039,
+        "label": "Visit Najena"
+      }
+    ]
+  },
+  {
+    "id": 100018200,
+    "title": "Nedaria's Landing Traveler",
+    "description": "This achievement is gained upon visiting Nedaria's Landing.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270150,
+        "label": "Visit Nedaria's Landing"
+      }
+    ]
+  },
+  {
+    "id": 100004100,
+    "title": "Neriak - Commons Traveler",
+    "description": "This achievement is gained upon visiting Neriak - Commons.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270037,
+        "label": "Visit Neriak - Commons"
+      }
+    ]
+  },
+  {
+    "id": 100004000,
+    "title": "Neriak - Foreign Quarter Traveler",
+    "description": "This achievement is gained upon visiting Neriak - Foreign Quarter.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270036,
+        "label": "Visit Neriak - Foreign Quarter"
+      }
+    ]
+  },
+  {
+    "id": 100004200,
+    "title": "Neriak - Third Gate Traveler",
+    "description": "This achievement is gained upon visiting Neriak - Third Gate.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270038,
+        "label": "Visit Neriak - Third Gate"
+      }
+    ]
+  },
+  {
+    "id": 100006700,
+    "title": "North Kaladim Traveler",
+    "description": "This achievement is gained upon visiting North Kaladim.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270061,
+        "label": "Visit North Kaladim"
+      }
+    ]
+  },
+  {
+    "id": 100000200,
+    "title": "North Qeynos Traveler",
+    "description": "This achievement is gained upon visiting North Qeynos.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270001,
+        "label": "Visit North Qeynos"
+      }
+    ]
+  },
+  {
+    "id": 100000054,
+    "title": "Northeast Antonica Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Northeast Antonica.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270816,
+        "label": "Befallen Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270812,
+        "label": "East Freeport Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270814,
+        "label": "Freeport Sewers Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270823,
+        "label": "High Keep Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270822,
+        "label": "Highpass Hold Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270817,
+        "label": "Kithicor Forest Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270832,
+        "label": "Nagafen's Lair Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270830,
+        "label": "Najena Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270826,
+        "label": "Neriak - Commons Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270825,
+        "label": "Neriak - Foreign Quarter Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270827,
+        "label": "Neriak - Third Gate Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270818,
+        "label": "Rivervale Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270831,
+        "label": "Solusek's Eye Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270833,
+        "label": "The Caverns of Exile Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270815,
+        "label": "The Commonlands Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270821,
+        "label": "The Gorge of King Xorbb Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 270828,
+        "label": "The Lavastorm Mountains Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270820,
+        "label": "The Liberated Citadel of Runnyeye Traveler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 270819,
+        "label": "The Misty Thicket Traveler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 270824,
+        "label": "The Nektulos Forest Traveler"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 270829,
+        "label": "The Temple of Solusek Ro Traveler"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 270813,
+        "label": "West Freeport Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100006100,
+    "title": "Northern Felwithe Traveler",
+    "description": "This achievement is gained upon visiting Northern Felwithe.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270055,
+        "label": "Visit Northern Felwithe"
+      }
+    ]
+  },
+  {
+    "id": 100000053,
+    "title": "Northwest Antonica Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Northwest Antonica.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270803,
+        "label": "Blackburrow Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270811,
+        "label": "Eastern Plains of Karana Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270806,
+        "label": "Everfrost Peaks Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270807,
+        "label": "Halas Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270804,
+        "label": "Jaggedpine Forest Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270805,
+        "label": "Nedaria's Landing Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270799,
+        "label": "North Qeynos Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270798,
+        "label": "South Qeynos Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270810,
+        "label": "The Northern Plains of Karana Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270808,
+        "label": "The Permafrost Caverns Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270800,
+        "label": "The Qeynos Aqueduct System Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270801,
+        "label": "The Qeynos Hills Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270802,
+        "label": "The Surefall Glade Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270809,
+        "label": "The Western Plains of Karana Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100000052,
+    "title": "Odus Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Odus.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270773,
+        "label": "Erud's Crossing Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270774,
+        "label": "Erudin Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270777,
+        "label": "Paineel Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270775,
+        "label": "The Erudin Palace Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270778,
+        "label": "The Ruins of Old Paineel Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270780,
+        "label": "The Stonebrunt Mountains Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270779,
+        "label": "The Warrens Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270776,
+        "label": "Toxxulia Forest Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100004900,
+    "title": "Oggok Traveler",
+    "description": "This achievement is gained upon visiting Oggok.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270044,
+        "label": "Visit Oggok"
+      }
+    ]
+  },
+  {
+    "id": 100007500,
+    "title": "Paineel Traveler",
+    "description": "This achievement is gained upon visiting Paineel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270069,
+        "label": "Visit Paineel"
+      }
+    ]
+  },
+  {
+    "id": 100001900,
+    "title": "Rivervale Traveler",
+    "description": "This achievement is gained upon visiting Rivervale.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270017,
+        "label": "Visit Rivervale"
+      }
+    ]
+  },
+  {
+    "id": 100018700,
+    "title": "Shadowrest Traveler",
+    "description": "This achievement is gained upon visiting Shadowrest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270152,
+        "label": "Visit Shadowrest"
+      }
+    ]
+  },
+  {
+    "id": 100003100,
+    "title": "Solusek's Eye Traveler",
+    "description": "This achievement is gained upon visiting Solusek's Eye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270027,
+        "label": "Visit Solusek's Eye"
+      }
+    ]
+  },
+  {
+    "id": 100006000,
+    "title": "South Kaladim Traveler",
+    "description": "This achievement is gained upon visiting South Kaladim.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270054,
+        "label": "Visit South Kaladim"
+      }
+    ]
+  },
+  {
+    "id": 100000100,
+    "title": "South Qeynos Traveler",
+    "description": "This achievement is gained upon visiting South Qeynos.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270000,
+        "label": "Visit South Qeynos"
+      }
+    ]
+  },
+  {
+    "id": 100000056,
+    "title": "Southeast Antonica Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Southeast Antonica.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270795,
+        "label": "Grobb Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270796,
+        "label": "The City of Guk Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270794,
+        "label": "The Innothule Swamp Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270790,
+        "label": "The Northern Desert of Ro Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270791,
+        "label": "The Southern Desert of Ro Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270797,
+        "label": "The Ruins of Old Guk Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100006200,
+    "title": "Southern Felwithe Traveler",
+    "description": "This achievement is gained upon visiting Southern Felwithe.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270056,
+        "label": "Visit Southern Felwithe"
+      }
+    ]
+  },
+  {
+    "id": 100000055,
+    "title": "Southwest Antonica Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Southwest Antonica.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270783,
+        "label": "Lake Rathetear Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270788,
+        "label": "Oggok Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270789,
+        "label": "Temple of Cazic-Thule Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270784,
+        "label": "The Arena Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270787,
+        "label": "The Feerrott Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270782,
+        "label": "The Lair of the Splitpaw Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270786,
+        "label": "The Rathe Mountains Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270781,
+        "label": "The Southern Plains of Karana Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100000060,
+    "title": "Special Events Explorer",
+    "description": "This achievement is gained upon visiting these special event zones.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270835,
+        "label": "Dragoncrypt Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270834,
+        "label": "Shadowrest Traveler"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270837,
+        "label": "Wedding Chapel (Dark) Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270836,
+        "label": "Wedding Chapel (Light) Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100004800,
+    "title": "Temple of Cazic-Thule Traveler",
+    "description": "This achievement is gained upon visiting Temple of Cazic-Thule.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270043,
+        "label": "Visit Temple of Cazic-Thule"
+      }
+    ]
+  },
+  {
+    "id": 100007700,
+    "title": "The Arena Traveler",
+    "description": "This achievement is gained upon visiting The Arena.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270070,
+        "label": "Visit The Arena"
+      }
+    ]
+  },
+  {
+    "id": 100005900,
+    "title": "The Castle of Mistmoore Traveler",
+    "description": "This achievement is gained upon visiting The Castle of Mistmoore.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270053,
+        "label": "Visit The Castle of Mistmoore"
+      }
+    ]
+  },
+  {
+    "id": 100027800,
+    "title": "The Caverns of Exile Traveler",
+    "description": "This achievement is gained upon visiting The Caverns of Exile.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270231,
+        "label": "Visit The Caverns of Exile"
+      }
+    ]
+  },
+  {
+    "id": 100006500,
+    "title": "The City of Guk Traveler",
+    "description": "This achievement is gained upon visiting The City of Guk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270059,
+        "label": "Visit The City of Guk"
+      }
+    ]
+  },
+  {
+    "id": 100040800,
+    "title": "The Commonlands Traveler",
+    "description": "This achievement is gained upon visiting The Commonlands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270343,
+        "label": "Visit The Commonlands"
+      }
+    ]
+  },
+  {
+    "id": 100002300,
+    "title": "The Erudin Palace Traveler",
+    "description": "This achievement is gained upon visiting The Erudin Palace.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270021,
+        "label": "Visit The Erudin Palace"
+      }
+    ]
+  },
+  {
+    "id": 100006300,
+    "title": "The Estate of Unrest Traveler",
+    "description": "This achievement is gained upon visiting The Estate of Unrest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270057,
+        "label": "Visit The Estate of Unrest"
+      }
+    ]
+  },
+  {
+    "id": 100004700,
+    "title": "The Feerrott Traveler",
+    "description": "This achievement is gained upon visiting The Feerrott.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270042,
+        "label": "Visit The Feerrott"
+      }
+    ]
+  },
+  {
+    "id": 100001600,
+    "title": "The Gorge of King Xorbb Traveler",
+    "description": "This achievement is gained upon visiting The Gorge of King Xorbb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270014,
+        "label": "Visit The Gorge of King Xorbb"
+      }
+    ]
+  },
+  {
+    "id": 100005400,
+    "title": "The Greater Faydark Traveler",
+    "description": "This achievement is gained upon visiting The Greater Faydark.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270048,
+        "label": "Visit The Greater Faydark"
+      }
+    ]
+  },
+  {
+    "id": 100004600,
+    "title": "The Innothule Swamp Traveler",
+    "description": "This achievement is gained upon visiting The Innothule Swamp.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270041,
+        "label": "Visit The Innothule Swamp"
+      }
+    ]
+  },
+  {
+    "id": 100001800,
+    "title": "The Lair of the Splitpaw Traveler",
+    "description": "This achievement is gained upon visiting The Lair of the Splitpaw.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270016,
+        "label": "Visit The Lair of the Splitpaw"
+      }
+    ]
+  },
+  {
+    "id": 100002700,
+    "title": "The Lavastorm Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Lavastorm Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270024,
+        "label": "Visit The Lavastorm Mountains"
+      }
+    ]
+  },
+  {
+    "id": 100005700,
+    "title": "The Lesser Faydark Traveler",
+    "description": "This achievement is gained upon visiting The Lesser Faydark.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270051,
+        "label": "Visit The Lesser Faydark"
+      }
+    ]
+  },
+  {
+    "id": 100001100,
+    "title": "The Liberated Citadel of Runnyeye Traveler",
+    "description": "This achievement is gained upon visiting The Liberated Citadel of Runnyeye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270009,
+        "label": "Visit The Liberated Citadel of Runnyeye"
+      }
+    ]
+  },
+  {
+    "id": 100003300,
+    "title": "The Misty Thicket Traveler",
+    "description": "This achievement is gained upon visiting The Misty Thicket.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270029,
+        "label": "Visit The Misty Thicket"
+      }
+    ]
+  },
+  {
+    "id": 100002500,
+    "title": "The Nektulos Forest Traveler",
+    "description": "This achievement is gained upon visiting The Nektulos Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270023,
+        "label": "Visit The Nektulos Forest"
+      }
+    ]
+  },
+  {
+    "id": 100003400,
+    "title": "The Northern Desert of Ro Traveler",
+    "description": "This achievement is gained upon visiting The Northern Desert of Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270030,
+        "label": "Visit The Northern Desert of Ro"
+      }
+    ]
+  },
+  {
+    "id": 100001300,
+    "title": "The Northern Plains of Karana Traveler",
+    "description": "This achievement is gained upon visiting The Northern Plains of Karana.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270011,
+        "label": "Visit The Northern Plains of Karana"
+      }
+    ]
+  },
+  {
+    "id": 100006900,
+    "title": "The Ocean of Tears Traveler",
+    "description": "This achievement is gained upon visiting The Ocean of Tears.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270063,
+        "label": "Visit The Ocean of Tears"
+      }
+    ]
+  },
+  {
+    "id": 100007300,
+    "title": "The Permafrost Caverns Traveler",
+    "description": "This achievement is gained upon visiting The Permafrost Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270067,
+        "label": "Visit The Permafrost Caverns"
+      }
+    ]
+  },
+  {
+    "id": 100007200,
+    "title": "The Plane of Fear Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Fear.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270066,
+        "label": "Visit The Plane of Fear"
+      }
+    ]
+  },
+  {
+    "id": 100018600,
+    "title": "The Plane of Hate Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Hate.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270151,
+        "label": "Visit The Plane of Hate"
+      }
+    ]
+  },
+  {
+    "id": 100007100,
+    "title": "The Plane of Sky Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Sky.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270065,
+        "label": "Visit The Plane of Sky"
+      }
+    ]
+  },
+  {
+    "id": 100000057,
+    "title": "The Planes Explorer",
+    "description": "This achievement is gained upon visiting the following Planes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270852,
+        "label": "The Plane of Fear Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270853,
+        "label": "The Plane of Hate Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270854,
+        "label": "The Plane of Sky Traveler"
+      }
+    ]
+  },
+  {
+    "id": 100004500,
+    "title": "The Qeynos Aqueduct System Traveler",
+    "description": "This achievement is gained upon visiting The Qeynos Aqueduct System.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270040,
+        "label": "Visit The Qeynos Aqueduct System"
+      }
+    ]
+  },
+  {
+    "id": 100000400,
+    "title": "The Qeynos Hills Traveler",
+    "description": "This achievement is gained upon visiting The Qeynos Hills.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270003,
+        "label": "Visit The Qeynos Hills"
+      }
+    ]
+  },
+  {
+    "id": 100005000,
+    "title": "The Rathe Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Rathe Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270045,
+        "label": "Visit The Rathe Mountains"
+      }
+    ]
+  },
+  {
+    "id": 100006600,
+    "title": "The Ruins of Old Guk Traveler",
+    "description": "This achievement is gained upon visiting The Ruins of Old Guk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270060,
+        "label": "Visit The Ruins of Old Guk"
+      }
+    ]
+  },
+  {
+    "id": 100003900,
+    "title": "The Ruins of Old Paineel Traveler",
+    "description": "This achievement is gained upon visiting The Ruins of Old Paineel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270035,
+        "label": "Visit The Ruins of Old Paineel"
+      }
+    ]
+  },
+  {
+    "id": 100003500,
+    "title": "The Southern Desert of Ro Traveler",
+    "description": "This achievement is gained upon visiting The Southern Desert of Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270031,
+        "label": "Visit The Southern Desert of Ro"
+      }
+    ]
+  },
+  {
+    "id": 100001400,
+    "title": "The Southern Plains of Karana Traveler",
+    "description": "This achievement is gained upon visiting The Southern Plains of Karana.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270012,
+        "label": "Visit The Southern Plains of Karana"
+      }
+    ]
+  },
+  {
+    "id": 100005600,
+    "title": "The Steamfont Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Steamfont Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270050,
+        "label": "Visit The Steamfont Mountains"
+      }
+    ]
+  },
+  {
+    "id": 100010000,
+    "title": "The Stonebrunt Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Stonebrunt Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270092,
+        "label": "Visit The Stonebrunt Mountains"
+      }
+    ]
+  },
+  {
+    "id": 100000300,
+    "title": "The Surefall Glade Traveler",
+    "description": "This achievement is gained upon visiting The Surefall Glade.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270002,
+        "label": "Visit The Surefall Glade"
+      }
+    ]
+  },
+  {
+    "id": 100008000,
+    "title": "The Temple of Solusek Ro Traveler",
+    "description": "This achievement is gained upon visiting The Temple of Solusek Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270073,
+        "label": "Visit The Temple of Solusek Ro"
+      }
+    ]
+  },
+  {
+    "id": 100010100,
+    "title": "The Warrens Traveler",
+    "description": "This achievement is gained upon visiting The Warrens.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270093,
+        "label": "Visit The Warrens"
+      }
+    ]
+  },
+  {
+    "id": 100001200,
+    "title": "The Western Plains of Karana Traveler",
+    "description": "This achievement is gained upon visiting The Western Plains of Karana.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270010,
+        "label": "Visit The Western Plains of Karana"
+      }
+    ]
+  },
+  {
+    "id": 100003800,
+    "title": "Toxxulia Forest Traveler",
+    "description": "This achievement is gained upon visiting Toxxulia Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270034,
+        "label": "Visit Toxxulia Forest"
+      }
+    ]
+  },
+  {
+    "id": 100049400,
+    "title": "Wedding Chapel (Dark) Traveler",
+    "description": "This achievement is gained upon visiting the Dark Wedding Chapel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270424,
+        "label": "Visit the Dark Wedding Chapel"
+      }
+    ]
+  },
+  {
+    "id": 100049300,
+    "title": "Wedding Chapel (Light) Traveler",
+    "description": "This achievement is gained upon visiting the Light Wedding Chapel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270423,
+        "label": "Visit the Light Wedding Chapel"
+      }
+    ]
+  },
+  {
+    "id": 100000900,
+    "title": "West Freeport Traveler",
+    "description": "This achievement is gained upon visiting West Freeport.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 102,
+    "subcategoryName": "Exploration",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270007,
+        "label": "Visit West Freeport"
+      }
+    ]
+  },
+  {
+    "id": 90000,
+    "title": "Bone Crafted Key",
+    "description": "This key unlocks the elevator that leads to the inner sanctum of New Paineel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 103,
+    "subcategoryName": "Progression",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3000,
+        "label": "Bone Crafted Key"
+      }
+    ]
+  },
+  {
+    "id": 90003,
+    "title": "Efreeti's Key",
+    "description": "This key unlocks the portal within the first island in the Plane of Sky.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 103,
+    "subcategoryName": "Progression",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3010,
+        "label": "Efreeti's Key"
+      }
+    ]
+  },
+  {
+    "id": 90001,
+    "title": "Hole Key",
+    "description": "This key unlocks the entrance to the Ruins of Old Paineel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 103,
+    "subcategoryName": "Progression",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3001,
+        "label": "Hole Key"
+      }
+    ]
+  },
+  {
+    "id": 90002,
+    "title": "Islands of Sky Keys",
+    "description": "These keys unlock the portals connecting the islands in the Plane of Sky.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 103,
+    "subcategoryName": "Progression",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3002,
+        "label": "Key of Swords"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3003,
+        "label": "Key of the Misplaced"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3004,
+        "label": "Key of Misfortune"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3005,
+        "label": "Key of Beasts"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3006,
+        "label": "Avian Key"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3007,
+        "label": "Key of the Swarm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3008,
+        "label": "Key of Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3009,
+        "label": "Veeshan's Key"
+      }
+    ]
+  },
+  {
+    "id": 106440,
+    "title": "Conqueror of Kedge Keep",
+    "description": "This achievement is gained upon completing the following raid in Kedge Keep:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001458,
+        "label": "Phinigel Autropos"
+      }
+    ]
+  },
+  {
+    "id": 103240,
+    "title": "Conqueror of Nagafen's Lair",
+    "description": "This achievement is gained upon completing the following raid in Nagafen's Lair:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001457,
+        "label": "Lord Nagafen"
+      }
+    ]
+  },
+  {
+    "id": 127840,
+    "title": "Conqueror of The Caverns of Exile",
+    "description": "This achievement is gained upon completing the following raid in The Caverns of Exile:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001519,
+        "label": "Culthor the Gatekeeper"
+      }
+    ]
+  },
+  {
+    "id": 153940,
+    "title": "Conqueror of The Hole",
+    "description": "This achievement is gained upon completing the following raid in The Hole:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001506,
+        "label": "The Hole - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001516,
+        "label": "Echo of Nortlav"
+      }
+    ]
+  },
+  {
+    "id": 107340,
+    "title": "Conqueror of The Permafrost Caverns",
+    "description": "This achievement is gained upon completing the following raid in The Permafrost Caverns:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001460,
+        "label": "Lady Vox"
+      }
+    ]
+  },
+  {
+    "id": 107240,
+    "title": "Conqueror of The Plane of Fear",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Fear:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001472,
+        "label": "Cazic-Thule"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001477,
+        "label": "a dracoliche"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001474,
+        "label": "Dread"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001475,
+        "label": "Fright"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001476,
+        "label": "Terror"
+      }
+    ]
+  },
+  {
+    "id": 118640,
+    "title": "Conqueror of The Plane of Hate",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Hate:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001482,
+        "label": "Innoruuk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001483,
+        "label": "Maestro of Rancor"
+      }
+    ]
+  },
+  {
+    "id": 107140,
+    "title": "Conqueror of The Plane of Sky",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Sky:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001470,
+        "label": "Bazzt Zzzt"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001461,
+        "label": "Eye of Veeshan"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001467,
+        "label": "Gorgalosk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001518,
+        "label": "Hand of Veeshan"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001468,
+        "label": "Keeper of Souls"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001463,
+        "label": "Noble Dojorn"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001464,
+        "label": "Overseer of Air"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001465,
+        "label": "Protector of Sky"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001471,
+        "label": "Sister of the Spire"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001469,
+        "label": "The Spiroc Lord"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001462,
+        "label": "a thunder spirit princess"
+      }
+    ]
+  },
+  {
+    "id": 103940,
+    "title": "Conqueror of The Ruins of Old Paineel",
+    "description": "This achievement is gained upon completing the following raid in The Ruins of Old Paineel:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 106,
+    "subcategoryName": "Raids",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001515,
+        "label": "The Ruins of Old Paineel - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001459,
+        "label": "Master Yael"
+      }
+    ]
+  },
+  {
+    "id": 154880,
+    "title": "Hunter of Accursed Temple of Cazic-Thule",
+    "description": "This achievement is gained upon defeating the following rare monsters in Accursed Temple of Cazic-Thule:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001504,
+        "label": "Accursed Temple of Cazic-Thule - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001361,
+        "label": "a barbed scale piranha"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001344,
+        "label": "a blood claw raptor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001358,
+        "label": "a blood fin piranha"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001356,
+        "label": "a crystaline mass"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001360,
+        "label": "a diamond scale piranha"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001334,
+        "label": "a disciple of Thule"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001374,
+        "label": "a diseased mosquito"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001368,
+        "label": "Dismay"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001348,
+        "label": "Dreadfang"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001377,
+        "label": "an enraged Amygdalan"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001335,
+        "label": "an enraged disciple"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001345,
+        "label": "an enraged jungle raptor"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001346,
+        "label": "an enraged tiger raptor"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1001363,
+        "label": "an envenomed hunter"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1001369,
+        "label": "a frenzied shiverback"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1001347,
+        "label": "Frightchaser"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1001352,
+        "label": "a gelatinous mass"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1001375,
+        "label": "a graystriped mosquito"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1001351,
+        "label": "a gyrating mass"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1001364,
+        "label": "a noxious jungle spider"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1001332,
+        "label": "an ooze covered ritualist"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1001366,
+        "label": "a poisonstrand hunter"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1001350,
+        "label": "a quivering mass"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1001357,
+        "label": "a razor fin piranha"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1001359,
+        "label": "a razor tooth piranha"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1001370,
+        "label": "a rotting horror"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1001371,
+        "label": "a rotting shiverback"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1001362,
+        "label": "Silverfang"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 1001372,
+        "label": "a silverflank shiverback"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 1001376,
+        "label": "Soul Siphon"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 1001353,
+        "label": "a swirling black mass"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 1001354,
+        "label": "a swirling green mass"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 1001355,
+        "label": "a swirling red mass"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 1001326,
+        "label": "a Tae Ew aggressor"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 1001330,
+        "label": "a Tae Ew bloodfiend"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 1001327,
+        "label": "a Tae Ew convert"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 1001333,
+        "label": "a Tae Ew hunter"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 1001331,
+        "label": "a Tae Ew prophet"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 1001328,
+        "label": "a Tae Ew spear fisher"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 1001329,
+        "label": "a Tae Ew trapper"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 1001336,
+        "label": "a Tae Ew warlord"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 1001337,
+        "label": "a Tae Ew warmaster"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 1001349,
+        "label": "Terrorclaw"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 1001343,
+        "label": "a Thul Tae Ew adept"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 1001338,
+        "label": "a Thul Tae Ew crusader"
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 1001339,
+        "label": "a Thul Tae Ew despoiler"
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 1001342,
+        "label": "a Thul Tae Ew ritualist"
+      },
+      {
+        "order": 49,
+        "type": 1,
+        "value": 1001340,
+        "label": "a Thul Tae Ew spirtcaller"
+      },
+      {
+        "order": 50,
+        "type": 1,
+        "value": 1001341,
+        "label": "a Thul Tae Ew torturer"
+      },
+      {
+        "order": 51,
+        "type": 1,
+        "value": 1001365,
+        "label": "a toxic jungle hunter"
+      },
+      {
+        "order": 52,
+        "type": 1,
+        "value": 1001367,
+        "label": "Toxiferious"
+      },
+      {
+        "order": 53,
+        "type": 1,
+        "value": 1001373,
+        "label": "a virulent mosquito"
+      }
+    ]
+  },
+  {
+    "id": 103680,
+    "title": "Hunter of Befallen",
+    "description": "This achievement is gained upon defeating the following rare monsters in Befallen:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001173,
+        "label": "Priest Amiaz"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001174,
+        "label": "the thaumaturgist"
+      }
+    ]
+  },
+  {
+    "id": 106880,
+    "title": "Hunter of Butcherblock Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in Butcherblock Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001278,
+        "label": "Glubbsink"
+      }
+    ]
+  },
+  {
+    "id": 105880,
+    "title": "Hunter of Crushbone",
+    "description": "This achievement is gained upon defeating the following rare monsters in Crushbone:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001224,
+        "label": "orc taskmaster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001223,
+        "label": "orc warlord"
+      }
+    ]
+  },
+  {
+    "id": 107080,
+    "title": "Hunter of Dagnor's Cauldron",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dagnor's Cauldron:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001285,
+        "label": "Barnacle Bones"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001286,
+        "label": "Bilge Farfathom"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001282,
+        "label": "Flotsam"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001283,
+        "label": "Jetsam"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001284,
+        "label": "Squallslither"
+      }
+    ]
+  },
+  {
+    "id": 103080,
+    "title": "Hunter of Everfrost Peaks",
+    "description": "This achievement is gained upon defeating the following rare monsters in Everfrost Peaks:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001139,
+        "label": "Dark Assassin"
+      }
+    ]
+  },
+  {
+    "id": 100090,
+    "title": "Hunter of Faydwer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001015,
+        "label": "Hunter of Butcherblock Mountains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001013,
+        "label": "Hunter of The Castle of Mistmoore"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001011,
+        "label": "Hunter of Crushbone"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001016,
+        "label": "Hunter of Dagnor's Cauldron"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001017,
+        "label": "Hunter of The Estate of Unrest"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001018,
+        "label": "Hunter of Kedge Keep"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001012,
+        "label": "Hunter of The Lesser Faydark"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001019,
+        "label": "Hunter of The Ocean of Tears"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001014,
+        "label": "Hunter of The Steamfont Mountains"
+      }
+    ]
+  },
+  {
+    "id": 138480,
+    "title": "Hunter of Freeport Sewers",
+    "description": "This achievement is gained upon defeating the following rare monsters in Freeport Sewers:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001514,
+        "label": "Feeport Sewers - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001455,
+        "label": "Bad Ash"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001456,
+        "label": "Gooey Ooze"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001454,
+        "label": "Montegue the Jackal"
+      }
+    ]
+  },
+  {
+    "id": 140780,
+    "title": "Hunter of Highpass Hold",
+    "description": "This achievement is gained upon defeating the following rare monsters in Highpass Hold:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001107,
+        "label": "Grenix Mucktail"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001105,
+        "label": "Hagnis Shralok"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001104,
+        "label": "Recfek Shralok"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001106,
+        "label": "Vexven Mucktail"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001103,
+        "label": "Vopuk Shralok"
+      }
+    ]
+  },
+  {
+    "id": 118180,
+    "title": "Hunter of Jaggedpine Forest",
+    "description": "This achievement is gained upon defeating the following rare monsters in Jaggedpine Forest:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001324,
+        "label": "an ancient treant"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001312,
+        "label": "Elishia Blackguard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001317,
+        "label": "FierceWind"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001320,
+        "label": "GoldenTalon"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001323,
+        "label": "a great kodiak"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001319,
+        "label": "Jerg Oakenfist"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001321,
+        "label": "Lameriae the Alluring"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001316,
+        "label": "Myraephe the Pure"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001511,
+        "label": "Potamide Dame"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001325,
+        "label": "Potamide Matriarch"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001512,
+        "label": "Potamide Matron"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001313,
+        "label": "Reynold Blackguard"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001322,
+        "label": "a savage pinewolf"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001318,
+        "label": "StormClaw"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1001314,
+        "label": "Vaurien Sticklebush"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1001315,
+        "label": "Zed Sticklebush"
+      }
+    ]
+  },
+  {
+    "id": 106480,
+    "title": "Hunter of Kedge Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kedge Keep:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001248,
+        "label": "Cauldronboil"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001247,
+        "label": "Coralyn Kelpmaiden"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001242,
+        "label": "a ferocious hammerhead"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001243,
+        "label": "a fierce impaler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001241,
+        "label": "a frenzied cauldron shark"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001244,
+        "label": "a seahorse matriarch"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001245,
+        "label": "a seahorse patriarch"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001246,
+        "label": "Shellara Ebbhunter"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001249,
+        "label": "Undertow"
+      }
+    ]
+  },
+  {
+    "id": 105180,
+    "title": "Hunter of Lake Rathetear",
+    "description": "This achievement is gained upon defeating the following rare monsters in Lake Rathetear:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001216,
+        "label": "a gnoll embalmer"
+      }
+    ]
+  },
+  {
+    "id": 103280,
+    "title": "Hunter of Nagafen's Lair",
+    "description": "This achievement is gained upon defeating the following rare monsters in Nagafen's Lair:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001155,
+        "label": "a death beetle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001162,
+        "label": "Efreeti Lord Djarn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001154,
+        "label": "a guano harvester"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001163,
+        "label": "King Tranix"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001158,
+        "label": "a kobold champion"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001159,
+        "label": "a kobold king"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001156,
+        "label": "a kobold noble"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001157,
+        "label": "a kobold priest"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001165,
+        "label": "Magus Rokyl"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001160,
+        "label": "a noxious spider"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001161,
+        "label": "a stone spider"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001164,
+        "label": "Warlord Skarlon"
+      }
+    ]
+  },
+  {
+    "id": 104480,
+    "title": "Hunter of Najena",
+    "description": "This achievement is gained upon defeating the following rare monsters in Najena:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001194,
+        "label": "Drelzna"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001197,
+        "label": "Ekeros"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001196,
+        "label": "Najena"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001199,
+        "label": "Officer Grush"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001195,
+        "label": "Rathyl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001198,
+        "label": "Trazdon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001200,
+        "label": "The Widowmistress"
+      }
+    ]
+  },
+  {
+    "id": 118280,
+    "title": "Hunter of Nedaria's Landing",
+    "description": "This achievement is gained upon defeating the following rare monsters in Nedaria's Landing:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001500,
+        "label": "a magnificent grizzly"
+      }
+    ]
+  },
+  {
+    "id": 139280,
+    "title": "Hunter of North Desert of Ro",
+    "description": "This achievement is gained upon defeating the following rare monsters in North Desert of Ro:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001167,
+        "label": "Dunedigger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001168,
+        "label": "Rahotep"
+      }
+    ]
+  },
+  {
+    "id": 100105,
+    "title": "Hunter of Northeast Antonica",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001042,
+        "label": "Hunter of Befallen"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1001081,
+        "label": "Hunter of The Caverns of Exile"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 1001041,
+        "label": "Hunter of Freeport Sewers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001045,
+        "label": "Hunter of The Gorge of King Xorbb"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001046,
+        "label": "Hunter of Highpass Hold"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001047,
+        "label": "Hunter of The Lavastorm Mountains"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 1001044,
+        "label": "Hunter of The Liberated Citadel of Runnyeye"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001043,
+        "label": "Hunter of The Misty Thicket"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001050,
+        "label": "Hunter of Nagafen's Lair"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001048,
+        "label": "Hunter of Najena"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001049,
+        "label": "Hunter of Solusek's Eye"
+      }
+    ]
+  },
+  {
+    "id": 100101,
+    "title": "Hunter of Northwest Antonica",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001034,
+        "label": "Hunter of Everfrost Peaks"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1001033,
+        "label": "Hunter of Jaggedpine Forest"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 1001517,
+        "label": "Hunter of Nedaria's Landing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001037,
+        "label": "Hunter of The Northern Plains of Karana"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001035,
+        "label": "Hunter of The Permafrost Caverns"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001031,
+        "label": "Hunter of The Qeynos Aqueduct System"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001032,
+        "label": "Hunter of The Qeynos Hills"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001036,
+        "label": "Hunter of The Western Plains of Karana"
+      }
+    ]
+  },
+  {
+    "id": 100095,
+    "title": "Hunter of Odus",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001022,
+        "label": "Hunter of The Ruins of Old Paineel or The Hole"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001024,
+        "label": "Hunter of The Stonebrunt Mountains"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001021,
+        "label": "Hunter of Toxxulia Forest"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001025,
+        "label": "Hunter of The Warrens"
+      }
+    ]
+  },
+  {
+    "id": 103180,
+    "title": "Hunter of Solusek's Eye",
+    "description": "This achievement is gained upon defeating the following rare monsters in Solusek's Eye:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001151,
+        "label": "Captain Bipnubble"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001152,
+        "label": "CWG Model EXG"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001145,
+        "label": "fire goblin bartender"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001140,
+        "label": "flame goblin foreman"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001150,
+        "label": "Gabbie Mardoddle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001146,
+        "label": "goblin high shaman"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001143,
+        "label": "inferno goblin captain"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001147,
+        "label": "inferno goblin torturer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001142,
+        "label": "Kindle"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001149,
+        "label": "kobold predator"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001153,
+        "label": "lava elemental"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001144,
+        "label": "reckless efreeti"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001141,
+        "label": "Singe"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001148,
+        "label": "Solusek goblin king"
+      }
+    ]
+  },
+  {
+    "id": 139380,
+    "title": "Hunter of South Desert of Ro",
+    "description": "This achievement is gained upon defeating the following rare monsters in South Desert of Ro:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001169,
+        "label": "an ancient cyclops"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001172,
+        "label": "Erg Bluntbruiser"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001171,
+        "label": "Hatar"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001170,
+        "label": "Lockjaw"
+      }
+    ]
+  },
+  {
+    "id": 100115,
+    "title": "Hunter of Southeast Antonica",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001063,
+        "label": "Hunter of The City of Guk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001061,
+        "label": "Hunter of North Desert of Ro"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001064,
+        "label": "Hunter of The Ruins of Old Guk"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001062,
+        "label": "Hunter of South Desert of Ro"
+      }
+    ]
+  },
+  {
+    "id": 100110,
+    "title": "Hunter of Southwest Antonica",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001055,
+        "label": "Hunter of The Feerrott"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001052,
+        "label": "Hunter of The Lair of the Splitpaw or The Invaded Lair of the Splitpaw"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001054,
+        "label": "Hunter of The Rathe Mountains"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001051,
+        "label": "Hunter of The Southern Plains of Karana"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001056,
+        "label": "Hunter of Temple of Cazic-Thule or Accursed Temple of Cazic-Thule"
+      }
+    ]
+  },
+  {
+    "id": 104880,
+    "title": "Hunter of Temple of Cazic-Thule",
+    "description": "This achievement is gained upon defeating the following rare monsters in Temple of Cazic-Thule:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001503,
+        "label": "Temple of Cazic-Thule - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001213,
+        "label": "Avatar of Fear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001212,
+        "label": "Cazic Cenobite"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001206,
+        "label": "a clay golem"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001510,
+        "label": "a lizard ritualist"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001208,
+        "label": "a steel golem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001207,
+        "label": "a stone golem"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001211,
+        "label": "Tae Ew Archon"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001210,
+        "label": "Tae Ew Diviner"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001209,
+        "label": "Tae Ew Templar"
+      }
+    ]
+  },
+  {
+    "id": 105980,
+    "title": "Hunter of The Castle of Mistmoore",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Castle of Mistmoore:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001229,
+        "label": "an avenging caitiff"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001234,
+        "label": "Butler Syncall"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001227,
+        "label": "a cloaked dhampyre"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001226,
+        "label": "Garton Viswin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001225,
+        "label": "a glyphed ghoul"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001228,
+        "label": "Lasna Cheroon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001232,
+        "label": "Maid Issis"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001230,
+        "label": "Mynthi Davissi or a werewolf gypsy"
+      }
+    ]
+  },
+  {
+    "id": 106580,
+    "title": "Hunter of The City of Guk",
+    "description": "This achievement is gained upon defeating the following rare monsters in The City of Guk:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001256,
+        "label": "an ancient croc"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001251,
+        "label": "a froglok gaz squire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001250,
+        "label": "a froglok realist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001253,
+        "label": "a froglok scryer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001255,
+        "label": "the froglok shin lord"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001257,
+        "label": "a froglok summoner"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001254,
+        "label": "the froglok warden"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001252,
+        "label": "a giant heart spider"
+      }
+    ]
+  },
+  {
+    "id": 106380,
+    "title": "Hunter of The Estate of Unrest",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Estate of Unrest:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001236,
+        "label": "Garanel Rucksif"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001521,
+        "label": "lesser blade fiend"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001237,
+        "label": "a reanimated hand"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001238,
+        "label": "reclusive ghoul magus"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001240,
+        "label": "an undead barkeep"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001239,
+        "label": "an undead knight of Unrest"
+      }
+    ]
+  },
+  {
+    "id": 104780,
+    "title": "Hunter of The Feerrott",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Feerrott:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001205,
+        "label": "a Silverflank guardian"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1001211,
+        "label": "Tae Ew Archon"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 1001210,
+        "label": "Tae Ew Diviner"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 1001510,
+        "label": "a Tae Ew Spiritualist"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 1001209,
+        "label": "Tae Ew Templar"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 1001212,
+        "label": "Thul Tae Ew Cenobite"
+      }
+    ]
+  },
+  {
+    "id": 101680,
+    "title": "Hunter of The Gorge of King Xorbb",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Gorge of King Xorbb:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001128,
+        "label": "Brahhm"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001130,
+        "label": "King Xorbb"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001127,
+        "label": "Spinflint"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001129,
+        "label": "Yymp the infernal"
+      }
+    ]
+  },
+  {
+    "id": 153980,
+    "title": "Hunter of The Hole",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Hole:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001506,
+        "label": "The Hole - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001416,
+        "label": "an ancient construct"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001418,
+        "label": "an ancient gargoyle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001415,
+        "label": "an old construct"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001417,
+        "label": "an old gargoyle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001420,
+        "label": "a ratman inhabitant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001419,
+        "label": "a temple researcher"
+      }
+    ]
+  },
+  {
+    "id": 151880,
+    "title": "Hunter of The Invaded Lair of the Splitpaw",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Invaded Lair of the Splitpaw (Enhanced):",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001505,
+        "label": "The Invaded Lair of the Splitpaw - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001414,
+        "label": "Overlord Flargor"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001410,
+        "label": "Rockbeast Kloorg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001411,
+        "label": "Scorch"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001408,
+        "label": "Sertiki the Master of Tides"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001409,
+        "label": "Stormrider Hilooa"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001407,
+        "label": "a tidal monstrosity"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001413,
+        "label": "Vrek Hillsmasher"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001412,
+        "label": "Windspirit Glorn"
+      }
+    ]
+  },
+  {
+    "id": 101880,
+    "title": "Hunter of The Lair of the Splitpaw",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Lair of the Splitpaw:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001501,
+        "label": "The Lair of the Splitpaw - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001134,
+        "label": "Nisch Val Torash Mashk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001133,
+        "label": "Rosch Val L`Vlor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001131,
+        "label": "Tesch Val Deval`Nmak"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001132,
+        "label": "Tesch Val Kadvem"
+      }
+    ]
+  },
+  {
+    "id": 102780,
+    "title": "Hunter of The Lavastorm Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Lavastorm Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 1001382,
+        "label": "Brognot"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1001390,
+        "label": "Burnt Overlord"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 1001384,
+        "label": "Cinder Goblin Overseer"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 1001381,
+        "label": "Flamebite"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 1001383,
+        "label": "Flameclaw"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 1001389,
+        "label": "Lavaspinner Protector"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001136,
+        "label": "a lesser nightmare"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 1001385,
+        "label": "Molgo"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 1001379,
+        "label": "Scorchfist"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 1001378,
+        "label": "Scorchwing"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 1001391,
+        "label": "Shadowhand"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 1001388,
+        "label": "Shadowsoul"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 1001392,
+        "label": "Solusek Goblin Assassin"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 1001386,
+        "label": "Solusek Goblin Commander"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 1001387,
+        "label": "Solusek Goblin Lookout"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 1001380,
+        "label": "Swirlstone"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1001135,
+        "label": "Tisella"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1001137,
+        "label": "a warbone monk"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1001138,
+        "label": "a warbone spearman"
+      }
+    ]
+  },
+  {
+    "id": 105780,
+    "title": "Hunter of The Lesser Faydark",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Lesser Faydark:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001218,
+        "label": "Crookstinger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001222,
+        "label": "Mina Glimmerwing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001220,
+        "label": "Old Dimshimmer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001219,
+        "label": "Queen Nasheeji"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001221,
+        "label": "Whimsy Larktwitter"
+      }
+    ]
+  },
+  {
+    "id": 101180,
+    "title": "Hunter of The Liberated Citadel of Runnyeye",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Liberated Citadel of Runnyeye:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001492,
+        "label": "a goblin janitor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001108,
+        "label": "The Sporali Moldmaster"
+      }
+    ]
+  },
+  {
+    "id": 141580,
+    "title": "Hunter of The Misty Thicket",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Misty Thicket:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001166,
+        "label": "a goblin alchemist"
+      }
+    ]
+  },
+  {
+    "id": 101380,
+    "title": "Hunter of The Northern Plains of Karana",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Northern Plains of Karana:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001110,
+        "label": "Ashenpaw"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001491,
+        "label": "Bristletoe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001111,
+        "label": "Callowwing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001112,
+        "label": "Grimtooth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001113,
+        "label": "Korvik the Cursed"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001114,
+        "label": "Lieutenant Midraim"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001115,
+        "label": "Swiftclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001116,
+        "label": "Timbur the tiny"
+      }
+    ]
+  },
+  {
+    "id": 140980,
+    "title": "Hunter of The Ocean of Tears",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ocean of Tears:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001281,
+        "label": "an ancient cyclops"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001280,
+        "label": "Mojo the Tainted"
+      }
+    ]
+  },
+  {
+    "id": 107380,
+    "title": "Hunter of The Permafrost Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Permafrost Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001287,
+        "label": "an elite honor guard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001294,
+        "label": "a goblin alchemist"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001295,
+        "label": "a goblin archaeologist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001292,
+        "label": "a goblin jailmaster"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001293,
+        "label": "a goblin preacher"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001291,
+        "label": "a goblin scryer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001288,
+        "label": "High Priest Zaharn"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001290,
+        "label": "an injured polar bear"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001289,
+        "label": "King Thex`Ka IV"
+      }
+    ]
+  },
+  {
+    "id": 158680,
+    "title": "Hunter of The Plane of Hate",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Hate:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001507,
+        "label": "The Plane of Hate - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001452,
+        "label": "Arcanist V`Gimis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001450,
+        "label": "Arch Lich T`Vaxok"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001451,
+        "label": "Archon G`Uvin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001509,
+        "label": "an ashenbone broodmaster"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001447,
+        "label": "Assassin Z`Jrix"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001422,
+        "label": "Avatar of Abhorrence"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001430,
+        "label": "Coercer T`Vala"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001442,
+        "label": "Dread Knight T`Kamax"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001448,
+        "label": "Dread Lord M`Noxin"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001425,
+        "label": "an eerie chest"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001445,
+        "label": "Evangelist W`Rixxus"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001435,
+        "label": "a frightful chest"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1001436,
+        "label": "Grandmaster H`Qilm"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1001432,
+        "label": "Grim Abhorrent Kaltik"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1001434,
+        "label": "a grotesque rat"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1001441,
+        "label": "a hatebone broodlord"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1001424,
+        "label": "a hideous rat"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1001433,
+        "label": "Lord of Fury"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1001423,
+        "label": "Lord of Ire"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1001429,
+        "label": "Lord of Loathing"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1001508,
+        "label": "Magi P`Tasa"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1001439,
+        "label": "Master D`Samni"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1001421,
+        "label": "Master of Spite"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1001431,
+        "label": "Master of Vengeance"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1001426,
+        "label": "Master R`Tal"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1001440,
+        "label": "Mistress A`Zara"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1001437,
+        "label": "Mistress of Malevolence"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 1001427,
+        "label": "Mistress of Scorn"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 1001449,
+        "label": "Overlord R`Gahbsa"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 1001446,
+        "label": "Sorcerer C`Gazin"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 1001453,
+        "label": "Spy Master I`Kavin"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 1001438,
+        "label": "Templar J`Rosix"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 1001494,
+        "label": "thought destroyer"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 1001428,
+        "label": "Vicar M`Kari"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 1001444,
+        "label": "Warlock J`Rath"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 1001443,
+        "label": "Warlord E`Prosio"
+      }
+    ]
+  },
+  {
+    "id": 100120,
+    "title": "Hunter of The Planes",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001071,
+        "label": "Hunter of The Plane of Hate"
+      }
+    ]
+  },
+  {
+    "id": 104580,
+    "title": "Hunter of The Qeynos Aqueduct System",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Qeynos Aqueduct System:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001201,
+        "label": "an injured rat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001204,
+        "label": "a nesting rat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001203,
+        "label": "a shady mercenary"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001202,
+        "label": "an undead knight"
+      }
+    ]
+  },
+  {
+    "id": 100480,
+    "title": "Hunter of The Qeynos Hills",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Qeynos Hills:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001101,
+        "label": "Pyzjn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001102,
+        "label": "Varsoon"
+      }
+    ]
+  },
+  {
+    "id": 105080,
+    "title": "Hunter of The Rathe Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Rathe Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 1001394,
+        "label": "Bloodneedle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001496,
+        "label": "Mortificator Syythrak"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001215,
+        "label": "Oculys Ogrefiend"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001214,
+        "label": "Petrifin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001495,
+        "label": "Quid Rilstone"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 1001296,
+        "label": "Shardwing"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 1001393,
+        "label": "Yun Jerahk the Poisoned"
+      }
+    ]
+  },
+  {
+    "id": 106680,
+    "title": "Hunter of The Ruins of Old Guk",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ruins of Old Guk:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001266,
+        "label": "a frenzied ghoul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001272,
+        "label": "a froglok crusader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001277,
+        "label": "a froglok herbalist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001275,
+        "label": "the froglok king"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001273,
+        "label": "a froglok noble"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001276,
+        "label": "a froglok tactician"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001274,
+        "label": "a froglok yun priest"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001268,
+        "label": "the ghoul arch magus"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001262,
+        "label": "a ghoul assassin"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001263,
+        "label": "a ghoul cavalier"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001265,
+        "label": "a ghoul executioner"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001269,
+        "label": "the ghoul lord"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001259,
+        "label": "a ghoul ritualist"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001264,
+        "label": "a ghoul sage"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1001261,
+        "label": "a ghoul savant"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1001267,
+        "label": "a ghoul sentinel"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1001260,
+        "label": "a ghoul supplier"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1001271,
+        "label": "a minotaur elder"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1001270,
+        "label": "a minotaur patriarch"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1001258,
+        "label": "a reanimated hand"
+      }
+    ]
+  },
+  {
+    "id": 103980,
+    "title": "Hunter of The Ruins of Old Paineel",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ruins of Old Paineel:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 1001502,
+        "label": "The Ruins of Old Paineel - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001186,
+        "label": "bejeweled elemental"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001190,
+        "label": "Commander Yarik"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001182,
+        "label": "Gibartik"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001189,
+        "label": "Initiate Sirlis"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001187,
+        "label": "Irslak the Wretched"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001184,
+        "label": "muck covered elemental"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001188,
+        "label": "Niltoth the Unholy"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001193,
+        "label": "Retseth Tretse"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001185,
+        "label": "Rocksoul"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001192,
+        "label": "Slizik the Mighty"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1001181,
+        "label": "Stonegrinder Minion"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1001183,
+        "label": "Stonesoul the Unmoving"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1001191,
+        "label": "Ulrik the Devout"
+      }
+    ]
+  },
+  {
+    "id": 101480,
+    "title": "Hunter of The Southern Plains of Karana",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Southern Plains of Karana:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001124,
+        "label": "Grizzleknot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001118,
+        "label": "Knari Morawk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001119,
+        "label": "Kroldir Thunderhoof"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001126,
+        "label": "Lord Grimrot"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001117,
+        "label": "Marik Clubthorn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001121,
+        "label": "Mroon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001122,
+        "label": "Narra Tanith"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 1001134,
+        "label": "Nisch Val Torash Mashk"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001125,
+        "label": "Quillmane"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 1001133,
+        "label": "Rosch Val L`Vlor"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001123,
+        "label": "Synger Foxfyre"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 1001131,
+        "label": "Tesch Val Deval`Nmak"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 1001132,
+        "label": "Tesch Val Kadvem"
+      }
+    ]
+  },
+  {
+    "id": 144880,
+    "title": "Hunter of The Steamfont Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Steamfont Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001493,
+        "label": "Minotaur Hero"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001217,
+        "label": "Minotaur Lord"
+      }
+    ]
+  },
+  {
+    "id": 110080,
+    "title": "Hunter of The Stonebrunt Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Stonebrunt Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001304,
+        "label": "Arglar the Tormentor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001299,
+        "label": "Giang Yin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001302,
+        "label": "Girgak the Bloody"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001305,
+        "label": "Hurglak the Destroyer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001301,
+        "label": "Jelquar the Soulslayer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001303,
+        "label": "Rendolr the Maimer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001297,
+        "label": "Rognarog the Infuriated"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001298,
+        "label": "Slyder the Ancient"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001300,
+        "label": "Snowbeast"
+      }
+    ]
+  },
+  {
+    "id": 110180,
+    "title": "Hunter of The Warrens",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Warrens:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001307,
+        "label": "Packmaster Dledsh"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001306,
+        "label": "Warlord Drrig"
+      }
+    ]
+  },
+  {
+    "id": 101280,
+    "title": "Hunter of The Western Plains of Karana",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Western Plains of Karana:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001109,
+        "label": "a werewolf bandit"
+      }
+    ]
+  },
+  {
+    "id": 141480,
+    "title": "Hunter of Toxxulia Forest",
+    "description": "This achievement is gained upon defeating the following rare monsters in Toxxulia Forest:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 108,
+    "subcategoryName": "Hunter",
+    "categoryId": 100,
+    "categoryName": "EverQuest",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001175,
+        "label": "Alrik Pasdar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001180,
+        "label": "Hamed Grarr"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001177,
+        "label": "Jo Jo"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001178,
+        "label": "The Kerran Sha`rr"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001179,
+        "label": "Khonza Mitty of Kerra"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001176,
+        "label": "Lord Gongo"
+      }
+    ]
+  }
+]

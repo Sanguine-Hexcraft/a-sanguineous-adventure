@@ -1,0 +1,7077 @@
+[
+  {
+    "id": 2600010,
+    "title": "Burninator",
+    "description": "This achievement is gained upon completing all quests and missions in The Burning Lands.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000000,
+        "label": "Champion of The Burning Lands"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000001,
+        "label": "Paragon of The Burning Lands"
+      }
+    ]
+  },
+  {
+    "id": 26000000,
+    "title": "Burning Lands Master Scavenger",
+    "description": "This achievement is gained upon completing all the collection achievements in Burning Lands.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000129,
+        "label": "Relics of Wind"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000130,
+        "label": "Relics of Fire"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 26000610,
+        "label": "Small Hills"
+      }
+    ]
+  },
+  {
+    "id": 2600050,
+    "title": "Burnslayer",
+    "description": "This achievement is gained upon completing all the Hunter achievements in The Burning Lands.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000065,
+        "label": "Novice Hunter of The Burning Lands"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000066,
+        "label": "Adept Hunter of The Burning Lands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000067,
+        "label": "Veteran Hunter of The Burning Lands"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 26000558,
+        "label": "Hunter of Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2600040,
+    "title": "Challenger of The Burning Lands",
+    "description": "This achievement is gained upon completing all the mission challenges in The Burning Lands.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000023,
+        "label": "Fire Free Zone"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000024,
+        "label": "Uninhabited"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000025,
+        "label": "Habitation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000026,
+        "label": "Keep Them Separated"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000027,
+        "label": "Mix and Match"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000028,
+        "label": "No Eggsplanations"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000029,
+        "label": "Stirring the Dust"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000030,
+        "label": "Fireproof"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000031,
+        "label": "All Alone"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000032,
+        "label": "A Matter of Timing"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000033,
+        "label": "Following Orders"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000034,
+        "label": "Tumble Dry"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 26000035,
+        "label": "Read the Signs"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 26000036,
+        "label": "No Smoking"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 26000037,
+        "label": "Three at Once"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 26000038,
+        "label": "Appointments Required"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 26000039,
+        "label": "Don't Trip"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 26000040,
+        "label": "Just Passing Through"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 26000041,
+        "label": "All in Its Place"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 26000042,
+        "label": "Prince Ralaifin - Time Trial"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 26000043,
+        "label": "All Safe from the Fire"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 26000044,
+        "label": "Don't Get Burned"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 26000045,
+        "label": "Don't Get Bursted"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 26000046,
+        "label": "Don't Let the Heat Spread"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 26000047,
+        "label": "Re-Guard-Less"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 26000048,
+        "label": "Guarded"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 26000049,
+        "label": "Undying"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 26000050,
+        "label": "No Escape"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 26000051,
+        "label": "Deathless"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 26000052,
+        "label": "Swift Murder"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 26000053,
+        "label": "Sluggish"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 26000054,
+        "label": "Don't Stand in the Fire"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 26000055,
+        "label": "Firelings"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 26000056,
+        "label": "Unslug Hero"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 26000057,
+        "label": "Extinguisher"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 26000058,
+        "label": "Firelings"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 26000059,
+        "label": "Rock Steady"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 26000060,
+        "label": "Perfect Timing"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 26000061,
+        "label": "Keep on Rollin`"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 26000062,
+        "label": "Static Free"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 26000063,
+        "label": "Life and Death"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 26000064,
+        "label": "Gathering Forces"
+      },
+      {
+        "order": 42,
+        "type": 2,
+        "value": 26000602,
+        "label": "Failure Is Not an Option"
+      },
+      {
+        "order": 43,
+        "type": 2,
+        "value": 26000603,
+        "label": "Precious Metal"
+      },
+      {
+        "order": 44,
+        "type": 2,
+        "value": 26000604,
+        "label": "No Time to Spare"
+      }
+    ]
+  },
+  {
+    "id": 2600020,
+    "title": "Champion of The Burning Lands",
+    "description": "This achievement is gained upon completing all the quests in The Burning Lands.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000003,
+        "label": "Mercenary of Stratos: Zephyr's Flight"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000004,
+        "label": "Partisan of Stratos: Zephyr's Flight"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000005,
+        "label": "Mercenary of The Plane of Smoke"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000007,
+        "label": "Mercenary of Empyr: Realms of Ash"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000008,
+        "label": "Partisan of Empyr: Realms of Ash"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000009,
+        "label": "Mercenary of Aalishai: Palace of Embers"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000010,
+        "label": "Partisan of Aalishai: Palace of Embers"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000011,
+        "label": "Mercenary of Esianti: Palace of the Winds"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000012,
+        "label": "Partisan of Esianti: Palace of the Winds"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000013,
+        "label": "Mercenary of Mearatas: The Stone Demesne"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000014,
+        "label": "Partisan of Mearatas: The Stone Demesne"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 26000600,
+        "label": "Partisan of Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2600060,
+    "title": "Conqueror of The Burning Lands",
+    "description": "This achievement is gained upon completing all the raids in The Burning Lands.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000068,
+        "label": "Conqueror of Stratos: Zephyr's Flight"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000069,
+        "label": "Conqueror of The Plane of Smoke"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000070,
+        "label": "Conqueror of Doomfire, the Burning Lands (TBL)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000071,
+        "label": "Conqueror of Empyr: Realms of Ash"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000072,
+        "label": "Conqueror of Esianti: Palace of the Winds"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000073,
+        "label": "Conqueror of Aalishai: Palace of Embers"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000074,
+        "label": "Conqueror of Mearatas: The Stone Demesne"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 26000605,
+        "label": "Conqueror of Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2600080,
+    "title": "Explorer of The Burning Lands",
+    "description": "This achievement is gained upon visiting all the zones in The Burning Lands.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000083,
+        "label": "Stratos: Zephyr's Flight Traveler"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000084,
+        "label": "The Plane of Smoke Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000085,
+        "label": "Empyr: Realms of Ash Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000086,
+        "label": "Aalishai: Palace of Embers Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000087,
+        "label": "Esianti: Palace of the Winds Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000088,
+        "label": "Mearatas: The Stone Demesne Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000089,
+        "label": "The Chamber of Tears Traveler"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 26000609,
+        "label": "Gnome Memorial Mountain Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2600000,
+    "title": "Master of The Burning Lands",
+    "description": "This achievement is gained upon completing all quests, missions, and mission challenges in The Burning Lands.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000000,
+        "label": "Champion of The Burning Lands"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000001,
+        "label": "Paragon of The Burning Lands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000002,
+        "label": "Challenger of The Burning Lands"
+      }
+    ]
+  },
+  {
+    "id": 2600030,
+    "title": "Paragon of The Burning Lands",
+    "description": "This achievement is gained upon completing all the missions in The Burning Lands.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000015,
+        "label": "Hero of Stratos: Zephyr's Flight"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000016,
+        "label": "Hero of The Plane of Smoke"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000017,
+        "label": "Hero of Empyr: Realms of Ash"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000018,
+        "label": "Hero of Doomfire, the Burning Lands"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000019,
+        "label": "Hero of Esianti: Palace of the Winds"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000020,
+        "label": "Hero of Mearatas: The Stone Demesne"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000021,
+        "label": "Hero of Aalishai: Palace of Embers"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000022,
+        "label": "Hero of The Chamber of Tears"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 26000601,
+        "label": "Hero of Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2600070,
+    "title": "Vanquisher of The Burning Lands",
+    "description": "This achievement is gained upon completing all the raid challenges in The Burning Lands.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2601,
+    "subcategoryName": "General",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000075,
+        "label": "Vanquisher of Fight Fire"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000076,
+        "label": "Vanquisher of Rise of Smoke"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000077,
+        "label": "Vanquisher of General Reparm"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000078,
+        "label": "Vanquisher of Prince Ralaifin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000079,
+        "label": "Vanquisher of The Conflagration Generals"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000080,
+        "label": "Vanquisher of Moon Serf of Harmonious Heavens"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000081,
+        "label": "Vanquisher of The Palace Gates"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000082,
+        "label": "Vanquisher of Unfettered Emerald Excellence"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 26000606,
+        "label": "Vanquisher of Dragon in the Works"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 26000607,
+        "label": "Vanquisher of Night at the Museum"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 26000608,
+        "label": "Vanquisher of Mechagnomic Whirlrender"
+      }
+    ]
+  },
+  {
+    "id": 2681900,
+    "title": "Aalishai: Palace of Embers Traveler",
+    "description": "This achievement is gained upon visiting Aalishai: Palace of Embers",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000359,
+        "label": "Visit Aalishai: Palace of Embers"
+      }
+    ]
+  },
+  {
+    "id": 2682000,
+    "title": "Empyr: Realms of Ash Traveler",
+    "description": "This achievement is gained upon visiting Empyr: Realms of Ash",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000358,
+        "label": "Visit Empyr: Realms of Ash"
+      }
+    ]
+  },
+  {
+    "id": 2682100,
+    "title": "Esianti: Palace of the Winds Traveler",
+    "description": "This achievement is gained upon visiting Esianti: Palace of the Winds",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000360,
+        "label": "Visit Esianti: Palace of the Winds"
+      }
+    ]
+  },
+  {
+    "id": 1578700,
+    "title": "Gnome Memorial Mountain Traveler",
+    "description": "This achievement is gained upon visiting Gnome Memorial Mountain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000077,
+        "label": "Visit Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2682200,
+    "title": "Mearatas: The Stone Demesne Traveler",
+    "description": "This achievement is gained upon visiting Mearatas: The Stone Demesne",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000361,
+        "label": "Visit Mearatas: The Stone Demesne"
+      }
+    ]
+  },
+  {
+    "id": 2681800,
+    "title": "Stratos: Zephyr's Flight Traveler",
+    "description": "This achievement is gained upon visiting Stratos: Zephyr's Flight",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000356,
+        "label": "Visit Stratos: Zephyr's Flight"
+      }
+    ]
+  },
+  {
+    "id": 2682300,
+    "title": "The Chamber of Tears Traveler",
+    "description": "This achievement is gained upon visiting The Chamber of Tears",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000362,
+        "label": "Visit The Chamber of Tears"
+      }
+    ]
+  },
+  {
+    "id": 2681700,
+    "title": "The Plane of Smoke Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Smoke",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2602,
+    "subcategoryName": "Exploration",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000357,
+        "label": "Visit The Plane of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2600110,
+    "title": "Adventurer of The Burning Lands (Group)",
+    "description": "Completing the following will grant you access to Empyr: Realms of Ash:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000306,
+        "label": "Grieving Soul Scent - Soldier of Air"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000307,
+        "label": "Grieving Soul Scent - Fight Fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000308,
+        "label": "Airbound Skystone, All Dream's Weaver, or Fever's Enlightenment - Trials of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2600191,
+    "title": "Battle Writ of the Jann (Raid)",
+    "description": "Collect the following to gain access to raids in Empyr: Realms of Ash and Esianti: Palace of the Winds:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000363,
+        "label": "Battle Writ of the Jann"
+      }
+    ]
+  },
+  {
+    "id": 2600190,
+    "title": "Flameward (Raid)",
+    "description": "Completing the following will allow you to request raids in Aalishai: Palace of Embers and Mearatas: The Stone Demesne:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000097,
+        "label": "Winds of Ash (Raid)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000098,
+        "label": "Greater Battle Writ of the Jann (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2600192,
+    "title": "Greater Battle Writ of the Jann (Raid)",
+    "description": "Collect the following to gain access to raids in Aalishai: Palace of Embers and Mearatas: The Stone Demesne:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000364,
+        "label": "Greater Battle Writ of the Jann"
+      }
+    ]
+  },
+  {
+    "id": 2600170,
+    "title": "Heatseeker (Group)",
+    "description": "Completing the following will allow you to request raids in Doomfire, the Burning Lands (TBL):",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000094,
+        "label": "Trialblazer (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000309,
+        "label": "Star Stealing Sage - Prisoner's Dilemma"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000310,
+        "label": "Great Sky Ocean - Palace of Embers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000311,
+        "label": "Great Sky Ocean - Brass Palace"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000312,
+        "label": "Dusky Iron Meditation - Key to the Kingdom"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000313,
+        "label": "Great Sky Ocean - Contract of War"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000314,
+        "label": "Great Sky Ocean - All Hail the King"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000315,
+        "label": "Sky Orchid Understanding - Royal Visit"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000316,
+        "label": "Golden Ruby and Garnet Ring - Tyrant of Fire"
+      }
+    ]
+  },
+  {
+    "id": 2600120,
+    "title": "Hero of The Burning Lands (Group)",
+    "description": "Completing the following will grant you access to Aalishai: Palace of Embers:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000090,
+        "label": "Adventurer of The Burning Lands (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000309,
+        "label": "Star Stealing Sage - Prisoner's Dilemma"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000310,
+        "label": "Great Sky Ocean - Palace of Embers"
+      }
+    ]
+  },
+  {
+    "id": 2600140,
+    "title": "Legend of The Burning Lands (Group)",
+    "description": "Completing the following will grant you access to Mearatas: The Stone Demesne:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000092,
+        "label": "Vindicator of The Burning Lands (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000313,
+        "label": "Great Sky Ocean - Contract of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000314,
+        "label": "Great Sky Ocean - All Hail the King"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000315,
+        "label": "Sky Orchid Understanding - Royal Visit"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000316,
+        "label": "Golden Ruby and Garnet Ring - Tyrant of Fire"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000317,
+        "label": "Blazing Sorrows Darkness - Enter Mearatas"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000318,
+        "label": "Obsidian Sundering Master - Serving Another Master"
+      }
+    ]
+  },
+  {
+    "id": 2600150,
+    "title": "Strategic Entry (Group)",
+    "description": "Completing the following will allow you to request raids in Stratos: Zephyr's Flight:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000306,
+        "label": "Grieving Soul Scent - Soldier of Air"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000307,
+        "label": "Grieving Soul Scent - Fight Fire"
+      }
+    ]
+  },
+  {
+    "id": 2600160,
+    "title": "Trialblazer (Group)",
+    "description": "Completing the following will allow you to request raids in The Plane of Smoke:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000093,
+        "label": "Strategic Entry (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000308,
+        "label": "Airbound Skystone, All Dream's Weaver, or Fever's Enlightenment - Trials of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2600100,
+    "title": "Trials of Smoke (Group)",
+    "description": "Completing the following will grant you access to The Plane of Smoke:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000306,
+        "label": "Grieving Soul Scent - Soldier of Air"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000307,
+        "label": "Grieving Soul Scent - Fight Fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000161,
+        "label": "Trial of Smoke: Trial of Three"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000162,
+        "label": "Trial of Smoke: Trial of the Speaker's Amphitheater"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000163,
+        "label": "Trial of Smoke: Trial of the Eternal Cyclone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000164,
+        "label": "Trial of Smoke: Trial of the Ashes of Rusted Cliff's Glory"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000165,
+        "label": "Trial of Smoke: Trial of the Wending Ways"
+      }
+    ]
+  },
+  {
+    "id": 2600130,
+    "title": "Vindicator of The Burning Lands (Group)",
+    "description": "Completing the following will grant you access to Esianti: Palace of the Winds:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000091,
+        "label": "Hero of The Burning Lands (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000311,
+        "label": "Great Sky Ocean - Brass Palace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000312,
+        "label": "Dusky Iron Meditation - Key to the Kingdom"
+      }
+    ]
+  },
+  {
+    "id": 2600180,
+    "title": "Winds of Ash (Raid)",
+    "description": "Completing the following will allow you to request raids in Empyr: Realms of Ash and Esianti: Palace of the Winds:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000095,
+        "label": "Heatseeker (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000317,
+        "label": "Blazing Sorrows Darkness - Enter Mearatas"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000318,
+        "label": "Obsidian Sundering Master - Serving Another Master"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000319,
+        "label": "Obsidian Sundering Master - Earthen Dirge"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000320,
+        "label": "Obsidian Sundering Master - Mold Seeker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000321,
+        "label": "Key of the Relic Keeper - Relic Raider"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000322,
+        "label": "Unrepentant Sunrise - Delivery"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000323,
+        "label": "A Door in Relic - Strange Magic"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000324,
+        "label": "Unrepentant Sunrise - Remodeling"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000096,
+        "label": "Battle Writ of the Jann (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2600193,
+    "title": "Writ of the Jann General (Raid)",
+    "description": "Collect the following to earn a reward for your Prominence:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2603,
+    "subcategoryName": "Progression",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000365,
+        "label": "Writ of the Jann General"
+      }
+    ]
+  },
+  {
+    "id": 2681910,
+    "title": "Mercenary of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon completing the following quests in Aalishai: Palace of Embers",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000342,
+        "label": "Everna Delestrod - Gathering Elements: Air"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000343,
+        "label": "Everna Delestrod - Gathering Elements: Water"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000344,
+        "label": "Everna Delestrod - Gathering Elements: Earth"
+      }
+    ]
+  },
+  {
+    "id": 2682010,
+    "title": "Mercenary of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon completing the following quests in Empyr: Realms of Ash",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000338,
+        "label": "Charred Forest - Scalding Webs We Weave"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000339,
+        "label": "Charred Forest - Crafted from Ash"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000340,
+        "label": "Charred Forest - Slimy, Yet Sizzling"
+      }
+    ]
+  },
+  {
+    "id": 2682110,
+    "title": "Mercenary of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon completing the following quests in Esianti: Palace of the Winds",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000346,
+        "label": "Phibbit - Armor of Acrophobia"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000347,
+        "label": "Phibbit - Not as Swell as You Would Think"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000348,
+        "label": "Phibbit - Beyond the Ex-pyre-ation Date"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000349,
+        "label": "Phibbit - Sweeping up the Brumes"
+      }
+    ]
+  },
+  {
+    "id": 2682210,
+    "title": "Mercenary of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon completing the following quests in Mearatas: The Stone Demesne",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000351,
+        "label": "Emli Widgetton - Thin out the Mephits"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000352,
+        "label": "Emli Widgetton - Free the Wardens"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000353,
+        "label": "Emli Widgetton - Lost Missives"
+      }
+    ]
+  },
+  {
+    "id": 2681810,
+    "title": "Mercenary of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon completing the following quests in Stratos: Zephyr's Flight",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000306,
+        "label": "Grieving Soul Scent - Soldier of Air"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 26000325,
+        "label": "Iron Lightning Spirit - Earning One's Place"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000326,
+        "label": "Ashen Wandering Horizon - Do Unto Them"
+      }
+    ]
+  },
+  {
+    "id": 2681710,
+    "title": "Mercenary of The Plane of Smoke",
+    "description": "This achievement is gained upon completing the following quests in The Plane of Smoke",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000329,
+        "label": "Emerald Hope of the Stars - Kill Mephits"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000330,
+        "label": "Darkened Victorious Scholar - Kill Ashen Creatures"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000331,
+        "label": "Darkened Victorious Scholar - Kill Flashfires"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000332,
+        "label": "Emerald Hope of the Stars - Kill Twisters"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000333,
+        "label": "Darkened Victorious Scholar - Kill Blazes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000334,
+        "label": "Emerald Hope of the Stars - Kill Breeze Creatures"
+      }
+    ]
+  },
+  {
+    "id": 2681920,
+    "title": "Partisan of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon completing the following quests in Aalishai: Palace of Embers",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000315,
+        "label": "Sky Orchid Understanding in Esianti - Royal Visits"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000317,
+        "label": "Blazing Sorrows Darkness - Enter Mearatas"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000345,
+        "label": "Spear Sundering Ivory - Fragmented Coterie"
+      }
+    ]
+  },
+  {
+    "id": 2682020,
+    "title": "Partisan of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon completing the following quests in Empyr: Realms of Ash",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000309,
+        "label": "Star Stealing Sage - Prisoner's Dilemma"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000310,
+        "label": "Great Sky Ocean - Palace of Embers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000341,
+        "label": "Horizon Blighted Sage - Fire and Fury"
+      }
+    ]
+  },
+  {
+    "id": 2682120,
+    "title": "Partisan of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon completing the following quests in Esianti: Palace of the Winds",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000314,
+        "label": "Great Sky Ocean in Stratos - All Hail the King"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000318,
+        "label": "Obsidian Sundering Master - Serving Another Master"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000350,
+        "label": "Joyous Blossom  - Of Mice and Jann"
+      }
+    ]
+  },
+  {
+    "id": 1578720,
+    "title": "Partisan of Gnome Memorial Mountain",
+    "description": "This achievement is gained upon completing the following quests in Gnome Memorial Mountain",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000078,
+        "label": "Greeter Seeltink - Orcwolf Mercy"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000079,
+        "label": "Greeter Seeltink - Clockwork Mercy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000080,
+        "label": "Greeter Seeltink - Greatest Gnome Hunters"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000081,
+        "label": "Belira Blastil - What's Cooking"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000082,
+        "label": "Belira Blastil - Furnace Fire"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000083,
+        "label": "Belira Blastil - At Its Core"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000084,
+        "label": "Belira Blastil - Unscheduled Repairs"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 15000085,
+        "label": "Tinzenwen Geargoggler - Judge by What's Inside"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 15000086,
+        "label": "Tinzenwen Geargoggler - Culture of Blood"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 15000087,
+        "label": "a Bloodmoon exile - When Orcs Fly"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 15000088,
+        "label": "Tinzenwen Geargoggler - If It Is Broke"
+      }
+    ]
+  },
+  {
+    "id": 2682220,
+    "title": "Partisan of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon completing the following quests in Mearatas: The Stone Demesne",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000319,
+        "label": "Obsidian Sundering Master in Esianti - Earthen Dirge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000320,
+        "label": "Obsidian Sundering Master in Esianti - Mold Seeker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000354,
+        "label": "Flexing Devout Purpose - Slippery Slope"
+      }
+    ]
+  },
+  {
+    "id": 2681820,
+    "title": "Partisan of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon completing the following quests in Stratos: Zephyr's Flight",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2604,
+    "subcategoryName": "Quests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000327,
+        "label": "Iron Lightning Spirit - a petitioner's plight"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000312,
+        "label": "Dusky Iron Meditation - Key to the Kingdom"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000328,
+        "label": "Rianar Gadliun  - Political Awareness"
+      }
+    ]
+  },
+  {
+    "id": 2681930,
+    "title": "Hero of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon completing the following mission in Aalishai: Palace of Embers",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000311,
+        "label": "Great Sky Ocean in Stratos - Brass Palace"
+      }
+    ]
+  },
+  {
+    "id": 2621730,
+    "title": "Hero of Doomfire, the Burning Lands",
+    "description": "This achievement is gained upon completing the following missions in Doomfire, the Burning Lands",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000316,
+        "label": "Golden Ruby and Garnet Ring - Tyrant of Fire"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000322,
+        "label": "Unrepentant Sunrise  - Delivery"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000324,
+        "label": "Unrepentant Sunrise  - Remodeling"
+      }
+    ]
+  },
+  {
+    "id": 2682030,
+    "title": "Hero of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon completing the following mission in Empyr: Realms of Ash",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000355,
+        "label": "Horizon Blighted Sage - Prince Ralaifin"
+      }
+    ]
+  },
+  {
+    "id": 2682130,
+    "title": "Hero of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon completing the following mission in Esianti: Palace of the Winds",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000313,
+        "label": "Great Sky Ocean in Stratos - Contract of War"
+      }
+    ]
+  },
+  {
+    "id": 1578730,
+    "title": "Hero of Gnome Memorial Mountain",
+    "description": "This achievement is gained upon completing the following missions in Gnome Memorial Mountain",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000089,
+        "label": "Leadbetter - Danger Zone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000090,
+        "label": "Belira Blastil - The Darkness Howls"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000091,
+        "label": "Belira Blastil - Ironing out the Legion"
+      }
+    ]
+  },
+  {
+    "id": 2682230,
+    "title": "Hero of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon completing the following mission in Mearatas: The Stone Demesne",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000321,
+        "label": "Key of the Relic Keeper - Relic Raider"
+      }
+    ]
+  },
+  {
+    "id": 2681830,
+    "title": "Hero of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon completing the following mission in Stratos: Zephyr's Flight",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000307,
+        "label": "Grieving Soul Scent - Fight Fire"
+      }
+    ]
+  },
+  {
+    "id": 2682330,
+    "title": "Hero of The Chamber of Tears",
+    "description": "This achievement is gained upon completing the following mission in The Chamber of Tears",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000323,
+        "label": "A Door in Relic - Strange Magic"
+      }
+    ]
+  },
+  {
+    "id": 2681730,
+    "title": "Hero of The Plane of Smoke",
+    "description": "This achievement is gained upon completing the following mission in The Plane of Smoke",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2605,
+    "subcategoryName": "Missions",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000308,
+        "label": "Airbound Skystone, All Dream's Weaver, or Fever's Enlightenment - Trials of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2682052,
+    "title": "All at Once",
+    "description": "This special challenge can be completed during the raid event 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000181,
+        "label": "Kill all four ecclesiastic within one minute."
+      }
+    ]
+  },
+  {
+    "id": 2682051,
+    "title": "All in Its Place",
+    "description": "This special challenge can be completed during the raid event 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000180,
+        "label": "Complete the raid without pulling an ecclesiastic from its aura."
+      }
+    ]
+  },
+  {
+    "id": 2682053,
+    "title": "All on Their Own",
+    "description": "This special challenge can be completed during the raid event 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000182,
+        "label": "Kill each ecclesiastic one at a time. All remaining ecclesiastic must be more than 25% health."
+      }
+    ]
+  },
+  {
+    "id": 1578756,
+    "title": "Break It Down",
+    "description": "This special challenge can be completed during the raid event 'Night at the Museum'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000055,
+        "label": "Destroy the broken down bot before destroying its healer allies."
+      }
+    ]
+  },
+  {
+    "id": 2682057,
+    "title": "Bring Them Down Together",
+    "description": "This special challenge can be completed during the raid event 'The Conflagration Generals'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000185,
+        "label": "Complete the raid without letting the two bosses go drastically out of balance."
+      }
+    ]
+  },
+  {
+    "id": 2681753,
+    "title": "Called to Task",
+    "description": "This special challenge can be completed during the raid event 'Rise of Smoke'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000173,
+        "label": "Do not allow any of the mephits to force someone to fight."
+      }
+    ]
+  },
+  {
+    "id": 1578751,
+    "title": "Cling Free",
+    "description": "This special challenge can be completed during the raid event 'Dragon in the Works'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000051,
+        "label": "Never let the dragon enter the static aura."
+      }
+    ]
+  },
+  {
+    "id": 2682252,
+    "title": "Color Coordinated",
+    "description": "This special challenge can be completed during the raid event 'Unfettered Emerald Excellence'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000196,
+        "label": "Complete the raid without anyone being caught in a wing without the protective Mark."
+      }
+    ]
+  },
+  {
+    "id": 2681940,
+    "title": "Conqueror of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon completing the following raid in Aalishai: Palace of Embers:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000190,
+        "label": "Vermillion Refuge in Symmetry - The Palace Gates"
+      }
+    ]
+  },
+  {
+    "id": 2682340,
+    "title": "Conqueror of Doomfire, the Burning Lands (TBL)",
+    "description": "This achievement is gained upon completing the following raid in Doomfire, the Burning Lands:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000174,
+        "label": "Unrepentant Sunrise - General Reparm"
+      }
+    ]
+  },
+  {
+    "id": 2682040,
+    "title": "Conqueror of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon completing the following raids in Empyr: Realms of Ash:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000178,
+        "label": "Horizon Blighted Sage  - Prince Ralaifin"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000179,
+        "label": "Horizon Blighted Sage  - The Conflagration Generals"
+      }
+    ]
+  },
+  {
+    "id": 2682140,
+    "title": "Conqueror of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon completing the following raid in Esianti: Palace of the Winds:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000186,
+        "label": "Masterful Azure Heavens - Moon Serf of Harmonious Heavens"
+      }
+    ]
+  },
+  {
+    "id": 1578740,
+    "title": "Conqueror of Gnome Memorial Mountain",
+    "description": "This achievement is gained upon completing the following raids in Gnome Memorial Mountain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000048,
+        "label": "Dragon in the Works"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000049,
+        "label": "Night at the Museum"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000050,
+        "label": "Mechagnomic Whirlrender"
+      }
+    ]
+  },
+  {
+    "id": 2682240,
+    "title": "Conqueror of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon completing the following raid in Mearatas: The Stone Demesne:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000194,
+        "label": "Dreadblade Yiaga S`Lon - Unfettered Emerald Excellence"
+      }
+    ]
+  },
+  {
+    "id": 2681840,
+    "title": "Conqueror of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon completing the following raid in Stratos: Zephyr's Flight:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000166,
+        "label": "Warm Cloud Auger - Fight Fire"
+      }
+    ]
+  },
+  {
+    "id": 2681740,
+    "title": "Conqueror of The Plane of Smoke",
+    "description": "This achievement is gained upon completing the following raid in The Plane of Smoke:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000170,
+        "label": "Unraveling Consciousness Blue - Rise of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2681851,
+    "title": "Crowd Control",
+    "description": "This special challenge can be completed during the raid event 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000167,
+        "label": "Complete the event with thirty or more enemies still alive."
+      }
+    ]
+  },
+  {
+    "id": 2682152,
+    "title": "Easy Breezy",
+    "description": "This special challenge can be completed during the raid event 'Moon Serf of Harmonious Heavens'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000188,
+        "label": "Complete the raid without anyone being struck by the Breeze auras."
+      }
+    ]
+  },
+  {
+    "id": 2682352,
+    "title": "Extinguisher",
+    "description": "This special challenge can be completed during the raid event 'General Reparm'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000176,
+        "label": "Do not allow general Reparm's Expanding Flames to spread."
+      }
+    ]
+  },
+  {
+    "id": 1578759,
+    "title": "Failure Is Not an Option",
+    "description": "This special challenge can be completed during the raid event 'Mechagnomic Whirlrender'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000057,
+        "label": "Complete the event on your first try in an instance."
+      }
+    ]
+  },
+  {
+    "id": 2681853,
+    "title": "Fire Free",
+    "description": "This special challenge can be completed during the raid event 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000169,
+        "label": "Complete the event without allowing yourself to get on fire."
+      }
+    ]
+  },
+  {
+    "id": 2682253,
+    "title": "Impenetrable Defenses",
+    "description": "This special challenge can be completed during the raid event 'Unfettered Emerald Excellence'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000197,
+        "label": "Complete the raid without letting any of the animated armors reach Unfettered Emerald Excellence."
+      }
+    ]
+  },
+  {
+    "id": 2681852,
+    "title": "Leading a Charmed Life",
+    "description": "This special challenge can be completed during the raid event 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000168,
+        "label": "Complete the event after charming twenty different enemies."
+      }
+    ]
+  },
+  {
+    "id": 2681951,
+    "title": "Legend of the Phoenix",
+    "description": "This special challenge can be completed during the raid event 'The Palace Gates'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000191,
+        "label": "Ensure the Seneschal is affected by Flames of Destruction five times."
+      }
+    ]
+  },
+  {
+    "id": 1578757,
+    "title": "Look out, Bellow!",
+    "description": "This special challenge can be completed during the raid event 'Night at the Museum'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000056,
+        "label": "Do not allow anyone by the initial target to be hit by the beetle's bellow."
+      }
+    ]
+  },
+  {
+    "id": 2682056,
+    "title": "Masters of the Dance",
+    "description": "This special challenge can be completed during the raid event 'The Conflagration Generals'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000184,
+        "label": "Complete the raid without failing a position check for the Conflagration Generals."
+      }
+    ]
+  },
+  {
+    "id": 2681952,
+    "title": "No Repercussions",
+    "description": "This special challenge can be completed during the raid event 'The Palace Gates'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000192,
+        "label": "Do not allow the Seneschal's Repercussions spell to affect four or more animated armors."
+      }
+    ]
+  },
+  {
+    "id": 1578761,
+    "title": "No Time to Spare",
+    "description": "This special challenge can be completed during the raid event 'Mechagnomic Whirlrender'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000059,
+        "label": "Complete the event in under ten minutes."
+      }
+    ]
+  },
+  {
+    "id": 1578752,
+    "title": "None to the Dome",
+    "description": "This special challenge can be completed during the raid event 'Dragon in the Works'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000052,
+        "label": "Never allow an adventurer to enter the static aura."
+      }
+    ]
+  },
+  {
+    "id": 2682251,
+    "title": "Poison Unproliferated",
+    "description": "This special challenge can be completed during the raid event 'Unfettered Emerald Excellence'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000195,
+        "label": "Complete the raid without anyone triggering a Poison Blast from Poison Proliferation."
+      }
+    ]
+  },
+  {
+    "id": 1578760,
+    "title": "Precious Metal",
+    "description": "This special challenge can be completed during the raid event 'Mechagnomic Whirlrender'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000058,
+        "label": "Complete this event using only exceptional quality scrap."
+      }
+    ]
+  },
+  {
+    "id": 2681953,
+    "title": "Quadruple Indemnity",
+    "description": "This special challenge can be completed during the raid event 'The Palace Gates'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000193,
+        "label": "Complete the Seneschal's fight at the maximum level of Repercussions."
+      }
+    ]
+  },
+  {
+    "id": 2682353,
+    "title": "Reign of Frogs",
+    "description": "This special challenge can be completed during the raid event 'General Reparm'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000177,
+        "label": "Do not allow more than six frogs to be alive at one time."
+      }
+    ]
+  },
+  {
+    "id": 2681751,
+    "title": "Rescue Rangers",
+    "description": "This special challenge can be completed during the raid event 'Rise of Smoke'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000171,
+        "label": "Do not allow any of the prisoners to be killed."
+      }
+    ]
+  },
+  {
+    "id": 2682351,
+    "title": "Slugless",
+    "description": "This special challenge can be completed during the raid event 'General Reparm'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000175,
+        "label": "Do not let the slugs spawn from the bodies of the throne guardians."
+      }
+    ]
+  },
+  {
+    "id": 2682151,
+    "title": "Snake Charmer",
+    "description": "This special challenge can be completed during the raid event 'Moon Serf of Harmonious Heavens'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000187,
+        "label": "Complete the raid after having charmed nilborien hawks proc their Planar Venom on all three bosses."
+      }
+    ]
+  },
+  {
+    "id": 2682055,
+    "title": "Stunning Performance!",
+    "description": "This special challenge can be completed during the raid event 'The Conflagration Generals'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000183,
+        "label": "Complete the raid without letting any whorling wildfire live for more than 25 seconds."
+      }
+    ]
+  },
+  {
+    "id": 2682153,
+    "title": "Unbalanced Force",
+    "description": "This special challenge can be completed during the raid event 'Moon Serf of Harmonious Heavens'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000189,
+        "label": "Complete the raid after letting the three bosses go drastically out of balance."
+      }
+    ]
+  },
+  {
+    "id": 2681752,
+    "title": "Uneggsploded",
+    "description": "This special challenge can be completed during the raid event 'Rise of Smoke'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000172,
+        "label": "Do not allow any of the phoenix eggs to hatch."
+      }
+    ]
+  },
+  {
+    "id": 1578753,
+    "title": "Unrepaired",
+    "description": "This special challenge can be completed during the raid event 'Dragon in the Works'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000053,
+        "label": "Do not allow the mechanics to restore more than five percent of the dragon's health."
+      }
+    ]
+  },
+  {
+    "id": 1578750,
+    "title": "Vanquisher of Dragon in the Works",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000037,
+        "label": "Cling Free"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000038,
+        "label": "None to the Dome"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000039,
+        "label": "Unrepaired"
+      }
+    ]
+  },
+  {
+    "id": 2681850,
+    "title": "Vanquisher of Fight Fire",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000099,
+        "label": "Crowd Control"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000100,
+        "label": "Leading a Charmed Life"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000101,
+        "label": "Fire Free"
+      }
+    ]
+  },
+  {
+    "id": 2682350,
+    "title": "Vanquisher of General Reparm",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000105,
+        "label": "Slugless"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000106,
+        "label": "Extinguisher"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000107,
+        "label": "Reign of Frogs"
+      }
+    ]
+  },
+  {
+    "id": 1578758,
+    "title": "Vanquisher of Mechagnomic Whirlrender",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000043,
+        "label": "Failure Is Not an Option"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000044,
+        "label": "Precious Metal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000045,
+        "label": "No Time to Spare"
+      }
+    ]
+  },
+  {
+    "id": 2682150,
+    "title": "Vanquisher of Moon Serf of Harmonious Heavens",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000114,
+        "label": "Snake Charmer"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000115,
+        "label": "Easy Breezy"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000116,
+        "label": "Unbalanced Force"
+      }
+    ]
+  },
+  {
+    "id": 1578754,
+    "title": "Vanquisher of Night at the Museum",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000040,
+        "label": "We Never Get Boared"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000041,
+        "label": "Break It Down"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000042,
+        "label": "Look Out, Bellow!"
+      }
+    ]
+  },
+  {
+    "id": 2682050,
+    "title": "Vanquisher of Prince Ralaifin",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000108,
+        "label": "All in Its Place"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000109,
+        "label": "All At Once"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000110,
+        "label": "All On Their Own"
+      }
+    ]
+  },
+  {
+    "id": 2681750,
+    "title": "Vanquisher of Rise of Smoke",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000102,
+        "label": "Rescue Rangers"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000103,
+        "label": "Uneggsploded"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000104,
+        "label": "Called to Task"
+      }
+    ]
+  },
+  {
+    "id": 2682054,
+    "title": "Vanquisher of The Conflagration Generals",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000111,
+        "label": "Stunning Performance!"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000112,
+        "label": "Masters of the Dance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000113,
+        "label": "Bring Them Down Together"
+      }
+    ]
+  },
+  {
+    "id": 2681950,
+    "title": "Vanquisher of The Palace Gates",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000117,
+        "label": "Legend of the Phoenix"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000118,
+        "label": "No Repercussions"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000119,
+        "label": "Quadruple Indemnity"
+      }
+    ]
+  },
+  {
+    "id": 2682250,
+    "title": "Vanquisher of Unfettered Emerald Excellence",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000120,
+        "label": "Poison Unproliferated"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000121,
+        "label": "Color Coordinated"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000122,
+        "label": "Impenetrable Defenses"
+      }
+    ]
+  },
+  {
+    "id": 1578755,
+    "title": "We Never Get Boared",
+    "description": "This special challenge can be completed during the raid event 'Night at the Museum'",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2606,
+    "subcategoryName": "Raids",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000054,
+        "label": "Do not allow anyone to be knocked down by the boar."
+      }
+    ]
+  },
+  {
+    "id": 2681777,
+    "title": "A Matter of Timing",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Speaker's Amphitheater)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000207,
+        "label": "Defeat each pair of Striding Obsidian Destroyer's lieutenants within 1 minute of each other."
+      }
+    ]
+  },
+  {
+    "id": 2681776,
+    "title": "All Alone",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Ashes of Rusted Cliff's Glory)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000206,
+        "label": "Do not allow any ashen elementals to be alive when Whispers of Indomitable Onyx is defeated."
+      }
+    ]
+  },
+  {
+    "id": 2682071,
+    "title": "All in Its Place",
+    "description": "This special challenge can be completed during the mission 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000216,
+        "label": "Complete the mission without pulling an ecclesiastic from its aura."
+      }
+    ]
+  },
+  {
+    "id": 2682073,
+    "title": "All Safe from the Fire",
+    "description": "This special challenge can be completed during the mission 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000218,
+        "label": "Complete the mission without being struck by a billow."
+      }
+    ]
+  },
+  {
+    "id": 2681783,
+    "title": "Appointments Required",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Wending Ways)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000213,
+        "label": "Complete the mission without entering the room of an Ambassador out of order."
+      }
+    ]
+  },
+  {
+    "id": 2621772,
+    "title": "Deathless",
+    "description": "This special challenge can be completed during the mission 'Tyrant of Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000226,
+        "label": "Don't allow any of your party die."
+      }
+    ]
+  },
+  {
+    "id": 2681971,
+    "title": "Don't Get Burned",
+    "description": "This special challenge can be completed during the mission 'Brass Palace'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000219,
+        "label": "Avoid the mindless flames."
+      }
+    ]
+  },
+  {
+    "id": 2681972,
+    "title": "Don't Get Bursted",
+    "description": "This special challenge can be completed during the mission 'Brass Palace'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000220,
+        "label": "Avoid Ash Wrathful's Sol Burst."
+      }
+    ]
+  },
+  {
+    "id": 2681973,
+    "title": "Don't Let the Heat Spread",
+    "description": "This special challenge can be completed during the mission 'Brass Palace'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000221,
+        "label": "Do not allow Discipline of Flame's Spreading Heat to spread."
+      }
+    ]
+  },
+  {
+    "id": 2621775,
+    "title": "Don't Stand in the Fire",
+    "description": "This special challenge can be completed during the mission 'Delivery'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000229,
+        "label": "Do not allow more than one person to stand in the fires left by the snail trails."
+      }
+    ]
+  },
+  {
+    "id": 2681784,
+    "title": "Don't Trip",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Wending Ways)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000214,
+        "label": "Complete the mission without falling into the center area."
+      }
+    ]
+  },
+  {
+    "id": 2621778,
+    "title": "Extinguisher",
+    "description": "This special challenge can be completed during the mission 'Remodeling'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000232,
+        "label": "Do not allow Expanding Flames to spread."
+      }
+    ]
+  },
+  {
+    "id": 1578771,
+    "title": "Failure Is Not an Option",
+    "description": "This special challenge can be completed during the mission 'Danger Zone'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000060,
+        "label": "Complete the event on your first try in an instance."
+      }
+    ]
+  },
+  {
+    "id": 2681871,
+    "title": "Fire Free Zone",
+    "description": "This special challenge can be completed during the mission 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000198,
+        "label": "Do not allow the warlords to complete any of their ritual magic"
+      }
+    ]
+  },
+  {
+    "id": 2621776,
+    "title": "Firelings",
+    "description": "This special challenge can be completed during the mission 'Delivery'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000230,
+        "label": "Allow ten or more firelings to be created while fighting the Guardian of Doomfire."
+      }
+    ]
+  },
+  {
+    "id": 2621779,
+    "title": "Firelings",
+    "description": "This special challenge can be completed during the mission 'Remodeling'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000233,
+        "label": "Allow ten or more firelings to be created while fighting the Guardian of Doomfire."
+      }
+    ]
+  },
+  {
+    "id": 2681775,
+    "title": "Fireproof",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Ashes of Rusted Cliff's Glory)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000205,
+        "label": "Do not allow anyone to be hit by the Phoenix Fires"
+      }
+    ]
+  },
+  {
+    "id": 2681778,
+    "title": "Following Orders",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Speaker's Amphitheater)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000208,
+        "label": "Defeat both pairs of Obsidian Destroyer's lieutenants in alphabetical order"
+      }
+    ]
+  },
+  {
+    "id": 2682373,
+    "title": "Gathering Forces",
+    "description": "This special challenge can be completed during the mission 'Strange Magic'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000239,
+        "label": "Do not allow Gathering Forces to reach full power."
+      }
+    ]
+  },
+  {
+    "id": 2682172,
+    "title": "Guarded",
+    "description": "This special challenge can be completed during the mission 'Contract of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000223,
+        "label": "Face at least seven mephit guardians."
+      }
+    ]
+  },
+  {
+    "id": 2681873,
+    "title": "Habitation",
+    "description": "This special challenge can be completed during the mission 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000200,
+        "label": "Allow both warlords to inhabit the pyre armors."
+      }
+    ]
+  },
+  {
+    "id": 2681785,
+    "title": "Just Passing Through",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Wending Ways)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000215,
+        "label": "Pass through the nilborian during the mission."
+      }
+    ]
+  },
+  {
+    "id": 2682273,
+    "title": "Keep on Rollin`",
+    "description": "This special challenge can be completed during the mission 'Relic Raider'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000236,
+        "label": "Do not get hit by the rolling boulder"
+      }
+    ]
+  },
+  {
+    "id": 2681771,
+    "title": "Keep Them Separated",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Eternal Cyclone)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000201,
+        "label": "Don't allow freezing wind, blazing breeze, or gritty blast to transform by interacting with another."
+      }
+    ]
+  },
+  {
+    "id": 2682372,
+    "title": "Life and Death",
+    "description": "This special challenge can be completed during the mission 'Strange Magic'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000238,
+        "label": "Do not allow the Life and Death curses to trigger."
+      }
+    ]
+  },
+  {
+    "id": 2681772,
+    "title": "Mix and Match",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Eternal Cyclone)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000202,
+        "label": "Allow a smoldering gust, freezing gritty blast, gritty freezing wind, and ashen terror to form."
+      }
+    ]
+  },
+  {
+    "id": 2681773,
+    "title": "No Eggsplanations",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Eternal Cyclone)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000203,
+        "label": "Kill every phoenix supernova before it can lay any eggs."
+      }
+    ]
+  },
+  {
+    "id": 2621771,
+    "title": "No Escape",
+    "description": "This special challenge can be completed during the mission 'Tyrant of Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000225,
+        "label": "Defeat all the invaders."
+      }
+    ]
+  },
+  {
+    "id": 2681781,
+    "title": "No Smoking",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of Three)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000211,
+        "label": "Pass the trial without allowing anyone to enter the Encroaching Dreadsmoke."
+      }
+    ]
+  },
+  {
+    "id": 1578773,
+    "title": "No Time to Spare",
+    "description": "This special challenge can be completed during the mission 'Danger Zone'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000062,
+        "label": "Complete the event in under ten minutes."
+      }
+    ]
+  },
+  {
+    "id": 2682272,
+    "title": "Perfect Timing",
+    "description": "This special challenge can be completed during the mission 'Relic Raider'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000235,
+        "label": "Defeat the Relic Guardians at the same time and Vekerchiki Soldiers at the same time"
+      }
+    ]
+  },
+  {
+    "id": 1578772,
+    "title": "Precious Metal",
+    "description": "This special challenge can be completed during the mission 'Danger Zone'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000061,
+        "label": "Complete this event using only exceptional quality scrap."
+      }
+    ]
+  },
+  {
+    "id": 2682072,
+    "title": "Prince Ralaifin - Time Trial",
+    "description": "This special challenge can be completed during the mission 'Prince Ralaifin'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000217,
+        "label": "Complete the mission within 15 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2682171,
+    "title": "Re-Guard-Less",
+    "description": "This special challenge can be completed during the mission 'Contract of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000222,
+        "label": "Face no more than two mephit guardians."
+      }
+    ]
+  },
+  {
+    "id": 2681780,
+    "title": "Read the Signs",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of Three)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000210,
+        "label": "Pass the trial killing the dome dwellers in the proper order on the first try."
+      }
+    ]
+  },
+  {
+    "id": 2682271,
+    "title": "Rock Steady",
+    "description": "This special challenge can be completed during the mission 'Relic Raider'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000234,
+        "label": "Do not allow anyone in your party to offend the elemental deep earth and get hit with a rock"
+      }
+    ]
+  },
+  {
+    "id": 2681970,
+    "title": "Savior of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon completing all quests and missions in Aalishai: Palace of Embers.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000044,
+        "label": "Don't Get Burned"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000045,
+        "label": "Don't Get Bursted"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000046,
+        "label": "Don't Let the Heat Spread"
+      }
+    ]
+  },
+  {
+    "id": 2621770,
+    "title": "Savior of Doomfire, the Burning Lands (TBL)",
+    "description": "This achievement is gained upon completing all quests and missions in Doomfire, the Burning Lands.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000050,
+        "label": "No Escape"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000051,
+        "label": "Deathless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000052,
+        "label": "Swift Murder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000053,
+        "label": "Sluggish"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000054,
+        "label": "Don't Stand in the Fire"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000055,
+        "label": "Firelings"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000056,
+        "label": "Unslug Hero"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000057,
+        "label": "Extinguisher"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000058,
+        "label": "Firelings"
+      }
+    ]
+  },
+  {
+    "id": 2682070,
+    "title": "Savior of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon completing all quests and missions in Empyr: Realms of Ash.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000041,
+        "label": "All in Its Place"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000042,
+        "label": "Prince Ralaifin - Time Trial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000043,
+        "label": "All Safe from the Fire"
+      }
+    ]
+  },
+  {
+    "id": 2682170,
+    "title": "Savior of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon completing all quests and missions in Esianti: Palace of the Winds.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000047,
+        "label": "Re-Guard-Less"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000048,
+        "label": "Guarded"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000049,
+        "label": "Undying"
+      }
+    ]
+  },
+  {
+    "id": 1578770,
+    "title": "Savior of Gnome Memorial Mountain",
+    "description": "This achievement is gained upon completing all quests and missions in Gnome Memorial Mountain.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000046,
+        "label": "Partisan of Gnome Memorial Mountain"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000047,
+        "label": "Hero of Gnome Memorial Mountain"
+      }
+    ]
+  },
+  {
+    "id": 2682270,
+    "title": "Savior of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon completing all quests and missions in Mearatas: The Stone Demesne.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000059,
+        "label": "Rock Steady"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000060,
+        "label": "Perfect Timing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000061,
+        "label": "Keep on Rollin`"
+      }
+    ]
+  },
+  {
+    "id": 2681870,
+    "title": "Savior of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon completing all quests and missions in Stratos: Zephyr's Flight.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000023,
+        "label": "Fire Free Zone"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000024,
+        "label": "Uninhabited"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000025,
+        "label": "Habitation"
+      }
+    ]
+  },
+  {
+    "id": 2682370,
+    "title": "Savior of The Chamber of Tears",
+    "description": "This achievement is gained upon completing all quests and missions in The Chamber of Tears.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000062,
+        "label": "Static Free"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000063,
+        "label": "Life and Death"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000064,
+        "label": "Gathering Forces"
+      }
+    ]
+  },
+  {
+    "id": 2681770,
+    "title": "Savior of The Plane of Smoke",
+    "description": "This achievement is gained upon completing all quests and missions in The Plane of Smoke.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000026,
+        "label": "Keep Them Separated"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000027,
+        "label": "Mix and Match"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000028,
+        "label": "No Eggsplanations"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000029,
+        "label": "Stirring the Dust"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000030,
+        "label": "Fireproof"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000031,
+        "label": "All Alone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000032,
+        "label": "A Matter of Timing"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000033,
+        "label": "Following Orders"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000034,
+        "label": "Tumble Dry"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000035,
+        "label": "Read the Signs"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000036,
+        "label": "No Smoking"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000037,
+        "label": "Three at Once"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 26000038,
+        "label": "Appointments Required"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 26000039,
+        "label": "Don't Trip"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 26000040,
+        "label": "Just Passing Through"
+      }
+    ]
+  },
+  {
+    "id": 2621774,
+    "title": "Sluggish",
+    "description": "This special challenge can be completed during the mission 'Delivery'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000228,
+        "label": "Do not let slugs spawn from the bodies of the throne guardians."
+      }
+    ]
+  },
+  {
+    "id": 2682371,
+    "title": "Static Free",
+    "description": "This special challenge can be completed during the mission 'Strange Magic'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000237,
+        "label": "Do not allow the Static Hex to explode."
+      }
+    ]
+  },
+  {
+    "id": 2681774,
+    "title": "Stirring the Dust",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Ashes of Rusted Cliff's Glory)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000204,
+        "label": "Destroy only the correct dust devils when trying to reaveal Whispers of Indomitable Onyx."
+      }
+    ]
+  },
+  {
+    "id": 2621773,
+    "title": "Swift Murder",
+    "description": "This special challenge can be completed during the mission 'Tyrant of Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000227,
+        "label": "Defeat all of the invaders in less than fifteen minutes."
+      }
+    ]
+  },
+  {
+    "id": 2681782,
+    "title": "Three at Once",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of Three)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000212,
+        "label": "Pass the trial while defeating all bosses within 60 seconds of each other."
+      }
+    ]
+  },
+  {
+    "id": 2681779,
+    "title": "Tumble Dry",
+    "description": "This special challenge can be completed during the mission 'Trials of Smoke' (Trial of the Speaker's Amphitheater)",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000209,
+        "label": "Allow no one to be struck by the tumbling boulders."
+      }
+    ]
+  },
+  {
+    "id": 2682173,
+    "title": "Undying",
+    "description": "This special challenge can be completed during the mission 'Contract of War'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000224,
+        "label": "Do not allow any of your party to die."
+      }
+    ]
+  },
+  {
+    "id": 2681872,
+    "title": "Uninhabited",
+    "description": "This special challenge can be completed during the mission 'Fight Fire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000199,
+        "label": "Do not allow either of the warlords to inhabit the pyre armor."
+      }
+    ]
+  },
+  {
+    "id": 2621777,
+    "title": "Unslug Hero",
+    "description": "This special challenge can be completed during the mission 'Remodeling'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2607,
+    "subcategoryName": "Conquests",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000231,
+        "label": "Do not let slugs spawn from the bodies of the throne guardians."
+      }
+    ]
+  },
+  {
+    "id": 2600090,
+    "title": "Adept Hunter of The Burning Lands",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000125,
+        "label": "Hunter of Empyr: Realms of Ash"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000126,
+        "label": "Hunter of Aalishai: Palace of Embers"
+      }
+    ]
+  },
+  {
+    "id": 2681980,
+    "title": "Hunter of Aalishai: Palace of Embers",
+    "description": "This achievement is gained upon defeating the following rare monsters in Aalishai: Palace of Embers.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000270,
+        "label": "Evasion Understanding Flow"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000271,
+        "label": "Final Blade Lord"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000272,
+        "label": "Ghost Glass Bitter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000273,
+        "label": "Ruby Icefall Blossom"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000274,
+        "label": "Shield Spirit`s Laugh"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000275,
+        "label": "Sixth Consuming Master"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000276,
+        "label": "Steam Wave Slicer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000277,
+        "label": "Stout Stone Beaten"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000278,
+        "label": "Unconquering Sand Dirge"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000279,
+        "label": "Venom of the Fallen Star"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000280,
+        "label": "Whispering Depths Sigh"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000281,
+        "label": "White Iron Rainbow"
+      }
+    ]
+  },
+  {
+    "id": 2682080,
+    "title": "Hunter of Empyr: Realms of Ash",
+    "description": "This achievement is gained upon defeating the following rare monsters in Empyr: Realms of Ash.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000258,
+        "label": "Ashes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000259,
+        "label": "Assassin of the Perfect Dusk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000260,
+        "label": "Final Rainbow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000261,
+        "label": "Flail"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000262,
+        "label": "Fluttering Ruby Prince"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000263,
+        "label": "Iron Heart"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000264,
+        "label": "Mischief Darkheart"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000265,
+        "label": "Shockstone"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000266,
+        "label": "Sister of the Invisible Heart"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000267,
+        "label": "Stalwart Flicker"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000268,
+        "label": "The Burning Mist"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000269,
+        "label": "Wilting Flames"
+      }
+    ]
+  },
+  {
+    "id": 2682180,
+    "title": "Hunter of Esianti: Palace of the Winds",
+    "description": "This achievement is gained upon defeating the following rare monsters in Esianti: Palace of the Winds.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000282,
+        "label": "Blessed Wind"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000283,
+        "label": "Copper Star"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000284,
+        "label": "Depth of Iron"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000285,
+        "label": "Iron Lance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000286,
+        "label": "Jericog Merkin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000287,
+        "label": "Leaping Eyes"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000288,
+        "label": "Rusted Stalactite"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000289,
+        "label": "Sapphire Hammer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000290,
+        "label": "Seeping Gladness"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000291,
+        "label": "Sky Blade"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000292,
+        "label": "Veiled Sage"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000293,
+        "label": "Warrior`s Cleft"
+      }
+    ]
+  },
+  {
+    "id": 1578780,
+    "title": "Hunter of Gnome Memorial Mountain",
+    "description": "This achievement is gained upon defeating the following rare monsters in Gnome Memorial Mountain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000063,
+        "label": "Ambassador of Loving"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000064,
+        "label": "Best Museum Security"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000065,
+        "label": "Bloodmoon Chief Eclipse"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000066,
+        "label": "Bloodmoon Howler Trolog"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000067,
+        "label": "Breaker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000068,
+        "label": "Consul of Cooperation (Ironing out the Legion)"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000069,
+        "label": "Fractured Sweeper"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 15000070,
+        "label": "Grash, Bloodmoon Growler (The Darkness Howls)"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 15000071,
+        "label": "Healer Prime"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 15000072,
+        "label": "Malfunctioning Iron Legion Hug"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 15000073,
+        "label": "Master Mechanic"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 15000074,
+        "label": "A Non-Standard Deviation"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 15000075,
+        "label": "Repair for Pieces"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 15000076,
+        "label": "Tatters"
+      }
+    ]
+  },
+  {
+    "id": 2682280,
+    "title": "Hunter of Mearatas: The Stone Demesne",
+    "description": "This achievement is gained upon defeating the following rare monsters in Mearatas: The Stone Demesne.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000294,
+        "label": "an ancient air warden"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000295,
+        "label": "an ancient fire warden"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000296,
+        "label": "an ancient stone warden"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000297,
+        "label": "an ancient water warden"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000298,
+        "label": "Blistering Star"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000299,
+        "label": "Flowing Horizon Halo"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000300,
+        "label": "Forsaken Cloud Sapphire"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000301,
+        "label": "Glaring Moon Void"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000302,
+        "label": "Platinum Rainbow Spire"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000303,
+        "label": "Radiant Amber Lotus"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000304,
+        "label": "Tsunami Sol Blood"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000305,
+        "label": "Whispering Frost"
+      }
+    ]
+  },
+  {
+    "id": 2681880,
+    "title": "Hunter of Stratos: Zephyr's Flight",
+    "description": "This achievement is gained upon defeating the following rare monsters in Stratos: Zephyr's Flight.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000240,
+        "label": "Cloud Iron Lance"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000241,
+        "label": "Daring Cloud Spear"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000242,
+        "label": "Dawnbreeze"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000243,
+        "label": "Dour Eighth Guardian"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000244,
+        "label": "Eastern Radiant Glance"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000245,
+        "label": "Glassbeak Stormbreaker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000246,
+        "label": "Horizon of Destiny"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000247,
+        "label": "Infinite Horizon Star"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 26000248,
+        "label": "Silver Eyes Dread"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 26000249,
+        "label": "Starshine, Icebreaker"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 26000250,
+        "label": "Triumphal Still Sky"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 26000251,
+        "label": "Wild Blossom Star"
+      }
+    ]
+  },
+  {
+    "id": 2681790,
+    "title": "Hunter of The Plane of Smoke",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Smoke.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000252,
+        "label": "Dirge of Lost Horizons"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000253,
+        "label": "Savage Irony of Will"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000254,
+        "label": "Silent Silken Song"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000255,
+        "label": "Soothing Wings of Mist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000256,
+        "label": "Strength of Undefeated Starfall"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000257,
+        "label": "Wandering Spring Soul"
+      }
+    ]
+  },
+  {
+    "id": 2600085,
+    "title": "Novice Hunter of The Burning Lands",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000123,
+        "label": "Hunter of Stratos: Zephyr's Flight"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000124,
+        "label": "Hunter of The Plane of Smoke"
+      }
+    ]
+  },
+  {
+    "id": 2600095,
+    "title": "Veteran Hunter of The Burning Lands",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2608,
+    "subcategoryName": "Hunts",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000127,
+        "label": "Hunter of Esianti: Palace of the Winds"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000128,
+        "label": "Hunter of Mearatas: The Stone Demesne"
+      }
+    ]
+  },
+  {
+    "id": 26082230,
+    "title": "Air-Tight Case (Mearatas: The Stone Demesne)",
+    "description": "Stipulations that have resulted from the history of every interaction the Djinn have had with others.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000542,
+        "label": "Rules of the Djinn - Volume One"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000543,
+        "label": "Rules of the Djinn - Volume Two"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000544,
+        "label": "Rules of the Djinn - Volume Three"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000545,
+        "label": "Rules of the Djinn - Volume Four"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000546,
+        "label": "Rules of the Djinn - Volume Five"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000547,
+        "label": "Rules of the Djinn - Volume Six"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000548,
+        "label": "Rules of the Djinn - Volume Seven"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000549,
+        "label": "Rules of the Djinn - Volume Eight"
+      }
+    ]
+  },
+  {
+    "id": 26081730,
+    "title": "Dulled Hues (Plane of Smoke)",
+    "description": "Shiny rocks, not unlike hundreds of others you have squirrelled away, but more!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000414,
+        "label": "Smoky Topaz"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000415,
+        "label": "Smoky Quartz"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000416,
+        "label": "Smoky Ruby"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000417,
+        "label": "Smoky Pearl"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000418,
+        "label": "Smoky Amethyst"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000419,
+        "label": "Smoky Citrine"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000420,
+        "label": "Smoky Carnelian"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000421,
+        "label": "Smoky Peridot"
+      }
+    ]
+  },
+  {
+    "id": 26082210,
+    "title": "Earthen Order (Mearatas: The Stone Demesne)",
+    "description": "Volumes that fully describe the laws governing the interaction of the Duende.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000526,
+        "label": "Rules of the Duende - Volume One"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000527,
+        "label": "Rules of the Duende - Volume Two"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000528,
+        "label": "Rules of the Duende - Volume Three"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000529,
+        "label": "Rules of the Duende - Volume Four"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000530,
+        "label": "Rules of the Duende - Volume Five"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000531,
+        "label": "Rules of the Duende - Volume Six"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000532,
+        "label": "Rules of the Duende - Volume Seven"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000533,
+        "label": "Rules of the Duende - Volume Eight"
+      }
+    ]
+  },
+  {
+    "id": 26082140,
+    "title": "Elementary Accommodation (Esianti: Palace of the Winds)",
+    "description": "The Isle of Radiant Mist to the east aims to provide a comfortable hosting place for dignitaries visiting from the Plane of Water.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000518,
+        "label": "Enhydro Crystal"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000519,
+        "label": "Bottle of Esianti Water"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000520,
+        "label": "Unpoppable Bubble"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000521,
+        "label": "Bucket of Riptide"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000522,
+        "label": "Miniature Toy Water Wheel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000523,
+        "label": "Waterlogged Flotsam"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000524,
+        "label": "Broken Fishing lure"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000525,
+        "label": "Salt Covered Pocket Watch"
+      }
+    ]
+  },
+  {
+    "id": 26081740,
+    "title": "Fading Embers (Plane of Smoke)",
+    "description": "The physical projection of where the elemental planes meet exacts a crushing toll on its inhabitants.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000422,
+        "label": "Ashen Elemental Finger"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000423,
+        "label": "Piece of a Soot Steed Hoof"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000424,
+        "label": "Ash Pegasus Feather"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000425,
+        "label": "Breezewing Beak"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000426,
+        "label": "Smoke Imbued Branch"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000427,
+        "label": "Smoke Covered Soil"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000428,
+        "label": "Ash Spider Claw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000429,
+        "label": "Jar of Churning Smoke"
+      }
+    ]
+  },
+  {
+    "id": 26081720,
+    "title": "Feeling Rocks (Plane of Smoke)",
+    "description": "Life granted by the plane to its individual inhabitents may be finite but air holds a long memory.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000406,
+        "label": "Rusted Cliffs Glory's Betrayal"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000407,
+        "label": "Rusted Cliffs Glory's Repulse"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000408,
+        "label": "Rusted Cliffs Glory's Suffering"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000409,
+        "label": "Rusted Cliffs Glory's Fury"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000410,
+        "label": "Rusted Cliffs Glory's Agreement"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000411,
+        "label": "Rusted Cliffs Glory's Desolation"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000412,
+        "label": "Rusted Cliffs Glory's Hope"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000413,
+        "label": "Rusted Cliffs Glory's Song"
+      }
+    ]
+  },
+  {
+    "id": 26082010,
+    "title": "Fire Forever (Empyr: Realms of Ash)",
+    "description": "Fragments of the everburning material projected by the Plane of Fire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000430,
+        "label": "Smoldering Piece of Slag"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000431,
+        "label": "Blaze in a Bottle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000432,
+        "label": "Vial of Heat-Activated Ink"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000433,
+        "label": "Mumbling Crystal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000434,
+        "label": "Ever-Burning Incense"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000435,
+        "label": "Forever Steaming Coal"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000436,
+        "label": "Bright Pile of Embers"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000437,
+        "label": "Piece of Molten Metal"
+      }
+    ]
+  },
+  {
+    "id": 26082220,
+    "title": "Fire Without Fury (Mearatas: The Stone Demesne)",
+    "description": "Excruciatingly detailed documents regarding how the Efreeti are to interact with others.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000534,
+        "label": "Rules of the Efreeti - Volume One"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000535,
+        "label": "Rules of the Efreeti - Volume Two"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000536,
+        "label": "Rules of the Efreeti - Volume Three"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000537,
+        "label": "Rules of the Efreeti - Volume Four"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000538,
+        "label": "Rules of the Efreeti - Volume Five"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000539,
+        "label": "Rules of the Efreeti - Volume Six"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000540,
+        "label": "Rules of the Efreeti - Volume Seven"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000541,
+        "label": "Rules of the Efreeti - Volume Eight"
+      }
+    ]
+  },
+  {
+    "id": 26081830,
+    "title": "Gemstones of Air (Stratos)",
+    "description": "Adventurers have always had a penchant for 'borrowing' shiny things they see.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000382,
+        "label": "Air-Infused Opal"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000383,
+        "label": "Air-Infused Aquamarine"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000384,
+        "label": "Air-Infused Sapphire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000385,
+        "label": "Air-Infused Tanzanite"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000386,
+        "label": "Air-Infused Lapis Lazuli"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000387,
+        "label": "Air-Infused Chalcedony"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000388,
+        "label": "Air-Infused Diamond"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000389,
+        "label": "Shattered Lantern Fragment"
+      }
+    ]
+  },
+  {
+    "id": 26082110,
+    "title": "Guests, Gusts, Gifts (Esianti: Palace of the Winds)",
+    "description": "An assortment of gifts given to and lost by ambassadors and visitors to the plane.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000494,
+        "label": "Miniature Model Esianti"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000495,
+        "label": "Breeze in a Bauble"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000496,
+        "label": "Small Silver Wind chime"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000497,
+        "label": "Tattered Prayer Flag"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000498,
+        "label": "Broken Weather Vane"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000499,
+        "label": "Singed Leaf"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000500,
+        "label": "Minuscule Storm Cloud"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000501,
+        "label": "Miniature Toy Dirigible"
+      }
+    ]
+  },
+  {
+    "id": 26082100,
+    "title": "Houses of Air",
+    "description": "The city of Djinn, ambassadors of Air to the other planes as well as mortals.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000153,
+        "label": "Guests, Gusts, Gifts"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000154,
+        "label": "Natural Wonder"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000155,
+        "label": "Palace Aides"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000156,
+        "label": "Elementary Accommodation"
+      }
+    ]
+  },
+  {
+    "id": 26081900,
+    "title": "Houses of Fire",
+    "description": "The Palace of Invincible Excellence sits to the east of the Harmony of the Fleeting Flames, made for the benefit of mortals of prehistoric eras.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000149,
+        "label": "No Stone Unturned"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000150,
+        "label": "Those Who Extinguish"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000151,
+        "label": "The Ruby Tear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000152,
+        "label": "Memories of Fire"
+      }
+    ]
+  },
+  {
+    "id": 26082200,
+    "title": "Houses of Stone",
+    "description": "The great stone hall holds quarters for each of the four elemental planes in addition to visiting mortals.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000157,
+        "label": "Earthen Order"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000158,
+        "label": "Fire Without Fury"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000159,
+        "label": "Air-Tight Case"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000160,
+        "label": "Maritime Law"
+      }
+    ]
+  },
+  {
+    "id": 26081820,
+    "title": "Insects of Air (Stratos)",
+    "description": "Small non-native creatures that have adapted to the conditions of the plane.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000374,
+        "label": "Mistmoth"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000375,
+        "label": "Dappled Rainmoth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000376,
+        "label": "Darkstorm Moth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000377,
+        "label": "Dayglow Butterfly"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000378,
+        "label": "Lightning Striped Butterfly"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000379,
+        "label": "Daysmoke Butterfly"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000380,
+        "label": "Cloudburst Butterfly"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000381,
+        "label": "Typhoon Moth"
+      }
+    ]
+  },
+  {
+    "id": 26081800,
+    "title": "Islands In The Sky",
+    "description": "Lush green islands bridge notable locations within the greater Plane of Air.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000137,
+        "label": "Remnants of Air"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000138,
+        "label": "Insects of Air"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000139,
+        "label": "Gemstones of Air"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000140,
+        "label": "Seeds of Air"
+      }
+    ]
+  },
+  {
+    "id": 26082030,
+    "title": "Lost In Place (Empyr: Realms of Ash)",
+    "description": "Those mortals that pass the Trials of Smoke do not always find themselves ready for what lies ahead.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000446,
+        "label": "Ash Covered Lamp"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000447,
+        "label": "Ash Covered Coin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000448,
+        "label": "Ash Covered Locket"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000449,
+        "label": "Ash Covered Dagger"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000450,
+        "label": "Ash Covered Pearl"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000451,
+        "label": "Ash Covered Ring"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000452,
+        "label": "Ash Covered Compass"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000453,
+        "label": "Ash Covered Sextant"
+      }
+    ]
+  },
+  {
+    "id": 26082240,
+    "title": "Maritime Law (Mearatas: The Stone Demesne)",
+    "description": "Compendiums that dictate how the Ondine are to interact with others.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000550,
+        "label": "Rules of the Ondine - Volume One"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000551,
+        "label": "Rules of the Ondine - Volume Two"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000552,
+        "label": "Rules of the Ondine - Volume Three"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000553,
+        "label": "Rules of the Ondine - Volume Four"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000554,
+        "label": "Rules of the Ondine - Volume Five"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000555,
+        "label": "Rules of the Ondine - Volume Six"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000556,
+        "label": "Rules of the Ondine - Volume Seven"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000557,
+        "label": "Rules of the Ondine - Volume Eight"
+      }
+    ]
+  },
+  {
+    "id": 26081940,
+    "title": "Memories of Fire (Aalishai: Palace of Embers)",
+    "description": "Uninteresting miscellanea scattered throughout the charred landscape.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000486,
+        "label": "Bottle of Aalishai Steam"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000487,
+        "label": "Jar of Aalishai Ash"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000488,
+        "label": "Piece of Aalishai Brass"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000489,
+        "label": "Floating Rock of Aalishai"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000490,
+        "label": "Jug of Aalishai Water"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000491,
+        "label": "Lantern of Aalishai"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000492,
+        "label": "Chunk of Aalishai Breezeway"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000493,
+        "label": "Aalishai Throw Pillow"
+      }
+    ]
+  },
+  {
+    "id": 26082120,
+    "title": "Natural Wonder (Esianti: Palace of the Winds)",
+    "description": "The mild climate of Esianti allows for the many plants brought as gifts from visiting dignitaries to flourish on the small island.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000502,
+        "label": "Purple Petal"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000503,
+        "label": "Orange Petal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000504,
+        "label": "Blue Petal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000505,
+        "label": "Evergreen Tree Bark"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000506,
+        "label": "Spiraling Seed"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000507,
+        "label": "Vibrant Green Leaf"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000508,
+        "label": "Tall Flowing blade of Grass"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000509,
+        "label": "Lightweight Stone"
+      }
+    ]
+  },
+  {
+    "id": 26081910,
+    "title": "No Stone Unturned (Aalishai: Palace of Embers)",
+    "description": "You never seem to tire of your habbit of picking up everything you possibly can from wherever you go.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000462,
+        "label": "Miniature Rock Golem"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000463,
+        "label": "Corroded Metal Tooth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000464,
+        "label": "Perfectly Spherical Rock"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000465,
+        "label": "Wind Eroded Stone"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000466,
+        "label": "Carafe of Quicksand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000467,
+        "label": "Never Drying Clay"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000468,
+        "label": "Piece of an Earth Elemental Fossil"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000469,
+        "label": "Sigil of the Duende"
+      }
+    ]
+  },
+  {
+    "id": 26082130,
+    "title": "Palace Aides (Esianti: Palace of the Winds)",
+    "description": "Holy relics and body parts harvested from the creatures that inhabit the palace.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000510,
+        "label": "Pegasus Tooth"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000511,
+        "label": "Piece of Brume Armor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000512,
+        "label": "Gusty Mephit Finger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000513,
+        "label": "Gently Floating Phoenix Feather"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000514,
+        "label": "Scimitar Hilt"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000515,
+        "label": "Nilborien Feather"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000516,
+        "label": "Miniature Maelstrom"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000517,
+        "label": "Flowing Blue Ribbon"
+      }
+    ]
+  },
+  {
+    "id": 26082020,
+    "title": "Puzzling Plantlife (Empyr: Realms of Ash)",
+    "description": "The flora of Empyr appears to have more in common with deep sea life than with traditional plants.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000438,
+        "label": "Exotic Seedling"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000439,
+        "label": "Orange Colored Leaf"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000440,
+        "label": "Red Colored Leaf"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000441,
+        "label": "Tiny Multicolored Pod"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000442,
+        "label": "Jagged Vine"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000443,
+        "label": "Smoldering Fern"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000444,
+        "label": "Charred Twig"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000445,
+        "label": "Seed in a Cage"
+      }
+    ]
+  },
+  {
+    "id": 26082000,
+    "title": "Pyre Place",
+    "description": "Ornate minarets surround the palace that sits at the center of this charred section of the Plane of Fire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000145,
+        "label": "Fire Forever"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000146,
+        "label": "Puzzling Plantlife"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000147,
+        "label": "Lost In Place"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000148,
+        "label": "The Life of Fire"
+      }
+    ]
+  },
+  {
+    "id": 26000020,
+    "title": "Relics of Fire",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000134,
+        "label": "Houses of Fire"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000135,
+        "label": "Houses of Air"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000136,
+        "label": "Houses of Stone"
+      }
+    ]
+  },
+  {
+    "id": 26000010,
+    "title": "Relics of Wind",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000131,
+        "label": "Islands In The Sky"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000132,
+        "label": "Trials By Fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000133,
+        "label": "Pyre Place"
+      }
+    ]
+  },
+  {
+    "id": 26081810,
+    "title": "Remnants of Air (Stratos)",
+    "description": "All that remains of these beings after the fleeting gift of life has been taken back by the elemental plane.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000366,
+        "label": "Lazy Zephyr"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000367,
+        "label": "Fading Breeze"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000368,
+        "label": "Failing Wind"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000369,
+        "label": "Faltering Gust"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000370,
+        "label": "Dying Draught"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000371,
+        "label": "Paling Mistral"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000372,
+        "label": "Wavering Whirlwind"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000373,
+        "label": "Floundering Gale"
+      }
+    ]
+  },
+  {
+    "id": 26081840,
+    "title": "Seeds of Air (Stratos)",
+    "description": "A sampling of flora native to this part of the greater Plane of Air.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000390,
+        "label": "Irisia Seeds"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000391,
+        "label": "Beruloa Seeds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000392,
+        "label": "Daphire Seeds"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000393,
+        "label": "Inarie Seeds"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000394,
+        "label": "Tarazure Seeds"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000395,
+        "label": "Lalic Seeds"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000396,
+        "label": "Argentia Seeds"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000397,
+        "label": "Ozifia Seeds"
+      }
+    ]
+  },
+  {
+    "id": 15078720,
+    "title": "Small Documents (Gnome Memorial Mountain)",
+    "description": "Documents pertaining to the history and future of the mountain.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 15000012,
+        "label": "Pamphlet: The Monument to Effort"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000013,
+        "label": "Pamphlet: The Monument to Diversity"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000014,
+        "label": "Pamphlet: The Monument to Invention"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000015,
+        "label": "Pamphlet: The Monument to Battle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000016,
+        "label": "Pamphlet: The Monument to Glory"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000017,
+        "label": "Pamphlet: The Monument to Beginnings"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000018,
+        "label": "Pamphlet: What We Can Be"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000019,
+        "label": "Pamphlet: How We Honor the Past"
+      }
+    ]
+  },
+  {
+    "id": 15078740,
+    "title": "Small Feuds (Gnome Memorial Mountain)",
+    "description": "Accoutrements of the Bloodmoon tribe that dwell outside the mausoleum.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 15000028,
+        "label": "Tribal Drum"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000029,
+        "label": "Bloodeagle Feather"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000030,
+        "label": "Blood Tear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000031,
+        "label": "Bloodmoon Dream Stealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000032,
+        "label": "Ceremonial Club"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000033,
+        "label": "Cracked Wooden Mug"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000034,
+        "label": "Ancestor's Claw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000035,
+        "label": "Moonbound Charm"
+      }
+    ]
+  },
+  {
+    "id": 15078700,
+    "title": "Small Hills",
+    "description": "A recently uncovered monument to gnomish creations.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 15000000,
+        "label": "Small Memories"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000001,
+        "label": "Small Documents"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000002,
+        "label": "Small Parts"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000003,
+        "label": "Small Feuds"
+      }
+    ]
+  },
+  {
+    "id": 15078710,
+    "title": "Small Memories (Gnome Memorial Mountain)",
+    "description": "Artifacts of the Makers, honored and preserved in their memory.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 15000004,
+        "label": "Gnomish Scarf"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000005,
+        "label": "Gnome Skull"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000006,
+        "label": "Apprentice Robe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000007,
+        "label": "Tiny Fork"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000008,
+        "label": "Very Stale Cookie"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000009,
+        "label": "One Slipper"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000010,
+        "label": "Old Pipe"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000011,
+        "label": "Incredible Machine Plans"
+      }
+    ]
+  },
+  {
+    "id": 15078730,
+    "title": "Small Parts (Gnome Memorial Mountain)",
+    "description": "Components once intended for a grand tinkering project.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 15000020,
+        "label": "Servo Actuator"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 15000021,
+        "label": "Mono-Valve Spinninator"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 15000022,
+        "label": "Multi-Tooth Smoothing Gear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 15000023,
+        "label": "Mana-Infused Springatron"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 15000024,
+        "label": "Self-Lubricating Clutch Switcher"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 15000025,
+        "label": "Copper-Melded Faceplate"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 15000026,
+        "label": "Visual Enhancement Orb"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 15000027,
+        "label": "Twirling Flight Gauge"
+      }
+    ]
+  },
+  {
+    "id": 26082040,
+    "title": "The Life of Fire (Empyr: Realms of Ash)",
+    "description": "Physical manifestations of lives granted by the plane taken by adventurers.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000454,
+        "label": "Flame Slug Secretions"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000455,
+        "label": "Chunk of Aalishai"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000456,
+        "label": "Piece of a Fire Snail Shell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000457,
+        "label": "Lava Crystal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000458,
+        "label": "Piece of Empyr Brass"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000459,
+        "label": "Piece of Pyre Armor"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000460,
+        "label": "Slag Golem's Toe"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000461,
+        "label": "Freshly Singed Phoenix Feather"
+      }
+    ]
+  },
+  {
+    "id": 26081930,
+    "title": "The Ruby Tear (Aalishai: Palace of Embers)",
+    "description": "A gemstone of particular renown broken into eight pieces. Mostly of note because it's shiny!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000478,
+        "label": "First Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000479,
+        "label": "Second Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000480,
+        "label": "Third Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000481,
+        "label": "Fourth Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000482,
+        "label": "Fifth Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000483,
+        "label": "Sixth Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000484,
+        "label": "Seventh Piece of The Tears of Aalishai"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000485,
+        "label": "Last Piece of The Tears of Aalishai"
+      }
+    ]
+  },
+  {
+    "id": 26081920,
+    "title": "Those Who Extinguish (Aalishai: Palace of Embers)",
+    "description": "Adventurers have proven capable of destroying life just as fast as any elemental plane is able to manifest it.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000470,
+        "label": "Fire Giant Lord Eye"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000471,
+        "label": "Piece of Pure Fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000472,
+        "label": "Jopal Horn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000473,
+        "label": "Rebirthed Phoenix Talon"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000474,
+        "label": "Splinter of an Inferno"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000475,
+        "label": "Chunk of Ashen Obsidian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000476,
+        "label": "Hraquis Tail Fin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000477,
+        "label": "Ondine Bangle"
+      }
+    ]
+  },
+  {
+    "id": 26081700,
+    "title": "Trials By Fire",
+    "description": "Desolate islands bridge the influence between Air and Fire.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000141,
+        "label": "Tried and Failed"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000142,
+        "label": "Feeling Rocks"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000143,
+        "label": "Dulled Hues"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000144,
+        "label": "Fading Embers"
+      }
+    ]
+  },
+  {
+    "id": 26081710,
+    "title": "Tried and Failed (Plane of Smoke)",
+    "description": "Accoutrements of those adventurers who thought themselves ready for the Trials of Smoke.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2609,
+    "subcategoryName": "Collections",
+    "categoryId": 2600,
+    "categoryName": "The Burning Lands",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 26000398,
+        "label": "Soot Covered Helm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 26000399,
+        "label": "Soot Covered Boot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 26000400,
+        "label": "Soot Covered Glove"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 26000401,
+        "label": "Soot Covered Ring"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 26000402,
+        "label": "Soot Covered Greaves"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 26000403,
+        "label": "Soot Covered Mask"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 26000404,
+        "label": "Soot Covered Pauldron"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 26000405,
+        "label": "Soot Covered Tabard"
+      }
+    ]
+  }
+]

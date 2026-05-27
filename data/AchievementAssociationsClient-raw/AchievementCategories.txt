@@ -1,0 +1,277 @@
+10^1^11^Advancement^General Achievements: Advancement^A_AdvancementSub^
+10^2^12^Class^General Achievements: Class^A_ClassSub^
+10^3^17^Keys^General Achievements: Keys^A_KeysSub^
+10^4^13^Level^General Achievements: Level^A_LevelSub^
+10^5^18^Progression^General Achievements: Progression^A_ProgressionSub^
+10^6^14^Skills^General Achievements: Skill^A_SkillSub^
+10^7^15^Special^General Achievements: Special^A_SpecialSub^
+10^8^16^Vanity^General Achievements: Vanity^A_VanitySub^
+40^1^43^Special^Special^A_SpecialSub^
+40^2^44^Holiday^Holiday^A_HolidaySub^
+40^3^41^Faydwer Agents^Faydwer Agents^A_FaydwerAgentsSub^
+40^4^42^Faydwer Quests^Faydwer Quests^A_FaydwerQuestsSub^
+50^1^51^Quests^Tradeskill Achievements: Quests^A_QuestsSub^
+50^2^52^Baking^Tradeskill Achievements: Baking^A_BakingSub^
+50^3^53^Blacksmithing^Tradeskill Achievements: Blacksmithing^A_BlacksmithingSub^
+50^4^54^Brewing^Tradeskill Achievements: Brewing^A_BrewingSub^
+50^5^55^Fishing^Tradeskill Achievements: Fishing^A_FishingSub^
+50^6^56^Fletching^Tradeskill Achievements: Fletching^A_FletchingSub^
+50^7^57^Jewelcrafting^Tradeskill Achievements: Jewelcrafting^A_JewelcraftingSub^
+50^8^58^Pottery^Tradeskill Achievements: Pottery^A_PotterySub^
+50^9^59^Tailoring^Tradeskill Achievements: Tailoring^A_TailoringSub^
+50^10^60^Special^Tradeskill Achievements: Special^A_SpecialSub^
+70^1^71^Progression^Progression^A_ProgressionSub^
+70^2^72^Advancement^Advancement^A_AdvancementSub^
+70^3^73^Special^Special^A_SpecialSub^
+70^4^74^Conquest^Conquest^A_ConquestSub^
+70^5^75^Quests^Quests^A_QuestsSub^
+80^1^81^General^Legendary Slayer^A_GeneralSub^
+80^2^82^Conquest^Master Slayer^A_ConquestSub^
+80^3^83^Special^Experienced Slayer^A_SpecialSub^
+80^4^84^Skill^Skillful Slayer^A_SkillSub^
+90^1^91^Anniversary^Anniversary Events^A_AnniversarySub^
+90^2^92^Holiday^Holiday Events^A_HolidaySub^
+90^3^93^Seasonal^Seasonal Events^A_SeasonalSub^
+90^4^94^Collections^Collections^A_CollectionsSub^
+90^5^96^YoDP^Year of Darkpaw^A_YoDSub^
+100^1^101^General^General^A_GeneralSub^
+100^2^103^Progression^Progression^A_ProgressionSub^
+100^3^102^Exploration^Exploration^A_ExplorationSub^
+100^6^106^Raids^Raids^A_RaidsSub^
+100^8^108^Hunter^Rare Monster Hunting^A_HunterSub^
+200^1^201^General^General^A_GeneralSub^
+200^2^203^Progression^Progression^A_ProgressionSub^
+200^3^202^Exploration^Exploration^A_ExplorationSub^
+200^6^206^Raids^Raids^A_RaidsSub^
+200^8^208^Hunter^Rare Monster Hunting^A_HunterSub^
+300^1^301^General^General^A_GeneralSub^
+300^2^303^Progression^Progression^A_ProgressionSub^
+300^3^302^Exploration^Exploration^A_ExplorationSub^
+300^6^306^Raids^Raids^A_RaidsSub^
+300^8^308^Hunter^Rare Monster Hunting^A_HunterSub^
+400^1^401^General^General^A_GeneralSub^
+400^2^403^Progression^Progression^A_ProgressionSub^
+400^3^402^Exploration^Exploration^A_ExplorationSub^
+400^4^404^Quests^Quests^A_QuestsSub^
+400^6^406^Raids^Raids^A_RaidsSub^
+400^8^408^Hunter^Rare Monster Hunting^A_HunterSub^
+500^1^501^General^General^A_GeneralSub^
+500^2^503^Progression^Progression^A_ProgressionSub^
+500^3^502^Exploration^Exploration^A_ExplorationSub^
+500^4^504^Quests^Quests^A_QuestsSub^
+500^6^507^Conquest^Mission Challenges^A_ConquestSub^
+500^7^506^Raids^Raids^A_RaidsSub^
+500^8^508^Hunter^Rare Monster Hunting^A_HunterSub^
+600^1^601^General^General^A_GeneralSub^
+600^3^602^Exploration^Exploration^A_ExplorationSub^
+600^6^606^Raids^Raids^A_RaidsSub^
+600^8^608^Hunter^Rare Monster Hunting^A_HunterSub^
+700^1^701^General^General^A_GeneralSub^
+700^3^702^Exploration^Exploration^A_ExplorationSub^
+700^6^706^Raids^Raids^A_RaidsSub^
+700^8^708^Hunter^Rare Monster Hunting^A_HunterSub^
+800^1^801^General^Meta Achievements^A_GeneralSub^
+800^2^803^Progression^Progression^A_ProgressionSub^
+800^3^802^Exploration^Zone Visits^A_ExplorationSub^
+800^8^808^Hunts^Rare Monster Hunts^A_HunterSub^
+900^1^901^General^Meta Achievements^A_GeneralSub^
+900^2^903^Progression^Zone/Raid Access^A_ProgressionSub^
+900^3^902^Exploration^Zone Visits^A_ExplorationSub^
+900^8^908^Hunts^Rare Monster Hunts^A_HunterSub^
+1000^1^1001^General^Meta Achievements^A_GeneralSub^
+1000^3^1002^Exploration^Zone Visits^A_ExplorationSub^
+1000^8^1008^Hunts^Rare Monster Hunts^A_HunterSub^
+1100^1^1101^General^Meta Achievements^A_GeneralSub^
+1100^2^1103^Progression^Progression^A_ProgressionSub^
+1100^3^1102^Exploration^Zone Visits^A_ExplorationSub^
+1100^8^1108^Hunts^Rare Monster Hunts^A_HunterSub^
+1200^1^1201^General^Meta Achievements^A_GeneralSub^
+1200^2^1203^Progression^Progression^A_ProgressionSub^
+1200^3^1202^Exploration^Zone Visits^A_ExplorationSub^
+1200^8^1208^Hunts^Rare Monster Hunts^A_HunterSub^
+1300^1^1301^General^Meta Achievements^A_GeneralSub^
+1300^3^1302^Exploration^Zone Visits^A_ExplorationSub^
+1300^8^1308^Hunts^Rare Monster Hunts^A_HunterSub^
+1400^1^1401^General^Meta Achievements^A_GeneralSub^
+1400^3^1402^Exploration^Zone Visits^A_ExplorationSub^
+1400^8^1408^Hunts^Rare Monster Hunts^A_HunterSub^
+1500^1^1501^General^Meta Achievements^A_GeneralSub^
+1500^2^1503^Progression^Progression^A_ProgressionSub^
+1500^3^1502^Exploration^Zone Visits^A_ExplorationSub^
+1500^4^1504^Quests^Kill/Story Tasks^A_QuestsSub^
+1500^5^1505^Missions^Missions^A_MissionsSub^
+1500^6^1507^Conquests^Mission Challenges^A_ConquestSub^
+1500^7^1506^Raids^Raids and Challenges^A_RaidsSub^
+1500^8^1508^Hunts^Rare Monster Hunts^A_HunterSub^
+1500^9^1509^Collections^World Clickies^A_CollectionsSub^
+1600^1^1601^General^General^A_GeneralSub^
+1600^2^1603^Progression^Progression^A_ProgressionSub^
+1600^3^1602^Exploration^Exploration^A_ExplorationSub^
+1600^4^1604^Quests^Quests^A_QuestsSub^
+1600^5^1605^Missions^Missions^A_MissionsSub^
+1600^6^1607^Conquests^Mission Challenges^A_ConquestSub^
+1600^7^1606^Raids^Raids^A_RaidsSub^
+1600^8^1608^Hunts^Rare Monster Hunting^A_HunterSub^
+1700^1^1702^General^Meta Achievements^A_GeneralSub^
+1700^2^1703^Progression^Zone/Raid Access^A_ProgressionSub^
+1700^3^1701^Exploration^Zone Visits^A_ExplorationSub^
+1700^4^1706^Quests^Kill/Story Tasks^A_QuestsSub^
+1700^5^1705^Missions^Missions^A_MissionsSub^
+1700^6^1704^Conquests^Mission Challenges^A_ConquestSub^
+1700^7^1707^Raids^Raids and Challenges^A_RaidsSub^
+1700^8^1708^Hunts^Rare Monster Hunts^A_HunterSub^
+1800^1^1801^General^General^A_GeneralSub^
+1800^2^1803^Progression^Progression^A_ProgressionSub^
+1800^3^1802^Exploration^Exploration^A_ExplorationSub^
+1800^4^1804^Quests^Quests^A_QuestsSub^
+1800^5^1805^Missions^Missions^A_MissionsSub^
+1800^6^1807^Conquests^Mission Challenges^A_ConquestSub^
+1800^7^1806^Raids^Raids^A_RaidsSub^
+1800^8^1808^Hunts^Rare Monster Hunting^A_HunterSub^
+1900^1^1901^General^General^A_GeneralSub^
+1900^2^1903^Progression^Progression^A_ProgressionSub^
+1900^3^1902^Exploration^Exploration^A_ExplorationSub^
+1900^4^1904^Quests^Quests^A_QuestsSub^
+1900^5^1905^Missions^Missions^A_MissionsSub^
+1900^6^1907^Conquests^Mission Challenges^A_ConquestSub^
+1900^7^1906^Raids^Raids^A_RaidsSub^
+1900^8^1908^Hunts^Rare Monster Hunting^A_HunterSub^
+2000^1^2001^General^General^A_GeneralSub^
+2000^2^2003^Progression^Progression^A_ProgressionSub^
+2000^3^2002^Exploration^Exploration^A_ExplorationSub^
+2000^4^2004^Quests^Quests^A_QuestsSub^
+2000^5^2005^Missions^Missions^A_MissionsSub^
+2000^6^2007^Conquests^Mission Challenges^A_ConquestSub^
+2000^7^2006^Raids^Raids^A_RaidsSub^
+2000^8^2008^Hunts^Rare Monster Hunting^A_HunterSub^
+2000^9^2009^Collections^Collections^A_CollectionsSub^
+2100^1^2101^General^General^A_GeneralSub^
+2100^2^2103^Progression^Progression^A_ProgressionSub^
+2100^3^2102^Exploration^Exploration^A_ExplorationSub^
+2100^4^2104^Quests^Quests^A_QuestsSub^
+2100^5^2105^Missions^Missions^A_MissionsSub^
+2100^6^2107^Conquests^Mission Challenges^A_ConquestSub^
+2100^7^2106^Raids^Raids^A_RaidsSub^
+2100^8^2108^Hunts^Rare Monster Hunting^A_HunterSub^
+2100^9^2109^Collections^Collections^A_CollectionsSub^
+2200^1^2201^General^General^A_GeneralSub^
+2200^2^2203^Progression^Progression^A_ProgressionSub^
+2200^3^2202^Exploration^Exploration^A_ExplorationSub^
+2200^4^2204^Quests^Quests^A_QuestsSub^
+2200^5^2205^Missions^Missions^A_MissionsSub^
+2200^6^2207^Conquests^Mission Challenges^A_ConquestSub^
+2200^7^2206^Raids^Raids^A_RaidsSub^
+2200^8^2208^Hunts^Rare Monster Hunting^A_HunterSub^
+2200^9^2209^Collections^Collections^A_CollectionsSub^
+2300^1^2301^General^General^A_GeneralSub^
+2300^2^2303^Progression^Progression^A_ProgressionSub^
+2300^3^2302^Exploration^Exploration^A_ExplorationSub^
+2300^4^2304^Quests^Quests^A_QuestsSub^
+2300^5^2305^Missions^Missions^A_MissionsSub^
+2300^6^2307^Conquests^Mission Challenges^A_ConquestSub^
+2300^7^2306^Raids^Raids^A_RaidsSub^
+2300^8^2308^Hunts^Rare Monster Hunting^A_HunterSub^
+2300^9^2309^Collections^Collections^A_CollectionsSub^
+2400^1^2401^General^General^A_GeneralSub^
+2400^2^2403^Progression^Progression^A_ProgressionSub^
+2400^3^2402^Exploration^Exploration^A_ExplorationSub^
+2400^4^2404^Quests^Quests^A_QuestsSub^
+2400^5^2405^Missions^Missions^A_MissionsSub^
+2400^6^2407^Conquests^Mission Challenges^A_ConquestSub^
+2400^7^2406^Raids^Raids^A_RaidsSub^
+2400^8^2408^Hunts^Rare Monster Hunting^A_HunterSub^
+2400^9^2409^Collections^Collections^A_CollectionsSub^
+2500^1^2501^General^General^A_GeneralSub^
+2500^2^2503^Progression^Progression^A_ProgressionSub^
+2500^3^2502^Exploration^Exploration^A_ExplorationSub^
+2500^4^2504^Quests^Quests^A_QuestsSub^
+2500^5^2505^Missions^Missions^A_MissionsSub^
+2500^6^2507^Conquests^Mission Challenges^A_ConquestSub^
+2500^7^2506^Raids^Raids^A_RaidsSub^
+2500^8^2508^Hunts^Rare Monster Hunting^A_HunterSub^
+2500^9^2509^Collections^Collections^A_CollectionsSub^
+2600^1^2601^General^General^A_GeneralSub^
+2600^2^2603^Progression^Progression^A_ProgressionSub^
+2600^3^2602^Exploration^Exploration^A_ExplorationSub^
+2600^4^2604^Quests^Quests^A_QuestsSub^
+2600^5^2605^Missions^Missions^A_MissionsSub^
+2600^6^2607^Conquests^Mission Challenges^A_ConquestSub^
+2600^7^2606^Raids^Raids^A_RaidsSub^
+2600^8^2608^Hunts^Rare Monster Hunting^A_HunterSub^
+2600^9^2609^Collections^Collections^A_CollectionsSub^
+2700^1^2701^General^General^A_GeneralSub^
+2700^2^2703^Progression^Progression^A_ProgressionSub^
+2700^3^2702^Exploration^Exploration^A_ExplorationSub^
+2700^4^2704^Quests^Quests^A_QuestsSub^
+2700^5^2705^Missions^Missions^A_MissionsSub^
+2700^6^2707^Conquests^Mission Challenges^A_ConquestSub^
+2700^7^2706^Raids^Raids^A_RaidsSub^
+2700^8^2708^Hunts^Rare Monster Hunting^A_HunterSub^
+2700^9^2709^Collections^Collections^A_CollectionsSub^
+2800^1^2801^General^Meta Achievements^A_GeneralSub^
+2800^3^2803^Exploration^Zone Visits^A_ExplorationSub^
+2800^4^2804^Quests^Kill/Story Tasks^A_QuestsSub^
+2800^5^2805^Missions^Missions and Challenges^A_MissionsSub^
+2800^7^2806^Raids^Raids and Challenges^A_RaidsSub^
+2800^8^2807^Hunts^Rare Monster Hunts^A_HunterSub^
+2800^9^2808^Collections^World Clickies^A_CollectionsSub^
+2900^1^2901^General^Meta Achievements^A_GeneralSub^
+2900^3^2903^Exploration^Zone Visits^A_ExplorationSub^
+2900^4^2904^Quests^Kill/Story Tasks^A_QuestsSub^
+2900^5^2905^Missions^Missions and Challenges^A_MissionsSub^
+2900^7^2907^Raids^Raids and Challenges^A_RaidsSub^
+2900^8^2908^Hunts^Rare Monster Hunts^A_HunterSub^
+2900^9^2909^Collections^World Clickies^A_CollectionsSub^
+3000^1^3001^General^Meta Achievements^A_GeneralSub^
+3000^3^3003^Exploration^Zone Visits^A_ExplorationSub^
+3000^4^3004^Quests^Kill/Story Tasks^A_QuestsSub^
+3000^5^3005^Missions^Missions and Challenges^A_MissionsSub^
+3000^7^3007^Raids^Raids and Challenges^A_RaidsSub^
+3000^8^3008^Hunts^Rare Monster Hunts^A_HunterSub^
+3000^9^3009^Collections^World Clickies^A_CollectionsSub^
+3000^10^3010^Special^Special^A_SpecialSub^
+3100^1^3101^General^Meta Achievements^A_GeneralSub^
+3100^3^3103^Exploration^Zone Visits^A_ExplorationSub^
+3100^4^3104^Quests^Kill/Story Tasks^A_QuestsSub^
+3100^5^3105^Missions^Missions and Challenges^A_MissionsSub^
+3100^7^3107^Raids^Raids and Challenges^A_RaidsSub^
+3100^8^3108^Hunts^Rare Monster Hunts^A_HunterSub^
+3100^9^3109^Collections^World Clickies^A_CollectionsSub^
+3100^10^3110^Special^Special^A_SpecialSub^
+^1^10^General^General Achievements^A_General^
+^2^50^Tradeskill^Tradeskill Achievements^A_Tradeskill^
+^3^70^The Hero's Journey^The Hero's Journey^A_HJNY^
+^4^80^Slayer^Monster Slaying^A_Hunter^
+^5^90^Events^Events^A_Events^
+^6^40^Overseer^Overseer^A_Overseer^
+^6^100^EverQuest^EverQuest^A_EQ^
+^7^200^Ruins of Kunark^Ruins of Kunark^A_ROK^
+^8^300^Scars of Velious^Scars of Velious^A_SOV^
+^9^400^Shadows of Luclin^Shadows of Luclin^A_SOL^
+^10^500^Planes of Power^Planes of Power^A_POP^
+^11^600^Legacy of Ykesha^Legacy of Ykesha^A_LOY^
+^12^700^Lost Dungeons of Norrath^Lost Dungeons of Norrath^A_LDON^
+^13^800^Gates of Discord^Gates of Discord^A_GOD^
+^14^900^Omens of War^Omens of War^A_OOW^
+^15^1000^Dragons of Norrath^Dragons of Norrath^A_DON^
+^16^1100^Depths of Darkhollow^Depths of Darkhollow^A_DOD^
+^17^1200^Prophecy of Ro^Prophecy of Ro^A_POR^
+^18^1300^The Serpent's Spine^The Serpent's Spine^A_TSS^
+^19^1400^The Buried Sea^The Buried Sea^A_TBS^
+^20^1500^Secrets of Faydwer^Secrets of Faydwer^A_SOF^
+^21^1600^Seeds of Destruction^Seeds of Destruction^A_SOD^
+^22^1700^Underfoot^Underfoot^A_UND^
+^23^1800^House of Thule^House of Thule^A_HOT^
+^24^1900^Veil of Alaris^Veil of Alaris^A_VOA^
+^25^2000^Rain of Fear^Rain of Fear^A_ROF^
+^26^2100^Call of the Forsaken^Call of the Forsaken^A_COTF^
+^27^2200^The Darkened Sea^The Darkened Sea^A_TDS^
+^28^2300^The Broken Mirror^The Broken Mirror^A_TBM^
+^29^2400^Empires of Kunark^Empires of Kunark^A_EOK^
+^30^2500^Ring of Scale^Ring of Scale^A_ROS^
+^31^2600^The Burning Lands^The Burning Lands^A_TBL^
+^32^2700^Torment of Velious^Torment of Velious^A_TOV^
+^33^2800^Claws of Veeshan^Claws of Veeshan^A_COV^
+^34^2900^Terror of Luclin^Terror of Luclin^A_TOL^
+^35^3000^Night of Shadows^Night of Shadows^A_NOS^
+^36^3100^Laurion's Song^Laurion's Song^A_LS^

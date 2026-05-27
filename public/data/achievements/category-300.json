@@ -1,0 +1,2835 @@
+[
+  {
+    "id": 300084,
+    "title": "Conqueror of The Scars of Velious",
+    "description": "This achievement is gained upon completing all the raids in The Scars of Velious.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 301,
+    "subcategoryName": "General",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000347,
+        "label": "Conqueror of Cobalt Scar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000248,
+        "label": "Conqueror of Dragon Necropolis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000346,
+        "label": "Conqueror of The Iceclad Ocean"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000249,
+        "label": "Conqueror of Icewell Keep"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000250,
+        "label": "Conqueror of Kael Drakkel"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000251,
+        "label": "Conqueror of Skyshrine"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000252,
+        "label": "Conqueror of The Great Divide"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000253,
+        "label": "Conqueror of The Plane of Growth"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000254,
+        "label": "Conqueror of The Sleeper's Tomb"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000255,
+        "label": "Conqueror of The Temple of Veeshan"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000256,
+        "label": "Conqueror of The Wakening Land"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000257,
+        "label": "Conqueror of The Western Wastes"
+      }
+    ]
+  },
+  {
+    "id": 300050,
+    "title": "Scars of Velious Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Scars of Velious.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 301,
+    "subcategoryName": "General",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270711,
+        "label": "The Iceclad Ocean Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270712,
+        "label": "The Tower of Frozen Shadow Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270713,
+        "label": "Eastern Wastes Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270714,
+        "label": "The Crystal Caverns Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270715,
+        "label": "The Great Divide Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270716,
+        "label": "The City of Thurgadin Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270717,
+        "label": "Icewell Keep Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270718,
+        "label": "Velketor's Labyrinth Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270719,
+        "label": "Kael Drakkel Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270720,
+        "label": "The Wakening Land Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270721,
+        "label": "Skyshrine Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270722,
+        "label": "Cobalt Scar Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270723,
+        "label": "Siren's Grotto Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270724,
+        "label": "The Western Wastes Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270725,
+        "label": "Dragon Necropolis Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270726,
+        "label": "The Temple of Veeshan Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 270727,
+        "label": "The Plane of Mischief Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270728,
+        "label": "The Plane of Growth Traveler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 270729,
+        "label": "The Sleeper's Tomb Traveler"
+      }
+    ]
+  },
+  {
+    "id": 300080,
+    "title": "Scarslayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 301,
+    "subcategoryName": "General",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000275,
+        "label": "Hunter of Cobalt Scar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000012,
+        "label": "Hunter of The Crystal Caverns"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000013,
+        "label": "Hunter of Dragon Necropolis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000008,
+        "label": "Hunter of Eastern Wastes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000009,
+        "label": "Hunter of The Great Divide"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000004,
+        "label": "Hunter of The Iceclad Ocean"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000015,
+        "label": "Hunter of Icewell Keep"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000007,
+        "label": "Hunter of Kael Drakkel"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 3000018,
+        "label": "Hunter of The Plane of Mischief"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000014,
+        "label": "Hunter of Siren's Grotto"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000016,
+        "label": "Hunter of Skyshrine"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000017,
+        "label": "Hunter of The Sleeper's Tomb"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000005,
+        "label": "Hunter of The Tower of Frozen Shadow"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000006,
+        "label": "Hunter of Velketor's Labyrinth"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000010,
+        "label": "Hunter of The Wakening Land"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000011,
+        "label": "Hunter of The Western Wastes"
+      }
+    ]
+  },
+  {
+    "id": 311700,
+    "title": "Cobalt Scar Traveler",
+    "description": "This achievement is gained upon visiting Cobalt Scar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270109,
+        "label": "Visit Cobalt Scar"
+      }
+    ]
+  },
+  {
+    "id": 312300,
+    "title": "Dragon Necropolis Traveler",
+    "description": "This achievement is gained upon visiting Dragon Necropolis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270114,
+        "label": "Visit Dragon Necropolis"
+      }
+    ]
+  },
+  {
+    "id": 311600,
+    "title": "Eastern Wastes Traveler",
+    "description": "This achievement is gained upon visiting Eastern Wastes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270108,
+        "label": "Visit Eastern Wastes"
+      }
+    ]
+  },
+  {
+    "id": 312900,
+    "title": "Icewell Keep Traveler",
+    "description": "This achievement is gained upon visiting Icewell Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270120,
+        "label": "Visit Icewell Keep"
+      }
+    ]
+  },
+  {
+    "id": 311300,
+    "title": "Kael Drakkel Traveler",
+    "description": "This achievement is gained upon visiting Kael Drakkel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270105,
+        "label": "Visit Kael Drakkel"
+      }
+    ]
+  },
+  {
+    "id": 312500,
+    "title": "Siren's Grotto Traveler",
+    "description": "This achievement is gained upon visiting Siren's Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270116,
+        "label": "Visit Siren's Grotto"
+      }
+    ]
+  },
+  {
+    "id": 311400,
+    "title": "Skyshrine Traveler",
+    "description": "This achievement is gained upon visiting Skyshrine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270106,
+        "label": "Visit Skyshrine"
+      }
+    ]
+  },
+  {
+    "id": 311500,
+    "title": "The City of Thurgadin Traveler",
+    "description": "This achievement is gained upon visiting The City of Thurgadin.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270107,
+        "label": "Visit The City of Thurgadin"
+      }
+    ]
+  },
+  {
+    "id": 312100,
+    "title": "The Crystal Caverns Traveler",
+    "description": "This achievement is gained upon visiting The Crystal Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270113,
+        "label": "Visit The Crystal Caverns"
+      }
+    ]
+  },
+  {
+    "id": 311800,
+    "title": "The Great Divide Traveler",
+    "description": "This achievement is gained upon visiting The Great Divide.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270110,
+        "label": "Visit The Great Divide"
+      }
+    ]
+  },
+  {
+    "id": 311000,
+    "title": "The Iceclad Ocean Traveler",
+    "description": "This achievement is gained upon visiting The Iceclad Ocean.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270102,
+        "label": "Visit The Iceclad Ocean"
+      }
+    ]
+  },
+  {
+    "id": 312700,
+    "title": "The Plane of Growth Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Growth.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270118,
+        "label": "Visit The Plane of Growth"
+      }
+    ]
+  },
+  {
+    "id": 312600,
+    "title": "The Plane of Mischief Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Mischief.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270117,
+        "label": "Visit The Plane of Mischief"
+      }
+    ]
+  },
+  {
+    "id": 312800,
+    "title": "The Sleeper's Tomb Traveler",
+    "description": "This achievement is gained upon visiting The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270119,
+        "label": "Visit The Sleeper's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 312400,
+    "title": "The Temple of Veeshan Traveler",
+    "description": "This achievement is gained upon visiting The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270115,
+        "label": "Visit The Temple of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 311100,
+    "title": "The Tower of Frozen Shadow Traveler",
+    "description": "This achievement is gained upon visiting The Tower of Frozen Shadow.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270103,
+        "label": "Visit The Tower of Frozen Shadow"
+      }
+    ]
+  },
+  {
+    "id": 311900,
+    "title": "The Wakening Land Traveler",
+    "description": "This achievement is gained upon visiting The Wakening Land.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270111,
+        "label": "Visit The Wakening Land"
+      }
+    ]
+  },
+  {
+    "id": 312000,
+    "title": "The Western Wastes Traveler",
+    "description": "This achievement is gained upon visiting The Western Wastes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270112,
+        "label": "Visit The Western Wastes"
+      }
+    ]
+  },
+  {
+    "id": 311200,
+    "title": "Velketor's Labyrinth Traveler",
+    "description": "This achievement is gained upon visiting Velketor's Labyrinth.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 302,
+    "subcategoryName": "Exploration",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270104,
+        "label": "Visit Velketor's Labyrinth"
+      }
+    ]
+  },
+  {
+    "id": 90010,
+    "title": "Keys of Frozen Shadow (SoV)",
+    "description": "These keys unlock the portals connecting the floors in the Tower of Frozen Shadow.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 303,
+    "subcategoryName": "Progression",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3017,
+        "label": "Crystal Key"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3018,
+        "label": "Three Toothed Key"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3019,
+        "label": "Frosty Key"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3020,
+        "label": "Small Rusty Key"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3021,
+        "label": "Bone Finger Key"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3022,
+        "label": "Large Metal Key"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3023,
+        "label": "Tserrina's Key"
+      }
+    ]
+  },
+  {
+    "id": 90011,
+    "title": "Shrine Key",
+    "description": "This key unlocks the portal to the Cobalt Scar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 303,
+    "subcategoryName": "Progression",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3024,
+        "label": "Shrine Key"
+      }
+    ]
+  },
+  {
+    "id": 90012,
+    "title": "Sleeper's Key",
+    "description": "This key unlocks the entrance to the Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 303,
+    "subcategoryName": "Progression",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3025,
+        "label": "Sleeper's Key"
+      }
+    ]
+  },
+  {
+    "id": 311740,
+    "title": "Conqueror of Cobalt Scar",
+    "description": "This achievement is gained upon completing the following raids in Cobalt Scar:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000322,
+        "label": "Kelorek`Dar"
+      }
+    ]
+  },
+  {
+    "id": 312340,
+    "title": "Conqueror of Dragon Necropolis",
+    "description": "This achievement is gained upon completing the following raids in Dragon Necropolis:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000259,
+        "label": "Zlandicar"
+      }
+    ]
+  },
+  {
+    "id": 312940,
+    "title": "Conqueror of Icewell Keep",
+    "description": "This achievement is gained upon completing the following raids in Icewell Keep:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000344,
+        "label": "Chamberlain Krystorf"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000193,
+        "label": "Dain Frostreaver IV"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000345,
+        "label": "Seneschal Aldikar"
+      }
+    ]
+  },
+  {
+    "id": 311340,
+    "title": "Conqueror of Kael Drakkel",
+    "description": "This achievement is gained upon completing the following raids in Kael Drakkel:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000201,
+        "label": "The Avatar of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000204,
+        "label": "Derakor the Vindicator"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000194,
+        "label": "King Tormax"
+      }
+    ]
+  },
+  {
+    "id": 311440,
+    "title": "Conqueror of Skyshrine",
+    "description": "This achievement is gained upon completing the following raids in Skyshrine:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000343,
+        "label": "Charayan the Crusader"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000341,
+        "label": "Grendish the Crusader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000340,
+        "label": "Jortreva the Crusader"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000195,
+        "label": "Lord Yelinak"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000342,
+        "label": "Susarrak the Crusader"
+      }
+    ]
+  },
+  {
+    "id": 311840,
+    "title": "Conqueror of The Great Divide",
+    "description": "This achievement is gained upon completing the following raids in The Great Divide:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000203,
+        "label": "Narandi the Wretched"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000323,
+        "label": "Taskmaster Abyott"
+      }
+    ]
+  },
+  {
+    "id": 311040,
+    "title": "Conqueror of The Iceclad Ocean",
+    "description": "This achievement is gained upon completing the following raids in The Iceclad Ocean:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000319,
+        "label": "Lodizal"
+      }
+    ]
+  },
+  {
+    "id": 312740,
+    "title": "Conqueror of The Plane of Growth",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Growth:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000331,
+        "label": "an abstruse phantasm"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000328,
+        "label": "Ail the Elder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000334,
+        "label": "Ancient Totem"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000330,
+        "label": "Fayl Everstrong"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000324,
+        "label": "Galiel Spirithoof"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000335,
+        "label": "a gleaming sphere of light"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000326,
+        "label": "Grahl Strongback"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000332,
+        "label": "keeper of the glades"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000337,
+        "label": "Ordro"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000217,
+        "label": "Prince Thirneg"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000329,
+        "label": "Rumbleroot"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000325,
+        "label": "Sarik the Fang"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000336,
+        "label": "a thifling orator"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000327,
+        "label": "Treah Greenroot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000216,
+        "label": "Tunare"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000333,
+        "label": "Undogo Digolo"
+      }
+    ]
+  },
+  {
+    "id": 352640,
+    "title": "Conqueror of The Plane of Mischief",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Mischief:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000339,
+        "label": "Bristlebane King of Thieves"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000338,
+        "label": "the Hidden Jester"
+      }
+    ]
+  },
+  {
+    "id": 380240,
+    "title": "Conqueror of The Sleeper's Tomb",
+    "description": "This achievement is gained upon completing the following raids in The Sleeper's Tomb:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000205,
+        "label": "The Final Arbiter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000214,
+        "label": "Kildrukaun the Ancient"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000207,
+        "label": "Master of the Guard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000206,
+        "label": "The Progenitor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000211,
+        "label": "Tjudawos the Ancient"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000212,
+        "label": "Vyskudra the Ancient"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000213,
+        "label": "Zeixshi-Kar the Ancient"
+      }
+    ]
+  },
+  {
+    "id": 312440,
+    "title": "Conqueror of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following raids in The Temple of Veeshan:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000242,
+        "label": "Casalen"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000218,
+        "label": "Cekenar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000219,
+        "label": "Dagarn the Destroyer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000220,
+        "label": "Dozekar the Cursed"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000234,
+        "label": "Eashen of the Sky"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000240,
+        "label": "Essedera"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000233,
+        "label": "Gozzrem"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000239,
+        "label": "Grozzmel"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000235,
+        "label": "Ikatiar the Venom"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000221,
+        "label": "Jorlleag"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000238,
+        "label": "Krigara"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000222,
+        "label": "Lady Mirenilla"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000223,
+        "label": "Lady Nevederia"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000224,
+        "label": "Lendiniara the Keeper"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000236,
+        "label": "Lepethida"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000225,
+        "label": "Lord Feshlak"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 3000228,
+        "label": "Lord Vyemm"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 3000244,
+        "label": "Midayor"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 3000229,
+        "label": "Sevalak"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 3000237,
+        "label": "Tavekalem"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 3000230,
+        "label": "Telkorenar"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 3000196,
+        "label": "Vulak`Aerr"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 3000243,
+        "label": "Ymmeln"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 3000241,
+        "label": "Zemm"
+      }
+    ]
+  },
+  {
+    "id": 311940,
+    "title": "Conqueror of The Wakening Land",
+    "description": "This achievement is gained upon completing the following raids in The Wakening Land:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000202,
+        "label": "Wuoshi"
+      }
+    ]
+  },
+  {
+    "id": 312040,
+    "title": "Conqueror of The Western Wastes",
+    "description": "This achievement is gained upon completing the following raids in The Western Wastes:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000276,
+        "label": "Amcilla"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000277,
+        "label": "Atpaev"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000278,
+        "label": "Ayillish"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000279,
+        "label": "Bratavar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000280,
+        "label": "Bufa"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000281,
+        "label": "Cargalia"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000282,
+        "label": "Crial"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000283,
+        "label": "Del Sapara"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000284,
+        "label": "Derasinal"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000285,
+        "label": "Draazak"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000286,
+        "label": "Entariz"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000287,
+        "label": "Esorpa of the Ring"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000288,
+        "label": "Gafala"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000289,
+        "label": "Gangel"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000290,
+        "label": "Glati"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000246,
+        "label": "Harla Dar"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 3000291,
+        "label": "Hechaeva"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 3000292,
+        "label": "Honvar"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 3000293,
+        "label": "Ionat"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 3000294,
+        "label": "Jen Sapara"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 3000295,
+        "label": "Jerigozia"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 3000296,
+        "label": "Kar Sapara"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 3000297,
+        "label": "Karkona"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 3000245,
+        "label": "Klandicar"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 3000298,
+        "label": "Linbrak"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 3000299,
+        "label": "Makala"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 3000300,
+        "label": "Mav Sapara"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 3000301,
+        "label": "Mazi"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 3000104,
+        "label": "Mraaka"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 3000303,
+        "label": "Myga"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 3000304,
+        "label": "Neordla"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 3000305,
+        "label": "Nintal"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 3000306,
+        "label": "Onava"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 3000307,
+        "label": "Pantrilla"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 3000308,
+        "label": "Quoza"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 3000309,
+        "label": "Rak Sapara"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 3000310,
+        "label": "Sivar"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 3000247,
+        "label": "Sontalak"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 3000102,
+        "label": "Tsiraka"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 3000311,
+        "label": "Uiliak"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 3000312,
+        "label": "Veredenia"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 3000313,
+        "label": "Vitaela"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 3000314,
+        "label": "Von"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 3000315,
+        "label": "Vraptin"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 3000316,
+        "label": "Yal"
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 3000317,
+        "label": "Yeldema"
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 3000318,
+        "label": "Zil Sapara"
+      }
+    ]
+  },
+  {
+    "id": 311240,
+    "title": "Conqueror of Velketor's Labyrinth",
+    "description": "This achievement is gained upon completing the following raids in Velketor's Labyrinth:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 306,
+    "subcategoryName": "Raids",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000321,
+        "label": "Crystal Guardian"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000320,
+        "label": "Lord Doljonijiarnimorinar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000215,
+        "label": "Velketor the Sorcerer"
+      }
+    ]
+  },
+  {
+    "id": 311780,
+    "title": "Hunter of Cobalt Scar",
+    "description": "This achievement is gained upon defeating the following rare monsters in Cobalt Scar:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000261,
+        "label": "Azureake"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000263,
+        "label": "a bulthar herdleader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000262,
+        "label": "Yvolcarn"
+      }
+    ]
+  },
+  {
+    "id": 312380,
+    "title": "Hunter of Dragon Necropolis",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dragon Necropolis:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000113,
+        "label": "a bloodthirsty carrion bat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000115,
+        "label": "a Chetari Darkling"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000114,
+        "label": "a Chetari Warlord"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000112,
+        "label": "a crazed Chelaki"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000270,
+        "label": "a deadly phase spider"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000118,
+        "label": "Dominator Yisaki"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000111,
+        "label": "a fierce entropy serpent"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000110,
+        "label": "a great green slime"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000272,
+        "label": "a masterful dragon construct"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000120,
+        "label": "Pierre"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000117,
+        "label": "Queen Raltaas"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000119,
+        "label": "Slani Veekilaleeki"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000116,
+        "label": "Vaniki"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000271,
+        "label": "a venomous phase spider"
+      }
+    ]
+  },
+  {
+    "id": 311680,
+    "title": "Hunter of Eastern Wastes",
+    "description": "This achievement is gained upon defeating the following rare monsters in Eastern Wastes:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000091,
+        "label": "Chief Ry`Gorr"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000089,
+        "label": "Firbrand the Black"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000090,
+        "label": "a Ry`Gorr minstrel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000092,
+        "label": "Warden Bruke"
+      }
+    ]
+  },
+  {
+    "id": 312980,
+    "title": "Hunter of Icewell Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Icewell Keep:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000135,
+        "label": "Glucose"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000134,
+        "label": "Grizznot"
+      }
+    ]
+  },
+  {
+    "id": 311380,
+    "title": "Hunter of Kael Drakkel",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kael Drakkel:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000084,
+        "label": "Bjoskhua Blackfist"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000076,
+        "label": "Bjrakor the Cold"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000071,
+        "label": "Captain Bvellos"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000083,
+        "label": "Clrakk Blackfist"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000079,
+        "label": "Dlammaz Stormslayer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000074,
+        "label": "Gkrean Prophet of Tallon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000078,
+        "label": "Gleed Dragonhunter"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000081,
+        "label": "Klaggan Iceshard"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000077,
+        "label": "Korakaz"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000070,
+        "label": "Kyenka"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000085,
+        "label": "Nojas Blackfist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000087,
+        "label": "Reivaj the Battlerager"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000073,
+        "label": "Semkak Prophet of Vallon"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000088,
+        "label": "Slaggak the Trainer"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000080,
+        "label": "a Storm Giant Warlord"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 3000086,
+        "label": "Tuuak"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 3000075,
+        "label": "Vealok the Angry"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 3000082,
+        "label": "Vorken Iceshard"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 3000069,
+        "label": "Yetarr"
+      }
+    ]
+  },
+  {
+    "id": 312580,
+    "title": "Hunter of Siren's Grotto",
+    "description": "This achievement is gained upon defeating the following rare monsters in Siren's Grotto:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000127,
+        "label": "an alluring siren"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000126,
+        "label": "a deadly siren"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000131,
+        "label": "an enthralled ulthork"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000133,
+        "label": "Fellspine"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000130,
+        "label": "a giant walrus"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000122,
+        "label": "a massive manatee"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000121,
+        "label": "a massive walrus"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000128,
+        "label": "a neriad sea princess"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000273,
+        "label": "a neriad weaver"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000132,
+        "label": "a rampaging ulthork"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000129,
+        "label": "shimmering sea spirit"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000125,
+        "label": "a siren coercer"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000123,
+        "label": "a siren seductress"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000124,
+        "label": "a siren temptress"
+      }
+    ]
+  },
+  {
+    "id": 380380,
+    "title": "Hunter of Skyshrine",
+    "description": "This achievement is gained upon defeating the following rare monsters in Skyshrine:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000137,
+        "label": "Kintaru of the Shrine"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000136,
+        "label": "Marech of the Shrine"
+      }
+    ]
+  },
+  {
+    "id": 312180,
+    "title": "Hunter of The Crystal Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Crystal Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000106,
+        "label": "a crystal lurker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000105,
+        "label": "a crystal purifier"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000269,
+        "label": "a focus gem"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000268,
+        "label": "a gem collector"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000107,
+        "label": "a hollow crystal"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000108,
+        "label": "a life leech"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000109,
+        "label": "a terror carver"
+      }
+    ]
+  },
+  {
+    "id": 311880,
+    "title": "Hunter of The Great Divide",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Great Divide:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000096,
+        "label": "Coldain War Wolf"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000095,
+        "label": "Drakkel Blood Wolf"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000094,
+        "label": "Gorul Longshanks"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000098,
+        "label": "Icetooth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000093,
+        "label": "Shardtooth"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000097,
+        "label": "Yaka Razorhoof"
+      }
+    ]
+  },
+  {
+    "id": 311080,
+    "title": "Hunter of The Iceclad Ocean",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Iceclad Ocean:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000025,
+        "label": "dire wolf stalker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000026,
+        "label": "elder spearguard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000260,
+        "label": "Midnight"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000024,
+        "label": "pulsating icestorm"
+      }
+    ]
+  },
+  {
+    "id": 352680,
+    "title": "Hunter of The Plane of Mischief",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Mischief:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 3000501,
+        "label": "Plane of Mischief - Availability"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000165,
+        "label": "an asinine ape"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000148,
+        "label": "an astray hand"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000164,
+        "label": "a barmy burglar"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000150,
+        "label": "a bogus treasure chest"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000167,
+        "label": "a bouncing bunny"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000144,
+        "label": "Bzzibuzzana"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000149,
+        "label": "a craven rascal"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000159,
+        "label": "a forsaken hand"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000145,
+        "label": "a fraudulent chest"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000154,
+        "label": "a frolicking performer"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000143,
+        "label": "a funky skunk"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000146,
+        "label": "a gifted sphinx"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000147,
+        "label": "a gorilla prodigy"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000157,
+        "label": "a gorilla professor"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000163,
+        "label": "the Grand Gardener"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000162,
+        "label": "a hedge magus"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 3000161,
+        "label": "a hedge soldier"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 3000142,
+        "label": "an irritating mushroom"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 3000141,
+        "label": "a maddened mushroom man"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 3000168,
+        "label": "the Master of Mayhem"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 3000153,
+        "label": "a method actor"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 3000152,
+        "label": "an obsessed patron"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 3000166,
+        "label": "a paradoxical sphinx"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 3000160,
+        "label": "a savvy sphinx"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 3000156,
+        "label": "a theatre fanatic"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 3000158,
+        "label": "a troublesome charlatan"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 3000155,
+        "label": "a wicked performer"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 3000151,
+        "label": "a witty sphinx"
+      }
+    ]
+  },
+  {
+    "id": 380280,
+    "title": "Hunter of The Sleeper's Tomb",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Sleeper's Tomb:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000138,
+        "label": "an Ancient Advocator"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000139,
+        "label": "Drakeen or Drakonine Caretaker, Champion, Defender, Guardian, Keeper, Sentinel, or Warden"
+      }
+    ]
+  },
+  {
+    "id": 311180,
+    "title": "Hunter of The Tower of Frozen Shadow",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Tower of Frozen Shadow:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000035,
+        "label": "Amontehepna"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000029,
+        "label": "an angry chef"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000351,
+        "label": "an angry librarian"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000349,
+        "label": "Cara Omica"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000350,
+        "label": "an enraged relative"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000352,
+        "label": "an enraged shadow beast"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000030,
+        "label": "The Head Usher"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000354,
+        "label": "a large undead gnoll"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000034,
+        "label": "maggot infested flesh"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000033,
+        "label": "Narmak Berreka"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000353,
+        "label": "Tserrina Syl`Tor"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000355,
+        "label": "Vhal Sera"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000027,
+        "label": "Xalgoti"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000028,
+        "label": "Zorglim the Dead"
+      }
+    ]
+  },
+  {
+    "id": 311980,
+    "title": "Hunter of The Wakening Land",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Wakening Land:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000267,
+        "label": "an elder holgresh"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000099,
+        "label": "Grand Vizier Poolakacha`tei"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000100,
+        "label": "a holgresh raider"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000266,
+        "label": "Lord Gossimerwind"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000265,
+        "label": "Lord Prismwing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000264,
+        "label": "Rapticor"
+      }
+    ]
+  },
+  {
+    "id": 312080,
+    "title": "Hunter of The Western Wastes",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Western Wastes:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000101,
+        "label": "Icehackle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000274,
+        "label": "Strong Horn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000103,
+        "label": "Tantor"
+      }
+    ]
+  },
+  {
+    "id": 311280,
+    "title": "Hunter of Velketor's Labyrinth",
+    "description": "This achievement is gained upon defeating the following rare monsters in Velketor's Labyrinth:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 308,
+    "subcategoryName": "Hunter",
+    "categoryId": 300,
+    "categoryName": "Scars of Velious",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3000042,
+        "label": "The Brood Master"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3000041,
+        "label": "The Brood Mother"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3000036,
+        "label": "Crystal Eyes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 3000062,
+        "label": "a deadly blizzard hunter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 3000065,
+        "label": "a deathly shard spectre"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 3000047,
+        "label": "Errkak Icepaw"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 3000057,
+        "label": "Failed Experiment Beza"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 3000058,
+        "label": "Failed Experiment Izah"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 3000061,
+        "label": "a fierce blizzard hunter"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 3000060,
+        "label": "a Frenzied Velium Broodling"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 3000059,
+        "label": "a Frenzied Velium Stalker"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 3000068,
+        "label": "a frosty gargoyle watcher"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 3000067,
+        "label": "a frozen gargoyle master"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 3000044,
+        "label": "Gregendek Icepaw"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 3000064,
+        "label": "an Icepaw berserker"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 3000063,
+        "label": "an Icepaw warlord"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 3000045,
+        "label": "Jelek Icepaw"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 3000048,
+        "label": "Kalik Icepaw"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 3000054,
+        "label": "Keljemor"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 3000043,
+        "label": "Khelkar Icepaw"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 3000052,
+        "label": "Laryk Icepaw"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 3000055,
+        "label": "Leljemor"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 3000049,
+        "label": "Marlek Icepaw"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 3000056,
+        "label": "Meljemor"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 3000039,
+        "label": "Rijoely"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 3000053,
+        "label": "Rowwek Icepaw"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 3000066,
+        "label": "a terrible crystal shard"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 3000040,
+        "label": "Tijoely"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 3000046,
+        "label": "Tpos Icepaw"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 3000051,
+        "label": "Ular Icepaw"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 3000037,
+        "label": "Velketor`s Experiment Lena"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 3000038,
+        "label": "Velketor`s Experiment Uzah"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 3000050,
+        "label": "Venar Icepaw"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 12080,
+    "title": "Kelethin Quests - Gandak's Ill-Fated Trip",
+    "description": "This achievement is gained upon completing the following Kelethin quest.",
+    "points": 5,
+    "isHidden": false,
+    "subcategoryId": null,
+    "subcategoryName": null,
+    "categoryId": null,
+    "categoryName": null,
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12080,
+        "label": "Complete Faerik Windrunner's quest \"Gandak's Ill-Fated Trip\" in The Greater Faydark"
+      }
+    ]
+  },
+  {
+    "id": 41000300,
+    "title": "Quarm: Early Bird Bonus (Temporary)",
+    "description": "Logging into Quarm during the first two weeks of its opening grants you a bonus claim (one reward per account).",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 95,
+    "subcategoryName": null,
+    "categoryId": null,
+    "categoryName": null,
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 41000106,
+        "label": "Log in to Quarm between July 13-27"
+      },
+      {
+        "order": 1,
+        "type": 3,
+        "value": 41000107,
+        "label": "Visibility requirements: Quarm into 2 week event is active"
+      }
+    ]
+  }
+]

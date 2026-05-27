@@ -1,0 +1,963 @@
+[
+  {
+    "id": 1001003,
+    "title": "Dragon Slayer",
+    "description": "This achievement is gained upon completing all hunts in Dragons of Norrath.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1001,
+    "subcategoryName": "General",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100100301,
+        "label": "Novice Hunter of Dragons of Norrath"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100100302,
+        "label": "Adept Hunter of Dragons of Norrath"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100100303,
+        "label": "Veteran Hunter of Dragons of Norrath"
+      }
+    ]
+  },
+  {
+    "id": 1000050,
+    "title": "Dragons of Norrath Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Dragons of Norrath.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1001,
+    "subcategoryName": "General",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270561,
+        "label": "The Broodlands Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270562,
+        "label": "Stillmoon Temple Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270563,
+        "label": "The Ascent Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270564,
+        "label": "Lavaspinner's Lair Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270565,
+        "label": "Tirranun's Delve Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270566,
+        "label": "Thundercrest Isles Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270567,
+        "label": "The Accursed Nest Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1034100,
+    "title": "Lavaspinner's Lair Traveler",
+    "description": "This achievement is gained upon visiting Lavaspinner's Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270280,
+        "label": "Visit Lavaspinner's Lair"
+      }
+    ]
+  },
+  {
+    "id": 1033800,
+    "title": "Stillmoon Temple Traveler",
+    "description": "This achievement is gained upon visiting Stillmoon Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270277,
+        "label": "Visit Stillmoon Temple"
+      }
+    ]
+  },
+  {
+    "id": 1034300,
+    "title": "The Accursed Nest Traveler",
+    "description": "This achievement is gained upon visiting The Accursed Nest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270282,
+        "label": "Visit The Accursed Nest"
+      }
+    ]
+  },
+  {
+    "id": 1033900,
+    "title": "The Ascent Traveler",
+    "description": "This achievement is gained upon visiting The Ascent.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270278,
+        "label": "Visit The Ascent"
+      }
+    ]
+  },
+  {
+    "id": 1033700,
+    "title": "The Broodlands Traveler",
+    "description": "This achievement is gained upon visiting The Broodlands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270276,
+        "label": "Visit The Broodlands"
+      }
+    ]
+  },
+  {
+    "id": 1034000,
+    "title": "Thundercrest Isles Traveler",
+    "description": "This achievement is gained upon visiting Thundercrest Isles.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270279,
+        "label": "Visit Thundercrest Isles"
+      }
+    ]
+  },
+  {
+    "id": 1034200,
+    "title": "Tirranun's Delve Traveler",
+    "description": "This achievement is gained upon visiting Tirranun's Delve.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1002,
+    "subcategoryName": "Exploration",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270281,
+        "label": "Visit Tirranun's Delve"
+      }
+    ]
+  },
+  {
+    "id": 1008020,
+    "title": "Adept Hunter of Dragons of Norrath",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100802001,
+        "label": "Hunter of Tirranun's Delve"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100802002,
+        "label": "Hunter of Stillmoon Temple"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100802003,
+        "label": "Hunter of The Ascent"
+      }
+    ]
+  },
+  {
+    "id": 1008200,
+    "title": "Hunter of Lavaspinner's Lair",
+    "description": "This achievement is gained upon defeating the following rare monsters in Lavaspinner's Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100820001,
+        "label": "Boilingwind"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100820002,
+        "label": "Burningfang"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100820003,
+        "label": "Cloud of Smoke"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100820004,
+        "label": "Crimsonwing"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100820005,
+        "label": "Dark Webspinner"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100820006,
+        "label": "Ezekl the Charred"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 100820007,
+        "label": "Magma Spider"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 100820008,
+        "label": "Poisonfang"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 100820009,
+        "label": "Rysok the Vile"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 100820010,
+        "label": "Smoketail"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 100820011,
+        "label": "Stoneclaw"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 100820012,
+        "label": "Stonecluster"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 100820013,
+        "label": "Stonekrag"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 100820014,
+        "label": "Wynne the Dark"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 100820015,
+        "label": "Zycem the Scorched"
+      }
+    ]
+  },
+  {
+    "id": 1008400,
+    "title": "Hunter of Stillmoon Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters in Stillmoon Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100840001,
+        "label": "a silent hunter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100840002,
+        "label": "Bathhouse Manager Hakvar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100840003,
+        "label": "Decrepit Guard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100840004,
+        "label": "Guard Musashi"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100840005,
+        "label": "Guard Nobunaga"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100840006,
+        "label": "Hervash the Foreman"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 100840007,
+        "label": "Hong Lei"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 100840008,
+        "label": "Jadewing"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 100840009,
+        "label": "Jorvash the Usurper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 100840010,
+        "label": "Stoneskin"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 100840011,
+        "label": "Temple Foreman Korsav"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 100840012,
+        "label": "Tunk the Fluid"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 100840013,
+        "label": "Wei Chung"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 100840014,
+        "label": "Wei Zhang"
+      }
+    ]
+  },
+  {
+    "id": 1008700,
+    "title": "Hunter of The Accursed Nest",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Accursed Nest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100870001,
+        "label": "Adel`ek"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100870002,
+        "label": "Adenox"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100870003,
+        "label": "Ainslin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100870004,
+        "label": "Defender Tyothil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100870005,
+        "label": "Eggtender Nim"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100870006,
+        "label": "Elureh"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 100870007,
+        "label": "Feryda"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 100870008,
+        "label": "Guardian Nameyn"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 100870009,
+        "label": "Hatchery Guard Pip"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 100870010,
+        "label": "Kami"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 100870011,
+        "label": "Kerosek"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 100870012,
+        "label": "Lavawalker"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 100870013,
+        "label": "Magmeran"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 100870014,
+        "label": "Merdith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 100870016,
+        "label": "Sandwatcher Kolein"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 100870017,
+        "label": "Seism"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 100870018,
+        "label": "Sentinel Pafyr"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 100870019,
+        "label": "Shadedshard"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 100870020,
+        "label": "Temblor"
+      }
+    ]
+  },
+  {
+    "id": 1008500,
+    "title": "Hunter of The Ascent",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ascent.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100850001,
+        "label": "crazed statue"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100850002,
+        "label": "Grunk the wicked"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100850003,
+        "label": "Ice Vein"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100850004,
+        "label": "puma matron"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100850005,
+        "label": "Venom"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100850006,
+        "label": "Wounded Claw"
+      }
+    ]
+  },
+  {
+    "id": 1008100,
+    "title": "Hunter of The Broodlands",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Broodlands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100810001,
+        "label": "Aqualung"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100810002,
+        "label": "Chillwing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100810003,
+        "label": "Firefang"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100810004,
+        "label": "Flamefist"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100810005,
+        "label": "Frostblind"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100810006,
+        "label": "Frostfoot"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 100810007,
+        "label": "Greentooth"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 100810008,
+        "label": "Lavawalker Spider"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 100810009,
+        "label": "Sandpaw"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 100810010,
+        "label": "Sandrender Xigazn"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 100810011,
+        "label": "Smokestorm"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 100810012,
+        "label": "Snowbrow"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 100810013,
+        "label": "Snowclaw"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 100810014,
+        "label": "Stone-Gazing Basilisk"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 100810015,
+        "label": "The Jungle Walker"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 100810016,
+        "label": "Viridix"
+      }
+    ]
+  },
+  {
+    "id": 1008600,
+    "title": "Hunter of Thundercrest Isles",
+    "description": "This achievement is gained upon defeating the following rare monsters in Thundercrest Isles.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100860001,
+        "label": "Fersama"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100860002,
+        "label": "Fumi the Vigilant"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100860003,
+        "label": "Gox Ironmaw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100860004,
+        "label": "Hidekazu"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100860005,
+        "label": "Hidetada"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 100860006,
+        "label": "Hidetora"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 100860007,
+        "label": "Kafu the Turbulent"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 100860008,
+        "label": "Kodama the Voltaic"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 100860009,
+        "label": "Kunz Boomsetter"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 100860010,
+        "label": "Mihoko the Rector"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 100860011,
+        "label": "Minoru the Crafty"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 100860012,
+        "label": "Ninsei the Tempest"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 100860013,
+        "label": "Rinako the Stalwart"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 100860014,
+        "label": "Sor Stormreach"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 100860015,
+        "label": "Sugita the Vicarious"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 100860016,
+        "label": "Toshiharu"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 100860017,
+        "label": "Toshinobu"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 100860018,
+        "label": "Yoshiaga"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 100860019,
+        "label": "Yoshihiro"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 100860020,
+        "label": "Yukari the Enlightened"
+      }
+    ]
+  },
+  {
+    "id": 1008300,
+    "title": "Hunter of Tirranun's Delve",
+    "description": "This achievement is gained upon defeating the following rare monsters in Tirranun's Delve.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100830001,
+        "label": "Fire Goblin Laborer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100830002,
+        "label": "Fire Goblin Scribe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 100830003,
+        "label": "Fire Goblin Strategist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 100830004,
+        "label": "Fire Goblin Tracker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 100830005,
+        "label": "Inquisitor Ukkag"
+      }
+    ]
+  },
+  {
+    "id": 1008010,
+    "title": "Novice Hunter of Dragons of Norrath",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100801001,
+        "label": "Hunter of The Broodlands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100801002,
+        "label": "Hunter of Lavaspinner's Lair"
+      }
+    ]
+  },
+  {
+    "id": 1008030,
+    "title": "Veteran Hunter of Dragons of Norrath",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1008,
+    "subcategoryName": "Hunts",
+    "categoryId": 1000,
+    "categoryName": "Dragons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 100803001,
+        "label": "Hunter of Thundercrest Isles"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 100803002,
+        "label": "Hunter of The Accursed Nest"
+      }
+    ]
+  }
+]

@@ -1,0 +1,918 @@
+[
+  {
+    "id": 600085,
+    "title": "Conqueror of The Legacy of Ykesha",
+    "description": "This achievement is gained upon completing all the raids in The Legacy of Ykesha.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 601,
+    "subcategoryName": "General",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000089,
+        "label": "Conqueror of The Crypt of Nadox"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000090,
+        "label": "Conqueror of Hate's Fury"
+      }
+    ]
+  },
+  {
+    "id": 600060,
+    "title": "Legacy of Ykesha Explorer",
+    "description": "This achievement is gained upon visiting all the zones in Legacy of Ykesha.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 601,
+    "subcategoryName": "General",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270656,
+        "label": "The Gulf of Gunthak Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270657,
+        "label": "Dulak's Harbor Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270658,
+        "label": "The Torgiran Mines Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270659,
+        "label": "The Crypt of Nadox Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270660,
+        "label": "Hate's Fury Traveler"
+      }
+    ]
+  },
+  {
+    "id": 600080,
+    "title": "Pirate Slayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 601,
+    "subcategoryName": "General",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000001,
+        "label": "Hunter of The Caverns of Exile - Access"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000005,
+        "label": "Hunter of The Crypt of Nadox"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000003,
+        "label": "Hunter of Dulak's Harbor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000002,
+        "label": "Hunter of The Gulf of Gunthak"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000006,
+        "label": "Hunter of Hate's Fury"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000004,
+        "label": "Hunter of The Torgiran Mines"
+      }
+    ]
+  },
+  {
+    "id": 622500,
+    "title": "Dulak's Harbor Traveler",
+    "description": "This achievement is gained upon visiting Dulak's Harbor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 602,
+    "subcategoryName": "Exploration",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270178,
+        "label": "Visit Dulak's Harbor"
+      }
+    ]
+  },
+  {
+    "id": 622800,
+    "title": "Hate's Fury Traveler",
+    "description": "This achievement is gained upon visiting Hate's Fury.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 602,
+    "subcategoryName": "Exploration",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270181,
+        "label": "Visit Hate's Fury"
+      }
+    ]
+  },
+  {
+    "id": 622700,
+    "title": "The Crypt of Nadox Traveler",
+    "description": "This achievement is gained upon visiting The Crypt of Nadox.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 602,
+    "subcategoryName": "Exploration",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270180,
+        "label": "Visit The Crypt of Nadox"
+      }
+    ]
+  },
+  {
+    "id": 622400,
+    "title": "The Gulf of Gunthak Traveler",
+    "description": "This achievement is gained upon visiting The Gulf of Gunthak.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 602,
+    "subcategoryName": "Exploration",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270177,
+        "label": "Visit The Gulf of Gunthak"
+      }
+    ]
+  },
+  {
+    "id": 622600,
+    "title": "The Torgiran Mines Traveler",
+    "description": "This achievement is gained upon visiting The Torgiran Mines.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 602,
+    "subcategoryName": "Exploration",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270179,
+        "label": "Visit The Torgiran Mines"
+      }
+    ]
+  },
+  {
+    "id": 622840,
+    "title": "Conqueror of Hate's Fury",
+    "description": "This achievement is gained upon completing the following raids in Hate's Fury:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 606,
+    "subcategoryName": "Raids",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000093,
+        "label": "Captain Krasnok"
+      }
+    ]
+  },
+  {
+    "id": 622740,
+    "title": "Conqueror of The Crypt of Nadox",
+    "description": "This achievement is gained upon completing the following raids in The Crypt of Nadox:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 606,
+    "subcategoryName": "Raids",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000091,
+        "label": "Innoruuk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000092,
+        "label": "Spiritseeker Nadox"
+      }
+    ]
+  },
+  {
+    "id": 622580,
+    "title": "Hunter of Dulak's Harbor",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dulak's Harbor:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000030,
+        "label": "Architect Vaukin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000038,
+        "label": "a blackblooded taskmaster"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000036,
+        "label": "a defiled dedicant"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000035,
+        "label": "an enraged soulstealer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000037,
+        "label": "a fleshchild of Innoruuk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000028,
+        "label": "Galikor Sevalin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 6000094,
+        "label": "Head Chef Grishnak"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 6000040,
+        "label": "Incantator Cawrolis"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 6000029,
+        "label": "Konus Alatuk"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 6000039,
+        "label": "Linlanik Throatcutter"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 6000034,
+        "label": "a luggald assassin"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 6000095,
+        "label": "Ol` Greyfin"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 6000032,
+        "label": "an ore refinery overseer"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 6000041,
+        "label": "a shrouded cave lurker"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 6000031,
+        "label": "a shrouded fareyes"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 6000096,
+        "label": "Treasure Sorter Neiben"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 6000097,
+        "label": "Vurag"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 6000033,
+        "label": "Xorikaan Farzlebual"
+      }
+    ]
+  },
+  {
+    "id": 622880,
+    "title": "Hunter of Hate's Fury",
+    "description": "This achievement is gained upon defeating the following rare monsters in Hate's Fury:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000079,
+        "label": "Cabin Gnome Fitzgerald"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000081,
+        "label": "Chef Gokig"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000086,
+        "label": "Harbinger Iinati"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000082,
+        "label": "High Priest Anaanci"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000080,
+        "label": "Lieutenant Commander Vzain"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000083,
+        "label": "the Luggald Interrogator"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 6000078,
+        "label": "Quartermaster Fisan"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 6000085,
+        "label": "Scout Shin`Ci"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 6000084,
+        "label": "Serang Vikch"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 6000088,
+        "label": "Shoqui the Forgotten"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 6000087,
+        "label": "Uumuvan the Soulless"
+      }
+    ]
+  },
+  {
+    "id": 127880,
+    "title": "Hunter of The Caverns of Exile",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Caverns of Exile:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1001396,
+        "label": "Erpar Flamegar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1001498,
+        "label": "a furious magma guardian"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1001400,
+        "label": "Gigantic Ashwalker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1001499,
+        "label": "an inflamed champion"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1001497,
+        "label": "Kushara Perecran"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1001398,
+        "label": "Pulsating Pool of Magma"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1001397,
+        "label": "Servant of Flame"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1001399,
+        "label": "Smoldering Tentacle Terror"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1001395,
+        "label": "Tybog Adalmond"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1001402,
+        "label": "Typhoeus"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1001401,
+        "label": "Xaon Bulzekel"
+      }
+    ]
+  },
+  {
+    "id": 622780,
+    "title": "Hunter of The Crypt of Nadox",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Crypt of Nadox:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000074,
+        "label": "a Blackhand lieutenant"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000077,
+        "label": "a Blackhand veteran"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000065,
+        "label": "a Broken Skull Prophet"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000069,
+        "label": "a Broken Skull vassal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000098,
+        "label": "a burdened bloodtusk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000075,
+        "label": "Captain Aivilo"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 6000072,
+        "label": "a cloister sentinel"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 6000064,
+        "label": "a decaying fisherman"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 6000067,
+        "label": "Dulein Gedasai"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 6000066,
+        "label": "Elder Shaman Elgruk"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 6000068,
+        "label": "an exhausted Bloodtusk"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 6000076,
+        "label": "Foreman Kraksanar"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 6000070,
+        "label": "Kdansol Borgir"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 6000071,
+        "label": "Kraska Mreth"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 6000073,
+        "label": "Spiritcharmer Hargortaz"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 6000063,
+        "label": "an undead weaponsmith"
+      }
+    ]
+  },
+  {
+    "id": 622480,
+    "title": "Hunter of The Gulf of Gunthak",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Gulf of Gunthak:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000020,
+        "label": "Blood Tusk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000014,
+        "label": "a dastardly scoundrel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000022,
+        "label": "Dominator Zrabix"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000017,
+        "label": "Dreadmaster Jrup"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000025,
+        "label": "Guard Dragrik"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000016,
+        "label": "Harbinger Stimika"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 6000026,
+        "label": "Hatethorn"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 6000019,
+        "label": "a human recruit"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 6000011,
+        "label": "Kalii Brokenskull"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 6000024,
+        "label": "Magus Evana Bavomon"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 6000009,
+        "label": "Mokon Brokenskull"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 6000018,
+        "label": "a mutant cohort"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 6000027,
+        "label": "an old sea dog"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 6000023,
+        "label": "Oracle Pagrossa"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 6000015,
+        "label": "Preceptor Grakomus"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 6000013,
+        "label": "Rite Master Kvimimn"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 6000008,
+        "label": "Sea Captain Azobus"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 6000012,
+        "label": "Soothsayer Mrugg Doxok"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 6000010,
+        "label": "Treasure Hunter Eranil"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 6000021,
+        "label": "Warmaster Mragoc"
+      }
+    ]
+  },
+  {
+    "id": 622680,
+    "title": "Hunter of The Torgiran Mines",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Torgiran Mines:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 608,
+    "subcategoryName": "Hunter",
+    "categoryId": 600,
+    "categoryName": "Legacy of Ykesha",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 6000047,
+        "label": "Bishop Rimak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 6000057,
+        "label": "the Broken Skull Bloodlord"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 6000061,
+        "label": "the Broken Skull Brawler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 6000056,
+        "label": "the Broken Skull Defender"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 6000059,
+        "label": "the Broken Skull Dreadlord"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 6000054,
+        "label": "the Broken Skull Mercenary"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 6000058,
+        "label": "the Broken Skull Seer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 6000062,
+        "label": "a Broken Skull treasurer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 6000055,
+        "label": "the Broken Skull Warlord"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 6000052,
+        "label": "the Corrupted Half Elf Miner"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 6000051,
+        "label": "the Crazed Halfling Lunatic"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 6000044,
+        "label": "Dayned the Insane"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 6000053,
+        "label": "the Fanatical Dwarf Zealot"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 6000048,
+        "label": "Foreman Deslug"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 6000043,
+        "label": "the Forsaken Miner"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 6000060,
+        "label": "the Luggald Defiler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 6000050,
+        "label": "the Maniacal Kobold Miner"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 6000042,
+        "label": "the Mutated Laborer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 6000045,
+        "label": "Ritualist Tzobodin"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 6000046,
+        "label": "Scryer Xvalos"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 6000049,
+        "label": "Taskmaster Waggad Brokenskull"
+      }
+    ]
+  }
+]

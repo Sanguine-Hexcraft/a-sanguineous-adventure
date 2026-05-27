@@ -1,0 +1,6490 @@
+[
+  {
+    "id": 2200040,
+    "title": "Challenger of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the mission challenges in The Darkened Sea.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000392,
+        "label": "Clearer Skies: Challenge of Toughness"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000393,
+        "label": "Clearer Skies: Time Trial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000352,
+        "label": "Savior of Katta Castrum: Deluge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000353,
+        "label": "The Edge of Balance: Challenge of Toughness"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000354,
+        "label": "The Edge of Balance: Time Trial"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000344,
+        "label": "Savior of Brother Island"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000345,
+        "label": "The Cover of Night: Challenge of Toughness"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000346,
+        "label": "The Cover of Night: Time Trial"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000368,
+        "label": "Savior of Caverns of Endless Song"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000369,
+        "label": "Two Sides of the Shield: Challenge of Toughness"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000370,
+        "label": "Two Sides of the Shield: Time Trial"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 22000384,
+        "label": "Savior of Degmar, the Lost Castle"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 22000385,
+        "label": "Burden of the Past: Challenge of Toughness"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 22000386,
+        "label": "Burden of the Past: Time Trial"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 22000376,
+        "label": "Savior of Thuliasaur Island"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 22000377,
+        "label": "Fit for the New World: Challenge of Toughness"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 22000378,
+        "label": "Fit for the New World: Time Trial"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 22000360,
+        "label": "Savior of Combine Dredge"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 22000361,
+        "label": "Deep Lies the Snow: Challenge of Toughness"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 22000362,
+        "label": "Deep Lies the Snow: Time Trial"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 22000334,
+        "label": "Savior of Arx Mentis"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 22000335,
+        "label": "All Rivers Lead to the Sea: Challenge of Toughness"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 22000336,
+        "label": "All Rivers Lead to the Sea: Time Trial"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 22000337,
+        "label": "The Cost of Balance: Challenge of Toughness"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 22000338,
+        "label": "The Cost of Balance: Time Trial"
+      },
+      {
+        "order": 25,
+        "type": 2,
+        "value": 22000672,
+        "label": "Una More Failure"
+      },
+      {
+        "order": 26,
+        "type": 2,
+        "value": 22000673,
+        "label": "Storm Free"
+      },
+      {
+        "order": 27,
+        "type": 2,
+        "value": 22000674,
+        "label": "End of Evil"
+      }
+    ]
+  },
+  {
+    "id": 2200020,
+    "title": "Champion of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the quests in The Darkened Sea.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000389,
+        "label": "Mercenary of Tempest Temple"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000390,
+        "label": "Partisan of Tempest Temple"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000349,
+        "label": "Mercenary of Katta Castrum: Deluge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000350,
+        "label": "Partisan of Katta Castrum: Deluge"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000341,
+        "label": "Mercenary of Brother Island"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000342,
+        "label": "Partisan of Brother Island"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000365,
+        "label": "Mercenary of Caverns of Endless Song"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000366,
+        "label": "Partisan of Caverns of Endless Song"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000381,
+        "label": "Mercenary of Degmar, the Lost Castle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000382,
+        "label": "Partisan of Degmar, the Lost Castle"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000373,
+        "label": "Mercenary of Thuliasaur Island"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 22000374,
+        "label": "Partisan of Thuliasaur Island"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 22000357,
+        "label": "Mercenary of Combine Dredge"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 22000358,
+        "label": "Partisan of Combine Dredge"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 22000310,
+        "label": "Mercenary of Arx Mentis"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 22000311,
+        "label": "Partisan of Arx Mentis"
+      }
+    ]
+  },
+  {
+    "id": 2200060,
+    "title": "Conqueror of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the raids in The Darkened Sea.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000313,
+        "label": "Conqueror of Arx Mentis"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000395,
+        "label": "Storm the Citadel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000396,
+        "label": "Challenge the Apitarx"
+      }
+    ]
+  },
+  {
+    "id": 2200080,
+    "title": "Explorer of The Darkened Sea",
+    "description": "This achievement is gained upon visiting all the zones in The Darkened Sea.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000388,
+        "label": "Tempest Temple Traveler"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000348,
+        "label": "Katta Castrum: Deluge Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000340,
+        "label": "Brother Island Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000364,
+        "label": "Caverns of Endless Song Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000380,
+        "label": "Degmar, the Lost Castle Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000372,
+        "label": "Thuliasaur Island Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000356,
+        "label": "Combine Dredge Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000309,
+        "label": "Arx Mentis Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2200000,
+    "title": "Master of The Darkened Sea",
+    "description": "This achievement is gained upon completing all quests, missions and hunts in The Darkened Sea.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000303,
+        "label": "Champion of The Darkened Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000304,
+        "label": "Paragon of The Darkened Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000305,
+        "label": "Seaslayer"
+      }
+    ]
+  },
+  {
+    "id": 22000000,
+    "title": "Master Scavenger of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the collection achievements in The Darkened Sea.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000000,
+        "label": "See the Darkened Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000001,
+        "label": "The Deep Darkened Sea"
+      }
+    ]
+  },
+  {
+    "id": 2200030,
+    "title": "Paragon of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the missions in The Darkened Sea.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000620,
+        "label": "Lesser Hero of The Darkened Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000621,
+        "label": "Accomplished Hero of The Darkened Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000622,
+        "label": "Greater Hero of The Darkened Sea"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000623,
+        "label": "Legendary Hero of The Darkened Sea"
+      }
+    ]
+  },
+  {
+    "id": 2200010,
+    "title": "Seafarer",
+    "description": "This achievement is gained upon completing all quests and missions in The Darkened Sea.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000303,
+        "label": "Champion of The Darkened Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000304,
+        "label": "Paragon of The Darkened Sea"
+      }
+    ]
+  },
+  {
+    "id": 2200050,
+    "title": "Seaslayer",
+    "description": "This achievement is gained upon completing all the Hunter achievements in The Darkened Sea.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000306,
+        "label": "Novice Hunter of The Darkened Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000307,
+        "label": "Adept Hunter of The Darkened Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000308,
+        "label": "Veteran Hunter of The Darkened Sea"
+      }
+    ]
+  },
+  {
+    "id": 2200070,
+    "title": "Vanquisher of The Darkened Sea",
+    "description": "This achievement is gained upon completing all the raid challenges in The Darkened Sea.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2201,
+    "subcategoryName": "General",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000314,
+        "label": "Vanquisher of Defense of the City"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000318,
+        "label": "Vanquisher of Principal Quastori Numicia"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000322,
+        "label": "Vanquisher of Principal Vicarum Nomia"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000326,
+        "label": "Vanquisher of Principal Indagatrix Lucia"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000330,
+        "label": "Vanquisher of Calix Quirinus"
+      }
+    ]
+  },
+  {
+    "id": 2277800,
+    "title": "Arx Mentis Traveler",
+    "description": "This achievement is gained upon visiting Arx Mentis",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000611,
+        "label": "Visit Arx Mentis"
+      }
+    ]
+  },
+  {
+    "id": 2277900,
+    "title": "Brother Island Traveler",
+    "description": "This achievement is gained upon visiting Brother Island",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000612,
+        "label": "Visit Brother Island"
+      }
+    ]
+  },
+  {
+    "id": 2278200,
+    "title": "Caverns of Endless Song Traveler",
+    "description": "This achievement is gained upon visiting Caverns of Endless Song",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000615,
+        "label": "Visit Caverns of Endless Song"
+      }
+    ]
+  },
+  {
+    "id": 2278100,
+    "title": "Combine Dredge Traveler",
+    "description": "This achievement is gained upon visiting Combine Dredge",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000614,
+        "label": "Visit Combine Dredge"
+      }
+    ]
+  },
+  {
+    "id": 2278400,
+    "title": "Degmar, the Lost Castle Traveler",
+    "description": "This achievement is gained upon visiting Degmar, the Lost Castle",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000617,
+        "label": "Visit Degmar, the Lost Castle"
+      }
+    ]
+  },
+  {
+    "id": 2278000,
+    "title": "Katta Castrum: Deluge Traveler",
+    "description": "This achievement is gained upon visiting Katta Castrum: Deluge",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000613,
+        "label": "Visit Katta Castrum: Deluge"
+      }
+    ]
+  },
+  {
+    "id": 2278500,
+    "title": "Tempest Temple Traveler",
+    "description": "This achievement is gained upon visiting Tempest Temple",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000618,
+        "label": "Visit Tempest Temple"
+      }
+    ]
+  },
+  {
+    "id": 2278300,
+    "title": "Thuliasaur Island Traveler",
+    "description": "This achievement is gained upon visiting Thuliasaur Island",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2202,
+    "subcategoryName": "Exploration",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000616,
+        "label": "Visit Thuliasaur Island"
+      }
+    ]
+  },
+  {
+    "id": 2200100,
+    "title": "Adventurer of The Darkened Sea (Group)",
+    "description": "Completing the following missions will grant you access to the Caverns of Endless Song:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000586,
+        "label": "Mate Rominald in Tempest Temple - A Rising Storm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000587,
+        "label": "Krinoch Jal in Tempest Temple - Gathering Clouds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000588,
+        "label": "Ognit Eznertob in Tempest Temple - Clearer Skies"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000507,
+        "label": "Head Mage Antius in Katta Castrum: Deluge - The Pellarus Satum"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000589,
+        "label": "Firiona Vie in Katta Castrum: Deluge - The Edge of Balance"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000590,
+        "label": "Firiona Vie in Katta Castrum: Deluge - The Absent Scholar"
+      }
+    ]
+  },
+  {
+    "id": 90052,
+    "title": "Alast Degmar's Key",
+    "description": "This key unlocks the door to the hidden chambers within Degmar, the Lost Castle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3075,
+        "label": "Alast Degmar's Key"
+      }
+    ]
+  },
+  {
+    "id": 90054,
+    "title": "Arx Mentis Apitarx Key",
+    "description": "This key unlocks the portal to the apitarx of Arx Mentis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3077,
+        "label": "Arx Mentis Apitarx Key"
+      }
+    ]
+  },
+  {
+    "id": 90053,
+    "title": "Arx Mentis Citadel Key",
+    "description": "This key unlocks the portal to the citadel of Arx Mentis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3076,
+        "label": "Arx Mentis Citadel Key"
+      }
+    ]
+  },
+  {
+    "id": 22778992,
+    "title": "Challenge the Apitarx (Raid)",
+    "description": "Completing the following raids will grant you access to the Arx Mentis apitarx:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000300,
+        "label": "Reconstruct the apitarx key from fragments or the key of Calix Quirinus"
+      }
+    ]
+  },
+  {
+    "id": 2200120,
+    "title": "Hero of The Darkened Sea (Group)",
+    "description": "Completing the following missions will grant you access to Thuliasaur Island:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000596,
+        "label": "Thubr Axebringer in Degmar, the Lost Castle - The Sacred Profaned"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 22000619,
+        "label": "Reach apprehensive faction with Degmar's Commoners."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000519,
+        "label": "Priestess Gli'helin in Degmar, the Lost Castle - Castle Relic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000597,
+        "label": "Thubr Axebringer in Degmar, the Lost Castle - Crying for the Dead"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000598,
+        "label": "Thubr Axebringer in Degmar, the Lost Castle - Burden of the Past"
+      }
+    ]
+  },
+  {
+    "id": 2200140,
+    "title": "Legend of The Darkened Sea (Group)",
+    "description": "Completing the following missions will grant you access to Arx Mentis:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000602,
+        "label": "Firiona Vie in Combine Dredge - A Fickle Wind Blows"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000603,
+        "label": "Firiona Vie in Combine Dredge - What Hate Begets"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000604,
+        "label": "Firiona Vie in Combine Dredge - Deep Lies the Snow"
+      }
+    ]
+  },
+  {
+    "id": 2200150,
+    "title": "Preparing Your Army (Group)",
+    "description": "Completing the following missions will allow you to request a raid on Arx Mentis:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000605,
+        "label": "Firiona Vie in Arx Mentis - Free Us From Ourselves"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000606,
+        "label": "Firiona Vie in Arx Mentis - A Beginning From an End"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000607,
+        "label": "Firiona Vie in Arx Mentis - All Rivers Lead to the Sea"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000608,
+        "label": "Firiona Vie in Arx Mentis - The Cost of Balance"
+      }
+    ]
+  },
+  {
+    "id": 22778990,
+    "title": "Storm the Citadel (Raid)",
+    "description": "Completing the following raids will grant you access to the Arx Mentis citadel:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000298,
+        "label": "Reconstruct the citadel key from fragments or the key of Calix Quirinus"
+      }
+    ]
+  },
+  {
+    "id": 2200130,
+    "title": "Vindicator of The Darkened Sea (Group)",
+    "description": "Completing the following missions will grant you access to Combine Dredge:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000599,
+        "label": "Lyirae Oakwynd in Thuliasaur Island - An Endless Cycle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000600,
+        "label": "Galeth Veredeth in Thuliasaur Island - To Remake Eden"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000601,
+        "label": "Galeth Veredeth in Thuliasaur Island - Fit for the New World"
+      }
+    ]
+  },
+  {
+    "id": 2200110,
+    "title": "Voyager of The Darkened Sea (Group)",
+    "description": "Completing the following missions will grant you access to Degmar, the Lost Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2203,
+    "subcategoryName": "Progression",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000591,
+        "label": "Jameswell Dagmire in Brother Island - Just Recompense"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000592,
+        "label": "Quigley Barnables in Brother Island - The Cover of Night"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000593,
+        "label": "Brother Dilgen in Caverns of Endless Song - Loyal is the Heart"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000594,
+        "label": "Brother Dilgen in Caverns of Endless Song - Leave No Brother Behind"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000595,
+        "label": "Brother Visius in Caverns of Endless Song - Two Sides of the Shield"
+      }
+    ]
+  },
+  {
+    "id": 2277810,
+    "title": "Mercenary of Arx Mentis",
+    "description": "This achievement is gained upon completing the following quests in Arx Mentis",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000577,
+        "label": "a noctis viratum - Key to the Citadel"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000578,
+        "label": "a noctis viratum - What Lies Above"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000579,
+        "label": "a noctis viratum - Delving Deeper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000580,
+        "label": "Serphus Arlis - Research and Development"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000581,
+        "label": "Serphus Arlis - The Hands of Rebirth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000582,
+        "label": "Serphus Arlis - Where It Hurts"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000583,
+        "label": "Oreda Safli - An Immaterial World"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000584,
+        "label": "Oreda Safli - Civilized Society"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000585,
+        "label": "Oreda Safli - The Hands of Destruction"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000609,
+        "label": "a noctis viratum - Shake the Citadel"
+      }
+    ]
+  },
+  {
+    "id": 2277910,
+    "title": "Mercenary of Brother Island",
+    "description": "This achievement is gained upon completing the following quests in Brother Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000542,
+        "label": "Commissioner Paltros - Turtle Soup"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000543,
+        "label": "Commissioner Paltros - Birds of a Feather"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000544,
+        "label": "Commissioner Paltros - Crustaceous Cuisine"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000545,
+        "label": "Commissioner Paltros - Fatal Foliage"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000546,
+        "label": "Commissioner Paltros - Monkey Business"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000547,
+        "label": "Commissioner Paltros - Martial Exorcism"
+      }
+    ]
+  },
+  {
+    "id": 2278210,
+    "title": "Mercenary of Caverns of Endless Song",
+    "description": "This achievement is gained upon completing the following quests in Caverns of Endless Song",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000509,
+        "label": "Orson Ragweed - A Friend in Need"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000510,
+        "label": "Orson Ragweed - Oh, Julia"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000511,
+        "label": "Ellen Kwiklen - Natural Instincts"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000512,
+        "label": "Ellen Kwiklen - Fishy Fingers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000513,
+        "label": "Ellen Kwiklen - Endless Silence"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000576,
+        "label": "Mough Kyslaz - Seductive Subterfuge"
+      }
+    ]
+  },
+  {
+    "id": 2278110,
+    "title": "Mercenary of Combine Dredge",
+    "description": "This achievement is gained upon completing the following quests in Combine Dredge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000528,
+        "label": "Praetor Lutgardis - Doomscale Captives"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000529,
+        "label": "Captain Mewes - The Pirate and the Pea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000530,
+        "label": "Captain Mewes - Undermining the Mining"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000531,
+        "label": "Captain Mewes - Research Wrecks"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000533,
+        "label": "a Kedge Spectator - Cracking the Shell"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000534,
+        "label": "a Kedge Spectator - Plucking the Eyes"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000535,
+        "label": "a Kedge Spectator - Snuffing the Life"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000536,
+        "label": "a Kedge Spectator - Armored Extremists"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000537,
+        "label": "a Kedge Spectator - Quelling the Rage"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000538,
+        "label": "a Kedge Spectator - Ending Their Work"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000539,
+        "label": "a Kedge Spectator - Finishing the Cult"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 22000540,
+        "label": "a scurvy mariner - Scurvy Vengeance"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 22000541,
+        "label": "a scurvy mariner - Creepy Crab Masters"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 22000532,
+        "label": "Aqusos Ulto - Kedge Counterblow"
+      }
+    ]
+  },
+  {
+    "id": 2278410,
+    "title": "Mercenary of Degmar, the Lost Castle",
+    "description": "This achievement is gained upon completing the following quests in Degmar, the Lost Castle",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000515,
+        "label": "Researcher Neckchi - Castle Travel"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000516,
+        "label": "Damton Silverhammer - Castle Raid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000517,
+        "label": "Damton Silverhammer - Castle Crasher"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000518,
+        "label": "Priestess Gli'helin - Castle Growth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000520,
+        "label": "Ranpodia Stonewalker - Paranoia: Guards"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000521,
+        "label": "Ranpodia Stonewalker - Paranoia: Commoners"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000522,
+        "label": "Ranpodia Stonewalker - Paranoia: Librarians"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000523,
+        "label": "Ranpodia Stonewalker - Paranoia: Ghosts"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000666,
+        "label": "Ranpodia Stonewalker - Paranoia: Revelers"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000667,
+        "label": "Ranpodia Stonewalker - Paranoia: Brewery"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000668,
+        "label": "Ranpodia Stonewalker - Paranoia: Artisans"
+      }
+    ]
+  },
+  {
+    "id": 2278010,
+    "title": "Mercenary of Katta Castrum: Deluge",
+    "description": "This achievement is gained upon completing the following quests in Katta Castrum: Deluge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000506,
+        "label": "Tactician Sodut - Elemental Rage"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000514,
+        "label": "Tactician Sodut - Bury the Head"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000507,
+        "label": "Head Mage Antius - The Pellarus Satum"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000508,
+        "label": "Alchemist Hesia - Library Aquatic"
+      }
+    ]
+  },
+  {
+    "id": 2278510,
+    "title": "Mercenary of Tempest Temple",
+    "description": "This achievement is gained upon completing the following quests in Tempest Temple",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000524,
+        "label": "Gregor Olmstead - Of Pirates and Men"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000525,
+        "label": "Jessup Stormwind - Coral Crushers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000526,
+        "label": "Jessup Stormwind - So Many Serpents"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000527,
+        "label": "Jessup Stormwind - Bigger Fish"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000610,
+        "label": "Petran Searake - Storm of Sorts"
+      }
+    ]
+  },
+  {
+    "id": 2278310,
+    "title": "Mercenary of Thuliasaur Island",
+    "description": "This achievement is gained upon completing the following quests in Thuliasaur Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000549,
+        "label": "Historian Fjilnauk - Honoring the Elders"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000550,
+        "label": "Historian Fjilnauk - Recovering Our History"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000551,
+        "label": "Historian Fjilnauk - Memories of the Kromtus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000552,
+        "label": "Fisherman Trokk - The Fisherman's Secret"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000553,
+        "label": "Scout Krenk - Dirty Work"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000554,
+        "label": "Scout Szarsis - Defending the Tribe: Triceratopses"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000555,
+        "label": "Scout Szarsis - Defending the Tribe: Ankylosauruses"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000556,
+        "label": "Scout Szarsis - Defending the Tribe: Raptors"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000557,
+        "label": "Scout Szarsis - Defending the Tribe: Tyrannosauruses"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000558,
+        "label": "Supplier Thissus - A Meal of Meats"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000559,
+        "label": "Supplier Thissus - A Meal of Greens"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 22000560,
+        "label": "Supplier Thissus - Fortifying the Water Supply"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 22000561,
+        "label": "Supplier Thissus - Resupplying the Sundries"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 22000562,
+        "label": "Advisor Thasil - The Night is Dark"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 22000563,
+        "label": "Ritualist Krasir - Tending to the Temple"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 22000564,
+        "label": "Etsyl - A Shining Gift"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 22000565,
+        "label": "Wing - Bloodfeather Weapon Supplies"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 22000566,
+        "label": "Wing - Stocking the Stores"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 22000567,
+        "label": "Talon - The Ebonwing Threat"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 22000568,
+        "label": "Talon - Softening the Shells"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 22000569,
+        "label": "Talon - In Shadow of Moonlight"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 22000570,
+        "label": "Silwat Viltor - Aiding the Ailing"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 22000571,
+        "label": "Silwat Viltor - Our Simple Purpose"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 22000572,
+        "label": "Silwat Viltor - To Whom It May Concern"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 22000573,
+        "label": "Maetanrus - The Lost Observations"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 22000574,
+        "label": "Ilsaria - Our Worldly Anchors"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 22000575,
+        "label": "Ilsaria - A Drowning Suspicion"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 22000548,
+        "label": "Praetoria Okkirus - A Fateful Arrival"
+      }
+    ]
+  },
+  {
+    "id": 2277820,
+    "title": "Partisan of Arx Mentis",
+    "description": "This achievement is gained upon completing the following quests in Arx Mentis",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000605,
+        "label": "Firiona Vie - Free Us From Ourselves"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000606,
+        "label": "Firiona Vie - A Beginning From an End"
+      }
+    ]
+  },
+  {
+    "id": 2277920,
+    "title": "Partisan of Brother Island",
+    "description": "This achievement is gained upon completing the following quests in Brother Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000591,
+        "label": "Jameswell Dagmire - Just Recompense"
+      }
+    ]
+  },
+  {
+    "id": 2278220,
+    "title": "Partisan of Caverns of Endless Song",
+    "description": "This achievement is gained upon completing the following quests in Caverns of Endless Song",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000593,
+        "label": "Brother Dilgen - Loyal is the Heart"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000594,
+        "label": "Brother Dilgen - Leave No Brother Behind"
+      }
+    ]
+  },
+  {
+    "id": 2278120,
+    "title": "Partisan of Combine Dredge",
+    "description": "This achievement is gained upon completing the following quests in Combine Dredge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000602,
+        "label": "Firiona Vie - A Fickle Wind Blows"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000603,
+        "label": "Firiona Vie - What Hate Begets"
+      }
+    ]
+  },
+  {
+    "id": 2278420,
+    "title": "Partisan of Degmar, the Lost Castle",
+    "description": "This achievement is gained upon completing the following quests in Degmar, the Lost Castle",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000596,
+        "label": "Thubr Axebringer - The Sacred Profaned"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000519,
+        "label": "Priestess Gli'helin - Castle Relic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000597,
+        "label": "Thubr Axebringer - Crying for the Dead"
+      }
+    ]
+  },
+  {
+    "id": 2278020,
+    "title": "Partisan of Katta Castrum: Deluge",
+    "description": "This achievement is gained upon completing the following quests in Katta Castrum: Deluge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000590,
+        "label": "Firiona Vie - The Absent Scholar"
+      }
+    ]
+  },
+  {
+    "id": 2278520,
+    "title": "Partisan of Tempest Temple",
+    "description": "This achievement is gained upon completing the following quests in Tempest Temple",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000586,
+        "label": "Mate Rominald - A Rising Storm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000587,
+        "label": "Krinoch Jal - Gathering Clouds"
+      }
+    ]
+  },
+  {
+    "id": 2278320,
+    "title": "Partisan of Thuliasaur Island",
+    "description": "This achievement is gained upon completing the following quests in Thuliasaur Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2204,
+    "subcategoryName": "Quests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000599,
+        "label": "Lyirae Oakwynd - An Endless Cycle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000600,
+        "label": "Galeth Veredeth - To Remake Eden"
+      }
+    ]
+  },
+  {
+    "id": 2200160,
+    "title": "Accomplished Hero of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000343,
+        "label": "Hero of Brother Island"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000367,
+        "label": "Hero of Caverns of Endless Song"
+      }
+    ]
+  },
+  {
+    "id": 2200165,
+    "title": "Greater Hero of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000383,
+        "label": "Hero of Degmar, the Lost Castle"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000375,
+        "label": "Hero of Thuliasaur Island"
+      }
+    ]
+  },
+  {
+    "id": 2277830,
+    "title": "Hero of Arx Mentis",
+    "description": "This achievement is gained upon completing the following missions in Arx Mentis",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000607,
+        "label": "Firiona Vie - All Rivers Lead to the Sea"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000608,
+        "label": "Firiona Vie - The Cost of Balance"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 22000675,
+        "label": "Firiona Vie in Katta Castrum: Deluge - Confronting Calix"
+      }
+    ]
+  },
+  {
+    "id": 2277930,
+    "title": "Hero of Brother Island",
+    "description": "This achievement is gained upon completing the following mission in Brother Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000592,
+        "label": "Quigley Barnables - The Cover of Night"
+      }
+    ]
+  },
+  {
+    "id": 2278230,
+    "title": "Hero of Caverns of Endless Song",
+    "description": "This achievement is gained upon completing the following mission in Caverns of Endless Song",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000595,
+        "label": "Brother Visius - Two Sides of the Shield"
+      }
+    ]
+  },
+  {
+    "id": 2278130,
+    "title": "Hero of Combine Dredge",
+    "description": "This achievement is gained upon completing the following mission in Combine Dredge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000604,
+        "label": "Firiona Vie - Deep Lies the Snow"
+      }
+    ]
+  },
+  {
+    "id": 2278430,
+    "title": "Hero of Degmar, the Lost Castle",
+    "description": "This achievement is gained upon completing the following mission in Degmar, the Lost Castle",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000598,
+        "label": "Thubr Axebringer - Burden of the Past"
+      }
+    ]
+  },
+  {
+    "id": 2278030,
+    "title": "Hero of Katta Castrum: Deluge",
+    "description": "This achievement is gained upon completing the following mission in Katta Castrum: Deluge",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000589,
+        "label": "Firiona Vie - The Edge of Balance"
+      }
+    ]
+  },
+  {
+    "id": 2278530,
+    "title": "Hero of Tempest Temple",
+    "description": "This achievement is gained upon completing the following mission in Tempest Temple",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000588,
+        "label": "Ognit Eznertob - Clearer Skies"
+      }
+    ]
+  },
+  {
+    "id": 2278330,
+    "title": "Hero of Thuliasaur Island",
+    "description": "This achievement is gained upon completing the following mission in Thuliasaur Island",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000601,
+        "label": "Galeth Veredeth - Fit for the New World"
+      }
+    ]
+  },
+  {
+    "id": 2200170,
+    "title": "Legendary Hero of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000359,
+        "label": "Hero of Combine Dredge"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000312,
+        "label": "Hero of Arx Mentis"
+      }
+    ]
+  },
+  {
+    "id": 2200155,
+    "title": "Lesser Hero of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2205,
+    "subcategoryName": "Missions",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000391,
+        "label": "Hero of Tempest Temple"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000351,
+        "label": "Hero of Katta Castrum: Deluge"
+      }
+    ]
+  },
+  {
+    "id": 2277856,
+    "title": "Auctus Possessed",
+    "description": "This special challenge can be completed during the raid event 'Principal Quastori Numicia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000408,
+        "label": "Complete the raid after Numicia has possessed the Arc Auctus Ingens."
+      }
+    ]
+  },
+  {
+    "id": 2277867,
+    "title": "Avoiding Una",
+    "description": "This special challenge can be completed during the raid event 'Calix Quirinus'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000416,
+        "label": "Do not allow any of your raiders to die from Una Quirinus' Retribution of the Indagatoris Opertum."
+      }
+    ]
+  },
+  {
+    "id": 2277855,
+    "title": "Balance of Power",
+    "description": "This special challenge can be completed during the raid event 'Principal Quastori Numicia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000407,
+        "label": "Do not allow the Arc Ingens to get more than 2 percent out of balance."
+      }
+    ]
+  },
+  {
+    "id": 2277851,
+    "title": "Best for Last",
+    "description": "This special challenge can be completed during the raid event 'Defense of the City'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000397,
+        "label": "Kill all of the Praetor August before defeating Tita Aragus."
+      }
+    ]
+  },
+  {
+    "id": 2277840,
+    "title": "Conqueror of Arx Mentis",
+    "description": "This achievement is gained upon completing the following raids in Arx Mentis:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000400,
+        "label": "Defense of the City"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000401,
+        "label": "Principal Quastori Numicia"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000402,
+        "label": "Principal Vicarum Nomia"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000403,
+        "label": "Principal Indagatrix Lucia"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000404,
+        "label": "Calix Quirinus"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 22000405,
+        "label": "Praetor Vitio"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 22000406,
+        "label": "Captain Tita's Ghost"
+      }
+    ]
+  },
+  {
+    "id": 2277861,
+    "title": "Death Stands",
+    "description": "This special challenge can be completed during the raid event 'Principal Vicarum Nomia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000412,
+        "label": "Do not destroy any of the totems."
+      }
+    ]
+  },
+  {
+    "id": 22778994,
+    "title": "Destroyer of Calix Quirinus",
+    "description": "Prove your dominance over Calix Quirinus:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000302,
+        "label": "Collect Calix Quirinus' Keys"
+      }
+    ]
+  },
+  {
+    "id": 22778993,
+    "title": "Destroyer of the Citadel",
+    "description": "Prove your dominance over the Arx Mentis citadel:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000301,
+        "label": "Collect Fragments of the Apitarx Key"
+      }
+    ]
+  },
+  {
+    "id": 22778991,
+    "title": "Destroyer of the Praetor",
+    "description": "Prove your dominance over the army of Arx Mentis:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000299,
+        "label": "Collect Fragments of the Citadel Key"
+      }
+    ]
+  },
+  {
+    "id": 2277869,
+    "title": "Evil Ended",
+    "description": "This special challenge can be completed during the raid event 'Calix Quirinus'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000418,
+        "label": "Defeat Calix Quirinus while Lanys T`Vyl is at 1 percent health."
+      }
+    ]
+  },
+  {
+    "id": 2277857,
+    "title": "Facultas Possessed",
+    "description": "This special challenge can be completed during the raid event 'Principal Quastori Numicia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000409,
+        "label": "Complete the raid after Numicia has possessed the Arc Facultas Ingens."
+      }
+    ]
+  },
+  {
+    "id": 2277859,
+    "title": "Galeth Vere'live'",
+    "description": "This special challenge can be completed during the raid event 'Principal Vicarum Nomia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000410,
+        "label": "Do not allow Galeth Veredeth to die."
+      }
+    ]
+  },
+  {
+    "id": 2277865,
+    "title": "Half as Deadly",
+    "description": "This special challenge can be completed during the raid event 'Principal Indagatrix Lucia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000415,
+        "label": "For each wave of enemies, kill twice as many of them as they do you. (Less than 6, 7, 2, 1 deaths.)"
+      }
+    ]
+  },
+  {
+    "id": 2277864,
+    "title": "Magia is for Murder",
+    "description": "This special challenge can be completed during the raid event 'Principal Indagatrix Lucia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000414,
+        "label": "Defeat the three Elite Magia in alphabetical order."
+      }
+    ]
+  },
+  {
+    "id": 2277860,
+    "title": "None Shall Rise",
+    "description": "This special challenge can be completed during the raid event 'Principal Vicarum Nomia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000411,
+        "label": "Do not allow any of your raiders to die while afflicted with Grasp of Undeath."
+      }
+    ]
+  },
+  {
+    "id": 2277863,
+    "title": "Ognit Ezner'to be'",
+    "description": "This special challenge can be completed during the raid event 'Principal Indagatrix Lucia'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000413,
+        "label": "Do not allow Ognit Eznertob to die."
+      }
+    ]
+  },
+  {
+    "id": 2277853,
+    "title": "Slapstick",
+    "description": "This special challenge can be completed during the raid event 'Defense of the City'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000399,
+        "label": "Allow seven different people to be hit by Tita Aragus' Burning Slap attack."
+      }
+    ]
+  },
+  {
+    "id": 2277868,
+    "title": "Sparkless",
+    "description": "This special challenge can be completed during the raid event 'Calix Quirinus'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000417,
+        "label": "No spark workers remain alive when Calix Quirinus is defeated."
+      }
+    ]
+  },
+  {
+    "id": 2277852,
+    "title": "The Center Holds",
+    "description": "This special challenge can be completed during the raid event 'Defense of the City'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000398,
+        "label": "Defeat half of Tita's Army without breaking their formation."
+      }
+    ]
+  },
+  {
+    "id": 2277866,
+    "title": "Vanquisher of Calix Quirinus",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000331,
+        "label": "Avoiding Una"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000332,
+        "label": "Sparkless"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000333,
+        "label": "Evil Ended"
+      }
+    ]
+  },
+  {
+    "id": 2277850,
+    "title": "Vanquisher of Defense of the City",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000315,
+        "label": "Best for Last"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000316,
+        "label": "The Center Holds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000317,
+        "label": "Slapstick"
+      }
+    ]
+  },
+  {
+    "id": 2277862,
+    "title": "Vanquisher of Principal Indagatrix Lucia",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000327,
+        "label": "Ognit Ezner'to be'"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000328,
+        "label": "Magia is for Murder"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000329,
+        "label": "Half as Deadly"
+      }
+    ]
+  },
+  {
+    "id": 2277854,
+    "title": "Vanquisher of Principal Quastori Numicia",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000319,
+        "label": "Balance of Power"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000320,
+        "label": "Auctus Possessed"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000321,
+        "label": "Facultas Possessed"
+      }
+    ]
+  },
+  {
+    "id": 2277858,
+    "title": "Vanquisher of Principal Vicarum Nomia",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2206,
+    "subcategoryName": "Raids",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000323,
+        "label": "Galeth Vere'live'"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000324,
+        "label": "None Shall Rise"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000325,
+        "label": "Death Stands"
+      }
+    ]
+  },
+  {
+    "id": 2277871,
+    "title": "All Rivers Lead to the Sea: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'All Rivers Lead to the Sea'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000433,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2277872,
+    "title": "All Rivers Lead to the Sea: Time Trial",
+    "description": "This special challenge can be completed during the mission 'All Rivers Lead to the Sea'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000434,
+        "label": "Complete the mission in under 25 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278471,
+    "title": "Burden of the Past: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'Burden of the Past'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000427,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278472,
+    "title": "Burden of the Past: Time Trial",
+    "description": "This special challenge can be completed during the mission 'Burden of the Past'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000428,
+        "label": "Complete the mission in under 25 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278571,
+    "title": "Clearer Skies: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'Clearer Skies'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000419,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278572,
+    "title": "Clearer Skies: Time Trial",
+    "description": "This special challenge can be completed during the mission 'Clearer Skies'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000420,
+        "label": "Complete the mission in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278171,
+    "title": "Deep Lies the Snow: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'Deep Lies the Snow'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000431,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278172,
+    "title": "Deep Lies the Snow: Time Trial",
+    "description": "This special challenge can be completed during the mission 'Deep Lies the Snow'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000432,
+        "label": "Complete the mission in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2277877,
+    "title": "End of Evil",
+    "description": "This special challenge can be completed during the mission 'Confronting Calix'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000671,
+        "label": "Defeat Calix Quirinus while Lanys T`Vyl is at 1 percent health."
+      }
+    ]
+  },
+  {
+    "id": 2278371,
+    "title": "Fit for the New World: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'Fit for the New World'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000429,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278372,
+    "title": "Fit for the New World: Time Trial",
+    "description": "This special challenge can be completed during the mission 'Fit for the New World'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000430,
+        "label": "Complete the mission in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278373,
+    "title": "Jonas Dagmire's Skeletal Parrot",
+    "description": "The remains of an ornery creature lay scattered across the lost island.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000624,
+        "label": "Reconstruct Jonas Dagmire's Skeletal Parrot in a Ghostly Bonesetter's Taxidermy Kit"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 22000625,
+        "label": "Obtain a Ghostly Bonesetter's Taxidermy Kit from an undead peddler"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 22000626,
+        "label": "Obtain the Skeletal Parrot's Synsacrum"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 22000627,
+        "label": "Obtain the Skeletal Parrot's Scapulae"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 22000628,
+        "label": "Obtain the Skeletal Parrot's Innominate Bones"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000629,
+        "label": "Reconstruct the Skeletal Parrot's Head in a Kromtus' Tiny Cranial Taxidermy Kit"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 22000630,
+        "label": "Prove yourself to be a friend of The Kromtus"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 22000631,
+        "label": "Obtain the Tiny Parrot's Skull"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 22000632,
+        "label": "Obtain the Tiny Parrot's Cervical Vertebrae"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 22000633,
+        "label": "Obtain the Tiny Parrot's Furcula"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 22000634,
+        "label": "Reconstruct the Skeletal Parrot's Torso in a Bloodfeather's Tiny Torso Taxidermy Kit"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 22000635,
+        "label": "Prove yourself to be a friend of the Bloodfeather Aviaks"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 22000636,
+        "label": "Obtain the Tiny Parrot's Coracoid"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 22000637,
+        "label": "Obtain the Tiny Parrot's Ribcage"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 22000638,
+        "label": "Obtain the Tiny Parrot's Keel"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 22000639,
+        "label": "Obtain the Tiny Parrot's Lumbar Vertebrae"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 22000640,
+        "label": "Reconstruct the Skeletal Parrot's Left Leg in a Thaell Ew's Tiny Limb Taxidermy Kit"
+      },
+      {
+        "order": 17,
+        "type": 2,
+        "value": 22000641,
+        "label": "Prove yourself to be a friend of The Thaell Ew"
+      },
+      {
+        "order": 18,
+        "type": 2,
+        "value": 22000642,
+        "label": "Obtain the Tiny Parrot's Left Patella"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 22000643,
+        "label": "Obtain the Tiny Parrot's Left Tarsometatarsus"
+      },
+      {
+        "order": 20,
+        "type": 2,
+        "value": 22000644,
+        "label": "Obtain the Tiny Parrot's Left Digits"
+      },
+      {
+        "order": 21,
+        "type": 2,
+        "value": 22000645,
+        "label": "Obtain the Tiny Parrot's Left Tibiotarsus"
+      },
+      {
+        "order": 22,
+        "type": 2,
+        "value": 22000646,
+        "label": "Obtain the Tiny Parrot's Left Femur"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 22000647,
+        "label": "Reconstruct the Skeletal Parrot's Right Leg in a Thaell Ew's Tiny Limb Taxidermy Kit"
+      },
+      {
+        "order": 24,
+        "type": 2,
+        "value": 22000648,
+        "label": "Prove yourself to be a friend of The Thaell Ew"
+      },
+      {
+        "order": 25,
+        "type": 2,
+        "value": 22000649,
+        "label": "Obtain the Tiny Parrot's Right Patella"
+      },
+      {
+        "order": 26,
+        "type": 2,
+        "value": 22000650,
+        "label": "Obtain the Tiny Parrot's Right Tarsometatarsus"
+      },
+      {
+        "order": 27,
+        "type": 2,
+        "value": 22000651,
+        "label": "Obtain the Tiny Parrot's Right Digits"
+      },
+      {
+        "order": 28,
+        "type": 2,
+        "value": 22000652,
+        "label": "Obtain the Tiny Parrot's Right Tibiotarsus"
+      },
+      {
+        "order": 29,
+        "type": 2,
+        "value": 22000653,
+        "label": "Obtain the Tiny Parrot's Right Femur"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 22000654,
+        "label": "Reconstruct the Skeletal Parrot's Left Wing in a Thaell Ew's Tiny Limb Taxidermy Kit"
+      },
+      {
+        "order": 31,
+        "type": 2,
+        "value": 22000655,
+        "label": "Prove yourself to be a friend of The Thaell Ew"
+      },
+      {
+        "order": 32,
+        "type": 2,
+        "value": 22000656,
+        "label": "Obtain the Tiny Parrot's Left Humerus"
+      },
+      {
+        "order": 33,
+        "type": 2,
+        "value": 22000657,
+        "label": "Obtain the Tiny Parrot's Left Ulna"
+      },
+      {
+        "order": 34,
+        "type": 2,
+        "value": 22000658,
+        "label": "Obtain the Tiny Parrot's Left Radius"
+      },
+      {
+        "order": 35,
+        "type": 2,
+        "value": 22000659,
+        "label": "Obtain the Tiny Parrot's Left Carpometacarpus"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 22000660,
+        "label": "Reconstruct the Skeletal Parrot's Right Wing in a Thaell Ew's Tiny Limb Taxidermy Kit"
+      },
+      {
+        "order": 37,
+        "type": 2,
+        "value": 22000661,
+        "label": "Prove yourself to be a friend of The Thaell Ew"
+      },
+      {
+        "order": 38,
+        "type": 2,
+        "value": 22000662,
+        "label": "Obtain the Tiny Parrot's Right Humerus"
+      },
+      {
+        "order": 39,
+        "type": 2,
+        "value": 22000663,
+        "label": "Obtain the Tiny Parrot's Right Ulna"
+      },
+      {
+        "order": 40,
+        "type": 2,
+        "value": 22000664,
+        "label": "Obtain the Tiny Parrot's Right Radius"
+      },
+      {
+        "order": 41,
+        "type": 2,
+        "value": 22000665,
+        "label": "Obtain the Tiny Parrot's Right Carpometacarpus"
+      }
+    ]
+  },
+  {
+    "id": 2277870,
+    "title": "Savior of Arx Mentis",
+    "description": "This achievement is gained upon completing all quests and missions in Arx Mentis.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000310,
+        "label": "Mercenary of Arx Mentis"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000311,
+        "label": "Partisan of Arx Mentis"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000312,
+        "label": "Hero of Arx Mentis"
+      }
+    ]
+  },
+  {
+    "id": 2277970,
+    "title": "Savior of Brother Island",
+    "description": "This achievement is gained upon completing all quests and missions in Brother Island.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000341,
+        "label": "Mercenary of Brother Island"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000342,
+        "label": "Partisan of Brother Island"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000343,
+        "label": "Hero of Brother Island"
+      }
+    ]
+  },
+  {
+    "id": 2278270,
+    "title": "Savior of Caverns of Endless Song",
+    "description": "This achievement is gained upon completing all quests and missions in Caverns of Endless Song.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000365,
+        "label": "Mercenary of Caverns of Endless Song"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000366,
+        "label": "Partisan of Caverns of Endless Song"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000367,
+        "label": "Hero of Caverns of Endless Song"
+      }
+    ]
+  },
+  {
+    "id": 2278170,
+    "title": "Savior of Combine Dredge",
+    "description": "This achievement is gained upon completing all quests and missions in Combine Dredge.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000357,
+        "label": "Mercenary of Combine Dredge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000358,
+        "label": "Partisan of Combine Dredge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000359,
+        "label": "Hero of Combine Dredge"
+      }
+    ]
+  },
+  {
+    "id": 2278470,
+    "title": "Savior of Degmar, the Lost Castle",
+    "description": "This achievement is gained upon completing all quests and missions in Degmar, the Lost Castle.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000381,
+        "label": "Mercenary of Degmar, the Lost Castle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000382,
+        "label": "Partisan of Degmar, the Lost Castle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000383,
+        "label": "Hero of Degmar, the Lost Castle"
+      }
+    ]
+  },
+  {
+    "id": 2278070,
+    "title": "Savior of Katta Castrum: Deluge",
+    "description": "This achievement is gained upon completing all quests and missions in Katta Castrum: Deluge.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000349,
+        "label": "Mercenary of Katta Castrum: Deluge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000350,
+        "label": "Partisan of Katta Castrum: Deluge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000351,
+        "label": "Hero of Katta Castrum: Deluge"
+      }
+    ]
+  },
+  {
+    "id": 2278570,
+    "title": "Savior of Tempest Temple",
+    "description": "This achievement is gained upon completing all quests and missions in Tempest Temple.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000389,
+        "label": "Mercenary of Tempest Temple"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000390,
+        "label": "Partisan of Tempest Temple"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000391,
+        "label": "Hero of Tempest Temple"
+      }
+    ]
+  },
+  {
+    "id": 2278370,
+    "title": "Savior of Thuliasaur Island",
+    "description": "This achievement is gained upon completing all quests and missions in Thuliasaur Island.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000373,
+        "label": "Mercenary of Thuliasaur Island"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000374,
+        "label": "Partisan of Thuliasaur Island"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000375,
+        "label": "Hero of Thuliasaur Island"
+      }
+    ]
+  },
+  {
+    "id": 2277876,
+    "title": "Storm Free",
+    "description": "This special challenge can be completed during the mission 'Confronting Calix'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000670,
+        "label": "Do not allow anyone in your party to be hit by Gordianus' Lesser Manastorms."
+      }
+    ]
+  },
+  {
+    "id": 2277873,
+    "title": "The Cost of Balance: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'The Cost of Balance'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000435,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2277874,
+    "title": "The Cost of Balance: Time Trial",
+    "description": "This special challenge can be completed during the mission 'The Cost of Balance'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000436,
+        "label": "Complete the mission in under 20 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2277971,
+    "title": "The Cover of Night: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'The Cover of Night'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000423,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2277972,
+    "title": "The Cover of Night: Time Trial",
+    "description": "This special challenge can be completed during the mission 'The Cover of Night'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000424,
+        "label": "Complete the mission in under 20 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278071,
+    "title": "The Edge of Balance: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'The Edge of Balance'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000421,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278072,
+    "title": "The Edge of Balance: Time Trial",
+    "description": "This special challenge can be completed during the mission 'The Edge of Balance'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000422,
+        "label": "Complete the mission in under 25 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2278271,
+    "title": "Two Sides of the Shield: Challenge of Toughness",
+    "description": "This special challenge can be completed during the mission 'Two Sides of the Shield'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000425,
+        "label": "Complete the mission without anyone in your group dying."
+      }
+    ]
+  },
+  {
+    "id": 2278272,
+    "title": "Two Sides of the Shield: Time Trial",
+    "description": "This special challenge can be completed during the mission 'Two Sides of the Shield'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000426,
+        "label": "Complete the mission in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 2277875,
+    "title": "Una More Failure",
+    "description": "This special challenge can be completed during the mission 'Confronting Calix'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2207,
+    "subcategoryName": "Conquests",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000669,
+        "label": "Do not allow anyone in your party to die from Una Quirinus' Retribution of the Indagatoris Opertum."
+      }
+    ]
+  },
+  {
+    "id": 2200090,
+    "title": "Adept Hunter of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000347,
+        "label": "Hunter of Brother Island"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000371,
+        "label": "Hunter of Caverns of Endless Song"
+      }
+    ]
+  },
+  {
+    "id": 2277880,
+    "title": "Hunter of Arx Mentis",
+    "description": "This achievement is gained upon defeating the following rare monsters in Arx Mentis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000496,
+        "label": "Bonemaw"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000497,
+        "label": "Caldarius"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000498,
+        "label": "The Codex Libre"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000499,
+        "label": "Mayor Praetor Livio"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000500,
+        "label": "Mother Virgia"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000501,
+        "label": "Praetor Loricas the Hollow (Shake the Citadel)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000502,
+        "label": "Principal Indagator Gordianus"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000503,
+        "label": "Principal Indagatrix Lucia"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000504,
+        "label": "Principal Quastori Numicia"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000505,
+        "label": "Principal Vicarum Nonia"
+      }
+    ]
+  },
+  {
+    "id": 2277980,
+    "title": "Hunter of Brother Island",
+    "description": "This achievement is gained upon defeating the following rare monsters in Brother Island.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000456,
+        "label": "Angry Alfred"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000457,
+        "label": "Lidia the Castaway"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000458,
+        "label": "Mulchmother"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000459,
+        "label": "Redstreak"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000460,
+        "label": "South Point Latcher"
+      }
+    ]
+  },
+  {
+    "id": 2278280,
+    "title": "Hunter of Caverns of Endless Song",
+    "description": "This achievement is gained upon defeating the following rare monsters in Caverns of Endless Song.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000461,
+        "label": "Crista Faelorin"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000462,
+        "label": "Elera Shelwin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000463,
+        "label": "Elizabeth Ruffleberg (Seductive Subterfuge)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000464,
+        "label": "Fire Eyes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000465,
+        "label": "Kaevon Maelora"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000466,
+        "label": "Katelyn Grubson"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000467,
+        "label": "Neplin the Oceanlord"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000468,
+        "label": "Old Spirespine"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000469,
+        "label": "Whitebelly"
+      }
+    ]
+  },
+  {
+    "id": 2278180,
+    "title": "Hunter of Combine Dredge",
+    "description": "This achievement is gained upon defeating the following rare monsters in Combine Dredge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000486,
+        "label": "Frachessa the Feared"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000487,
+        "label": "Fractureshell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000488,
+        "label": "High Guard Vnayyanye (Kedge Counterblow)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000489,
+        "label": "Indagator Mortem Livianus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000490,
+        "label": "Necromaticus Abominatio"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000491,
+        "label": "Praetor Ledalus Thaddaeus"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000492,
+        "label": "Pria the Penitent"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000493,
+        "label": "Saevus Lapis Operarius"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000494,
+        "label": "Vicarum Spiritus Psyche"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000495,
+        "label": "Warleader Jocelyn"
+      }
+    ]
+  },
+  {
+    "id": 2278480,
+    "title": "Hunter of Degmar, the Lost Castle",
+    "description": "This achievement is gained upon defeating the following rare monsters in Degmar, the Lost Castle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000470,
+        "label": "Commander Alast Degmar"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000471,
+        "label": "Enraged Spectral Reveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000472,
+        "label": "Frantic Smith"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000473,
+        "label": "Ghostly Guard (Castle Relic)"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000474,
+        "label": "Horthin Blackbook"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000475,
+        "label": "Psychotic Prisoner"
+      }
+    ]
+  },
+  {
+    "id": 2278080,
+    "title": "Hunter of Katta Castrum: Deluge",
+    "description": "This achievement is gained upon defeating the following rare monsters in Katta Castrum: Deluge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000446,
+        "label": "Chief Librarian Lars"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000447,
+        "label": "Darkmud Keeper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000448,
+        "label": "Essence of the Deep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000451,
+        "label": "Thallus the Whip"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000454,
+        "label": "Vizat the Defiled"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000455,
+        "label": "Yulin the Flameweaver"
+      }
+    ]
+  },
+  {
+    "id": 2278580,
+    "title": "Hunter of Tempest Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters in Tempest Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000437,
+        "label": "Aquinus"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000438,
+        "label": "Captain Johan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000439,
+        "label": "Nulian the Stormwarden"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000440,
+        "label": "Reefmaw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000441,
+        "label": "Scalithid the Deepwalker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000442,
+        "label": "Serisaria (Storm of Sorts)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000443,
+        "label": "Serpentil"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000444,
+        "label": "Stormrock"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000445,
+        "label": "Strangacul"
+      }
+    ]
+  },
+  {
+    "id": 2278380,
+    "title": "Hunter of Thuliasaur Island",
+    "description": "This achievement is gained upon defeating the following rare monsters in Thuliasaur Island.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000476,
+        "label": "Blacksmith Thassis"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000477,
+        "label": "Cuisinier Sraskus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000478,
+        "label": "Deicoraxius (A Fateful Arrival)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000479,
+        "label": "Hemocoraxius"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000480,
+        "label": "Plexipharia"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000481,
+        "label": "Reginasaur"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000482,
+        "label": "Rexsaurkarus (A Fateful Arrival)"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000483,
+        "label": "Serthuliakar (A Fateful Arrival)"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000484,
+        "label": "Tricerasaur"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 22000485,
+        "label": "Visoracius"
+      }
+    ]
+  },
+  {
+    "id": 2200085,
+    "title": "Novice Hunter of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000394,
+        "label": "Hunter of Tempest Temple"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000355,
+        "label": "Hunter of Katta Castrum: Deluge"
+      }
+    ]
+  },
+  {
+    "id": 2200095,
+    "title": "Veteran Hunter of The Darkened Sea",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2208,
+    "subcategoryName": "Hunts",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000387,
+        "label": "Hunter of Degmar, the Lost Castle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000379,
+        "label": "Hunter of Thuliasaur Island"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000363,
+        "label": "Hunter of Combine Dredge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000339,
+        "label": "Hunter of Arx Mentis"
+      }
+    ]
+  },
+  {
+    "id": 22077840,
+    "title": "Actualized Accounts (Arx Mentis)",
+    "description": "It is no surprise that the citadel is so meticulous in its archival of every file and report its personnel write.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000290,
+        "label": "Stasis Researcher's Report"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000291,
+        "label": "Magicae Researcher's Report"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000292,
+        "label": "Loricas' Journal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000293,
+        "label": "Livio's Proclamation"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000294,
+        "label": "Numicia's Report"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000295,
+        "label": "Nonia's Log"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000296,
+        "label": "Lucia's Notes"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000297,
+        "label": "Council's Declaration"
+      }
+    ]
+  },
+  {
+    "id": 22077810,
+    "title": "Apprentice's Accoutrements (Arx Mentis)",
+    "description": "The tools and subjects of technicians and researchers from the laboratories of the citadel.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000266,
+        "label": "Flask of Concentrated Mana"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000267,
+        "label": "Distilled Animator's Sedative"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000268,
+        "label": "Vial of Tumultuous Essence"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000269,
+        "label": "Arcane Conduit"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000270,
+        "label": "Arc Worker's Gauntlet"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000271,
+        "label": "Animator's Malleable Constraints"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000272,
+        "label": "Illusory Sanctuary Flora"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000273,
+        "label": "Arc Worker's Head"
+      }
+    ]
+  },
+  {
+    "id": 22078140,
+    "title": "Armatalium Odalia (Combine Dredge)",
+    "description": "Weapons crafted from ancient Combine materials now used by Lanys' followers.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000182,
+        "label": "Arcalitite Pentrosio"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000183,
+        "label": "Arx-Arcalius Bedralitum"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000184,
+        "label": "Arcalius Photerium"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000185,
+        "label": "Hetsuveritus Arcalitite"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000186,
+        "label": "Arciloritum Ocunalia"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000187,
+        "label": "Wretelium Helocrasius"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000188,
+        "label": "Marranium Pheternium"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000189,
+        "label": "Arx-Aegelium Praetocarius"
+      }
+    ]
+  },
+  {
+    "id": 22078510,
+    "title": "Articles of Ambition (Tempest Temple)",
+    "description": "The fervor to which the kedge of Thalassius took to the worship of Karana was both unprecedented and unexpected.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000050,
+        "label": "Dull Aviak Feather"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000051,
+        "label": "Cracked Plains Pebble"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000052,
+        "label": "Red Jaggedpine Leaf"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000053,
+        "label": "Simple Stormstone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000054,
+        "label": "Crystallized Storm Drop"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000055,
+        "label": "Primitive Carving of the Rainkeeper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000056,
+        "label": "Caduceus of the Usurper"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000057,
+        "label": "Writ of the Storm Lord"
+      }
+    ]
+  },
+  {
+    "id": 22077830,
+    "title": "Articles of Animation (Arx Mentis)",
+    "description": "Not every attempt at invoking life in tomes, brooms and flesh is successful.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000282,
+        "label": "Failed Experiment No. 18"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000283,
+        "label": "Failed Experiment No. 26"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000284,
+        "label": "Failed Experiment No. 37"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000285,
+        "label": "Failed Experiment No. 45"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000286,
+        "label": "Failed Experiment No. 53"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000287,
+        "label": "Failed Experiment No. 60"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000288,
+        "label": "Failed Experiment No. 79"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000289,
+        "label": "Failed Experiment No. 1"
+      }
+    ]
+  },
+  {
+    "id": 22077800,
+    "title": "Arx Anthology",
+    "description": "The militarized citadel that sits above the city of Arx Mentis casts a dark shadow over the sea.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000262,
+        "label": "Apprentice's Accoutrements"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000263,
+        "label": "Ascendant's Afterthoughts"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000264,
+        "label": "Articles of Animation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000265,
+        "label": "Actualized Accounts"
+      }
+    ]
+  },
+  {
+    "id": 22077820,
+    "title": "Ascendant's Afterthoughts (Arx Mentis)",
+    "description": "Once a citizen 'ascends' from the city to the citadel they quickly lose touch with their former occupation.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000274,
+        "label": "Patterned Knit Cloak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000275,
+        "label": "Reversed Tome"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000276,
+        "label": "Ethicist's Musings"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000277,
+        "label": "Abandoned Chisel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000278,
+        "label": "Blank Canvas"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000279,
+        "label": "Unstrung Lyre"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000280,
+        "label": "Unappetizing Mess"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000281,
+        "label": "Herbalist's Pestle"
+      }
+    ]
+  },
+  {
+    "id": 22077910,
+    "title": "Beachcomber's Booty (Brother Island)",
+    "description": "The beach is a treasure trove of baubles.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000122,
+        "label": "Sand Biscuit Fragment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000123,
+        "label": "Petrified Wood Shard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000124,
+        "label": "Polished Glass"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000125,
+        "label": "Empty Crab Shell"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000126,
+        "label": "Whole Sand Biscuit"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000127,
+        "label": "Beached Clam Shell"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000128,
+        "label": "Beached Spiral Shell"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000129,
+        "label": "Beached Conch Shell"
+      }
+    ]
+  },
+  {
+    "id": 22078200,
+    "title": "Cavern Collectibles",
+    "description": "The beauty of the caverns hides its deadly secrets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000082,
+        "label": "Subaqueous Seashells"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000083,
+        "label": "Dearly Beloved"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000084,
+        "label": "The Endless Song"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000085,
+        "label": "Remnants of the Enraptured"
+      }
+    ]
+  },
+  {
+    "id": 22078410,
+    "title": "Comfort in the Deep (Degmar, the Lost Castle)",
+    "description": "Items of comfort to the Dwarves stuck in Degmar, the Lost Castle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000194,
+        "label": "Polished Coral Fragment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000195,
+        "label": "Petrified Clownfish"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000196,
+        "label": "Aqua Patterned Throw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000197,
+        "label": "Portrait of a Family"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000198,
+        "label": "Well Worn Pillow"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000199,
+        "label": "Tattered Dwarven Doll"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000200,
+        "label": "Smooth Worry Stone"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000201,
+        "label": "Fragile Elven Doll"
+      }
+    ]
+  },
+  {
+    "id": 22078110,
+    "title": "Cruelty T`Vyl (Combine Dredge)",
+    "description": "Relics of those who serve Lanys T`Vyl in her search for Firiona.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000158,
+        "label": "Small Bronze Coin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000159,
+        "label": "Rusted Point"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000160,
+        "label": "Ceremonial Bloodletter's Dirk"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000161,
+        "label": "Cowl of the Hateful"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000162,
+        "label": "Defector's Remains"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000163,
+        "label": "Sigil of Hate's Army"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000164,
+        "label": "Sanguine Port"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000165,
+        "label": "Distasteful Effigy of Firiona"
+      }
+    ]
+  },
+  {
+    "id": 22078220,
+    "title": "Dearly Beloved (Caverns of Endless Song)",
+    "description": "An aged assortment of trinkets reminiscent of wedding gifts.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000094,
+        "label": "Wilted Emerald Petal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000095,
+        "label": "Variegated Carnation Pin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000096,
+        "label": "Crumpled Invitation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000097,
+        "label": "Damaged Unstrung Lute"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000098,
+        "label": "Painted Harpy Statuette"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000099,
+        "label": "Sandy Coral Garter Belt"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000100,
+        "label": "Groom's Blood Promise Band"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000101,
+        "label": "Aquamarine Wedding Band"
+      }
+    ]
+  },
+  {
+    "id": 22078120,
+    "title": "Dredging Drudgery (Combine Dredge)",
+    "description": "Though several societies have embraced the art of geomancy, few have done so with such blatant disregard for the land that they shape.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000166,
+        "label": "Smooth Geomantic Sandstone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000167,
+        "label": "Stone Flower"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000168,
+        "label": "Excavator's Trowel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000169,
+        "label": "Diviner's Stone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000170,
+        "label": "Geomantic Steel"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000171,
+        "label": "Mechanical Aquifer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000172,
+        "label": "Combine Wrench"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000173,
+        "label": "Helm of the Depths"
+      }
+    ]
+  },
+  {
+    "id": 22077920,
+    "title": "Dropped Detritus (Brother Island)",
+    "description": "Sometimes the seemingly ordinary is worth collecting.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000130,
+        "label": "Dried Coconut"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000131,
+        "label": "Fallen Mantrap Leaves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000132,
+        "label": "Coconut Shell Fragments"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000133,
+        "label": "Fallen Palm Leaf"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000134,
+        "label": "Molted Feather"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000135,
+        "label": "Shed Patch of Fur"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000136,
+        "label": "Splash of Ectoplasm"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000137,
+        "label": "Siren Scales"
+      }
+    ]
+  },
+  {
+    "id": 22078400,
+    "title": "Dwarven Depths",
+    "description": "The sad history of the Lost Castle Degmar leaves behind its traces.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000190,
+        "label": "Comfort in the Deep"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000191,
+        "label": "Keep Keepsakes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000192,
+        "label": "Tools of the Assassins"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000193,
+        "label": "Keepsakes of the Murdered"
+      }
+    ]
+  },
+  {
+    "id": 22078310,
+    "title": "Empty Nest (Thuliasaur Island)",
+    "description": "The Stormscape were not the only Aviaks to migrate to these tropical islands.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000230,
+        "label": "Citribloom Bud"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000231,
+        "label": "Bloodfeather Down"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000232,
+        "label": "Dried Introduction"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000233,
+        "label": "Ebonwing Shell Fragment"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000234,
+        "label": "Guardian's Filoplume"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000235,
+        "label": "Crimson Ebonwing Semiplume"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000236,
+        "label": "Shattered Idol of the Rainkeeper"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000237,
+        "label": "Dull Phoenix Down"
+      }
+    ]
+  },
+  {
+    "id": 22078100,
+    "title": "Far, Wide and Deep",
+    "description": "Lanys' relentless search for Firiona's whereabouts has driven her to not only search far and wide but now deep into the ocean.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000154,
+        "label": "Cruelty T`Vyl"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000155,
+        "label": "Dredging Drudgery"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000156,
+        "label": "Twenty Leagues"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000157,
+        "label": "Armatalium Odalia"
+      }
+    ]
+  },
+  {
+    "id": 22077900,
+    "title": "Island Fragments",
+    "description": "Islands are places to escape and to find interesting baubles.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000118,
+        "label": "Beachcomber's Booty"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000119,
+        "label": "Dropped Detritus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000120,
+        "label": "Itching Insects"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000121,
+        "label": "Island Sands"
+      }
+    ]
+  },
+  {
+    "id": 22077940,
+    "title": "Island Sands (Brother Island)",
+    "description": "Possibly valuable sand found in and on animals of Brother Island.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000146,
+        "label": "Gullet Sand"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000147,
+        "label": "Excreted Sand"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000148,
+        "label": "Sun Bleached Sand"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000149,
+        "label": "Gastric Bleached Sand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000150,
+        "label": "Golden Beach Sand"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000151,
+        "label": "Black Beach Sand"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000152,
+        "label": "Chlorophyll Infused Sand"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000153,
+        "label": "Flower Dyed Sand"
+      }
+    ]
+  },
+  {
+    "id": 22077930,
+    "title": "Itching Insects (Brother Island)",
+    "description": "An entomologist's dream. An arachnophobe's nightmare.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000138,
+        "label": "Red Mite"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000139,
+        "label": "Red Nibbler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000140,
+        "label": "Yellow Nibbler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000141,
+        "label": "Grey Biter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000142,
+        "label": "Blue Mite"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000143,
+        "label": "Red Biter"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000144,
+        "label": "Black Sting"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000145,
+        "label": "Stinging Insect"
+      }
+    ]
+  },
+  {
+    "id": 22078040,
+    "title": "Katta Castrum Mementos (Katta Castrum: Deluge)",
+    "description": "The people of Katta Castrum have left behind many personal treasures.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000038,
+        "label": "Elnot Waymun's List"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000039,
+        "label": "Head Mage's Amulet"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000040,
+        "label": "Haestus' Pin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000041,
+        "label": "Captain's Shattered Blade"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000042,
+        "label": "Tsaph Katta Portrait"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000043,
+        "label": "Firiona Vie Statuette"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000044,
+        "label": "Katta Castrum Diary"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000045,
+        "label": "Katta Castrum Guard Emblem"
+      }
+    ]
+  },
+  {
+    "id": 22078420,
+    "title": "Keep Keepsakes (Degmar, the Lost Castle)",
+    "description": "Items of interest from Degmar, the Lost Castle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000202,
+        "label": "Stained Glass Sconce Piece"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000203,
+        "label": "Tiny Hammer of Brell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000204,
+        "label": "Expert's Lost Tool"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000205,
+        "label": "Well Worn Mug"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000206,
+        "label": "Perfectly Split Wishbone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000207,
+        "label": "Degmar Stamped Coin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000208,
+        "label": "Gold Dipped Rose"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000209,
+        "label": "Library Card"
+      }
+    ]
+  },
+  {
+    "id": 22078440,
+    "title": "Keepsakes of the Murdered (Degmar, the Lost Castle)",
+    "description": "Small personal items of those no longer with us.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000218,
+        "label": "Earpoint Cream"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000219,
+        "label": "Jeweled Comb"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000220,
+        "label": "Eye Button"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000221,
+        "label": "Dancing Shoe"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000222,
+        "label": "Gold Threaded Ribbon"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000223,
+        "label": "Tied Lock of Hair"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000224,
+        "label": "Crested Ale Mug"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000225,
+        "label": "Small Tooth in a Bag"
+      }
+    ]
+  },
+  {
+    "id": 22078320,
+    "title": "Our Fading History (Thuliasaur Island)",
+    "description": "The history of the Kromtus is a time honored oral tradition, though the aging elders often find themselves at a loss when recalling the finer details of their past.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000238,
+        "label": "Enormous Kromtus Bone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000239,
+        "label": "Molerat Tail"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000240,
+        "label": "Colossal Stein"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000241,
+        "label": "Broken Kromtus Fishing Pole"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000242,
+        "label": "Elder's Walking Stick"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000243,
+        "label": "Discretely Traced Verse"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000244,
+        "label": "Ancient Defender's Axe"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000245,
+        "label": "Tarnished Idol of Lost Worship"
+      }
+    ]
+  },
+  {
+    "id": 22078530,
+    "title": "Preserver's Prizes (Tempest Temple)",
+    "description": "Wardens and warders have traveled from far and wide to investigate the work of the kedge arcanists.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000066,
+        "label": "Thistlecoat Spike"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000067,
+        "label": "Dried Healing Salve"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000068,
+        "label": "Emptied Wineskin of Morning Dew"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000069,
+        "label": "Luminous Emerald"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000070,
+        "label": "Preserver's Crook"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000071,
+        "label": "Torn Ebon Batwing"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000072,
+        "label": "Silver Wolf Pelt"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000073,
+        "label": "Emerald-Tinted Scimitar"
+      }
+    ]
+  },
+  {
+    "id": 22078240,
+    "title": "Remnants of the Enraptured (Caverns of Endless Song)",
+    "description": "Heirlooms and treasures of those who could not evade the siren's song.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000110,
+        "label": "Carved Siren Figurine"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000111,
+        "label": "Combine Officer's Silver Buckle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000112,
+        "label": "Preserved Snow Rose"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000113,
+        "label": "Ancient Cartographer's Charts"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000114,
+        "label": "Aged Combine Sailor's Wine Bottle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000115,
+        "label": "Skeletal Sailor's Left Hand"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000116,
+        "label": "Damaged Engagement Band"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000117,
+        "label": "Sultry Perfume"
+      }
+    ]
+  },
+  {
+    "id": 22078500,
+    "title": "Riding the Storm Out",
+    "description": "A small selection of the extraordinary treasures found on this unnaturally formed island.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000046,
+        "label": "Articles of Ambition"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000047,
+        "label": "Subtle Extinction"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000048,
+        "label": "Preserver's Prizes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000049,
+        "label": "Ritualistic Remains"
+      }
+    ]
+  },
+  {
+    "id": 22078540,
+    "title": "Ritualistic Remains (Tempest Temple)",
+    "description": "The unbridled power that gave rise to the temple has left some rather impressive geological treasures scattered throughout the area.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000074,
+        "label": "Temple Shaper's Robe Threads"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000075,
+        "label": "Rockshaper's Focus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000076,
+        "label": "Water Focuser's Wand"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000077,
+        "label": "Storm Emerald"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000078,
+        "label": "Fused Oceangem"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000079,
+        "label": "Crimson Geode"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000080,
+        "label": "Frozen Sand"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000081,
+        "label": "Tempest Stone"
+      }
+    ]
+  },
+  {
+    "id": 22078020,
+    "title": "Seabed Treasures (Katta Castrum: Deluge)",
+    "description": "Rare and unique oddities from the ocean floor have poured in or been collected by residents.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000022,
+        "label": "Electric Starfish"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000023,
+        "label": "Ocean Minerals"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000024,
+        "label": "Glimmering Seashell"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000025,
+        "label": "Ancient Doubloon"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000026,
+        "label": "Massive Jawbone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000027,
+        "label": "Iridescent Coral"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000028,
+        "label": "Archaic Harpoon"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000029,
+        "label": "Old Captain's Cutlass"
+      }
+    ]
+  },
+  {
+    "id": 22078000,
+    "title": "Secrets Beneath the Ocean",
+    "description": "Discover various treasures beneath the waves in the doomed city of Katta Castrum.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000010,
+        "label": "Waterlogged Tomes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000011,
+        "label": "Seabed Treasures"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000012,
+        "label": "Shissar Armory"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000013,
+        "label": "Katta Castrum Mementos"
+      }
+    ]
+  },
+  {
+    "id": 22000010,
+    "title": "See the Darkened Sea",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 22000003,
+        "label": "Riding the Storm Out"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000002,
+        "label": "Secrets Beneath the Ocean"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000005,
+        "label": "Island Fragments"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000004,
+        "label": "Cavern Collectibles"
+      }
+    ]
+  },
+  {
+    "id": 22078030,
+    "title": "Shissar Armory (Katta Castrum: Deluge)",
+    "description": "The Shissar invaders have left behind various weapons and equipment either willingly or not.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000030,
+        "label": "Rusted Shissar Blade"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000031,
+        "label": "Scavenged Shissar Armor"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000032,
+        "label": "Jeweled Studded Bracer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000033,
+        "label": "Snake Headed Staff"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000034,
+        "label": "Shissar Shield"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000035,
+        "label": "Serpentine Jewelry"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000036,
+        "label": "Elaborate Waistwrap"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000037,
+        "label": "Ruined Shissar Robes"
+      }
+    ]
+  },
+  {
+    "id": 22078210,
+    "title": "Subaqueous Seashells (Caverns of Endless Song)",
+    "description": "A beautiful array of sea life has made their home in these caverns.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000086,
+        "label": "Simple Nautilus Shell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000087,
+        "label": "Crimson Nautilus Shell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000088,
+        "label": "Spotted Conch"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000089,
+        "label": "Golden Clypeasteroida"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000090,
+        "label": "Striped Blush Cockleshell"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000091,
+        "label": "Striped Bronze Cockleshell"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000092,
+        "label": "Striped Silver Cockleshell"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000093,
+        "label": "Cherrystone Shell"
+      }
+    ]
+  },
+  {
+    "id": 22078520,
+    "title": "Subtle Extinction (Tempest Temple)",
+    "description": "The traumatic change to the environment that brought life to the storm that surrounds the temple has wreaked havoc on the wildlife.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000058,
+        "label": "Inert Bass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000059,
+        "label": "Stilled Smelt"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000060,
+        "label": "Rotting Rockfish"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000061,
+        "label": "Spiritless Snapper"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000062,
+        "label": "Cadaverous Carp"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000063,
+        "label": "Lifeless Lobster"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000064,
+        "label": "Inanimate Angelfish"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000065,
+        "label": "Bloated Blowfish"
+      }
+    ]
+  },
+  {
+    "id": 22000020,
+    "title": "The Deep Darkened Sea",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000007,
+        "label": "Dwarven Depths"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000008,
+        "label": "The Lost of This Land"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000006,
+        "label": "Far, Wide and Deep"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000009,
+        "label": "Arx Anthology"
+      }
+    ]
+  },
+  {
+    "id": 22078230,
+    "title": "The Endless Song (Caverns of Endless Song)",
+    "description": "A piece of poetry set to music that has been torn to shreds.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000102,
+        "label": "The Endless Song Page I"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000103,
+        "label": "The Endless Song Page II"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000104,
+        "label": "The Endless Song Page III"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000105,
+        "label": "The Endless Song Page IV"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000106,
+        "label": "The Endless Song Page V"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000107,
+        "label": "Left Half of The Endless Song Page VI"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000108,
+        "label": "Right Half of The Endless Song Page VI"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000109,
+        "label": "Last Page of The Endless Song"
+      }
+    ]
+  },
+  {
+    "id": 22078330,
+    "title": "The Faceless' Forgotten (Thuliasaur Island)",
+    "description": "The Thaell Ew rose from the humble beginnings to overtake this land and subjugate the fearsome dinosaurs, but it appears they are now losing ground to the savage beasts.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000246,
+        "label": "Dulled Hatchling's Spear"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000247,
+        "label": "Thaell Ew Hunter's Headband"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000248,
+        "label": "Carved Tyrannosaurus Figurine"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000249,
+        "label": "Historical Thaell Ew Tablet (Azia)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000250,
+        "label": "Historical Thaell Ew Tablet (Beza)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000251,
+        "label": "Historical Thaell Ew Tablet (Caza)"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000252,
+        "label": "Empty Bloodwine Flask"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000253,
+        "label": "Thaell Ew Hatchling's Doll"
+      }
+    ]
+  },
+  {
+    "id": 22078340,
+    "title": "The Last Boat (Thuliasaur Island)",
+    "description": "The island once held a combine outpost and observatory though no ship that has sailed here in the last hundred years has returned.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000254,
+        "label": "Frayed Noose"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000255,
+        "label": "Spectral Longsword"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000256,
+        "label": "Distinctly Human Leg Bones"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000257,
+        "label": "Torn Thuliasaur Nautical Chart"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000258,
+        "label": "Corroded Praetor Chestplate"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000259,
+        "label": "Bloody Indagatrix Robes"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000260,
+        "label": "Combine Sailor's Log"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000261,
+        "label": "Jonas Dagmire's Little Toe Distal Phalanx"
+      }
+    ]
+  },
+  {
+    "id": 22078300,
+    "title": "The Lost of This Land",
+    "description": "On the edge of The Buried Sea sits an island left untouched by outsiders for the last hundred years.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000226,
+        "label": "Empty Nest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000227,
+        "label": "Our Fading History"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000228,
+        "label": "The Faceless' Forgotten"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000229,
+        "label": "The Last Boat"
+      }
+    ]
+  },
+  {
+    "id": 22078430,
+    "title": "Tools of the Assassins (Degmar, the Lost Castle)",
+    "description": "Lost tools used in the series of horrible murders in Degmar, the Lost Castle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000210,
+        "label": "Depleted Poison Vial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000211,
+        "label": "Tripping Marbles"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000212,
+        "label": "Ether Coated Rag"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000213,
+        "label": "Bloody Hammer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000214,
+        "label": "Drip String"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000215,
+        "label": "Exploding Log"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000216,
+        "label": "Blood Encrusted Hanging Rope"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000217,
+        "label": "Stick Ring"
+      }
+    ]
+  },
+  {
+    "id": 22078130,
+    "title": "Twenty Leagues (Combine Dredge)",
+    "description": "Recently excavated artifacts of ancient Combine operations that the followers of Lanys aim to repurpose.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000174,
+        "label": "Broken Spyglass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000175,
+        "label": "Damaged Gears"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000176,
+        "label": "Damaged Aqualung"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000177,
+        "label": "Rusted Links"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000178,
+        "label": "Dredging Anchor"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000179,
+        "label": "Timeworn Tools"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000180,
+        "label": "Warped Steel Plating"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000181,
+        "label": "Barely Seaworthy Planking"
+      }
+    ]
+  },
+  {
+    "id": 22078010,
+    "title": "Waterlogged Tomes (Katta Castrum: Deluge)",
+    "description": "Various tomes and writings are in danger of being buried beneath the waves.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2209,
+    "subcategoryName": "Collections",
+    "categoryId": 2200,
+    "categoryName": "The Darkened Sea",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 22000014,
+        "label": "Katta Castrum Blueprints"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 22000015,
+        "label": "Tales of the Combine Empire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 22000016,
+        "label": "Underwater Engineering"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 22000017,
+        "label": "Aquatic Farming"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 22000018,
+        "label": "Biography of Tsaph Katta"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 22000019,
+        "label": "Encyclopedia of the Deep Sea"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 22000020,
+        "label": "Deep Sea Tactics"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 22000021,
+        "label": "Uniting Norrath"
+      }
+    ]
+  }
+]

@@ -6,7 +6,7 @@
       <div class="px-5 py-6 border-b border-rune-600/20">
         <NuxtLink to="/" class="block">
           <div class="text-rune-400 font-display text-xs tracking-widest uppercase mb-1">A Sanguineous</div>
-          <div class="text-parchment-100 font-display text-lg tracking-wide">Journey</div>
+          <div class="text-parchment-100 font-display text-lg tracking-wide">Adventure</div>
         </NuxtLink>
       </div>
 

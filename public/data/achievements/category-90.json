@@ -1,0 +1,6311 @@
+[
+  {
+    "id": 200025,
+    "title": "10th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 10th anniversary tasks.",
+    "points": 16,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200025,
+        "label": "Complete 10th Anniversary Task - Culling Fever - Bertoxxulous' Favor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200026,
+        "label": "Complete 10th Anniversary Task - Crafting a Party - Brell Serilis' Favor"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200027,
+        "label": "Complete 10th Anniversary Task - Bristlebane's Party Favor - Bristlebane's Favor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200028,
+        "label": "Complete 10th Anniversary Task - A Taste of Fear - Cazic-Thule's Favor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200029,
+        "label": "Complete 10th Anniversary Task - The Power of Hatred - Innoruuk's Favor"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200030,
+        "label": "Complete 10th Anniversary Task - Tears of a God - Karana's Favor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200031,
+        "label": "Complete 10th Anniversary Task - Love, Norrathian Style - Erollisi Marr's Favor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 200032,
+        "label": "Complete 10th Anniversary Task - Deliver Us From Evil - Mithaniel Marr's Favor"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 200033,
+        "label": "Complete 10th Anniversary Task - Fishing for Blessings - Prexus' Favor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 200034,
+        "label": "Complete 10th Anniversary Task - Peace and Understanding - Quellious' Favor"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 200035,
+        "label": "Complete 10th Anniversary Task - Warrior's Rest - Rallos Zek's Favor"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 200036,
+        "label": "Complete 10th Anniversary Task - Healing Touch - Rodcet Nife's Favor"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 200037,
+        "label": "Complete 10th Anniversary Task - Bonfires of Vanity - Solusek Ro's Favor"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 200038,
+        "label": "Complete 10th Anniversary Task - Justice of the Tribunal - Tribunal's Favor"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 200039,
+        "label": "Complete 10th Anniversary Task - The Gift of Life - Tunare's Favor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 200040,
+        "label": "Complete 10th Anniversary Task - Memory In Crystal - Veeshan's Favor"
+      }
+    ]
+  },
+  {
+    "id": 200031,
+    "title": "11th Anniversary Raid",
+    "description": "This achievement is gained upon completion of the 11th anniversary raid.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200052,
+        "label": "Complete 11th Anniversary Raid - Steel Behemoths"
+      }
+    ]
+  },
+  {
+    "id": 200030,
+    "title": "11th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of the 11th anniversary task and mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200050,
+        "label": "Complete 11th Anniversary Task - Gifts of Steel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200051,
+        "label": "Complete 11th Anniversary Mission - Stealing My Life Back"
+      }
+    ]
+  },
+  {
+    "id": 200036,
+    "title": "12th Anniversary Raids",
+    "description": "This achievement is gained upon completion of the 12th anniversary raid events.",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200058,
+        "label": "Complete 12th Anniversary Raid Event - Parts Is Parts"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200059,
+        "label": "Complete 12th Anniversary Raid Event - Maximum Capacity"
+      }
+    ]
+  },
+  {
+    "id": 200035,
+    "title": "12th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 12th anniversary tasks and missions.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200055,
+        "label": "Complete 12th Anniversary Task - Short Circuit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200056,
+        "label": "Complete 12th Anniversary Mission - Infiltrating the Guardian"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200057,
+        "label": "Complete 12th Anniversary Task - Hunt of the Shards"
+      }
+    ]
+  },
+  {
+    "id": 200041,
+    "title": "13th Anniversary Raid",
+    "description": "This achievement is gained upon completion of the 13th anniversary raid event.",
+    "points": 25,
+    "isHidden": true,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200073,
+        "label": "Complete 13th Anniversary Raid Event - Tower of Frozen Shadow"
+      }
+    ]
+  },
+  {
+    "id": 200040,
+    "title": "13th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 13th anniversary tasks and mission.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200060,
+        "label": "Complete 13th Anniversary Task - Step on a Crack"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200061,
+        "label": "Complete 13th Anniversary Task - Lucky 13"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200062,
+        "label": "Complete 13th Anniversary Task - A Cat-tastrophe"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200063,
+        "label": "Complete 13th Anniversary Task - Spider's Bite"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200064,
+        "label": "Complete 13th Anniversary Task - Improper Boating Attire"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200065,
+        "label": "Complete 13th Anniversary Task - Not For the Rabbit"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200066,
+        "label": "Complete 13th Anniversary Task - Music For a Weary Soul"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 200067,
+        "label": "Complete 13th Anniversary Task - Breaking Mirrors"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 200068,
+        "label": "Complete 13th Anniversary Task - The Lady of Elks"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 200069,
+        "label": "Complete 13th Anniversary Task - Rumor Has It..."
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 200070,
+        "label": "Complete 13th Anniversary Task - Ferocious Feralings"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 200071,
+        "label": "Complete 13th Anniversary Task - Responsible Mining"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 200072,
+        "label": "Complete 13th Anniversary Task - Summoning the Master"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 200074,
+        "label": "Complete 13th Anniversary Mission - A Different Perspective"
+      }
+    ]
+  },
+  {
+    "id": 200045,
+    "title": "13th Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon completing the bonus elements of the following 13th anniversary tasks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2000450,
+        "label": "Obtain the following titles by completing the 'hidden' bonus elements in these missions:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 2000451,
+        "label": "'Prophet of the Dunes' from 'Rumor Has It...'"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 2000452,
+        "label": "'Feraling Feeder' from 'Ferocious Feralings'"
+      }
+    ]
+  },
+  {
+    "id": 200060,
+    "title": "14th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 14th anniversary missions.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2000601,
+        "label": "Crusader Rylroth in the Chapterhouse of the Fallen - Surviving Xmiticzin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2000602,
+        "label": "Huckle Thornleaf in the Valley of King Xorbb - Evil Eye Operative"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2000603,
+        "label": "Piestro in the Great Divide - Piestro's Day Off"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2000604,
+        "label": "Complete one of the following missions: To Thine Own Creator Be..."
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 2000605,
+        "label": "True - Find a Roughly Printed Note on the failed creation that roams the Convorteum."
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 2000606,
+        "label": "False - Find a Roughly Printed Note on the failed creation that roams the Convorteum."
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2000607,
+        "label": "Sheriff Knotter Botter in the Steamfont Mountains - Big Gnomes, Big Problems"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 2000608,
+        "label": "To request 'Big Gnomes, Big Problems' Complete: Sheriff Knotter Botter - Ogres at the Gates"
+      }
+    ]
+  },
+  {
+    "id": 200072,
+    "title": "15th Anniversary Plane of War Mission",
+    "description": "This achievement is gained upon completion of the 15th anniversary Plane of War mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200097,
+        "label": "Commander Gorok in the Plane of War - War Games"
+      }
+    ]
+  },
+  {
+    "id": 200076,
+    "title": "15th Anniversary Plane of War Mission (Bonus)",
+    "description": "This achievement is gained upon receiving a high score in the 15th anniversary Plane of War mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200106,
+        "label": "Commander Gorok in the Plane of War - War Games"
+      }
+    ]
+  },
+  {
+    "id": 200070,
+    "title": "15th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 15th anniversary tasks and missions.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200092,
+        "label": "Reebo Leafsway in the Plane of Knowledge - Sprucing Up Shakey"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200093,
+        "label": "Bjerg Sen, the Tranquil in the Plane of Knowledge - Defending Knowledge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200094,
+        "label": "Sayden G`Noir in Nektulos Forest - What Happens In Neriak..."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200095,
+        "label": "Jimothy the Delicious in the Plane of Knowledge - Magically Delicious"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200096,
+        "label": "Sarissa in the Plane of Knowledge - A Ranger's Tale"
+      }
+    ]
+  },
+  {
+    "id": 200075,
+    "title": "15th Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus items from the following 15th anniversary tasks.",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200099,
+        "label": "Obtain one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 200100,
+        "label": "'Wee'er Harvester' from 'Sprucing Up Shakey'"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 200101,
+        "label": "'Bigger Belt of the River' from 'Sprucing Up Shakey'"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200102,
+        "label": "'Miniature Horn of Unity' from 'Defending Knowledge'"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200103,
+        "label": "'Diplomatic Papers' from 'What Happens In Neriak...'"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200104,
+        "label": "'Jimothy Junior' from 'Magically Delicious'"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200105,
+        "label": "'Bottled Essence of Vex' from 'A Ranger's Tale'"
+      }
+    ]
+  },
+  {
+    "id": 200077,
+    "title": "16th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of all of the 16th anniversary tasks and missions.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200108,
+        "label": "Zantog, the Greatest in the Plane of Knowledge - Belle of the Ball"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200109,
+        "label": "The Butler in House of Thule - Cleansing the Ground"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200110,
+        "label": "Ankra in the Plane of Knowledge - Dead Dragons"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200111,
+        "label": "Agent Seudavenaa in the Plane of Knowledge - Korucust's Royal Pain"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200112,
+        "label": "Flaming Sword of War in the Plane of Tranquility - Liquid Courage"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200113,
+        "label": "Captain Jack Aviak in the Plane of Knowledge - Pirates of Timorous Deep"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200114,
+        "label": "Brasse in the Plane of Knowledge - Pub Crawl"
+      }
+    ]
+  },
+  {
+    "id": 200078,
+    "title": "16th Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus items from the following 16th anniversary tasks.",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200115,
+        "label": "'Metamorph Totem: Speckled Hare' from 'Belle of the Ball'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200116,
+        "label": "'Cleansing Rod' from 'Cleansing the Ground'"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200117,
+        "label": "'Necromantic Dragon Bone' from 'Dead Dragons'"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200118,
+        "label": "'Sarnak Seneschal Mask' from 'Korucust's Royal Pain'"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200119,
+        "label": "'Golden Helm of Rallos Zek' from 'Liquid Courage'"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200120,
+        "label": "'Shimmering Black Pearl' from 'Pirates of Timorous Deep'"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200121,
+        "label": "'Drunkard's Stein' from 'Pub Crawl'"
+      }
+    ]
+  },
+  {
+    "id": 30000105,
+    "title": "17th Anniversary Mission",
+    "description": "This achievement is gained upon defeating the following 17th anniversary Hate's Fury: Seventeen Pieces of Silver mission targets:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200123,
+        "label": "Samson Fiddic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200124,
+        "label": "Fairwind and Peacock"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200125,
+        "label": "Bad Salt"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200126,
+        "label": "Magpie"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200127,
+        "label": "Ivory"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200128,
+        "label": "Roach"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200129,
+        "label": "Razor Molly"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 200130,
+        "label": "Barnacle Batty"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 200131,
+        "label": "Bluebelly"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 200132,
+        "label": "Albatross Albar"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 200133,
+        "label": "Groboggler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 200134,
+        "label": "Squid Ink Slarg"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 200135,
+        "label": "Bad Beard"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 200136,
+        "label": "The Bilge Fox"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 200137,
+        "label": "Jynx One-Eye"
+      }
+    ]
+  },
+  {
+    "id": 30000100,
+    "title": "17th Anniversary Raid",
+    "description": "This achievement is gained upon defeating the following 17th anniversary Hate's Fury: Seventeen Pieces of Silver mission target:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200122,
+        "label": "Captain Krasnok"
+      }
+    ]
+  },
+  {
+    "id": 30000110,
+    "title": "17th Anniversary Task",
+    "description": "This achievement is gained upon wearing the cloth shirt awarded by the 17th anniversary tipsy gnome run.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200138,
+        "label": "Tipsy Gnome Race Cloth Shirt"
+      }
+    ]
+  },
+  {
+    "id": 30000125,
+    "title": "18th Anniversary Quest",
+    "description": "This achievement is gained upon completion of this 18th anniversary task.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200143,
+        "label": "High Magister Zueria in the Plane of Knowledge - Tsaph's Day Off"
+      }
+    ]
+  },
+  {
+    "id": 30000115,
+    "title": "18th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of these 18th anniversary tasks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200139,
+        "label": "Sionachie Heartsinger in the Plane of Knowledge - Delving into Frostcrypt"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200140,
+        "label": "A sloshed gnoll in the Plane of Knowledge - Fippy's Further Revenge"
+      }
+    ]
+  },
+  {
+    "id": 30000120,
+    "title": "18th Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus items from the following 18th anniversary tasks.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200141,
+        "label": "'Darkened Corrupted Orb of Living Ice' from 'Delving into Frostcrypt'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200142,
+        "label": "'Darkened Blackburrow Trinket' from 'Fippy's Further Revenge'"
+      }
+    ]
+  },
+  {
+    "id": 30000130,
+    "title": "19th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of these 19th anniversary tasks.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200144,
+        "label": "Fabikren in the Plane of Knowledge - Pieces is Pieces"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200145,
+        "label": "Cedfer the Fishmonger in the Plane of Knowledge - Fish Eyes in the Dark"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200146,
+        "label": "Dismas Kaneriti in the Plane of Knowledge - Lost but Not Forgotten"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200147,
+        "label": "a Dreadspire servant in the Plane of Knowledge - A Formal Dinner Party"
+      }
+    ]
+  },
+  {
+    "id": 30000135,
+    "title": "19th Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus items from the following 19th anniversary tasks.",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200148,
+        "label": "'Deep Caverns Collector's Case' from 'Pieces is Pieces'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200149,
+        "label": "'The Bone Rod' from 'Fish Eyes in the Dark'"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200150,
+        "label": "'Lost Wayfarer's Tent' from 'Lost but Not Forgotten'"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200151,
+        "label": "'Extruded Black Pearl' from 'A Formal Dinner Party'"
+      }
+    ]
+  },
+  {
+    "id": 30000140,
+    "title": "20th Anniversary Challenge",
+    "description": "This achievement is gained upon eating cake in locations around Norrath.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200152,
+        "label": "Eat cake at the water that falls from up high to the plains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200153,
+        "label": "Eat cake inside the red up the secret paths of mist"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200154,
+        "label": "Eat cake while bathing in blood at a wedding"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 200155,
+        "label": "Eat cake on the twilight tower near a ring to fungus"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 200156,
+        "label": "Eat cake while you observe the ball and hammer of invention"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 200157,
+        "label": "Eat cake under a globe surrounded by hate"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 200158,
+        "label": "Eat cake by a frozen arch near the lost depths"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 200159,
+        "label": "Eat cake where a titan offers water with open hands"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 200160,
+        "label": "Eat cake while ignoring the slaughter in the grip of a fallen claw"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 200161,
+        "label": "Eat cake among the serenity of twined dragons"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 200162,
+        "label": "Eat cake after a dreadful dinner"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 200163,
+        "label": "Eat cake while center stage to the toll of a bell"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 200164,
+        "label": "Eat cake while enjoying pink flowers and wind through the willows"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 200165,
+        "label": "Eat cake while paying quiet respects"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 200166,
+        "label": "Eat cake while watching shadows"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 200167,
+        "label": "Hold your bile and eat cake within the claws of the fountain of filth"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 200168,
+        "label": "Eat cake near the purest water"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 200169,
+        "label": "Eat cake with others who enjoy sweets"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 200170,
+        "label": "Eat cake while bathing in radiance"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 200171,
+        "label": "Eat cake while you dare fear to crush you"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 200172,
+        "label": "Eat cake in the fourth dark before the progenitors"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 200173,
+        "label": "Eat cake deep under the sea, before the god with floating candles"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 200174,
+        "label": "Eat cake at life's uncomfortable chair"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 200175,
+        "label": "Eat cake between the five elements that were in another reality"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 200176,
+        "label": "Eat cake while within the maw of a mourned and lonely dragon"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 200177,
+        "label": "Eat cake on the head of a fallen prince"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 200178,
+        "label": "Eat cake while observing a mobile forge tool"
+      }
+    ]
+  },
+  {
+    "id": 30000145,
+    "title": "21st Anniversary Tasks",
+    "description": "This achievement is gained upon completion of these 21st anniversary tasks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200179,
+        "label": "Emissary of Erollisi Marr in the Plane of Knowledge - I Guess This Is Growing Up"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200180,
+        "label": "Maitreya the Maitre D` in the Plane of Knowledge - Fancy Feast"
+      }
+    ]
+  },
+  {
+    "id": 30000150,
+    "title": "21st Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus items from the following 21st anniversary tasks.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200181,
+        "label": "'Mom's Love' from 'I Guess This Is Growing Up'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200182,
+        "label": "'Fancy Feast' from 'Fancy Feast'"
+      }
+    ]
+  },
+  {
+    "id": 30000155,
+    "title": "22nd Anniversary Tasks",
+    "description": "This achievement is gained upon completion of these 22nd anniversary tasks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200183,
+        "label": "Sailor Twift in the Butcherblock Mountains - A Riviting Tale!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 200184,
+        "label": "Geia Korrel in Toxxulia Forest - School Supplies"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 200185,
+        "label": "Guard Blevins in Qeynos Hills - Unity"
+      }
+    ]
+  },
+  {
+    "id": 30000160,
+    "title": "22nd Anniversary Tasks (Bonus)",
+    "description": "This achievement is gained upon collecting the 'hidden' bonus item from the following 22nd anniversary task.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200186,
+        "label": "Unified Phoenix Feather from 'Unity'"
+      }
+    ]
+  },
+  {
+    "id": 201003,
+    "title": "23rd Anniversary Mission Challenges",
+    "description": "This achievement is gained upon completing the following 23rd Anniversary mission challenges.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201014,
+        "label": "Risky Rat Rescue: When You Give a Mouse Some Cheese - Feed Rinki a piece of cheese."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201005,
+        "label": "Beyond Espoir: Jonus Bonus - Finish the fight at less than 50% hp."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201006,
+        "label": "Beyond Espoir: Sly Lorelei - Kill her while her healing add is still alive."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 201007,
+        "label": "Beyond Espoir: The Incredible Salk - Get hit by each of Salk's area attacks."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 201015,
+        "label": "Whispers in the Dark: Strengthened Khrix - Join Khrix with a suitable spirit anchor."
+      }
+    ]
+  },
+  {
+    "id": 201002,
+    "title": "23rd Anniversary Missions",
+    "description": "This achievement is gained upon completing the following 23rd Anniversary missions.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201012,
+        "label": "Drifter Minki in The Nexus - Risky Rat Rescue"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201004,
+        "label": "Krastoraab Puremane in Shar Vahl - Beyond Espoir"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201013,
+        "label": "Spiritist Nathra in Shar Vahl - Whispers in the Dark"
+      }
+    ]
+  },
+  {
+    "id": 201004,
+    "title": "23rd Anniversary Raid",
+    "description": "This achievement is gained upon completing the following 23rd Anniversary raid.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201008,
+        "label": "A Frightened Guardian in the Dreadlands - Mad Emperor"
+      }
+    ]
+  },
+  {
+    "id": 201005,
+    "title": "23rd Anniversary Raid Challenges",
+    "description": "This achievement is gained upon completing the following 23rd Anniversary raid challenges.",
+    "points": 45,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201009,
+        "label": "Mad Emperor: Golems Apace - Kill each golem before the next one activates."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201010,
+        "label": "Mad Emperor: Mother and Son - Defeat Rile and Drusella within 60 seconds of each other."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201011,
+        "label": "Mad Emperor: Everything for Last - Don't kill any of the golems until all of them are activated."
+      }
+    ]
+  },
+  {
+    "id": 201001,
+    "title": "23rd Anniversary Tasks",
+    "description": "This achievement is gained upon completing the following 23rd Anniversary tasks.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201001,
+        "label": "Giraga in the Rathe Mountains - The Known Laws of Aviation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201002,
+        "label": "Krastoraab Puremane in Shar Vahl - Death Finds a Way"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201003,
+        "label": "Big Slick Jones in West Freeport - Paintings Playing Poker"
+      }
+    ]
+  },
+  {
+    "id": 201009,
+    "title": "24th Anniversary Hidden Items",
+    "description": "This achievement is gained upon finding the following 24th Anniversary hidden items.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201021,
+        "label": "Music Box: Ballad of Legends from the task Footloose and Fancy Free"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201022,
+        "label": "Pocket Pixie Prankster from the task Misgnomer"
+      }
+    ]
+  },
+  {
+    "id": 201007,
+    "title": "24th Anniversary Mission",
+    "description": "This achievement is gained upon completing the following 24th Anniversary mission.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201019,
+        "label": "Historian Graya in Crescent Reach - Reetuk the Inexorable"
+      }
+    ]
+  },
+  {
+    "id": 201006,
+    "title": "24th Anniversary Tasks",
+    "description": "This achievement is gained upon completing the following 24th Anniversary tasks.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201016,
+        "label": "Erol Xybella in Plane of Tranquility - Footloose and Fancy Free"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201017,
+        "label": "Talesiyn the Driven in Feerrott - Stones of the Unknown"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201018,
+        "label": "Captain Nalot the Fake in Steamfont Mountains - Misgnomer"
+      }
+    ]
+  },
+  {
+    "id": 201011,
+    "title": "25th Anniversary Mission",
+    "description": "This achievement is gained upon completing the following 25th Anniversary mission.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201025,
+        "label": "Ghrald McMannus in Katta Castellum - Reflections of You"
+      }
+    ]
+  },
+  {
+    "id": 201012,
+    "title": "25th Anniversary Mission Challenge",
+    "description": "This achievement is gained upon completing the following 25th Anniversary mission challenge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201026,
+        "label": "Reflections of You - Gaius Lucianus saw your Vision of a Dragon's Egg for what it truly was."
+      }
+    ]
+  },
+  {
+    "id": 201013,
+    "title": "25th Anniversary Raid",
+    "description": "This achievement is gained upon completing the following 25th Anniversary raid.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201027,
+        "label": "Ghrald McMannus in Katta Castellum - Inner Turmoil"
+      }
+    ]
+  },
+  {
+    "id": 201014,
+    "title": "25th Anniversary Raid Challenges",
+    "description": "This achievement is gained upon completing the following 25th Anniversary raid challenges.",
+    "points": 45,
+    "isHidden": true,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201028,
+        "label": "Inner Turmoil - Don't attempt to charm or mesmerize any constructs or longings."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201029,
+        "label": "Inner Turmoil - Never fail to appease a compulsion."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 201030,
+        "label": "Inner Turmoil - Do not allow yourself to be overcome with Self-Recrimination."
+      }
+    ]
+  },
+  {
+    "id": 201010,
+    "title": "25th Anniversary Tasks",
+    "description": "This achievement is gained upon completing the following 25th Anniversary tasks.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 201023,
+        "label": "Alta the Frightened in Crescent Reach - Chasing What's Not Real"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 201024,
+        "label": "Ghrald McMannus in Katta Castellum - Chasing Madness"
+      }
+    ]
+  },
+  {
+    "id": 200000,
+    "title": "5th Anniversary Task",
+    "description": "This achievement is gained upon completion of the 5th anniversary scavenger hunt.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200000,
+        "label": "Staff of Endless Adventure"
+      }
+    ]
+  },
+  {
+    "id": 200005,
+    "title": "6th Anniversary Task",
+    "description": "This achievement is gained upon completion of the 6th anniversary scavenger hunt.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200005,
+        "label": "Complete 6th Anniversary Scavenger Hunt"
+      }
+    ]
+  },
+  {
+    "id": 200010,
+    "title": "7th Anniversary Tasks",
+    "description": "This achievement is gained upon completion of one of the three 7th anniversary scavenger hunts.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200013,
+        "label": "Complete one of the following Scavenger Hunts:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 200010,
+        "label": "Complete 7th Anniversary Scavenger Hunt from Kivak Icekeeper in Kael"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 200011,
+        "label": "Complete 7th Anniversary Scavenger Hunt from Gimblak Frozensong in Thurgadin"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 200012,
+        "label": "Complete 7th Anniversary Scavenger Hunt from Tilanar Fe`Dhar in Skyshrine"
+      }
+    ]
+  },
+  {
+    "id": 200015,
+    "title": "8th Anniversary Task",
+    "description": "This achievement is gained upon completion of the 8th anniversary scavenger hunt from Tyla Filinav.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200015,
+        "label": "Complete 8th Anniversary Scavenger Hunt from Tyla Filinav"
+      }
+    ]
+  },
+  {
+    "id": 200020,
+    "title": "9th Anniversary Task",
+    "description": "This achievement is gained upon completion of the 9th anniversary scavenger hunt from Garin Thavlish.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 91,
+    "subcategoryName": "Anniversary",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200020,
+        "label": "Complete 9th Anniversary Scavenger Hunt from Garin Thavlish"
+      }
+    ]
+  },
+  {
+    "id": 20230301,
+    "title": "Brew Day: Best Ships Are Friendships",
+    "description": "This achievement is gained upon completion of the following Brew Day tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271139,
+        "label": "Orr the Brave in Crescent Reach - There Are Good Sips"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271140,
+        "label": "Orr the Brave in Crescent Reach - There Are Wood Ships"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271141,
+        "label": "Orr the Brave in Crescent Reach - May They Always Be"
+      }
+    ]
+  },
+  {
+    "id": 200050,
+    "title": "Bristlebane Day: A Fool's Errand",
+    "description": "This achievement is gained upon completing the Bristlebane Day quest 'A Fool's Errand'.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 30000,
+        "label": "Emissary of Bristlebane in New Tanaan - A Fool's Errand"
+      }
+    ]
+  },
+  {
+    "id": 200053,
+    "title": "Bristlebane Day: Fun on the Run",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271032,
+        "label": "Tobo Gleemaker in Crescent Reach - Fun on the Run"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271036,
+        "label": "Tobo Gleemaker in Crescent Reach - Even More Fun"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271037,
+        "label": "Tobo Gleemaker in Crescent Reach - More Fun to Scare"
+      }
+    ]
+  },
+  {
+    "id": 200052,
+    "title": "Bristlebane Day: The Gift of Laughter",
+    "description": "This achievement is gained when you share the Gift of Laughter:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 30003,
+        "label": "Share the Gift of Laughter"
+      }
+    ]
+  },
+  {
+    "id": 200051,
+    "title": "Bristlebane Day: The Repercussions of Fun",
+    "description": "This achievement is gained upon completion of the following task and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 30001,
+        "label": "Bobo Gleemaker in New Tanaan - Let's Have Some Fun!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 30002,
+        "label": "Bobo Gleemaker in New Tanaan - This Ain't Right"
+      }
+    ]
+  },
+  {
+    "id": 20231101,
+    "title": "Champions' Festival: Echoforged Memory",
+    "description": "This achievement is gained upon completion of the following Champions' Festival tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271190,
+        "label": "Balhalyne Treherth in Qeynos Hills - Qeynos Champions' Tale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271191,
+        "label": "Fellen Xalladyr in the Commonlands - Freeport Champions' Tale"
+      }
+    ]
+  },
+  {
+    "id": 30000010,
+    "title": "Erollisi Day: A Guide to Love",
+    "description": "This achievement is gained upon completion of the following Erollisi Day festivities:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270873,
+        "label": "Emissary of Erollisi in New Tanaan - Things Are Best with Friends"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270874,
+        "label": "Grimble Grumblemaker in New Tanaan - The Perfect Companion"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270875,
+        "label": "Collect all 16 of Grimble Grumblemaker's 'gifts.'"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270876,
+        "label": "Complete the Collection: Erollisi Day Lovers"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270877,
+        "label": "Complete the Collection: Erollisi Day Haters"
+      }
+    ]
+  },
+  {
+    "id": 20230201,
+    "title": "Erollisi Day: In the Name of Love",
+    "description": "This achievement is gained upon completion of the following Erollisi Day tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271128,
+        "label": "Farnjer in Misty Thicket - A Fool In Love"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271129,
+        "label": "Farnjer in Misty Thicket - All You Need is Love"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271130,
+        "label": "Deputy Mims in Misty Thicket - Can Anybody Find Me"
+      }
+    ]
+  },
+  {
+    "id": 20221101,
+    "title": "Feast of Giving: To Feed a Foe",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271106,
+        "label": "Zok Glooria in Innothule Swamp - Feast Fit for a Basher"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271107,
+        "label": "Zok Glooria in Innothule Swamp - Feast Fit for a Bouncer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271108,
+        "label": "Bouncer Mako in Innothule Swamp - Feast Fit for a Froglok"
+      }
+    ]
+  },
+  {
+    "id": 200220,
+    "title": "Frostfell: Braxi Roundup",
+    "description": "This achievement is gained upon completion of the following task:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271017,
+        "label": "Santug Claugg's Helper in Plane of Knowledge - Braxi Roundup"
+      }
+    ]
+  },
+  {
+    "id": 200215,
+    "title": "Frostfell: Gathering Jollies",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270991,
+        "label": "Kuutas Gigglegibber in Plane of Knowledge - Gathering Holiday Cheer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271004,
+        "label": "Kuutas Gigglegibber in Plane of Knowledge - Operation: Jolliness (By Any Means Necessary)"
+      }
+    ]
+  },
+  {
+    "id": 200205,
+    "title": "Frostfell: Lost Toymakers",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270979,
+        "label": "Zoog in The Great Divide - Search for Bram Bandyboot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270980,
+        "label": "Zoog in The Great Divide - Rescue Hailie Biggeyes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270981,
+        "label": "Zoog in The Great Divide - The Freedom of Kanf Shadowhands"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270982,
+        "label": "Zoog in The Great Divide - The Savior of Gemmi Goodkin"
+      }
+    ]
+  },
+  {
+    "id": 200210,
+    "title": "Frostfell: Missing Gifts",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270983,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270984,
+        "label": "Elba Straw in Plane of Knowledge - Presents Lost [55-64]"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270985,
+        "label": "Cordys Leaflighter in Plane of Knowledge - Gifts Ungiven [65-74]"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270986,
+        "label": "Rellith Akkanar in Plane of Knowledge - Misplaced Wishes [75+]"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270987,
+        "label": "Maynar Furrwik in Plane of Knowledge - The Frostclaw Lair"
+      }
+    ]
+  },
+  {
+    "id": 200200,
+    "title": "Frostfell: Santug Claugg",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270965,
+        "label": "Complete all of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270966,
+        "label": "a Frostfell Goblin in many cities - Frostfell - Searching for Clues"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270967,
+        "label": "a Frostfell Goblin in many cities - Frostfell - Saving Santug"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270968,
+        "label": "Complete all of the following (After Santug moves to the cities):"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270969,
+        "label": "Santug Claugg in many cities - Frostfell - A Gift for Tinam"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270970,
+        "label": "Santug Claugg in many cities - Frostfell - Santug's List"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270971,
+        "label": "Hargar the Velium Chef in many cities - Frostfell - Baking for a Feast"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270972,
+        "label": "Hargar the Velium Chef in many cities - Frostfell - Fishing for a Feast"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270973,
+        "label": "Fabdabus the explosive in many cities - Frostfell - Fireworks"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270977,
+        "label": "Complete all of the following (Frostfell and the day before and after):"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270978,
+        "label": "Santug Claugg in many cities - Frostfell - Santug's Gift"
+      }
+    ]
+  },
+  {
+    "id": 202105,
+    "title": "Frostfell: To All A Good Doll",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 270993,
+        "label": "Ginjleg Gigglegibber in Timorous Deep - Frostfell - Case of the Misplaced Dollies"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270994,
+        "label": "Ganjleg Gigglegibber in The Plane of Knowledge - Frostfell - Saga of the Empty Purse"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270995,
+        "label": "Belumb, the Yeti in Timorous Deep - Frostfell - An Adorable Yeti Doll"
+      }
+    ]
+  },
+  {
+    "id": 5000,
+    "title": "Frostfell: Twelve Days of Frostfell",
+    "description": "This achievement is completed by obtaining the Twelve Days of Frostfell items.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000,
+        "label": "Aviak Tree House"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5001,
+        "label": "Nimbus of the Two"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5002,
+        "label": "Aviak Pull Along"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5003,
+        "label": "Singing Aviaks"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5004,
+        "label": "Ring of the Five Ornament"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5005,
+        "label": "Aviak of Laying"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5006,
+        "label": "Swan Pond"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5007,
+        "label": "Milk Maid"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5008,
+        "label": "Dance of the Macabre"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5009,
+        "label": "Lord of Leaps"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5010,
+        "label": "Satyr Piper"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5011,
+        "label": "Hasty Bard"
+      }
+    ]
+  },
+  {
+    "id": 200305,
+    "title": "New Year: Changing Luck",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271031,
+        "label": "Kilna Odenburgh in Plane of Knowledge - Time for a Change"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271044,
+        "label": "Pizmip Nobbletod in Plane of Knowledge - All You Need is Luck"
+      }
+    ]
+  },
+  {
+    "id": 200300,
+    "title": "New Year: Frostbeard",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271026,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 271027,
+        "label": "M.C. Tinkerton in Plane of Knowledge - Frostbeard's Lesser Minions"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 271028,
+        "label": "M.C. Tinkerton in Plane of Knowledge - Frostbeard's Greater Minions"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 271029,
+        "label": "M.C. Tinkerton in Plane of Knowledge - Frostbeard's Elite Minions"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271030,
+        "label": "M.C. Tinkerton in Plane of Knowledge - Old Frostbeard"
+      }
+    ]
+  },
+  {
+    "id": 20221201,
+    "title": "New Year: There's A Spark",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271117,
+        "label": "Fauma Reista in the Rathe Mountains - Paper Too Thin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271118,
+        "label": "Fauma Reista in the Rathe Mountains - Buried Too Deep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271119,
+        "label": "a Stolen Phoenix Egg in South Qeynos - Ignite The Light"
+      }
+    ]
+  },
+  {
+    "id": 200125,
+    "title": "Nights of the Dead: Altered Beasts",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270954,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270955,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [6]"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270956,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [16]"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270957,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [26]"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270958,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [36]"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270959,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [46]"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270960,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [56]"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270961,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [66]"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270962,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [76]"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 270963,
+        "label": "Illis Taberish in The Plane of Knowledge - Terror of Illis Taberish [81+]"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270964,
+        "label": "Rhaeda Evel in The Plane of Knowledge - Under Your Skin"
+      }
+    ]
+  },
+  {
+    "id": 202202,
+    "title": "Nights of the Dead: Big Trouble in Little Mesa",
+    "description": "This achievement is gained upon completion of the following mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271094,
+        "label": "Astyn the Gray in Blightfire Moors - Big Trouble in Little Mesa"
+      }
+    ]
+  },
+  {
+    "id": 202203,
+    "title": "Nights of the Dead: Big Trouble in Little Mesa Mission Challenges",
+    "description": "This achievement is gained upon completing the following Nights of the Dead mission challenges.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271095,
+        "label": "Something Rotten: Return five Rotten Mesa Trout to Laghion."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271096,
+        "label": "Fed an Ooze: Kill seven earthen oozes."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271097,
+        "label": "Rapid Remedy: Kill the Festering Carbuncle in less than 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 200115,
+    "title": "Nights of the Dead: Garden Variety Ghouls",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270950,
+        "label": "Rongol in The Western Plains of Karana - Carry the Torch"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270951,
+        "label": "Rongol in The Western Plains of Karana - Scarecrow Roundup"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270952,
+        "label": "Leavalin Mossbite in The Greater Faydark - Necromancer's Garden"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270992,
+        "label": "Cikdew in the Southern Plains of Karana - The Witch's Wishes"
+      }
+    ]
+  },
+  {
+    "id": 202201,
+    "title": "Nights of the Dead: Investing in the Infesting",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271091,
+        "label": "Tully Alford in Blightfire Moors - The Rot Within"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271092,
+        "label": "Tully Alford in Blightfire Moors - The Rot's Sporali"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271093,
+        "label": "Tully Alford in Blightfire Moors - Lurking Beneath the Rot"
+      }
+    ]
+  },
+  {
+    "id": 200130,
+    "title": "Nights of the Dead: Magnificent Winter Squash",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270974,
+        "label": "Arlien Browch in The Commonlands - Missing Pumpkins"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270975,
+        "label": "Hule C. Zarshcl in The Western Plains of Karana - Carving Pumpkins"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270976,
+        "label": "Levy Cullpay in The Western Plains of Karana - Squashing Pumpkins"
+      }
+    ]
+  },
+  {
+    "id": 200100,
+    "title": "Nights of the Dead: Pernicious Puppets",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270923,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270924,
+        "label": "Barsin, the Bone Collector in Kithicor Forest - The Bone Collector [20]"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270925,
+        "label": "Barsin, the Bone Collector in Kithicor Forest - The Bone Collector [41]"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270926,
+        "label": "Barsin, the Bone Collector in Kithicor Forest - The Bone Collector [60]"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270927,
+        "label": "Barsin, the Bone Collector in Kithicor Forest - The Bone Collector [69+]"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270928,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270929,
+        "label": "a Dressed-Up halfling in Kithicor Forest - Missing Costume Pieces [30]"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270930,
+        "label": "a Dressed-Up halfling in Kithicor Forest - Missing Costume Pieces [40]"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270931,
+        "label": "a Dressed-Up halfling in Kithicor Forest - Missing Costume Pieces [53]"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 270932,
+        "label": "a Dressed-Up halfling in Kithicor Forest - Missing Costume Pieces [58]"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270933,
+        "label": "a Dressed-Up halfling in Kithicor Forest - Missing Costume Pieces [66+]"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270934,
+        "label": "Mippie Diggs in Kithicor Forest - The Hungry Halfling"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270935,
+        "label": "Old Man Draykey in Kithicor Forest - Trick-or-Treat for the Old Man"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270936,
+        "label": "Cathil in Kithicor Forest - Out With the Old"
+      }
+    ]
+  },
+  {
+    "id": 200120,
+    "title": "Nights of the Dead: Strange Ways",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270953,
+        "label": "Edmund Strangeways in The Plane of Knowledge - The Hunt for Tattooed Flesh"
+      }
+    ]
+  },
+  {
+    "id": 200105,
+    "title": "Nights of the Dead: The Monster Mash",
+    "description": "This achievement is gained upon completion of the following tasks and mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270937,
+        "label": "a wizened hermit in The Plane of Knowledge - Toadstool Surprise"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270938,
+        "label": "Aragol Gloomflow in Crescent Reach - Aragol's Seance"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270939,
+        "label": "Wicked Winnie in The Plane of Knowledge - Making Candy Apples"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270940,
+        "label": "Syxa Jewlborn in Kithicor Forest - Find the Black Cat"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270941,
+        "label": "a Bonecollector in any starting city - Skeleton Zapping"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270942,
+        "label": "Jilian Florantine in Crescent Reach - Haunted Cave"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270943,
+        "label": "Crazy Charlie in Kithicor Forest - Great Zombie Attack"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270944,
+        "label": "Laryen Lycanthrope in Rivervale - Lycanthrope's Cure"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270945,
+        "label": "Lurgh in Kithicor Forest - Monster Mash"
+      }
+    ]
+  },
+  {
+    "id": 200110,
+    "title": "Nights of the Dead: Undead Rising",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270946,
+        "label": "Marta Stalwart in Toxxulia Forest - Toxxulia Pie Fling"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270947,
+        "label": "Grom Shives in The Nektulos Forest - Nektulos Ghost Rider"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270948,
+        "label": "Silas Lightweaver in The Greater Faydark - Troublemakers in Faydark"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270949,
+        "label": "Corporal Gravlin in The Qeynos Hills - Undead Rising"
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "title": "Rathe Day: Rathe Day Reveler",
+    "description": "This achievement is gained upon completing the following tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1018,
+        "label": "Rathe Day - Korah Kai in Hollowshade Moor -  Owlbear with me for a Moment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1160,
+        "label": "Rathe Day - Korah Kai in Hollowshade Moor - Softer than Othmir Fur"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1161,
+        "label": "Rathe Day - Korah Kai in Hollowshade Moor - Lessons of Luclin Lichen"
+      }
+    ]
+  },
+  {
+    "id": 12003006,
+    "title": "Scorched Sky: Guardians of the Snails",
+    "description": "This achievement is gained upon completing the following Scorched Sky mission.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271087,
+        "label": "Keeper Lyne in the Lavastorm Mountains - Scorched Sky - Guardians of the Snails"
+      }
+    ]
+  },
+  {
+    "id": 12003007,
+    "title": "Scorched Sky: Guardians of the Snails Mission Challenges",
+    "description": "This achievement is gained upon completing the following Scorched Sky mission challenges.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271088,
+        "label": "Guardians of the Snails: Guardian of the Snails - Save all of the Snails"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271089,
+        "label": "Guardians of the Snails: Friend of the Snails - Save at least half of the Snails"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271090,
+        "label": "Guardians of the Snails: Snail Fiend - Let all of the Snails perish"
+      }
+    ]
+  },
+  {
+    "id": 12003004,
+    "title": "Scorched Sky: Somebody Say Fireworks",
+    "description": "This achievement is gained upon completion of the following Scorched Sky tasks.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271076,
+        "label": "Carlene Snizzlefriz in the Lavastorm Mountains - Scorched Sky - Sometimes You Need More"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271077,
+        "label": "Carlene Snizzlefriz in the Lavastorm Mountains - Scorched Sky - Make Them Brighter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271078,
+        "label": "Carlene Snizzlefriz in the Lavastorm Mountains - Scorched Sky - Brighter Than the Moon"
+      }
+    ]
+  },
+  {
+    "id": 12003000,
+    "title": "Stomples Day: Spring Cleaning",
+    "description": "This achievement is gained upon completion of the following Stomples Day tasks.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271045,
+        "label": "Mei Glacierbane in Eastern Wastes - Stomples Day - A Flurry of Spring"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271046,
+        "label": "Seymour Saxifragus in Eastern Wastes - Stomples Day - Here Comes Spring"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271047,
+        "label": "Mei Glacierbane in Eastern Wastes - Stomples Day - Spring Fever"
+      }
+    ]
+  },
+  {
+    "id": 200080,
+    "title": "Stomples Day: The Origin of the Cuniculus",
+    "description": "This achievement is gained upon completion of the Stomples Day quest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200107,
+        "label": "Grundle Cogwelder in the Plane of Knowledge - The Origin of the Cuniculus"
+      }
+    ]
+  },
+  {
+    "id": 20230803,
+    "title": "Stone Cold Summer: Spores, Molds, and Fungus",
+    "description": "This achievement is gained upon completing the following Stone Cold Summer mission challenges. Challenges must be completed prior to defeating the boss.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271179,
+        "label": "Have A Hobby: Eliminate five spreading fungus patches."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271180,
+        "label": "Funky Time: Kill Portho Bellow in less than 30 minutes."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271189,
+        "label": "It's Creepy, Dig It: Eliminate the grasping root patches."
+      }
+    ]
+  },
+  {
+    "id": 20230801,
+    "title": "Stone Cold Summer: Stories in Stone",
+    "description": "This achievement is gained upon completion of the following Stone Cold Summer tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271169,
+        "label": "Waagosh in the Feerrott - Skin So Soft"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271176,
+        "label": "Waagosh in the Feerrott - No Peeking or Eating"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271177,
+        "label": "Waagosh in the Feerrott - Cure for the Blues"
+      }
+    ]
+  },
+  {
+    "id": 20230802,
+    "title": "Stone Cold Summer: Underground Spore Production",
+    "description": "This achievement is gained upon completion of the following Stone Cold Summer mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271178,
+        "label": "Rubak in the North Desert of Ro - Feel So Fungi"
+      }
+    ]
+  },
+  {
+    "id": 20230501,
+    "title": "Tempest Festival: Is This Madness?",
+    "description": "This achievement is gained upon completion of the following Tempest Festival tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271150,
+        "label": "Rand Tanlonikan in Barren Coast - A Curse of Madness"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271151,
+        "label": "Rand Tanlonikan in Barren Coast - Method to the Madness"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271152,
+        "label": "Rand Tanlonikan in Barren Coast - Lessons of Madness"
+      }
+    ]
+  },
+  {
+    "id": 12003002,
+    "title": "Tempest Festival: Reign of Rain",
+    "description": "This achievement is gained upon completion of the following tasks:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271064,
+        "label": "Rosalind Mischeva in the Plane of Knowledge - Tempest Festival - Here Comes the Rain"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271065,
+        "label": "Rosalind Mischeva in the Plane of Knowledge - Tempest Festival - Singing in the Reign"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271066,
+        "label": "Ralph Mischeva in the Jaggedpine Forest - Tempest Festival - Reign of Rain"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271075,
+        "label": "Ralph Mischeva in the Jaggedpine Forest - Tempest Festival -  Felled by the Rain"
+      }
+    ]
+  },
+  {
+    "id": 20230502,
+    "title": "Tempest Festival: They Came From Below",
+    "description": "This achievement is gained upon completion of the following Tempest Festival mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271153,
+        "label": "Loyelle Tanlonikan in Barren Coast - Mouth of Madness"
+      }
+    ]
+  },
+  {
+    "id": 20230503,
+    "title": "Tempest Festival: They Came From Below Mission Challenges",
+    "description": "This achievement is gained upon completing the following Tempest Festival mission challenges.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 92,
+    "subcategoryName": "Holiday",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271154,
+        "label": "Storm Debris: Collect the Remnants of the Scrykin."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271155,
+        "label": "Lightning Round: Kill Anatol Trogon in less than 30 minutes."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271156,
+        "label": "Reptile Displacement: Kill the Ancient Croc."
+      }
+    ]
+  },
+  {
+    "id": 600070,
+    "title": "Autumn Appreciation Bonus '16",
+    "description": "Logging in with an All Access Membership grants you an exclusive reward (one reward per character that logs in).",
+    "points": 0,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 600072,
+        "label": "Display: Event 1088 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 600070,
+        "label": "Log in between Sept 28-Oct 12"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 600071,
+        "label": "Have an All Access Membership"
+      }
+    ]
+  },
+  {
+    "id": 600075,
+    "title": "Autumn Appreciation Bonus '17",
+    "description": "Logging in with an All Access Membership grants you an exclusive reward (one reward per character that logs in).",
+    "points": 0,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 600076,
+        "label": "Display: Event 1093 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 600075,
+        "label": "Log in between Sept 20-Oct 15"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 600071,
+        "label": "Have an All Access Membership"
+      }
+    ]
+  },
+  {
+    "id": 30000075,
+    "title": "Death, Death, Death!: Deathdealer",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270905,
+        "label": "The Avatar of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270906,
+        "label": "Doomshade"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270907,
+        "label": "Quarm"
+      },
+      {
+        "order": 4,
+        "type": 3,
+        "value": 270912,
+        "label": "Death, Death, Death: Doombringer"
+      }
+    ]
+  },
+  {
+    "id": 30000050,
+    "title": "Death, Death, Death!: Decimator",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270890,
+        "label": "an ancient cyclops"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270891,
+        "label": "Cazel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270892,
+        "label": "Lord Nagafen"
+      }
+    ]
+  },
+  {
+    "id": 30000055,
+    "title": "Death, Death, Death!: Defeater",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270893,
+        "label": "Lady Vox"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270894,
+        "label": "a dracoliche"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270895,
+        "label": "Gorenaire"
+      },
+      {
+        "order": 4,
+        "type": 3,
+        "value": 270908,
+        "label": "Death, Death, Death: Decimator"
+      }
+    ]
+  },
+  {
+    "id": 30000060,
+    "title": "Death, Death, Death!: Demolisher",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270896,
+        "label": "Trakanon"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270897,
+        "label": "Velketor the Sorceror"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270898,
+        "label": "King Tormax"
+      },
+      {
+        "order": 4,
+        "type": 3,
+        "value": 270909,
+        "label": "Death, Death, Death: Defeater"
+      }
+    ]
+  },
+  {
+    "id": 30000065,
+    "title": "Death, Death, Death!: Destroyer",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270899,
+        "label": "Phara Dar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270900,
+        "label": "Derakor the Vindicator"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270901,
+        "label": "Lord Yelinak"
+      },
+      {
+        "order": 4,
+        "type": 3,
+        "value": 270910,
+        "label": "Death, Death, Death: Demolisher"
+      }
+    ]
+  },
+  {
+    "id": 30000070,
+    "title": "Death, Death, Death!: Doombringer",
+    "description": "This achievement is gained upon defeating the following Death, Death, Death! targets:",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270902,
+        "label": "Vulak`Aerr"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270903,
+        "label": "The Four Warders"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270904,
+        "label": "The Statue of Rallos Zek"
+      },
+      {
+        "order": 4,
+        "type": 3,
+        "value": 270911,
+        "label": "Death, Death, Death: Destroyer"
+      }
+    ]
+  },
+  {
+    "id": 30000080,
+    "title": "Stone Cold Summer Mission",
+    "description": "This achievement is gained upon completion of the summer mission:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270913,
+        "label": "Baga's Stand"
+      }
+    ]
+  },
+  {
+    "id": 30000085,
+    "title": "Stone Cold Summer Tasks",
+    "description": "This achievement is gained upon completion of one of the summer tasks:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270914,
+        "label": "Complete one of the following:"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270915,
+        "label": "Only the Blind Will See [15]"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270916,
+        "label": "Only the Blind Will See [25]"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270917,
+        "label": "Only the Blind Will See [35]"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 270918,
+        "label": "Only the Blind Will See [45]"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270919,
+        "label": "Only the Blind Will See [55]"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270920,
+        "label": "Only the Blind Will See [65]"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270921,
+        "label": "Only the Blind Will See [75]"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270922,
+        "label": "Only the Blind Will See [80+]"
+      }
+    ]
+  },
+  {
+    "id": 600090,
+    "title": "Summer Appreciation Bonus '18",
+    "description": "Logging in with an All Access Membership grants you an exclusive reward (one reward per character that logs in).",
+    "points": 0,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 600077,
+        "label": "Display: Event 1095 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 600078,
+        "label": "Log in between July 25-Aug 15"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 600071,
+        "label": "Have an All Access Membership"
+      }
+    ]
+  },
+  {
+    "id": 600430,
+    "title": "Summer Appreciation Bonus '19",
+    "description": "Logging in with an All Access Membership grants you an exclusive reward (one reward per character that logs in).",
+    "points": 0,
+    "isHidden": true,
+    "subcategoryId": 93,
+    "subcategoryName": "Seasonal",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 600430,
+        "label": "Display: Event 1097 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 600431,
+        "label": "Log in between July 1-July 8"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 600071,
+        "label": "Have an All Access Membership"
+      }
+    ]
+  },
+  {
+    "id": 12081110,
+    "title": "All That Glitters is Lava (Nagafen's Lair)",
+    "description": "Even the rivers of lava are filled with treasure in Nagafen's Lair! This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081111,
+        "label": "Squishy Sapphire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081112,
+        "label": "Amorphous Alexandrite"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081113,
+        "label": "Doughy Diamond"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081114,
+        "label": "Spongy Spinel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081115,
+        "label": "Pliable Pearl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081116,
+        "label": "Open Opal"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081117,
+        "label": "Trapped Topaz"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081118,
+        "label": "Resilient Ruby"
+      }
+    ]
+  },
+  {
+    "id": 12081140,
+    "title": "Bat Attack (Nagafen's Lair)",
+    "description": "There's more than just dragons and giants to fear in Nagafen's Lair. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081141,
+        "label": "Gooey Bat Eye"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081142,
+        "label": "Ripped Jaw"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081143,
+        "label": "Relentless Bat Eye"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081144,
+        "label": "Chunk of Fur"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081145,
+        "label": "Dissolved Kobold Arm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081146,
+        "label": "Gnome-sized Wings"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081147,
+        "label": "Clutching Foot"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081148,
+        "label": "Webbed Leg"
+      }
+    ]
+  },
+  {
+    "id": 20221102,
+    "title": "Chewed Froglok Snacks (Innothule Swamp)",
+    "description": "A collection of previously chewed-on froglok snacks found on the ground in Innothule Swamp. These items can only be found during the Feast of Giving event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271109,
+        "label": "Chewed Candied Mushroom"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271110,
+        "label": "Chewed Shrimp Chips"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271111,
+        "label": "Chewed Beetle Kabob"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271112,
+        "label": "Chewed Honeycomb Marshmallow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271113,
+        "label": "Chewed Fly Roasted Oat Bites"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271114,
+        "label": "Chewed Silvervine"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271115,
+        "label": "Chewed Citrus Candy Floss"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271116,
+        "label": "Chewed Salted Carp Roe"
+      }
+    ]
+  },
+  {
+    "id": 20230202,
+    "title": "Citadel Orchids (Liberated Citadel of Runnyeye)",
+    "description": "A collection of Citadel orchids found around the Liberated Citadel of Runnyeye. These flowers can only be found during the Erollisi Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271131,
+        "label": "Flaxen Citadel Orchid"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271132,
+        "label": "Blushing Citadel Orchid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271133,
+        "label": "Amethyst Citadel Orchid"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271134,
+        "label": "Cerulean Citadel Orchid"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271135,
+        "label": "Carnelian Petrified Orchid"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271136,
+        "label": "Agate Petrified Orchid"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271137,
+        "label": "Chalcedony Petrified Orchid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271138,
+        "label": "Fire Agate Petrified Orchid"
+      }
+    ]
+  },
+  {
+    "id": 202204,
+    "title": "Clutch of Fungi (Blightfire Moors)",
+    "description": "A collection of spores from disease ridden sporali spreading through Blightfire Moors. These items can only be found during the Nights of the Dead event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271098,
+        "label": "Diseased Sporali Spreader"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271099,
+        "label": "Maladious Sporali Spreader"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271100,
+        "label": "Poisonous Sporali Spreader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271101,
+        "label": "Venomous Sporali Spreader"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271102,
+        "label": "Infectious Sporali Spreader"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271103,
+        "label": "Sickly Sporali Spreader"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271104,
+        "label": "Virulent Sporali Spreader"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271105,
+        "label": "Noxious Sporali Spreader"
+      }
+    ]
+  },
+  {
+    "id": 20230804,
+    "title": "Creepers, Dodders, and Uninvited Lodgers (The Feerrott)",
+    "description": "The Feerrott has shared a collection of parasitic plants. These items can only be found during the Stone Cold Summer event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271181,
+        "label": "Blightfire Stinkvine"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271182,
+        "label": "Small-Toothed Dodder"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271183,
+        "label": "Golden Dodder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271184,
+        "label": "Antonican Mistletoe Vine"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271185,
+        "label": "Innothule Stinkvine"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271186,
+        "label": "Purple Toothwort"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271187,
+        "label": "Faydwer Mistletoe Vine"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271188,
+        "label": "Feerrott Stinkvine"
+      }
+    ]
+  },
+  {
+    "id": 20230504,
+    "title": "Curiously Crusty (Barren Coast)",
+    "description": "The darkened sea has shared a collection of crusty shells. These items can only be found during the Tempest Festival.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271157,
+        "label": "Buried Sea Clam Shell"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271158,
+        "label": "Buried Sea Snail Shell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271159,
+        "label": "Buried Sea Oyster Shell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271160,
+        "label": "Buried Sea Scallop Shell"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271161,
+        "label": "Buried Sea Urchin Shell"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271162,
+        "label": "Buried Sea Starfish Shell"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271163,
+        "label": "Buried Sea Conch Shell"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271164,
+        "label": "Buried Sea Sand Biscuit Shell"
+      }
+    ]
+  },
+  {
+    "id": 12081120,
+    "title": "Dedicated to the Flame (Nagafen's Lair)",
+    "description": "A group of fire giants have dedicated their lives to defending Nagafen in his lair. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081121,
+        "label": "Flaming Bat Meat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081122,
+        "label": "Sweaty Turban"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081123,
+        "label": "Oversized Poker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081124,
+        "label": "Throwing Pebble"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081125,
+        "label": "Emblem of Nagafen"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081126,
+        "label": "Giant Drumstick"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081127,
+        "label": "Massive Dagger"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081128,
+        "label": "Scorched Pamphlet"
+      }
+    ]
+  },
+  {
+    "id": 12003003,
+    "title": "Discovery of Thunder (Jaggedpine Forest)",
+    "description": "These pieces of poem have been spread through the Jaggedpine Forest. These items can only be found during the Tempest Festival event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271067,
+        "label": "Discovery of Thunder Part 1"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271068,
+        "label": "Discovery of Thunder Part 2"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271069,
+        "label": "Discovery of Thunder Part 3"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271070,
+        "label": "Discovery of Thunder Part 4"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271071,
+        "label": "Discovery of Thunder Part 5"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271072,
+        "label": "Discovery of Thunder Part 6"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271073,
+        "label": "Discovery of Thunder Part 7"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271074,
+        "label": "Discovery of Thunder Part 8"
+      }
+    ]
+  },
+  {
+    "id": 20231102,
+    "title": "Echoforged Cracked Bone Fragments",
+    "description": "A few handfuls of cracked bones have been found scattered across the Commonlands and Qeynos Hills.  These items can only be found during the Champions' Festival event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271192,
+        "label": "Echoforged Cracked Barbarian Bone"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271193,
+        "label": "Echoforged Cracked High Elf Bone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271194,
+        "label": "Echoforged Cracked Human Bone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271195,
+        "label": "Echoforged Cracked Iksar Bone"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271196,
+        "label": "Echoforged Cracked Kerra Bone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271197,
+        "label": "Echoforged Cracked Ogre Bone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271198,
+        "label": "Echoforged Cracked Orc Bone"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271199,
+        "label": "Echoforged Cracked Ratonga Bone"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 271200,
+        "label": "Echoforged Cracked Troll Bone"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 271201,
+        "label": "Echoforged Cracked Wood Elf Bone"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 271202,
+        "label": "Echoforged Cracked Dark Elf Bone"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 271203,
+        "label": "Echoforged Cracked Dwarf Bone"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 271204,
+        "label": "Echoforged Cracked Erudite Bone"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 271205,
+        "label": "Echoforged Cracked Froglok Bone"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 271206,
+        "label": "Echoforged Cracked Gnoll Bone"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 271207,
+        "label": "Echoforged Cracked Gnome Bone"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 271208,
+        "label": "Echoforged Cracked Half Elf Bone"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 271209,
+        "label": "Echoforged Cracked Halfling Bone"
+      }
+    ]
+  },
+  {
+    "id": 12002920,
+    "title": "Erollisi Day Haters (Neriak - Foreign Quarter)",
+    "description": "Aggressive letters written by denizens of Neriak's Foreign Quarter during the Erollisi Day holiday. These items can only be found during the Erollisi Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12002921,
+        "label": "Hate Letter: Creepy Guard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12002922,
+        "label": "Hate Letter: Shut Up And Drink"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12002923,
+        "label": "Hate Letter: The Highest Form of Flattery"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12002924,
+        "label": "Hate Letter: Roar From the Balcony"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12002925,
+        "label": "Hate Letter: Ogre Dominance"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12002926,
+        "label": "Hate Letter: Sticky Fingers"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12002927,
+        "label": "Hate Letter: Customer Complaint"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12002928,
+        "label": "Hate Letter: Angry Boss"
+      }
+    ]
+  },
+  {
+    "id": 12002910,
+    "title": "Erollisi Day Lovers (Halas)",
+    "description": "Passionate letters written by citizens of Halas to one another during the Erollisi Day holiday. These items can only be found during the Erollisi Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12002911,
+        "label": "Love Letter: Renter's Proposal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12002912,
+        "label": "Love Letter: The Pen Is Mightier"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12002913,
+        "label": "Love Letter: Tasty First Date"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12002914,
+        "label": "Love Letter: Closing Time"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12002915,
+        "label": "Love Letter: Failed Attempt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12002916,
+        "label": "Love Letter: Direct Offer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12002917,
+        "label": "Love Letter: Sister Pranks"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12002918,
+        "label": "Love Letter: Growing Older"
+      }
+    ]
+  },
+  {
+    "id": 20221202,
+    "title": "Festival Lights",
+    "description": "Carefully crafted candles and clay oil lamps have been spread throughout the Halas, West Freeport, and Rathe Mountains. These items can only be found during the Lantern Festival.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271120,
+        "label": "Red Votive Candle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271121,
+        "label": "Blue Votive Candle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271122,
+        "label": "Green Votive Candle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271123,
+        "label": "Black Votive Candle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271124,
+        "label": "Red Clay Oil Lamp"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271125,
+        "label": "Blue Clay Oil Lamp"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271126,
+        "label": "Green Clay Oil Lamp"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271127,
+        "label": "Black Clay Oil Lamp"
+      }
+    ]
+  },
+  {
+    "id": 12003001,
+    "title": "It's a Mixed Bag",
+    "description": "Curious jelly beans have been spread throughout the Eastern Wastes and Western Wastes. These items can only be found during the Stomples Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271048,
+        "label": "Black Jelly Beans"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271049,
+        "label": "Red Jelly Beans"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271050,
+        "label": "Blue Jelly Beans"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271051,
+        "label": "Brown Jelly Beans"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271052,
+        "label": "Orange Jelly Beans"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271053,
+        "label": "Green Jelly Beans"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271054,
+        "label": "Mini Jelly Beans"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271055,
+        "label": "Mixed Jelly Beans"
+      }
+    ]
+  },
+  {
+    "id": 12020210,
+    "title": "Misplaced Dollies",
+    "description": "Misplaced Frostfell dolls that have been lost by a curious yeti. These items can only be found during the Frostfell event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271005,
+        "label": "Chattering Dolly"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271006,
+        "label": "Sliding Dolly"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271007,
+        "label": "Fluttering Dolly"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271008,
+        "label": "Romping Dolly"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271009,
+        "label": "Dancing Dolly"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271010,
+        "label": "Clicking Dolly"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271011,
+        "label": "Guarding Dolly"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271012,
+        "label": "Whirling Dolly"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 271013,
+        "label": "Growling Dolly"
+      }
+    ]
+  },
+  {
+    "id": 200054,
+    "title": "Practically Impractical Gifts (Crescent Reach)",
+    "description": "Impractical gifts have been dropped throughout Crescent Reach. These items can only be found during the Bristlebane Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271056,
+        "label": "Green Bulkish Hands"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271057,
+        "label": "Floating Eyeball"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271058,
+        "label": "Laughing Face Mask"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271059,
+        "label": "Shiny Jokestar Coins"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271060,
+        "label": "Gnomish Hand Buzzer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271061,
+        "label": "Sour Gummy Candy"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271062,
+        "label": "Jumping Jungle Spider"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271063,
+        "label": "Distorting Sky Mirror"
+      }
+    ]
+  },
+  {
+    "id": 12081130,
+    "title": "Puppy Love (Nagafen's Lair)",
+    "description": "The kobolds in Nagafen's Lair have a romantic streak. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081131,
+        "label": "Dried Flowers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081132,
+        "label": "Kissed Note"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081133,
+        "label": "Heart-shaped Lava"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081134,
+        "label": "Red Scarf"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081135,
+        "label": "Picnic of Delicacies"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081136,
+        "label": "Slobbery Bone"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081137,
+        "label": "Bronze Ring"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081138,
+        "label": "Bad Kobold Poem"
+      }
+    ]
+  },
+  {
+    "id": 12081020,
+    "title": "Reluctant Recruits (Castle Mistmoore)",
+    "description": "Not all the vampires in Castle Mistmoore prefer to recruit followers by force. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081021,
+        "label": "Aged Note"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081022,
+        "label": "Kirina's Diary"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081023,
+        "label": "Rist's Letter"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081024,
+        "label": "Ripped Diary Page"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081025,
+        "label": "Fral's Letter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081026,
+        "label": "Last Diary Page"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081027,
+        "label": "Rist's Victory"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081028,
+        "label": "Mayong Mistmoore's Diary Page"
+      }
+    ]
+  },
+  {
+    "id": 20230505,
+    "title": "Storm Debris (Barren Coast: Mouth of Madness)",
+    "description": "The sticky residue of scrykin who lost their grip on reality. These items can only be found during the Tempest Festival.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271165,
+        "label": "Remnant of an Enraged Scrykin"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271166,
+        "label": "Remnant of a Mad Scrykin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271167,
+        "label": "Remnant of a Crazed Scrykin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271168,
+        "label": "Remnant of a Demented Scrykin"
+      }
+    ]
+  },
+  {
+    "id": 12081010,
+    "title": "The Silence of Daylight (Castle Mistmoore)",
+    "description": "Wherever there are vampires, there will be hunters, even in Castle Mistmoore. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081011,
+        "label": "Torn Eye Patch"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081012,
+        "label": "Bloody Stake"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081013,
+        "label": "Scolding Letter"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081014,
+        "label": "Holy Water"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081015,
+        "label": "Broken Fang Necklace"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081016,
+        "label": "Nighthawk Talisman"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081017,
+        "label": "Witch's Reagents"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081018,
+        "label": "The Talk"
+      }
+    ]
+  },
+  {
+    "id": 12003005,
+    "title": "Throw Your Own Hand (Lavastorm Mountains)",
+    "description": "Pieces of a long-forgotten game have been found throughout the Lavastorm Mountains. These pieces can only be found during the Scorched Sky event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271079,
+        "label": "Roughed Stone Peg"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271080,
+        "label": "Worn Stone Peg"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271081,
+        "label": "Capped Stone Peg"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271082,
+        "label": "New Stone Peg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271083,
+        "label": "Oiled Stone Peg"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271084,
+        "label": "Shined Stone Peg"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271085,
+        "label": "Silver Threaded Stone Peg"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271086,
+        "label": "Bronze Threaded Stone Peg"
+      }
+    ]
+  },
+  {
+    "id": 12081040,
+    "title": "Timeless Fashion (Castle Mistmoore)",
+    "description": "Some clothes never go out of style. Just ask the ageless vampires of Castle Mistmoore. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081041,
+        "label": "Lacy Wrist Cuffs"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081042,
+        "label": "Noble Robe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081043,
+        "label": "Crescent Moon Earrings"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081044,
+        "label": "Last Breath"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081045,
+        "label": "Black Suit Coat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081046,
+        "label": "Slinky Red Dress"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081047,
+        "label": "Draping Cape"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081048,
+        "label": "Blood Red Corset"
+      }
+    ]
+  },
+  {
+    "id": 12081030,
+    "title": "Vampire Trappings (Castle Mistmoore)",
+    "description": "The vampires of Castle Mistmoore live a less than moral lifestyle. This achievement can only be completed during the Hardcore Heritage event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 12081031,
+        "label": "Silver Dagger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 12081032,
+        "label": "Blood Bag"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 12081033,
+        "label": "Political Plottings"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 12081034,
+        "label": "Broken Relic"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 12081035,
+        "label": "Gag"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 12081036,
+        "label": "Drained Rabbit"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 12081037,
+        "label": "Ornate Rapier"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 12081038,
+        "label": "Valuable Gift"
+      }
+    ]
+  },
+  {
+    "id": 20230302,
+    "title": "Vintage Toy Ships (Stone Hive)",
+    "description": "A Bixie Prankster has wandered off with a collection of vintage toy ships lost in the Stone Hive. These items can only be found during the Brew Day event.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 94,
+    "subcategoryName": "Collections",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 271142,
+        "label": "Blue Rowboat"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271143,
+        "label": "White Rowboat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271144,
+        "label": "Gnomish Airship"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271145,
+        "label": "Pirate Brig"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271146,
+        "label": "White Swan Ship"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271147,
+        "label": "Regal Schooner"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271148,
+        "label": "Classic Longship"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271149,
+        "label": "Willful Sloop"
+      }
+    ]
+  },
+  {
+    "id": 200136,
+    "title": "Bloodied Chess Set (Butcherblock Mountains)",
+    "description": "A grim set of bloodied chess pieces recovered from the rugged Butcherblock Mountains.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1153,
+        "label": "Event Active: 1171 (Year of Darkpaw Collections: June+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1092,
+        "label": "A Bloodied Bishop Chess Piece"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1093,
+        "label": "A Bloodied Chess Board"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1094,
+        "label": "A Bloodied Chess Case"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1095,
+        "label": "A Bloodied King Chess Piece"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1096,
+        "label": "A Bloodied Knight Chess Piece"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1097,
+        "label": "A Bloodied Pawn Chess Piece"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1098,
+        "label": "A Bloodied Queen Chess Piece"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1099,
+        "label": "A Bloodied Rook Chess Piece"
+      }
+    ]
+  },
+  {
+    "id": 200147,
+    "title": "Broken Key of Forests (Greater Faydark)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw March quest 'Broken Key of Forests'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27124,
+        "label": "Display: Event 1144 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271214,
+        "label": "Broken Key of Forests"
+      }
+    ]
+  },
+  {
+    "id": 200149,
+    "title": "Broken Key of Frost (Everfrost Peaks)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw April quest 'Broken Key of Frost'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27125,
+        "label": "Display: Event 1145 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271216,
+        "label": "Broken Key of Frost"
+      }
+    ]
+  },
+  {
+    "id": 200145,
+    "title": "Broken Key of Lava (Lavastorm Mountains)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw February quest 'Broken Key of Lava'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27123,
+        "label": "Display: Event 1143 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271212,
+        "label": "Broken Key of Lava"
+      }
+    ]
+  },
+  {
+    "id": 200143,
+    "title": "Broken Key of Sands (South Desert of Ro)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw January quest 'Broken Key of Sands'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27122,
+        "label": "Display: Event 1142 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271210,
+        "label": "Broken Key of Sands"
+      }
+    ]
+  },
+  {
+    "id": 200151,
+    "title": "Broken Key of Sky (Lake Rathetear)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw May quest 'Broken Key of Sky'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27126,
+        "label": "Display: Event 1146 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271218,
+        "label": "Broken Key of Sky"
+      }
+    ]
+  },
+  {
+    "id": 200138,
+    "title": "Clay Golem Parts (City of Mist)",
+    "description": "A captivating collection of deactivated clay golem parts that were salvaged from the enigmatic City of Mist.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1155,
+        "label": "Event Active: 1173 (Year of Darkpaw Collections: August+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1108,
+        "label": "A Clay Golem Essence"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1109,
+        "label": "A Clay Golem Head"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1110,
+        "label": "A Clay Golem Heart"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1111,
+        "label": "A Clay Golem Left Arm"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1112,
+        "label": "A Clay Golem Left Leg"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1113,
+        "label": "A Clay Golem Right Arm"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1114,
+        "label": "A Clay Golem Right Leg"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1115,
+        "label": "A Clay Golem Torso"
+      }
+    ]
+  },
+  {
+    "id": 200135,
+    "title": "Crystalline Shards (Permafrost Keep)",
+    "description": "A mesmerizing collection of shimmering crystalline shards found within the chilling depths of Permafrost Keep.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1152,
+        "label": "Event Active: 1170 (Year of Darkpaw Collections: May+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1084,
+        "label": "A Brittle Crystalline Shard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1085,
+        "label": "A Cracked Crystalline Shard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1086,
+        "label": "A Discolored Crystalline Shard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1087,
+        "label": "A Glowing Crystalline Shard"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1088,
+        "label": "A Marbled Crystalline Shard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1089,
+        "label": "A Mottled Crystalline Shard"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1090,
+        "label": "A Pristine Crystalline Shard"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1091,
+        "label": "A Sharpened Crystalline Shard"
+      }
+    ]
+  },
+  {
+    "id": 200142,
+    "title": "Dragon Bones (Western Wastes)",
+    "description": "An imposing collection of dragon bones scattered amidst the icy and desolate landscape of The Western Wastes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1159,
+        "label": "Event Active: 1177 (Year of Darkpaw Collections: December+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1140,
+        "label": "A Broken Dragon Bone Shard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1141,
+        "label": "A Chipped Dragon Bone Shard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1142,
+        "label": "A Flawless Dragon Bone Shard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1143,
+        "label": "A Glowing Dragon Bone Shard"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1144,
+        "label": "A Gnawed Dragon Bone Shard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1145,
+        "label": "A Pristine Dragon Bone Shard"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1146,
+        "label": "A Scuffed Dragon Bone Shard"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1147,
+        "label": "A Shiny Dragon Bone Shard"
+      }
+    ]
+  },
+  {
+    "id": 200139,
+    "title": "Drolvarg Medallions (Karnor's Castle)",
+    "description": "A collection of polished medallions taken from the ranks of drolvarg occupying Karnor's Castle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1156,
+        "label": "Event Active: 1174 (Year of Darkpaw Collections: September+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1116,
+        "label": "A Drolvarg Bodyguard's Medallion"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1117,
+        "label": "A Drolvarg Captain's Medallion"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1118,
+        "label": "A Drolvarg Footsoldier's Medallion"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1119,
+        "label": "A Drolvarg Guardian's Medallion"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1120,
+        "label": "A Drolvarg Pawbuster's Medallion"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1121,
+        "label": "A Drolvarg Sentry's Medallion"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1122,
+        "label": "A Drolvarg Shaman's Medallion"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1123,
+        "label": "A Drolvarg Warlord's Medallion"
+      }
+    ]
+  },
+  {
+    "id": 200133,
+    "title": "Fae Drake Wings (The Greater Faydark)",
+    "description": "A captivating collection of iridescent fae drake wings gathered from the enchanted forests of The Greater Faydark.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1150,
+        "label": "Event Active: 1168 (Year of Darkpaw Collections: March+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1068,
+        "label": "A Bright Fae Drake Wing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1069,
+        "label": "A Burnished Fae Drake Wing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1070,
+        "label": "A Cracked Fae Drake Wing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1071,
+        "label": "A Faded Fae Drake Wing"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1072,
+        "label": "A Glowing Fae Drake Wing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1073,
+        "label": "A Plain Fae Drake Wing"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1074,
+        "label": "A Shimmering Fae Drake Wing"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1075,
+        "label": "A Tarnished Fae Drake Wing"
+      }
+    ]
+  },
+  {
+    "id": 200131,
+    "title": "Gnoll Essences (Blackburrow)",
+    "description": "The strange amalgamation of parts that somehow make up the gnolls of Blackburrow.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1148,
+        "label": "Event Active: 1166 (Year of Darkpaw Collections: January+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1052,
+        "label": "Essence of a Gnoll's Bark"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1053,
+        "label": "Essence of a Gnoll's Bite"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1054,
+        "label": "Essence of a Gnoll's Bravery"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1055,
+        "label": "Essence of a Gnoll's Fortitude"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1056,
+        "label": "Essence of a Gnoll's Frenzy"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1057,
+        "label": "Essence of a Gnoll's Howl"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1058,
+        "label": "Essence of a Gnoll's Snarl"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1059,
+        "label": "Essence of a Gnoll's Yip"
+      }
+    ]
+  },
+  {
+    "id": 200141,
+    "title": "Mysterious Decoctions (Velketor's Labyrinth)",
+    "description": "A series of unlabeled decoctions that were meticulously extracted and stored in Velketor's Labyrinth.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1158,
+        "label": "Event Active: 1176 (Year of Darkpaw Collections: November+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1132,
+        "label": "A Mysterious Black Decoction"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1133,
+        "label": "A Mysterious Blue Decoction"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1134,
+        "label": "A Mysterious White Decoction"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1135,
+        "label": "A Mysterious Green Decoction"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1136,
+        "label": "A Mysterious Orange Decoction"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1137,
+        "label": "A Mysterious Purple Decoction"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1138,
+        "label": "A Mysterious Red Decoction"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1139,
+        "label": "A Mysterious Yellow Decoction"
+      }
+    ]
+  },
+  {
+    "id": 200148,
+    "title": "Oasis of Forests (Tides of Time)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw March heroic adventure 'Oasis of Forests'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27124,
+        "label": "Display: Event 1144 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271215,
+        "label": "Oasis of Forests"
+      }
+    ]
+  },
+  {
+    "id": 200150,
+    "title": "Oasis of Frost (Tides of Time)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw April heroic adventure 'Oasis of Frost'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27125,
+        "label": "Display: Event 1145 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271217,
+        "label": "Oasis of Frost"
+      }
+    ]
+  },
+  {
+    "id": 200146,
+    "title": "Oasis of Lava (Tides of Time)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw February heroic adventure 'Oasis of Lava'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27123,
+        "label": "Display: Event 1143 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271213,
+        "label": "Oasis of Lava"
+      }
+    ]
+  },
+  {
+    "id": 200144,
+    "title": "Oasis of Sand (Tides of Time)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw January heroic adventure  'Oasis of Sand'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27122,
+        "label": "Display: Event 1142 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271211,
+        "label": "Oasis of Sand"
+      }
+    ]
+  },
+  {
+    "id": 200152,
+    "title": "Oasis of Sky (Tides of Time)",
+    "description": "This achievement is gained upon completing the Year of Darkpaw May heroic adventure 'Oasis of Sky'.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27126,
+        "label": "Display: Event 1146 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271219,
+        "label": "Oasis of Sky"
+      }
+    ]
+  },
+  {
+    "id": 200140,
+    "title": "Poison-Scarred Locket (The Ruins of Sebilis)",
+    "description": "The parts of a ruined locket, scarred by poisonous dragon breath in The Ruins of Sebilis.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1157,
+        "label": "Event Active: 1175 (Year of Darkpaw Collections: October+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1124,
+        "label": "A Poison-Scarred Bail"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1125,
+        "label": "A Poison-Scarred Chain"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1126,
+        "label": "A Poison-Scarred Clasp"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1127,
+        "label": "A Poison-Scarred Hinge"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1128,
+        "label": "A Poison-Scarred Pin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1129,
+        "label": "A Poison-Scarred Plating"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1130,
+        "label": "A Poison-Scarred Portrait"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1131,
+        "label": "A Poison-Scarred Prism"
+      }
+    ]
+  },
+  {
+    "id": 200132,
+    "title": "Red Dragon Scales (Nagafen's Lair)",
+    "description": "A striking collection of fiery-red dragon scales, painstakingly acquired from the molten confines of Nagafen's Lair.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1149,
+        "label": "Event Active: 1167 (Year of Darkpaw Collections: February+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1060,
+        "label": "A Bright Red Dragon Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1061,
+        "label": "A Burnished Red Dragon Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1062,
+        "label": "A Cracked Red Dragon Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1063,
+        "label": "A Faded Red Dragon Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1064,
+        "label": "A Glowing Red Dragon Scale"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1065,
+        "label": "A Plain Red Dragon Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1066,
+        "label": "A Shimmering Red Dragon Scale"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1067,
+        "label": "A Tarnished Red Dragon Scale"
+      }
+    ]
+  },
+  {
+    "id": 200137,
+    "title": "Ruinous Moths (The Ruins of Old Guk)",
+    "description": "The flittering wings of moths both ethereal and ghastly can be spotted in the darkness of Lower Guk.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1154,
+        "label": "Event Active: 1172 (Year of Darkpaw Collections: July+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1100,
+        "label": "A Ghoulish Black Moth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1101,
+        "label": "A Ghoulish Gray Moth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1102,
+        "label": "A Ghoulish Spotted Moth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1103,
+        "label": "A Ghoulish Striped Moth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1104,
+        "label": "A Spectral Gray Moth"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1105,
+        "label": "A Spectral Spotted Moth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1106,
+        "label": "A Spectral Striped Moth"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1107,
+        "label": "A Spectral White Moth"
+      }
+    ]
+  },
+  {
+    "id": 200134,
+    "title": "Unrest Cursed Objects (Estate of Unrest)",
+    "description": "An unsettling selection of cursed objects concealed within the foreboding halls of the Estate of Unrest.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1151,
+        "label": "Event Active: 1169 (Year of Darkpaw Collections: April+)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1076,
+        "label": "A Bloody Khrix Totem"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1077,
+        "label": "A Brewer's Bottle of Arsenic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1078,
+        "label": "A Broken Battleworn Canteen"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1079,
+        "label": "A Curled Monkey's Paw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1080,
+        "label": "A Fungus-Covered Knucklebone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1081,
+        "label": "A Runed Abomination's Eye"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1082,
+        "label": "Hag's Torture Device"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1083,
+        "label": "Torklar's Empty Ration Bag"
+      }
+    ]
+  },
+  {
+    "id": 200167,
+    "title": "Year of Darkpaw Tasks",
+    "description": "This achievement is gained upon completing the following Year of Darkpaw quests and heroic adventures:",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 96,
+    "subcategoryName": "YoDP",
+    "categoryId": 90,
+    "categoryName": "Events",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 27122,
+        "label": "Display: Event 1142 is active"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 271210,
+        "label": "Broken Key of Sands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 271234,
+        "label": "Oasis of Sand"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 271235,
+        "label": "Broken Key of Lava"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 271236,
+        "label": "Oasis of Lava"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 271237,
+        "label": "Broken Key of Forests"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 271238,
+        "label": "Oasis of Forests"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 271239,
+        "label": "Broken Key of Frost"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 271240,
+        "label": "Oasis of Frost"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 271241,
+        "label": "Broken Key of Sky"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 271242,
+        "label": "Oasis of Sky"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 271243,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 271244,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 271245,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 271246,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 271247,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 271248,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 271249,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 271250,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 271251,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 271252,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 271253,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 271254,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 271255,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 271256,
+        "label": "The Tides of Time tower has yet to reveal this task."
+      }
+    ]
+  }
+]

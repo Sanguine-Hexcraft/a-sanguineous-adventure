@@ -1,0 +1,4655 @@
+[
+  {
+    "id": 31010007,
+    "title": "Challenger of Laurion's Song",
+    "description": "This achievement is gained upon completing all mission challenges in Laurion's Song.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000701,
+        "label": "Savior of The Hero's Forge: Heroes Are Forged"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000702,
+        "label": "Savior of Pal'Lomen: Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31010005,
+    "title": "Champion of Laurion's Song",
+    "description": "This achievement is gained upon completing all quests in Laurion's Song.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000501,
+        "label": "Mercenary of Laurion Inn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000502,
+        "label": "Mercenary of Timorous Falls"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31000503,
+        "label": "Partisan of Timorous Falls"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31000504,
+        "label": "Mercenary of Ankexfen Keep"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31000505,
+        "label": "Partisan of Ankexfen Keep"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31000506,
+        "label": "Mercenary of Moors of Nokk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31000507,
+        "label": "Partisan of Moors of Nokk"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31000508,
+        "label": "Mercenary of Unkempt Woods"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31000509,
+        "label": "Partisan of Unkempt Woods"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 31000510,
+        "label": "Mercenary of The Hero's Forge"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 31000511,
+        "label": "Partisan of The Hero's Forge"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 31000512,
+        "label": "Mercenary of Pal'Lomen"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 31000513,
+        "label": "Partisan of Pal'Lomen"
+      }
+    ]
+  },
+  {
+    "id": 31010008,
+    "title": "Conqueror of Laurion's Song",
+    "description": "This achievement is gained upon completing all raids in Laurion's Song.",
+    "points": 60,
+    "isHidden": false,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000801,
+        "label": "Conqueror of Elddar Forest: The Return of Kanghammer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000802,
+        "label": "Conqueror of The Plane of Mischief: Bidils' Great Adventure"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31000803,
+        "label": "Conqueror of Timorous Falls: Shadow of My Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31000804,
+        "label": "Conqueror of Ankexfen Keep: Prisoners of Ankexfen"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31000805,
+        "label": "Conqueror of Moors of Nokk: What Is It For?"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31000806,
+        "label": "Conqueror of Unkempt Woods: The Artisan and the Druid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31000807,
+        "label": "Conqueror of The Hero's Forge: Heroes Are Forged"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31000808,
+        "label": "Conqueror of Pal'Lomen: Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31010004,
+    "title": "Explorer of Laurion's Song",
+    "description": "This achievement is gained upon visiting all zones in Laurion's Song.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000401,
+        "label": "Laurion Inn Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000402,
+        "label": "Timorous Falls Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31000403,
+        "label": "Ankexfen Keep Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31000404,
+        "label": "Moors of Nokk Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31000405,
+        "label": "Unkempt Woods Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31000406,
+        "label": "The Hero's Forge Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31000407,
+        "label": "Pal'Lomen Traveler"
+      }
+    ]
+  },
+  {
+    "id": 31010002,
+    "title": "Hero of Heroes",
+    "description": "This achievement is gained upon completing all quests and missions in Laurion's Song.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000201,
+        "label": "Champion of Laurion's Song"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000202,
+        "label": "Paragon of Laurion's Song"
+      }
+    ]
+  },
+  {
+    "id": 31010001,
+    "title": "Master of Laurion's Song",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in Laurion's Song.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000101,
+        "label": "Hero of Heroes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000102,
+        "label": "Mythslayer"
+      }
+    ]
+  },
+  {
+    "id": 31010003,
+    "title": "Mythslayer",
+    "description": "This achievement is gained upon completing all hunts in Laurion's Song.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000301,
+        "label": "Novice Laurion's Song Hunter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000302,
+        "label": "Adept Laurion's Song Hunter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31000303,
+        "label": "Veteran Laurion's Song Hunter"
+      }
+    ]
+  },
+  {
+    "id": 31010006,
+    "title": "Paragon of Laurion's Song",
+    "description": "This achievement is gained upon completing all missions in Laurion's Song.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000601,
+        "label": "Hero of The Hero's Forge: Heroes Are Forged"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000602,
+        "label": "Hero of Pal'Lomen: Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31010010,
+    "title": "Song Seeker",
+    "description": "This achievement is gained upon completing all collections in Laurion's Song.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001001,
+        "label": "Vestiges of Legend"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31001002,
+        "label": "Vestiges of Lore"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31001003,
+        "label": "Vestiges of Myth"
+      }
+    ]
+  },
+  {
+    "id": 31010009,
+    "title": "Vanquisher of Laurion's Song",
+    "description": "This achievement is gained upon completing all raid challenges in Laurion's Song.",
+    "points": 80,
+    "isHidden": true,
+    "subcategoryId": 3101,
+    "subcategoryName": "General",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31000901,
+        "label": "Vanquisher of Elddar Forest: The Return of Kanghammer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31000902,
+        "label": "Vanquisher of The Plane of Mischief: Bidils' Great Adventure"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31000903,
+        "label": "Vanquisher of Timorous Falls: Shadow of My Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31000904,
+        "label": "Vanquisher of Ankexfen Keep: Prisoners of Ankexfen"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31000905,
+        "label": "Vanquisher of Moors of Nokk: What Is It For?"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31000906,
+        "label": "Vanquisher of Unkempt Woods: The Artisan and the Druid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31000907,
+        "label": "Vanquisher of The Hero's Forge: Heroes Are Forged"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31000908,
+        "label": "Vanquisher of Pal'Lomen: Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31030300,
+    "title": "Ankexfen Keep Traveler",
+    "description": "This achievement is gained upon visiting Ankexfen Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001301,
+        "label": "Visit Ankexfen Keep"
+      }
+    ]
+  },
+  {
+    "id": 31030100,
+    "title": "Laurion Inn Traveler",
+    "description": "This achievement is gained upon visiting Laurion Inn.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001101,
+        "label": "Visit Laurion Inn"
+      }
+    ]
+  },
+  {
+    "id": 31030400,
+    "title": "Moors of Nokk Traveler",
+    "description": "This achievement is gained upon visiting Moors of Nokk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001401,
+        "label": "Visit Moors of Nokk"
+      }
+    ]
+  },
+  {
+    "id": 31030700,
+    "title": "Pal'Lomen Traveler",
+    "description": "This achievement is gained upon visiting Pal'Lomen.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001701,
+        "label": "Visit Pal'Lomen"
+      }
+    ]
+  },
+  {
+    "id": 31030600,
+    "title": "The Hero's Forge Traveler",
+    "description": "This achievement is gained upon visiting The Hero's Forge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001601,
+        "label": "Visit The Hero's Forge"
+      }
+    ]
+  },
+  {
+    "id": 31030200,
+    "title": "Timorous Falls Traveler",
+    "description": "This achievement is gained upon visiting Timorous Falls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001201,
+        "label": "Visit Timorous Falls"
+      }
+    ]
+  },
+  {
+    "id": 31030500,
+    "title": "Unkempt Woods Traveler",
+    "description": "This achievement is gained upon visiting Unkempt Woods.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3103,
+    "subcategoryName": "Exploration",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001501,
+        "label": "Visit Unkempt Woods"
+      }
+    ]
+  },
+  {
+    "id": 31040310,
+    "title": "Mercenary of Ankexfen Keep",
+    "description": "This achievement is gained upon completing the following combat quests in Ankexfen Keep.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002101,
+        "label": "Gunder Ironheart in Ankexfen Keep - Thrown to the Worgs"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002102,
+        "label": "Gunder Ironheart in Ankexfen Keep - Spotting Leopard Spots"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002103,
+        "label": "Gunder Ironheart in Ankexfen Keep - You've Caught Their Eyes"
+      }
+    ]
+  },
+  {
+    "id": 31040110,
+    "title": "Mercenary of Laurion Inn",
+    "description": "This achievement is gained upon completing the following combat quests in Laurion Inn.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001801,
+        "label": "Calam in Laurion Inn - The Dark Forest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31001802,
+        "label": "Calam in Laurion Inn - The Dark Waters"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31001803,
+        "label": "Calam in Laurion Inn - The Dark Delve"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31001804,
+        "label": "Ansie in Laurion Inn - The Sinister Ruins"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31001805,
+        "label": "Ansie in Laurion Inn - The Sinister Circle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31001806,
+        "label": "Ansie in Laurion Inn - The Sinister Stones"
+      }
+    ]
+  },
+  {
+    "id": 31040410,
+    "title": "Mercenary of Moors of Nokk",
+    "description": "This achievement is gained upon completing the following combat quests in Moors of Nokk.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002301,
+        "label": "Shrix Blackfang in Moors of Nokk - Captive Payback"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002302,
+        "label": "Taskmaster Grawh in Moors of Nokk - Too Many Rats"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002303,
+        "label": "Taskmaster Grawh in Moors of Nokk - Material Gatherer"
+      }
+    ]
+  },
+  {
+    "id": 31040710,
+    "title": "Mercenary of Pal'Lomen",
+    "description": "This achievement is gained upon completing the following combat quests in Pal'Lomen.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002901,
+        "label": "Sorifyn in Pal'Lomen - Too Hot to Trot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002902,
+        "label": "Sorifyn in Pal'Lomen - A Storm of Swarms"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002903,
+        "label": "Sorifyn in Pal'Lomen - Royal Rallosian Rumble"
+      }
+    ]
+  },
+  {
+    "id": 31040610,
+    "title": "Mercenary of The Hero's Forge",
+    "description": "This achievement is gained upon completing the following combat quests in The Hero's Forge.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002701,
+        "label": "Candide Bildung in The Hero's Forge - Brass Tarnishes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002702,
+        "label": "Candide Bildung in The Hero's Forge - Gold Beguiles"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002703,
+        "label": "Candide Bildung in The Hero's Forge - Silver Dulls"
+      }
+    ]
+  },
+  {
+    "id": 31040210,
+    "title": "Mercenary of Timorous Falls",
+    "description": "This achievement is gained upon completing the following combat quests in Timorous Falls.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31001901,
+        "label": "Koff Plasterfoot in Timorous Falls - Skeeter Beater"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31001902,
+        "label": "Koff Plasterfoot in Timorous Falls - Bird Boxing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31001903,
+        "label": "Koff Plasterfoot in Timorous Falls - Lash the Lashers"
+      }
+    ]
+  },
+  {
+    "id": 31040510,
+    "title": "Mercenary of Unkempt Woods",
+    "description": "This achievement is gained upon completing the following combat quests in Unkempt Woods.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002501,
+        "label": "Bowyer Essana in Unkempt Woods - Balancing Biodiversity"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002502,
+        "label": "Bowyer Essana in Unkempt Woods - Invasive Species"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002503,
+        "label": "Bowyer Essana in Unkempt Woods - Avian Threat"
+      }
+    ]
+  },
+  {
+    "id": 31040320,
+    "title": "Partisan of Ankexfen Keep",
+    "description": "This achievement is gained upon completing the following story quests in Ankexfen Keep.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002201,
+        "label": "Thormir Helmsbane in Ankexfen Keep - Memories of Goblin Enemies"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002202,
+        "label": "Thormir Helmsbane in Ankexfen Keep - They Go Low, We Go Lower"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002203,
+        "label": "Thormir Helmsbane in Ankexfen Keep - Mutual Assistance"
+      }
+    ]
+  },
+  {
+    "id": 31040420,
+    "title": "Partisan of Moors of Nokk",
+    "description": "This achievement is gained upon completing the following story quests in Moors of Nokk.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002401,
+        "label": "Dhakka Nogg in Moors of Nokk - How Does the Grass Grow?"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002402,
+        "label": "Dhakka Nogg in Moors of Nokk - The Next Targets"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002403,
+        "label": "Dhakka Nogg in Moors of Nokk - Slow Down the March"
+      }
+    ]
+  },
+  {
+    "id": 31040720,
+    "title": "Partisan of Pal'Lomen",
+    "description": "This achievement is gained upon completing the following story quests in Pal'Lomen.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003001,
+        "label": "Moliwyn in Pal'Lomen - Shady Neighbors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31003002,
+        "label": "Hathnyr in Pal'Lomen - Shadier Neighbors"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31003003,
+        "label": "Thormir Helmsbane in Pal'Lomen - Even Shadier Neighbors"
+      }
+    ]
+  },
+  {
+    "id": 31040620,
+    "title": "Partisan of The Hero's Forge",
+    "description": "This achievement is gained upon completing the following story quests in The Hero's Forge.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002801,
+        "label": "Elmara Emberclaw in The Hero's Forge - Heroic Errand Runner"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002802,
+        "label": "Elmara`s Journal in The Hero's Forge - The Emberclaw Sisters"
+      }
+    ]
+  },
+  {
+    "id": 31040220,
+    "title": "Partisan of Timorous Falls",
+    "description": "This achievement is gained upon completing the following story quests in Timorous Falls.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002001,
+        "label": "an easygoing layabout in Timorous Falls - What Happens in the Falls, Stays in the Falls"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002002,
+        "label": "Elistyl Kanghammer in Timorous Falls - We Have Ways of Making You Talk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002003,
+        "label": "Dirk Kollimar in Timorous Falls - Trust Is Earned, Outsider"
+      }
+    ]
+  },
+  {
+    "id": 31040520,
+    "title": "Partisan of Unkempt Woods",
+    "description": "This achievement is gained upon completing the following story quests in Unkempt Woods.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3104,
+    "subcategoryName": "Quests",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31002601,
+        "label": "Thornel Grayleaf in Unkempt Woods - Righteous Reforestation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31002602,
+        "label": "Dagnor Butcherblock in Unkempt Woods - The Blades of My Enemy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31002603,
+        "label": "Wegadas in Unkempt Woods - A Gift of Fish"
+      }
+    ]
+  },
+  {
+    "id": 31050211,
+    "title": "Final Fugue: Delay The Inevitable",
+    "description": "This special challenge can be completed during the mission, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003801,
+        "label": "Help Shalowain and all of her allies to reach the village alive."
+      }
+    ]
+  },
+  {
+    "id": 31050213,
+    "title": "Final Fugue: Plucked",
+    "description": "This special challenge can be completed during the mission, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004001,
+        "label": "Do not be hit by the Feathered Sky archery fire while participating in the fight with Captain Kar."
+      }
+    ]
+  },
+  {
+    "id": 31050212,
+    "title": "Final Fugue: Speed Limit",
+    "description": "This special challenge can be completed during the mission, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003901,
+        "label": "Do not allow Margator to reach full speed."
+      }
+    ]
+  },
+  {
+    "id": 31050200,
+    "title": "Hero of Pal'Lomen: Final Fugue",
+    "description": "This achievement is gained upon completing the mission, Final Fugue in Pal'Lomen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003601,
+        "label": "Shalowain in Laurion Inn - Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31050100,
+    "title": "Hero of The Hero's Forge: Heroes Are Forged",
+    "description": "This achievement is gained upon completing the mission, Heroes Are Forged in The Hero's Forge.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003101,
+        "label": "Elisel in Laurion Inn - Heroes Are Forged"
+      }
+    ]
+  },
+  {
+    "id": 31050111,
+    "title": "Heroes Are Forged: Cracked",
+    "description": "This special challenge can be completed during the mission, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003301,
+        "label": "Allow no spider eggs to hatch."
+      }
+    ]
+  },
+  {
+    "id": 31050112,
+    "title": "Heroes Are Forged: Let It Rest",
+    "description": "This special challenge can be completed during the mission, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003401,
+        "label": "Never activate the depleted forgebound."
+      }
+    ]
+  },
+  {
+    "id": 31050113,
+    "title": "Heroes Are Forged: Soundproof",
+    "description": "This special challenge can be completed during the mission, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003501,
+        "label": "Do not allow anyone to cause an Echo to be released."
+      }
+    ]
+  },
+  {
+    "id": 31050210,
+    "title": "Savior of Pal'Lomen: Final Fugue",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Final Fugue.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003701,
+        "label": "Final Fugue: Delay The Inevitable"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31003702,
+        "label": "Final Fugue: Speed Limit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31003703,
+        "label": "Final Fugue: Plucked"
+      }
+    ]
+  },
+  {
+    "id": 31050110,
+    "title": "Savior of The Hero's Forge: Heroes Are Forged",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Heroes Are Forged.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3105,
+    "subcategoryName": "Missions",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31003201,
+        "label": "Heroes Are Forged: Cracked"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31003202,
+        "label": "Heroes Are Forged: Let It Rest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31003203,
+        "label": "Heroes Are Forged: Soundproof"
+      }
+    ]
+  },
+  {
+    "id": 31070211,
+    "title": "Bidils' Great Adventure: A Balanced War",
+    "description": "This special challenge can be completed during the raid, Bidils' Great Adventure.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004801,
+        "label": "It was tough competition, but Tug of War remained a balanced affair."
+      }
+    ]
+  },
+  {
+    "id": 31070213,
+    "title": "Bidils' Great Adventure: Cold Potato",
+    "description": "This special challenge can be completed during the raid, Bidils' Great Adventure.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005001,
+        "label": "Never fail to pass the gem before it harms the one carrying it."
+      }
+    ]
+  },
+  {
+    "id": 31070212,
+    "title": "Bidils' Great Adventure: Unfreeze!",
+    "description": "This special challenge can be completed during the raid, Bidils' Great Adventure.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004901,
+        "label": "In Freeze Tag, none of your allies remained frozen when the next group of people were frozen."
+      }
+    ]
+  },
+  {
+    "id": 31070400,
+    "title": "Conqueror of Ankexfen Keep: Prisoners of Ankexfen",
+    "description": "This achievement is gained upon completing the raid, Prisoners of Ankexfen in Ankexfen Keep.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005601,
+        "label": "Thormir Helmsbane in Laurion Inn - Prisoners of Ankexfen"
+      }
+    ]
+  },
+  {
+    "id": 31070100,
+    "title": "Conqueror of Elddar Forest: The Return of Kanghammer",
+    "description": "This achievement is gained upon completing the raid, The Return of Kanghammer in Elddar Forest.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004101,
+        "label": "Dextris \"Kanghammer\" in Laurion Inn - The Return of Kanghammer"
+      }
+    ]
+  },
+  {
+    "id": 31070500,
+    "title": "Conqueror of Moors of Nokk: What Is It For?",
+    "description": "This achievement is gained upon completing the raid, What Is It For? in Moors of Nokk.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006101,
+        "label": "Dhakka Nogg in Laurion Inn - What Is It For?"
+      }
+    ]
+  },
+  {
+    "id": 31070800,
+    "title": "Conqueror of Pal'Lomen: Final Fugue",
+    "description": "This achievement is gained upon completing the raid, Final Fugue in Pal'Lomen.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007601,
+        "label": "Shalowain in Laurion Inn - Final Fugue"
+      }
+    ]
+  },
+  {
+    "id": 31070700,
+    "title": "Conqueror of The Hero's Forge: Heroes Are Forged",
+    "description": "This achievement is gained upon completing the raid, Heroes Are Forged in The Hero's Forge.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007101,
+        "label": "Elisel in Laurion Inn - Heroes Are Forged"
+      }
+    ]
+  },
+  {
+    "id": 31070200,
+    "title": "Conqueror of The Plane of Mischief: Bidils' Great Adventure",
+    "description": "This achievement is gained upon completing the raid, Bidils' Great Adventure in The Plane of Mischief.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004601,
+        "label": "Bidils the Quickhand in Laurion Inn - Bidils' Great Adventure"
+      }
+    ]
+  },
+  {
+    "id": 31070300,
+    "title": "Conqueror of Timorous Falls: Shadow of My Shadow",
+    "description": "This achievement is gained upon completing the raid, Shadow of My Shadow in Timorous Falls.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005101,
+        "label": "Elistyl Kanghammer in Laurion Inn - Shadow of My Shadow"
+      }
+    ]
+  },
+  {
+    "id": 31070600,
+    "title": "Conqueror of Unkempt Woods: The Artisan and the Druid",
+    "description": "This achievement is gained upon completing the raid, The Artisan and the Druid in Unkempt Woods.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006601,
+        "label": "Thornel Grayleaf in Laurion Inn - The Artisan and the Druid"
+      }
+    ]
+  },
+  {
+    "id": 31070811,
+    "title": "Final Fugue: Delay The Inevitable",
+    "description": "This special challenge can be completed during the raid, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007801,
+        "label": "Help Shalowain and all of her allies to reach the village alive."
+      }
+    ]
+  },
+  {
+    "id": 31070813,
+    "title": "Final Fugue: Plucked",
+    "description": "This special challenge can be completed during the raid, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008001,
+        "label": "Do not be hit by the Feathered Sky archery fire while participating in the fight with Captain Kar."
+      }
+    ]
+  },
+  {
+    "id": 31070812,
+    "title": "Final Fugue: Speed Limit",
+    "description": "This special challenge can be completed during the raid, Final Fugue.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007901,
+        "label": "Do not allow Margator to reach full speed."
+      }
+    ]
+  },
+  {
+    "id": 31070711,
+    "title": "Heroes Are Forged: Cracked",
+    "description": "This special challenge can be completed during the raid, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007301,
+        "label": "Allow no spider eggs to hatch."
+      }
+    ]
+  },
+  {
+    "id": 31070712,
+    "title": "Heroes Are Forged: Let It Rest",
+    "description": "This special challenge can be completed during the raid, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007401,
+        "label": "Never activate the depleted forgebound."
+      }
+    ]
+  },
+  {
+    "id": 31070713,
+    "title": "Heroes Are Forged: Soundproof",
+    "description": "This special challenge can be completed during the raid, Heroes Are Forged.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007501,
+        "label": "Do not allow anyone to cause an Echo to be released."
+      }
+    ]
+  },
+  {
+    "id": 31070413,
+    "title": "Prisoners of Ankexfen: Defuse",
+    "description": "This special challenge can be completed during the raid, Prisoners of Ankexfen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006001,
+        "label": "Never fail to disarm the Commander's traps properly."
+      }
+    ]
+  },
+  {
+    "id": 31070412,
+    "title": "Prisoners of Ankexfen: Dynamite",
+    "description": "This special challenge can be completed during the raid, Prisoners of Ankexfen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005901,
+        "label": "Blow up Navulta with his own bombs."
+      }
+    ]
+  },
+  {
+    "id": 31070411,
+    "title": "Prisoners of Ankexfen: Savior",
+    "description": "This special challenge can be completed during the raid, Prisoners of Ankexfen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005801,
+        "label": "Don't let any prisoners die."
+      }
+    ]
+  },
+  {
+    "id": 31070312,
+    "title": "Shadow of My Shadow: Hate Does Not Bloom",
+    "description": "This special challenge can be completed during the raid, Shadow of My Shadow.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005401,
+        "label": "Do not allow any Hate Seeds to bloom."
+      }
+    ]
+  },
+  {
+    "id": 31070313,
+    "title": "Shadow of My Shadow: No Love Without Hate",
+    "description": "This special challenge can be completed during the raid, Shadow of My Shadow.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005501,
+        "label": "Do not fail to bring love and hate together."
+      }
+    ]
+  },
+  {
+    "id": 31070311,
+    "title": "Shadow of My Shadow: Unbearerable",
+    "description": "This special challenge can be completed during the raid, Shadow of My Shadow.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005301,
+        "label": "Do not allow any hate bearers to reach the altar."
+      }
+    ]
+  },
+  {
+    "id": 31070611,
+    "title": "The Artisan and the Druid: Keep Your Friends Close",
+    "description": "This special challenge can be completed during the raid, The Artisan and the Druid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006801,
+        "label": "Ensure that Ogna's axe always has its impact blunted by at least 15 people."
+      }
+    ]
+  },
+  {
+    "id": 31070613,
+    "title": "The Artisan and the Druid: No Ignition",
+    "description": "This special challenge can be completed during the raid, The Artisan and the Druid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007001,
+        "label": "Nobody with Haze Bomb is hit by Igniting Shock."
+      }
+    ]
+  },
+  {
+    "id": 31070612,
+    "title": "The Artisan and the Druid: Safe At Camp",
+    "description": "This special challenge can be completed during the raid, The Artisan and the Druid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006901,
+        "label": "Allow no harm to be done to the Elddar camp."
+      }
+    ]
+  },
+  {
+    "id": 31070112,
+    "title": "The Return of Kanghammer: Do Something Heroic!",
+    "description": "This special challenge can be completed during the raid, The Return of Kanghammer.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004401,
+        "label": "Finish Stage 2 with Dextris' health over 50%."
+      }
+    ]
+  },
+  {
+    "id": 31070113,
+    "title": "The Return of Kanghammer: Let Him Cook",
+    "description": "This special challenge can be completed during the raid, The Return of Kanghammer.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004501,
+        "label": "Allow Dextris to fall below 5% health at any point in the event."
+      }
+    ]
+  },
+  {
+    "id": 31070111,
+    "title": "The Return of Kanghammer: Slow Burn",
+    "description": "This special challenge can be completed during the raid, The Return of Kanghammer.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004301,
+        "label": "Finish Stage 1 with Dextris' health over 90%."
+      }
+    ]
+  },
+  {
+    "id": 31070410,
+    "title": "Vanquisher of Ankexfen Keep: Prisoners of Ankexfen",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Prisoners of Ankexfen.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005701,
+        "label": "Prisoners of Ankexfen: Savior"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31005702,
+        "label": "Prisoners of Ankexfen: Dynamite"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31005703,
+        "label": "Prisoners of Ankexfen: Defuse"
+      }
+    ]
+  },
+  {
+    "id": 31070110,
+    "title": "Vanquisher of Elddar Forest: The Return of Kanghammer",
+    "description": "This achievement is gained upon completing the following challenges during the raid, The Return of Kanghammer.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004201,
+        "label": "The Return of Kanghammer: Slow Burn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31004202,
+        "label": "The Return of Kanghammer: Do Something Heroic!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31004203,
+        "label": "The Return of Kanghammer: Let Him Cook"
+      }
+    ]
+  },
+  {
+    "id": 31070510,
+    "title": "Vanquisher of Moors of Nokk: What Is It For?",
+    "description": "This achievement is gained upon completing the following challenges during the raid, What Is It For?.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006201,
+        "label": "What Is It For?: Free The Innocent"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31006202,
+        "label": "What Is It For?: Suffer No Shocks"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31006203,
+        "label": "What Is It For?: Don't Get The Axe"
+      }
+    ]
+  },
+  {
+    "id": 31070810,
+    "title": "Vanquisher of Pal'Lomen: Final Fugue",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Final Fugue.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007701,
+        "label": "Final Fugue: Delay The Inevitable"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31007702,
+        "label": "Final Fugue: Speed Limit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31007703,
+        "label": "Final Fugue: Plucked"
+      }
+    ]
+  },
+  {
+    "id": 31070710,
+    "title": "Vanquisher of The Hero's Forge: Heroes Are Forged",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Heroes Are Forged.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31007201,
+        "label": "Heroes Are Forged: Cracked"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31007202,
+        "label": "Heroes Are Forged: Let It Rest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31007203,
+        "label": "Heroes Are Forged: Soundproof"
+      }
+    ]
+  },
+  {
+    "id": 31070210,
+    "title": "Vanquisher of The Plane of Mischief: Bidils' Great Adventure",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Bidils' Great Adventure.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31004701,
+        "label": "Bidils' Great Adventure: A Balanced War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31004702,
+        "label": "Bidils' Great Adventure: Unfreeze!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31004703,
+        "label": "Bidils' Great Adventure: Cold Potato"
+      }
+    ]
+  },
+  {
+    "id": 31070310,
+    "title": "Vanquisher of Timorous Falls: Shadow of My Shadow",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Shadow of My Shadow.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31005201,
+        "label": "Shadow of My Shadow: Unbearerable"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31005202,
+        "label": "Shadow of My Shadow: Hate Does Not Bloom"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31005203,
+        "label": "Shadow of My Shadow: No Love Without Hate"
+      }
+    ]
+  },
+  {
+    "id": 31070610,
+    "title": "Vanquisher of Unkempt Woods: The Artisan and the Druid",
+    "description": "This achievement is gained upon completing the following challenges during the raid, The Artisan and the Druid.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006701,
+        "label": "The Artisan and the Druid: Keep Your Friends Close"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31006702,
+        "label": "The Artisan and the Druid: Safe At Camp"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31006703,
+        "label": "The Artisan and the Druid: No Ignition"
+      }
+    ]
+  },
+  {
+    "id": 31070513,
+    "title": "What Is It For?: Don't Get The Axe",
+    "description": "This special challenge can be completed during the raid, What Is It For?.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006501,
+        "label": "(Personal) Don't be hit by an axe."
+      }
+    ]
+  },
+  {
+    "id": 31070511,
+    "title": "What Is It For?: Free The Innocent",
+    "description": "This special challenge can be completed during the raid, What Is It For?.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006301,
+        "label": "Don't kill any prisoners."
+      }
+    ]
+  },
+  {
+    "id": 31070512,
+    "title": "What Is It For?: Suffer No Shocks",
+    "description": "This special challenge can be completed during the raid, What Is It For?.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3107,
+    "subcategoryName": "Raids",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31006401,
+        "label": "Nobody gets hit by Temperature Shock."
+      }
+    ]
+  },
+  {
+    "id": 31080399,
+    "title": "Adept Laurion's Song Hunter",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008501,
+        "label": "Hunter of Moors of Nokk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008502,
+        "label": "Hunter of Unkempt Woods"
+      }
+    ]
+  },
+  {
+    "id": 31080300,
+    "title": "Hunter of Ankexfen Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ankexfen Keep.",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008401,
+        "label": "Ankexfen Experiment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008402,
+        "label": "Chef Goremand"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008403,
+        "label": "Guard Captain Krizad"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008404,
+        "label": "Lorekeeper Fandrel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008405,
+        "label": "Mortimus"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008406,
+        "label": "The Mountain Cryptid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008407,
+        "label": "Rimeclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008408,
+        "label": "Stablemaster Magna"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31008409,
+        "label": "Uncia the Snowstalker"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 31008410,
+        "label": "Underboss Lazam"
+      }
+    ]
+  },
+  {
+    "id": 31080100,
+    "title": "Hunter of Laurion Inn",
+    "description": "This achievement is gained upon defeating the following rare monsters in Laurion Inn.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008201,
+        "label": "a brood queen"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008202,
+        "label": "a djinn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008203,
+        "label": "a geonid"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008204,
+        "label": "a lich"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008205,
+        "label": "a luggald"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008206,
+        "label": "a queen recluse"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008207,
+        "label": "a queen widow"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008208,
+        "label": "a spectre"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31008209,
+        "label": "a statue"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 31008210,
+        "label": "a water dragon"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 31008211,
+        "label": "an efreeti"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 31008212,
+        "label": "an owlbear"
+      }
+    ]
+  },
+  {
+    "id": 31080400,
+    "title": "Hunter of Moors of Nokk",
+    "description": "This achievement is gained upon defeating the following rare monsters in Moors of Nokk.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008601,
+        "label": "Captain Defan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008602,
+        "label": "Chaplain Kor Bloodmoon"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008603,
+        "label": "Firestarter Tlag"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008604,
+        "label": "Fleawalker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008605,
+        "label": "Sergeant Kharsk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008606,
+        "label": "Sergeant Kveldulf"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008607,
+        "label": "Tarantis"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008608,
+        "label": "Tutt"
+      }
+    ]
+  },
+  {
+    "id": 31080700,
+    "title": "Hunter of Pal'Lomen",
+    "description": "This achievement is gained upon defeating the following rare monsters in Pal'Lomen.",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009001,
+        "label": "Bonestripper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009002,
+        "label": "Charka"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009003,
+        "label": "Cind the Kind"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009004,
+        "label": "Crusher the Rusher"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009005,
+        "label": "Fernstalker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009006,
+        "label": "General Dotal"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009007,
+        "label": "Queen Hotaria"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009008,
+        "label": "Tonnar Blevak"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31009009,
+        "label": "Violet Violence"
+      }
+    ]
+  },
+  {
+    "id": 31080600,
+    "title": "Hunter of The Hero's Forge",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Hero's Forge.",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008901,
+        "label": "Alloy"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008902,
+        "label": "Arcanaforged"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008903,
+        "label": "Battleforged"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008904,
+        "label": "Geomimus"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008905,
+        "label": "Goliath Forge Frog"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008906,
+        "label": "Ingot"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008907,
+        "label": "Kindleheart"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008908,
+        "label": "Terrastride"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31008909,
+        "label": "Valorforged"
+      }
+    ]
+  },
+  {
+    "id": 31080200,
+    "title": "Hunter of Timorous Falls",
+    "description": "This achievement is gained upon defeating the following rare monsters in Timorous Falls.",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008301,
+        "label": "A Rallosian Lunatic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008302,
+        "label": "A Rallosian Sorcerer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008303,
+        "label": "Big Dipper"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008304,
+        "label": "Bunion"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008305,
+        "label": "Flariton"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008306,
+        "label": "Horatio"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008307,
+        "label": "Shoru"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008308,
+        "label": "SingleMalt"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31008309,
+        "label": "The Dreaded Red Eye"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 31008310,
+        "label": "Ticktock"
+      }
+    ]
+  },
+  {
+    "id": 31080500,
+    "title": "Hunter of Unkempt Woods",
+    "description": "This achievement is gained upon defeating the following rare monsters in Unkempt Woods.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008701,
+        "label": "Drillmaster Suja"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008702,
+        "label": "General Orrak"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008703,
+        "label": "Grenn Rustblade"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31008704,
+        "label": "Honored Elder Skraiw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31008705,
+        "label": "Oka"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31008706,
+        "label": "Sergeant Korsh"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31008707,
+        "label": "Stinky"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31008708,
+        "label": "Tenderstump"
+      }
+    ]
+  },
+  {
+    "id": 31080099,
+    "title": "Novice Laurion's Song Hunter",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008101,
+        "label": "Hunter of Laurion Inn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008102,
+        "label": "Hunter of Timorous Falls"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31008103,
+        "label": "Hunter of Ankexfen Keep"
+      }
+    ]
+  },
+  {
+    "id": 31080599,
+    "title": "Veteran Laurion's Song Hunter",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 3108,
+    "subcategoryName": "Hunts",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31008801,
+        "label": "Hunter of The Hero's Forge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31008802,
+        "label": "Hunter of Pal'Lomen"
+      }
+    ]
+  },
+  {
+    "id": 31093063,
+    "title": "Angling Accessories",
+    "description": "Even heroes need days off.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012101,
+        "label": "Crucible Steel Fishing Hook"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012102,
+        "label": "Can of Mud Worms"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012103,
+        "label": "Braided Fishing Line"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012104,
+        "label": "Fly Fishing Lure"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012105,
+        "label": "Forged Spinner Lure"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012106,
+        "label": "Phoenix Tail Lure"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012107,
+        "label": "Steel Fish Fillet Knife"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012108,
+        "label": "Cork Fishing Bobber"
+      }
+    ]
+  },
+  {
+    "id": 31091033,
+    "title": "Ankexfen Cat Toys",
+    "description": "Goblins may be savages, but they still spoil their fluffy friends.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010401,
+        "label": "Chewed Up Ball"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010402,
+        "label": "Fluttering Feather"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010403,
+        "label": "Cat Herb"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010404,
+        "label": "Boar Hair Brush"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010405,
+        "label": "Fluffy Stuffed Rat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010406,
+        "label": "Rolling Spring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010407,
+        "label": "Tattered Scratching Post"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010408,
+        "label": "Rough Goblin Yarn"
+      }
+    ]
+  },
+  {
+    "id": 31091032,
+    "title": "Ankexfen Documents",
+    "description": "Miscellaneous books and pages found around Ankexfen Keep.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010301,
+        "label": "How To Train Your Polar Bear"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010302,
+        "label": "Guide For Goblin Glaziers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010303,
+        "label": "101 Torture Methods"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010304,
+        "label": "Have You Seen Patches?"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010305,
+        "label": "Old Map of Halas"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010306,
+        "label": "Ankexfen Prisoners"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010307,
+        "label": "Glory to Rallos Zek"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010308,
+        "label": "Proper Weapon Maintenance"
+      }
+    ]
+  },
+  {
+    "id": 31091030,
+    "title": "Ankexfen Keep Scavenger",
+    "description": "This achievement is gained upon completing all collections in Ankexfen Keep.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010101,
+        "label": "Fiery Peppers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010102,
+        "label": "Ankexfen Documents"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010103,
+        "label": "Ankexfen Cat Toys"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010104,
+        "label": "Goblin Poetry"
+      }
+    ]
+  },
+  {
+    "id": 31092053,
+    "title": "Beads of Prayer",
+    "description": "Beads held by ancient Elddar in honor of Mother Tunare.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011501,
+        "label": "Beads of Rebirth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011502,
+        "label": "Beads of the Cycle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011503,
+        "label": "Beads of Growth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011504,
+        "label": "Beads of Renewal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011505,
+        "label": "Beads of Light"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011506,
+        "label": "Beads of Family"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011507,
+        "label": "Beads of Life"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011508,
+        "label": "Signet of the Mother"
+      }
+    ]
+  },
+  {
+    "id": 31093074,
+    "title": "Bump, Set, Spike!",
+    "description": "The life cycle of these creatures is a marvel to behold.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012701,
+        "label": "Hotarata Pupae"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012702,
+        "label": "Hotarata Husk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012703,
+        "label": "Hotaria Stinger"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012704,
+        "label": "Hotaria Wing"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012705,
+        "label": "Hotaria Venom Sack"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012706,
+        "label": "Hotariton Esca"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012707,
+        "label": "Hotariton Molting"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012708,
+        "label": "Hotariton Carapace"
+      }
+    ]
+  },
+  {
+    "id": 31093071,
+    "title": "Fern-Gullied",
+    "description": "Behold the majesty of the Pal'Lomen ferns!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012401,
+        "label": "Pal'Lomen Moonwort Sori"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012402,
+        "label": "Pal'Lomen Lady Fern Sori"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012403,
+        "label": "Pal'Lomen Adder's Tongue Sori"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012404,
+        "label": "Pal'Lomen Bracken Sori"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012405,
+        "label": "Pal'Lomen Wall Rue Sori"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012406,
+        "label": "Pal'Lomen Hart's Tongue Sori"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012407,
+        "label": "Pal'Lomen Polypody Sori"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012408,
+        "label": "Pal'Lomen Maidenhair Sori"
+      }
+    ]
+  },
+  {
+    "id": 31091031,
+    "title": "Fiery Peppers",
+    "description": "The Ankexfen use these to season the corpses of their enemies.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010201,
+        "label": "Ankexfen Jalapeno Pepper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010202,
+        "label": "Ankexfen Bell Pepper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010203,
+        "label": "Ankexfen Cherry Peppers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010204,
+        "label": "Ankexfen Serrano Peppers"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010205,
+        "label": "Ankexfen Crushed Pepper"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010206,
+        "label": "Ankexfen Viper Pepper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010207,
+        "label": "Ankexfen Snow Pepper"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010208,
+        "label": "Ankexfen Reaper Pepper"
+      }
+    ]
+  },
+  {
+    "id": 31093073,
+    "title": "Gifts for Dok",
+    "description": "The goblins love making these for their leader, even if he hates them.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012601,
+        "label": "Etched 'S' Copper Trophy"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012602,
+        "label": "Etched 'S' Silver Trophy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012603,
+        "label": "Etched 'G' Copper Trophy"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012604,
+        "label": "Etched 'G' Gold Trophy"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012605,
+        "label": "Etched 'G' Silver Trophy"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012606,
+        "label": "Etched 'A' Copper Trophy"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012607,
+        "label": "Etched 'A' Gold Trophy"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012608,
+        "label": "Etched 'A' Silver Trophy"
+      }
+    ]
+  },
+  {
+    "id": 31091034,
+    "title": "Goblin Poetry",
+    "description": "Emotional literature written between razing enemy camps.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010501,
+        "label": "The Yeti"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010502,
+        "label": "How Do I Love Thee?"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010503,
+        "label": "The Road Not Pillaged"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010504,
+        "label": "My Goblin's Eyes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010505,
+        "label": "Death is the Thing with Feathers"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010506,
+        "label": "No Goblin is an Island"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010507,
+        "label": "The Enemy"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010508,
+        "label": "No Coward Soul is Mine"
+      }
+    ]
+  },
+  {
+    "id": 31091023,
+    "title": "Have a Drink on Me",
+    "description": "The difference between learning and wasting time is writing it down.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009901,
+        "label": "Discarded Wayunder Ale Recipe"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009902,
+        "label": "Damaged Timorous Stout Recipe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009903,
+        "label": "Tossed-Out Elizerain Chardonnay Recipe"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009904,
+        "label": "Failed Kaladim Pilsner Recipe"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009905,
+        "label": "Scrapped Kerra Isle Iced Tea Recipe"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009906,
+        "label": "Binned Pal'Lomen Mead Recipe"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009907,
+        "label": "Trashed Nokk Cyser Recipe"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009908,
+        "label": "Unsuccessful Goblin Gose Recipe"
+      }
+    ]
+  },
+  {
+    "id": 31093061,
+    "title": "Hero's Forge Tools",
+    "description": "The tools the forgebound use to make incredible gear.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011901,
+        "label": "Cross Pein Hammer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011902,
+        "label": "Blacksmith Vise"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011903,
+        "label": "Smithing Tongs"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011904,
+        "label": "Forge Broom"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011905,
+        "label": "Stray Arrow Tip"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011906,
+        "label": "Bottle of Mineral Oil"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011907,
+        "label": "Clean Polishing Rag"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011908,
+        "label": "Irregular Crucible"
+      }
+    ]
+  },
+  {
+    "id": 31093064,
+    "title": "Heroic Gear Components",
+    "description": "A piece of armor is only as good as the sum of its parts.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012201,
+        "label": "Loose Steel Button"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012202,
+        "label": "Crucible Steel Buckle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012203,
+        "label": "Broken Necklace Clasp"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012204,
+        "label": "Leather Belt Strap"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012205,
+        "label": "Gold Ribbon"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012206,
+        "label": "Uncut Roll of Cloth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012207,
+        "label": "Coarse Ball of Wool"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012208,
+        "label": "Cable Chain Links"
+      }
+    ]
+  },
+  {
+    "id": 31091013,
+    "title": "Heroic Tales",
+    "description": "Stories told in the words of the one who experienced them.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009501,
+        "label": "The Dark Herald"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009502,
+        "label": "For Cazic!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009503,
+        "label": "A Well-Placed Kiss"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009504,
+        "label": "Darkness In The Light"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009505,
+        "label": "The Wandering Merchant"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009506,
+        "label": "A Song Of Death"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009507,
+        "label": "Short Odds"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009508,
+        "label": "The Unjust"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31009509,
+        "label": "A Butterfly's Wings"
+      }
+    ]
+  },
+  {
+    "id": 31091010,
+    "title": "Laurion Inn Scavenger",
+    "description": "This achievement is gained upon completing all collections in Laurion Inn.",
+    "points": 15,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009201,
+        "label": "Lost Equipment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009202,
+        "label": "Lost Luggage"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009203,
+        "label": "Heroic Tales"
+      }
+    ]
+  },
+  {
+    "id": 31092044,
+    "title": "Letters Lost",
+    "description": "The unsent words of those lost to the Rallosians' oppression.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011101,
+        "label": "Letter Lost - Adiran"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011102,
+        "label": "Letter Lost - Balmaeg"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011103,
+        "label": "Letter Lost - Cylqis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011104,
+        "label": "Letter Lost - Daetris"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011105,
+        "label": "Letter Lost - Ertix"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011106,
+        "label": "Letter Lost - Fylarion"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011107,
+        "label": "Letter Lost - Galoros"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011108,
+        "label": "Letter Lost - Hornir"
+      }
+    ]
+  },
+  {
+    "id": 31092042,
+    "title": "Living for Rallos",
+    "description": "Everyday reminders of life amongst Rallos Zek's chosen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010901,
+        "label": "Child's Practice Sword"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010902,
+        "label": "Rallosian Wedding Band"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010903,
+        "label": "Captive's Shackles"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010904,
+        "label": "Rallosian Research Equipment"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010905,
+        "label": "War Map Markers"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010906,
+        "label": "Elaborate Painting"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010907,
+        "label": "Worg Collar"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010908,
+        "label": "Warrior's Tapestry"
+      }
+    ]
+  },
+  {
+    "id": 31092054,
+    "title": "Living Off the Land",
+    "description": "Great tips for living a natural life off the land.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011601,
+        "label": "Unkempt Toadstool"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011602,
+        "label": "Handful of Wildseeds"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011603,
+        "label": "Ruddy Clay"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011604,
+        "label": "Ancient Elven Bow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011605,
+        "label": "Rudimentary Fly-Hook"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011606,
+        "label": "Pile of Wood"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011607,
+        "label": "Tunare's Bounty"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011608,
+        "label": "Well-Used Hand Axe"
+      }
+    ]
+  },
+  {
+    "id": 31091011,
+    "title": "Lost Equipment",
+    "description": "Sometimes things are lost in the wilds, sometimes they are taken.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009301,
+        "label": "Traveler's Pan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009302,
+        "label": "Bowl"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009303,
+        "label": "Tent Peg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009304,
+        "label": "Firestarter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009305,
+        "label": "Compass"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009306,
+        "label": "Lantern"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009307,
+        "label": "Torn Bedroll"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009308,
+        "label": "Dented Flask"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31009309,
+        "label": "Bag Of Herbs"
+      }
+    ]
+  },
+  {
+    "id": 31091012,
+    "title": "Lost Luggage",
+    "description": "It never fails. When traveling, things are lost.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009401,
+        "label": "Empty Purse"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009402,
+        "label": "Fancy Hairpin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009403,
+        "label": "Single Shoe"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009404,
+        "label": "Underpants"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009405,
+        "label": "Hat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009406,
+        "label": "Earrings"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009407,
+        "label": "Single Glove"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009408,
+        "label": "Wedding Ring"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 31009409,
+        "label": "Hat Pin"
+      }
+    ]
+  },
+  {
+    "id": 31091022,
+    "title": "Mind Your Steppe",
+    "description": "Orders for the brew from Eureka's Tumble come from all across Norrath.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009801,
+        "label": "Shipment Receipt for Kaladim"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009802,
+        "label": "Shipment Receipt for Takish'Hiz"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009803,
+        "label": "Shipment Receipt for Maldura"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009804,
+        "label": "Shipment Receipt for Toskirakk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009805,
+        "label": "Shipment Receipt for Nokk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009806,
+        "label": "Shipment Receipt for Pal'Lomen"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009807,
+        "label": "Shipment Receipt for Kerra Isle"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009808,
+        "label": "Shipment Receipt for Kelethin"
+      }
+    ]
+  },
+  {
+    "id": 31092040,
+    "title": "Moors of Nokk Scavenger",
+    "description": "This achievement is gained upon completing all collections in Moors of Nokk.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010701,
+        "label": "Nokk Armory"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010702,
+        "label": "Living for Rallos"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010703,
+        "label": "The Ogres' Knowledge"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010704,
+        "label": "Letters Lost"
+      }
+    ]
+  },
+  {
+    "id": 31092041,
+    "title": "Nokk Armory",
+    "description": "The weapons of war, for the Warlord.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010801,
+        "label": "Cannonball"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010802,
+        "label": "Broken Spear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010803,
+        "label": "Dulled Axe Head"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010804,
+        "label": "Frayed Leather Whip"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010805,
+        "label": "Discarded Scabbard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010806,
+        "label": "Rallosian Dented Shield"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010807,
+        "label": "Nokk Nock"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010808,
+        "label": "Sergeant's Blade"
+      }
+    ]
+  },
+  {
+    "id": 31091024,
+    "title": "Nothing to Report, Sir!",
+    "description": "A scheme is afoot in Timorous Falls. The guards are on high alert.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010001,
+        "label": "Timorous Falls Guard Report 1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010002,
+        "label": "Timorous Falls Guard Report 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31010003,
+        "label": "Timorous Falls Guard Report 3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31010004,
+        "label": "Timorous Falls Guard Report 4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31010005,
+        "label": "Timorous Falls Guard Report 5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31010006,
+        "label": "Timorous Falls Guard Report 6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31010007,
+        "label": "Timorous Falls Guard Report 7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31010008,
+        "label": "Timorous Falls Guard Report 8"
+      }
+    ]
+  },
+  {
+    "id": 31093070,
+    "title": "Pal'Lomen Scavenger",
+    "description": "This achievement is gained upon completing all collections in Pal'Lomen.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012301,
+        "label": "Fern-Gullied"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012302,
+        "label": "We were here, remember us."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012303,
+        "label": "Gifts for Dok"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012304,
+        "label": "Bump, Set, Spike!"
+      }
+    ]
+  },
+  {
+    "id": 31091021,
+    "title": "Pay Your Tab",
+    "description": "Upsetting Maddie is a surefire way to get heaved off of her Steppe!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009701,
+        "label": "Bar Tab: Gunther Boarsbane"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009702,
+        "label": "Bar Tab: Gethaldrin Emblysite"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009703,
+        "label": "Bar Tab: Glibly Giggledrinker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009704,
+        "label": "Bar Tab: TORKA"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31009705,
+        "label": "Bar Tab: Apothecary James"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31009706,
+        "label": "Bar Tab: TULGA"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31009707,
+        "label": "Bar Tab: Poxul Tinkertape"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31009708,
+        "label": "Bar Tab: Kithal Haverslat"
+      }
+    ]
+  },
+  {
+    "id": 31092052,
+    "title": "Shiny Basilisk Scales",
+    "description": "Scales shed by the basilisks of the Unkempt Woods.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011401,
+        "label": "Dull Silver Basilisk Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011402,
+        "label": "Shiny Red Basilisk Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011403,
+        "label": "Shiny Green Basilisk Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011404,
+        "label": "Shiny Gray Basilisk Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011405,
+        "label": "Brilliant Red Basilisk Scale"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011406,
+        "label": "Brilliant Green Basilisk Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011407,
+        "label": "Brilliant Gray Basilisk Scale"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011408,
+        "label": "Blinding Silver Basilisk Scale"
+      }
+    ]
+  },
+  {
+    "id": 31093060,
+    "title": "The Hero's Forge Scavenger",
+    "description": "This achievement is gained upon completing all collections in The Hero's Forge.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011801,
+        "label": "Hero's Forge Tools"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011802,
+        "label": "The Heroes' Portraits"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011803,
+        "label": "Angling Accessories"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011804,
+        "label": "Heroic Gear Components"
+      }
+    ]
+  },
+  {
+    "id": 31093062,
+    "title": "The Heroes' Portraits",
+    "description": "Luckliy for our heroes, all the images are quite flattering.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012001,
+        "label": "Elmara's Portrait"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012002,
+        "label": "Shalowain's Portrait"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012003,
+        "label": "Thormir's Portrait"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012004,
+        "label": "Elistyl's Portrait"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012005,
+        "label": "Dhakka's Portrait"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012006,
+        "label": "Thornel's Portrait"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012007,
+        "label": "Kasha's Portrait"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012008,
+        "label": "Heroic Group Portrait"
+      }
+    ]
+  },
+  {
+    "id": 31092043,
+    "title": "The Ogres' Knowledge",
+    "description": "The literature of the ogre people, lost to time.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011001,
+        "label": "Torok's Tome of Tactics"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011002,
+        "label": "The Age of Rallos Zek"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011003,
+        "label": "Mana Miasma: A Safety Guide"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011004,
+        "label": "Daughters of Savagery: Rage and War"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011005,
+        "label": "Culinary Delights"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011006,
+        "label": "Lectures on the Spirits of the Lost"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011007,
+        "label": "Principal Lessons in Worghandling"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011008,
+        "label": "Honored Dead - Fallen Failure"
+      }
+    ]
+  },
+  {
+    "id": 31091020,
+    "title": "Timorous Falls Scavenger",
+    "description": "This achievement is gained upon completing all collections in Timorous Falls.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009601,
+        "label": "Pay Your Tab"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009602,
+        "label": "Mind Your Steppe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009603,
+        "label": "Have a Drink on Me"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31009604,
+        "label": "Nothing to Report, Sir!"
+      }
+    ]
+  },
+  {
+    "id": 31092050,
+    "title": "Unkempt Woods Scavenger",
+    "description": "This achievement is gained upon completing all collections in Unkempt Woods.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011201,
+        "label": "War Debris"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011202,
+        "label": "Shiny Basilisk Scales"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011203,
+        "label": "Beads of Prayer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011204,
+        "label": "Living Off the Land"
+      }
+    ]
+  },
+  {
+    "id": 31091000,
+    "title": "Vestiges of Legend",
+    "description": "This achievement is gained upon completing the following tier 1 collections.",
+    "points": 25,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31009101,
+        "label": "Laurion Inn Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31009102,
+        "label": "Timorous Falls Scavenger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31009103,
+        "label": "Ankexfen Keep Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 31092000,
+    "title": "Vestiges of Lore",
+    "description": "This achievement is gained upon completing the following tier 2 collections.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31010601,
+        "label": "Moors of Nokk Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31010602,
+        "label": "Unkempt Woods Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 31093000,
+    "title": "Vestiges of Myth",
+    "description": "This achievement is gained upon completing the following tier 3 collections.",
+    "points": 35,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011701,
+        "label": "The Hero's Forge Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011702,
+        "label": "Pal'Lomen Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 31092051,
+    "title": "War Debris",
+    "description": "War is messy, from deaths to the waste left behind.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31011301,
+        "label": "Rallosian Blade Shards"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31011302,
+        "label": "Rusted Battle Axe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31011303,
+        "label": "Dented Warmonger's Shield"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31011304,
+        "label": "Dulled Spike Flail"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31011305,
+        "label": "Broken Bo Staff"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31011306,
+        "label": "Busted Arrowhead"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31011307,
+        "label": "Vase Shards"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31011308,
+        "label": "Spent Poison Vial"
+      }
+    ]
+  },
+  {
+    "id": 31093072,
+    "title": "We were here, remember us.",
+    "description": "Driven from their homes, desperate for survival.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3109,
+    "subcategoryName": "Collections",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012501,
+        "label": "Elddar Fletching"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 31012502,
+        "label": "Elddar Fishing Hook"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 31012503,
+        "label": "Elddar Bow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 31012504,
+        "label": "Elddar Eye Protection"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 31012505,
+        "label": "Elddar Quiver"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 31012506,
+        "label": "Elddar Fish Scaler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 31012507,
+        "label": "Elddar Hair Brush"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 31012508,
+        "label": "Elddar Hatchet Head"
+      }
+    ]
+  },
+  {
+    "id": 31100200,
+    "title": "Found in the Present",
+    "description": "This special achievement can be completed in The Hero's Forge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3110,
+    "subcategoryName": "Special",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012901,
+        "label": "Show Elmara Emberclaw in The Hero's Forge that you value good deeds."
+      }
+    ]
+  },
+  {
+    "id": 31100100,
+    "title": "Lost in the Past",
+    "description": "This special achievement can be completed in The Hero's Forge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3110,
+    "subcategoryName": "Special",
+    "categoryId": 3100,
+    "categoryName": "Laurion's Song",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 31012801,
+        "label": "Show Elmara Emberclaw in The Hero's Forge that you understand loss."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1809 @@
+[
+  {
+    "id": 1301003,
+    "title": "Spinebreaker",
+    "description": "This achievement is gained upon completing all hunts in The Serpent's Spine.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1301,
+    "subcategoryName": "General",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130100301,
+        "label": "Novice Hunter of The Serpent's Spine"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130100302,
+        "label": "Adept Hunter of The Serpent's Spine"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130100303,
+        "label": "Veteran Hunter of The Serpent's Spine"
+      }
+    ]
+  },
+  {
+    "id": 1300050,
+    "title": "The Serpent's Spine Explorer",
+    "description": "This achievement is gained upon visiting all the zones in The Serpent's Spine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1301,
+    "subcategoryName": "General",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270509,
+        "label": "Crescent Reach Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270510,
+        "label": "Blightfire Moors Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270511,
+        "label": "Stone Hive Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270512,
+        "label": "Goru`kar Mesa Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270513,
+        "label": "Blackfeather Roost Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270514,
+        "label": "The Steppes Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270515,
+        "label": "Sunderock Springs Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270516,
+        "label": "Vergalid Mines Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270517,
+        "label": "Icefall Glacier Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270518,
+        "label": "Direwind Cliffs Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270519,
+        "label": "Valdeholm Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270520,
+        "label": "Ashengate, Reliquary of the Scale Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270521,
+        "label": "Frostcrypt, Throne of the Shade King Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1340600,
+    "title": "Ashengate, Reliquary of the Scale Traveler",
+    "description": "This achievement is gained upon visiting Ashengate, Reliquary of the Scale.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270341,
+        "label": "Visit Ashengate, Reliquary of the Scale"
+      }
+    ]
+  },
+  {
+    "id": 1339800,
+    "title": "Blackfeather Roost Traveler",
+    "description": "This achievement is gained upon visiting Blackfeather Roost.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270333,
+        "label": "Visit Blackfeather Roost"
+      }
+    ]
+  },
+  {
+    "id": 1339500,
+    "title": "Blightfire Moors Traveler",
+    "description": "This achievement is gained upon visiting Blightfire Moors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270330,
+        "label": "Visit Blightfire Moors"
+      }
+    ]
+  },
+  {
+    "id": 1339400,
+    "title": "Crescent Reach Traveler",
+    "description": "This achievement is gained upon visiting Crescent Reach.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270329,
+        "label": "Visit Crescent Reach"
+      }
+    ]
+  },
+  {
+    "id": 1340500,
+    "title": "Direwind Cliffs Traveler",
+    "description": "This achievement is gained upon visiting Direwind Cliffs.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270340,
+        "label": "Visit Direwind Cliffs"
+      }
+    ]
+  },
+  {
+    "id": 1340200,
+    "title": "Frostcrypt, Throne of the Shade King Traveler",
+    "description": "This achievement is gained upon visiting Frostcrypt, Throne of the Shade King.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270337,
+        "label": "Visit Frostcrypt, Throne of the Shade King"
+      }
+    ]
+  },
+  {
+    "id": 1339700,
+    "title": "Goru`kar Mesa Traveler",
+    "description": "This achievement is gained upon visiting Goru`kar Mesa.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270332,
+        "label": "Visit Goru`kar Mesa"
+      }
+    ]
+  },
+  {
+    "id": 1340000,
+    "title": "Icefall Glacier Traveler",
+    "description": "This achievement is gained upon visiting Icefall Glacier.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270335,
+        "label": "Visit Icefall Glacier"
+      }
+    ]
+  },
+  {
+    "id": 1339600,
+    "title": "Stone Hive Traveler",
+    "description": "This achievement is gained upon visiting Stone Hive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270331,
+        "label": "Visit Stone Hive"
+      }
+    ]
+  },
+  {
+    "id": 1340300,
+    "title": "Sunderock Springs Traveler",
+    "description": "This achievement is gained upon visiting Sunderock Springs.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270338,
+        "label": "Visit Sunderock Springs"
+      }
+    ]
+  },
+  {
+    "id": 1339900,
+    "title": "The Steppes Traveler",
+    "description": "This achievement is gained upon visiting The Steppes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270334,
+        "label": "Visit The Steppes"
+      }
+    ]
+  },
+  {
+    "id": 1340100,
+    "title": "Valdeholm Traveler",
+    "description": "This achievement is gained upon visiting Valdeholm.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270336,
+        "label": "Visit Valdeholm"
+      }
+    ]
+  },
+  {
+    "id": 1340400,
+    "title": "Vergalid Mines Traveler",
+    "description": "This achievement is gained upon visiting Vergalid Mines.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1302,
+    "subcategoryName": "Exploration",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270339,
+        "label": "Visit Vergalid Mines"
+      }
+    ]
+  },
+  {
+    "id": 1308020,
+    "title": "Adept Hunter of The Serpent's Spine",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130802001,
+        "label": "Hunter of The Steppes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130802002,
+        "label": "Hunter of Sunderock Springs"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130802003,
+        "label": "Hunter of Vergalid Mines"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130802004,
+        "label": "Hunter of Direwind Cliffs"
+      }
+    ]
+  },
+  {
+    "id": 1308019,
+    "title": "Hunter of Ashengate, Reliquary of the Scale",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ashengate, Reliquary of the Scale.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130801901,
+        "label": "Advisor Neezin D`rahl"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130801902,
+        "label": "Arbiter of Ash"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130801903,
+        "label": "Argil Oppressor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130801904,
+        "label": "Attendant Jin`zhu"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130801905,
+        "label": "Brimstone Juggernaut"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130801906,
+        "label": "Captain of the Guard"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130801907,
+        "label": "Core Flame"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130801908,
+        "label": "Galvanized Guardian"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130801909,
+        "label": "Griffon Trainer Ahrendes"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130801910,
+        "label": "Laila the Forgotten"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130801911,
+        "label": "Magmaraug"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130801912,
+        "label": "Quartermaster Ilzjinn"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130801913,
+        "label": "Scale Guardian Oriam"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130801914,
+        "label": "Snapper"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130801915,
+        "label": "The Unspeakable"
+      }
+    ]
+  },
+  {
+    "id": 1308400,
+    "title": "Hunter of Blackfeather Roost",
+    "description": "This achievement is gained upon defeating the following rare monsters in Blackfeather Roost.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130840001,
+        "label": "a dangerous harpy"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130840002,
+        "label": "a harpy aristocrat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130840003,
+        "label": "A Harpy Explorer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130840004,
+        "label": "a healthy mountain puma"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130840005,
+        "label": "a hungry mountain bear"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130840006,
+        "label": "a hungry spider"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130840007,
+        "label": "a nervous harpy"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130840008,
+        "label": "a tallonrake griffon"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130840009,
+        "label": "a timid harpy"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130840012,
+        "label": "a violent harpy"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130840010,
+        "label": "a watchful harpy"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130840011,
+        "label": "an injured mountain snake"
+      }
+    ]
+  },
+  {
+    "id": 1308100,
+    "title": "Hunter of Blightfire Moors",
+    "description": "This achievement is gained upon defeating the following rare monsters in Blightfire Moors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130810001,
+        "label": "a marsh creeper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130810002,
+        "label": "an advance scout"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130810003,
+        "label": "Cliffstalker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130810004,
+        "label": "Dragoneater"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130810005,
+        "label": "Duskfall"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130810006,
+        "label": "Ezzerak the Engineer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130810007,
+        "label": "Mossback"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130810008,
+        "label": "Plaguebringer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130810009,
+        "label": "Skycore"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130810010,
+        "label": "Thunderwood"
+      }
+    ]
+  },
+  {
+    "id": 1308800,
+    "title": "Hunter of Direwind Cliffs",
+    "description": "This achievement is gained upon defeating the following rare monsters in Direwind Cliffs.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130880001,
+        "label": "Archmage Varren"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130880002,
+        "label": "Axebeak"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130880004,
+        "label": "Carrionmancer Marrowrot"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130880005,
+        "label": "Chaplain Rourke"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130880006,
+        "label": "Creeping Death"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130880007,
+        "label": "Deathrattle"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130880008,
+        "label": "Deathshed"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130880010,
+        "label": "Hammerfist the Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130880011,
+        "label": "Ironpaw, Koda`s Mate"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130880012,
+        "label": "Kendra the Archer"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130880013,
+        "label": "Legionnaire Shylock"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130880014,
+        "label": "Psilocide"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130880015,
+        "label": "Son of Severan"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130880016,
+        "label": "The Ashengate Ambassador"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 130880017,
+        "label": "Vinelord Molder"
+      }
+    ]
+  },
+  {
+    "id": 1308000,
+    "title": "Hunter of Frostcrypt, Throne of the Shade King",
+    "description": "This achievement is gained upon defeating the following rare monsters in Frostcrypt, Throne of the Shade King.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130800001,
+        "label": "Barvig Bloodaxe"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130800002,
+        "label": "Captain Hectov"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130800003,
+        "label": "Firbulg, Tactician of Ice"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130800005,
+        "label": "Gadrik"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130800006,
+        "label": "Geshan the Wretched"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130800007,
+        "label": "Guard Commander Bowulf"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130800008,
+        "label": "Havik the Faithful"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130800010,
+        "label": "Icecrack"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130800012,
+        "label": "Juha, the People`s Protector"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130800013,
+        "label": "Krag the Icelord"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130800014,
+        "label": "Lorekeeper Heimdul"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130800015,
+        "label": "Lorekeeper Thoren Goldentongue"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130800016,
+        "label": "Quartermaster Balrik"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 130800017,
+        "label": "Rallosian Acolyte Aemon"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 130800018,
+        "label": "Tharvig the Haunted"
+      }
+    ]
+  },
+  {
+    "id": 1308057,
+    "title": "Hunter of Frostcrypt: Icefloe",
+    "description": "This optional achievement is gained upon defeating the following rare monsters in Frostcrypt, Throne of the Shade King.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130800009,
+        "label": "Ice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130800004,
+        "label": "Floe"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130800011,
+        "label": "Icefloe"
+      }
+    ]
+  },
+  {
+    "id": 1308300,
+    "title": "Hunter of Goru`kar Mesa",
+    "description": "This achievement is gained upon defeating the following rare monsters in Goru`kar Mesa.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130830001,
+        "label": "Anghel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130830002,
+        "label": "Aurelia"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130830003,
+        "label": "Craita"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130830004,
+        "label": "Fantoma"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130830005,
+        "label": "Florenta"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130830006,
+        "label": "Ghita"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130830007,
+        "label": "Glasson"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130830008,
+        "label": "Incinspaianjen"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130830009,
+        "label": "Ionela"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130830010,
+        "label": "Latham"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130830012,
+        "label": "Mal"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130830013,
+        "label": "Manunchi"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130830014,
+        "label": "Nemarsarpe"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130830015,
+        "label": "Plasa"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130830016,
+        "label": "Refugiu"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 130830017,
+        "label": "Sandu"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 130830018,
+        "label": "Schelet"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 130830019,
+        "label": "Tarsiit Movila"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 130830020,
+        "label": "Ternsmochin"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 130830021,
+        "label": "Uriasarpe"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 130830022,
+        "label": "Ursalua"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 130830023,
+        "label": "Whitby"
+      }
+    ]
+  },
+  {
+    "id": 1308900,
+    "title": "Hunter of Icefall Glacier",
+    "description": "This achievement is gained upon defeating the following rare monsters in Icefall Glacier.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130890002,
+        "label": "Blackfoot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130890003,
+        "label": "Bloodfoot"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130890004,
+        "label": "Chillbone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130890005,
+        "label": "Frostpaw"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130890006,
+        "label": "Glacier"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130890007,
+        "label": "Grimjaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130890008,
+        "label": "Grock Mist Seer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130890009,
+        "label": "High Seer Longecho"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130890010,
+        "label": "Hunter"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130890011,
+        "label": "Ironeyes"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130890012,
+        "label": "Lowfire"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130890013,
+        "label": "Snowblind"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130890014,
+        "label": "Stalker of the Plains"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130890015,
+        "label": "Tarnuk Farwalker"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130890016,
+        "label": "Taruskor"
+      }
+    ]
+  },
+  {
+    "id": 1308200,
+    "title": "Hunter of Stone Hive",
+    "description": "This achievement is gained upon defeating the following rare monsters in Stone Hive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130820001,
+        "label": "Advisor Vaxa"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130820002,
+        "label": "Arcanist Moxia"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130820003,
+        "label": "Botanist Lyxia"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130820004,
+        "label": "Enchanted Shrubbery"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130820005,
+        "label": "Fleurmielle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130820006,
+        "label": "Fum the Mad"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130820007,
+        "label": "Harvester Velza"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130820008,
+        "label": "Honeytender Jozy"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130820009,
+        "label": "Manic Mushroom"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130820010,
+        "label": "Poisonmaker Maliza"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130820011,
+        "label": "Servant Rexi"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130820012,
+        "label": "Slavemistress Hizja"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130820013,
+        "label": "Suitor Drezia"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130820014,
+        "label": "Wasp Infiltrator"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130820015,
+        "label": "Wing Commander Drixi"
+      }
+    ]
+  },
+  {
+    "id": 1308600,
+    "title": "Hunter of Sunderock Springs",
+    "description": "This achievement is gained upon defeating the following rare monsters in Sunderock Springs.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130860001,
+        "label": "Darkmist"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130860002,
+        "label": "Doomfount"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130860003,
+        "label": "Dranadune"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130860004,
+        "label": "Granite"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130860005,
+        "label": "Head Smith Gannalt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130860006,
+        "label": "Mirrormask"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130860007,
+        "label": "Obsidian"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130860008,
+        "label": "Razorfang"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130860009,
+        "label": "Sellezra, Trideath`s Mate"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130860010,
+        "label": "Serravok of the Plague Wind"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130860011,
+        "label": "Slave Driver Azza"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130860012,
+        "label": "Sulfurog"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130860013,
+        "label": "Whitewater"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130860014,
+        "label": "Wingover"
+      }
+    ]
+  },
+  {
+    "id": 1308500,
+    "title": "Hunter of The Steppes",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Steppes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130850001,
+        "label": "Chef Gudez"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130850002,
+        "label": "Deathfang"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130850003,
+        "label": "Firebelly the Cook"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130850004,
+        "label": "Gruet Longsight"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130850005,
+        "label": "Gruntor the Mad"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130850006,
+        "label": "Hesmire Farflight"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130850007,
+        "label": "High Shaman Firglum"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130850008,
+        "label": "Hunter Borty"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130850009,
+        "label": "Hunter Groppa"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130850010,
+        "label": "Littlebiter the Skinchanger"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130850011,
+        "label": "Midnight"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130850012,
+        "label": "Nanertak"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130850013,
+        "label": "Oldbones"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130850014,
+        "label": "Skurl"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130850015,
+        "label": "Sneaktalker Gizdor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130850016,
+        "label": "Splotchy"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 130850017,
+        "label": "Tarbelly the Wanderer"
+      }
+    ]
+  },
+  {
+    "id": 1308035,
+    "title": "Hunter of Valdeholm",
+    "description": "This achievement is gained upon defeating the following rare monsters in Valdeholm.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130803501,
+        "label": "Animal Tender Bealon"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130803502,
+        "label": "Belgar, Captain of the Wall"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130803503,
+        "label": "Drentik the Mad"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130803504,
+        "label": "Fihulf, Hero of the People"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130803505,
+        "label": "Gatewatch Urgwit"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130803506,
+        "label": "Ironbelly"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130803507,
+        "label": "Jotik the Guardian"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130803508,
+        "label": "Kellet, Royal Guard Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130803509,
+        "label": "Lorekeeper Gerrod"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130803510,
+        "label": "Lorekeeper Magnus"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130803511,
+        "label": "Mammoth Tender Granik"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130803512,
+        "label": "Master Smith Goil"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130803513,
+        "label": "Patriarch Yerban"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130803514,
+        "label": "Royal Cryptguard Zerakt"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130803515,
+        "label": "Royal Guard Captain Helgar"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130803516,
+        "label": "Spring Master Yergin"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 130803517,
+        "label": "Squad Leader Brontik"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 130803518,
+        "label": "The Void"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 130803520,
+        "label": "Watch Commander Cearul"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 130803521,
+        "label": "Watch Commander Thellik"
+      }
+    ]
+  },
+  {
+    "id": 1308700,
+    "title": "Hunter of Vergalid Mines",
+    "description": "This achievement is gained upon defeating the following rare monsters in Vergalid Mines.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130870001,
+        "label": "An Abhorrent Gloompetal Lotus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130870002,
+        "label": "An Enraged Kickpick"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130870003,
+        "label": "Bonecruncher"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130870004,
+        "label": "Clicktik"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 130870005,
+        "label": "Corpsetender Xacine"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 130870006,
+        "label": "Diviner Khalosk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 130870007,
+        "label": "Har`lak the Ancient"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 130870008,
+        "label": "Iico the Wanderer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 130870009,
+        "label": "Overseer Dyla"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 130870010,
+        "label": "Overseer Rislocha"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 130870011,
+        "label": "Prime Healer Tadaie"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 130870012,
+        "label": "Rul Shadowfang"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 130870013,
+        "label": "Rumos the Enraged"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 130870014,
+        "label": "Snapjaw"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 130870015,
+        "label": "Surveyor Jezrak"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 130870016,
+        "label": "Unearthed Mass"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 130870018,
+        "label": "Velosk"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 130870019,
+        "label": "Vu`Ryn the Stone Guardian"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 130870020,
+        "label": "Watchman Orak"
+      }
+    ]
+  },
+  {
+    "id": 1308010,
+    "title": "Novice Hunter of The Serpent's Spine",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130801001,
+        "label": "Hunter of Blightfire Moors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130801002,
+        "label": "Hunter of Stone Hive"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130801003,
+        "label": "Hunter of Goru`kar Mesa"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130801004,
+        "label": "Hunter of Blackfeather Roost"
+      }
+    ]
+  },
+  {
+    "id": 1308030,
+    "title": "Veteran Hunter of The Serpent's Spine",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1308,
+    "subcategoryName": "Hunts",
+    "categoryId": 1300,
+    "categoryName": "The Serpent's Spine",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 130803001,
+        "label": "Hunter of Icefall Glacier"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 130803002,
+        "label": "Hunter of Frostcrypt, Throne of the Shade King"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 130803003,
+        "label": "Hunter of Ashengate, Reliquary of the Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 130803004,
+        "label": "Hunter of Valdeholm"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 130803005,
+        "label": "Hunter of Frostcrypt: Icefloe"
+      }
+    ]
+  }
+]

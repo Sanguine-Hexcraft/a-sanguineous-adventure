@@ -1,0 +1,5022 @@
+[
+  {
+    "id": 2500040,
+    "title": "Challenger of The Ring of Scale",
+    "description": "This achievement is gained upon completing all the mission challenges in The Ring of Scale.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000072,
+        "label": "Atrocious (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000073,
+        "label": "Green Thumb (Group)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000074,
+        "label": "Brown Thumb (Group)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000059,
+        "label": "Stalwart Guardian (Group)"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000060,
+        "label": "No Outbreaks (Group)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000061,
+        "label": "Unhammered (Group)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000040,
+        "label": "Sorted!"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000041,
+        "label": "Just in Time"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000042,
+        "label": "Unburnt"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000094,
+        "label": "Inflammable? (Group)"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000095,
+        "label": "Keep the Shades Down (Group)"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000096,
+        "label": "The Hard Way (Group)"
+      }
+    ]
+  },
+  {
+    "id": 2500020,
+    "title": "Champion of The Ring of Scale",
+    "description": "This achievement is gained upon completing all the quests in The Ring of Scale.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000064,
+        "label": "Mercenary of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000065,
+        "label": "Partisan of The Overthere"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000050,
+        "label": "Mercenary of The Skyfire Mountains"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000051,
+        "label": "Partisan of The Skyfire Mountains"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000045,
+        "label": "Mercenary of The Howling Stones"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000046,
+        "label": "Partisan of The Howling Stones"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000013,
+        "label": "Mercenary of Sathir's Tomb"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000014,
+        "label": "Partisan of Sathir's Tomb"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000031,
+        "label": "Mercenary of Gorowyn"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000032,
+        "label": "Partisan of Gorowyn"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000077,
+        "label": "Mercenary of Veeshan's Peak"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000078,
+        "label": "Partisan of Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 2500060,
+    "title": "Conqueror of The Ring of Scale",
+    "description": "This achievement is gained upon completing all the raids in The Ring of Scale.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000067,
+        "label": "Conqueror of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000053,
+        "label": "Conqueror of The Skyfire Mountains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000015,
+        "label": "Conqueror of Sathir's Tomb"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000034,
+        "label": "Conqueror of Gorowyn"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000080,
+        "label": "Conqueror of Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 2500080,
+    "title": "Explorer of The Ring of Scale",
+    "description": "This achievement is gained upon visiting all the zones in The Ring of Scale.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000063,
+        "label": "The Overthere Traveler"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000049,
+        "label": "The Skyfire Mountains Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000044,
+        "label": "The Howling Stones Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000012,
+        "label": "Sathir's Tomb Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000030,
+        "label": "Gorowyn Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000076,
+        "label": "Veeshan's Peak Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2500000,
+    "title": "Master of The Ring of Scale",
+    "description": "This achievement is gained upon completing all quests, missions, and mission challenges in The Ring of Scale.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000001,
+        "label": "Champion of The Ring of Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000002,
+        "label": "Paragon of The Ring of Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000003,
+        "label": "Challenger of The Ring of Scale"
+      }
+    ]
+  },
+  {
+    "id": 2500030,
+    "title": "Paragon of The Ring of Scale",
+    "description": "This achievement is gained upon completing all the missions in The Ring of Scale.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000066,
+        "label": "Hero of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000052,
+        "label": "Hero of The Skyfire Mountains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000033,
+        "label": "Hero of Gorowyn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000079,
+        "label": "Hero of Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 25000000,
+    "title": "Ring of Scale Master Scavenger",
+    "description": "This achievement is gained upon completing all the collection achievements in Ring of Scale.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000498,
+        "label": "The Plains of Kunark"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000499,
+        "label": "The Ruins of Kunark"
+      }
+    ]
+  },
+  {
+    "id": 2500010,
+    "title": "Scalebreaker",
+    "description": "This achievement is gained upon completing all quests and missions in The Ring of Scale.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000001,
+        "label": "Champion of The Ring of Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000002,
+        "label": "Paragon of The Ring of Scale"
+      }
+    ]
+  },
+  {
+    "id": 2500050,
+    "title": "The Ring of Scale Slayer",
+    "description": "This achievement is gained upon completing all the Hunter achievements in The Ring of Scale.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000004,
+        "label": "Novice Hunter of The Ring of Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000005,
+        "label": "Adept Hunter of The Ring of Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000006,
+        "label": "Veteran Hunter of The Ring of Scale"
+      }
+    ]
+  },
+  {
+    "id": 2500070,
+    "title": "Vanquisher of The Ring of Scale",
+    "description": "This achievement is gained upon completing all the raid challenges in The Ring of Scale.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2501,
+    "subcategoryName": "General",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000068,
+        "label": "Vanquisher of Fell Foliage"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000054,
+        "label": "Vanquisher of End of Empire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000016,
+        "label": "Vanquisher of Crypt Robbers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000020,
+        "label": "Vanquisher of Drusella's Vault"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000024,
+        "label": "Vanquisher of The Sathir Line"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000035,
+        "label": "Vanquisher of Balance of Power"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000081,
+        "label": "Vanquisher of Hoshkar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000085,
+        "label": "Vanquisher of Silverwing and Xygoz"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000089,
+        "label": "Vanquisher of Talendor"
+      }
+    ]
+  },
+  {
+    "id": 2579200,
+    "title": "Gorowyn Traveler",
+    "description": "This achievement is gained upon visiting Gorowyn",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000271,
+        "label": "Visit Gorowyn"
+      }
+    ]
+  },
+  {
+    "id": 2578900,
+    "title": "Sathir's Tomb Traveler",
+    "description": "This achievement is gained upon visiting Sathir's Tomb",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000270,
+        "label": "Visit Sathir's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2581300,
+    "title": "The Howling Stones Traveler",
+    "description": "This achievement is gained upon visiting The Howling Stones",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000272,
+        "label": "Visit The Howling Stones"
+      }
+    ]
+  },
+  {
+    "id": 2581500,
+    "title": "The Overthere Traveler",
+    "description": "This achievement is gained upon visiting The Overthere",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000274,
+        "label": "Visit The Overthere"
+      }
+    ]
+  },
+  {
+    "id": 2581400,
+    "title": "The Skyfire Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Skyfire Mountains",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000273,
+        "label": "Visit The Skyfire Mountains"
+      }
+    ]
+  },
+  {
+    "id": 2581600,
+    "title": "Veeshan's Peak Traveler",
+    "description": "This achievement is gained upon visiting Veeshan's Peak",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2502,
+    "subcategoryName": "Exploration",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000275,
+        "label": "Visit Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 2500100,
+    "title": "Adventurer of The Ring of Scale (Group)",
+    "description": "Completing the following will grant you access to quests in The Howling Stones, Sathir's Tomb, and Gorowyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000065,
+        "label": "Partisan of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000051,
+        "label": "Partisan of The Skyfire Mountains"
+      }
+    ]
+  },
+  {
+    "id": 2500125,
+    "title": "Expanding Frontiers (Group)",
+    "description": "Completing the following tasks will allow you to request raids in the corresponding location:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000065,
+        "label": "Hortulanus Cryolex - Fell Foliage - Partisan of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000051,
+        "label": "Vizra, magia mortis fortitio - End of Empire - Partisan of The Skyfire Mountains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000032,
+        "label": "Praetor Magnus Auluxus - Balance of Power - Partisan of Gorowyn"
+      }
+    ]
+  },
+  {
+    "id": 2500130,
+    "title": "Familiar Emperors (Raid)",
+    "description": "Completing the following will allow you to request raids in Sathir's Tomb:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000008,
+        "label": "Expanding Frontiers (Group)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000067,
+        "label": "Conqueror of The Overthere"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000053,
+        "label": "Conqueror of The Skyfire Mountains"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000034,
+        "label": "Conqueror of Gorowyn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000000,
+        "label": "Seal of Charasis (Raid)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000010,
+        "label": "Sathir's Seal (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2500150,
+    "title": "Sathir's Seal (Raid)",
+    "description": "Collect the following Fragments to gain access to raids in Sathir's Tomb:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000098,
+        "label": "Fragment of Sathir's Seal"
+      }
+    ]
+  },
+  {
+    "id": 2500120,
+    "title": "Scaled Key (Group)",
+    "description": "Completing the following will grant you access to Veeshan's Peak:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000255,
+        "label": "High Praetor Yerlin in The Overthere - Scaled Key"
+      }
+    ]
+  },
+  {
+    "id": 2500160,
+    "title": "Seal of Scale (Raid)",
+    "description": "Collect the following Fragments to gain access to raids in Veeshan's Peak:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000099,
+        "label": "Fragment of the Seal of Scale"
+      }
+    ]
+  },
+  {
+    "id": 2500140,
+    "title": "The Lost Empire (Raid)",
+    "description": "Completing the following will allow you to request raids in Veeshan's Peak:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000009,
+        "label": "Familiar Emperors (Raid)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000015,
+        "label": "Conqueror of Sathir's Tomb"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000046,
+        "label": "Partisan of The Howling Stones"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000014,
+        "label": "Partisan of Sathir's Tomb"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000078,
+        "label": "Partisan of Veeshan's Peak"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000011,
+        "label": "Seal of Scale (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 90055,
+    "title": "Veeshan's Peak Key",
+    "description": "This key unlocks the entrance to Veeshan's Peak in Ring of Scale.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3078,
+        "label": "Veeshan's Peak Key"
+      }
+    ]
+  },
+  {
+    "id": 2500110,
+    "title": "Veteran of The Ring of Scale (Group)",
+    "description": "Completing the following will grant you access to quests in Veeshan's Peak:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2503,
+    "subcategoryName": "Progression",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000007,
+        "label": "Adventurer of The Ring of Scale (Group)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000046,
+        "label": "Partisan of The Howling Stones"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000014,
+        "label": "Partisan of Sathir's Tomb"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000032,
+        "label": "Partisan of Gorowyn"
+      }
+    ]
+  },
+  {
+    "id": 2581525,
+    "title": "Crestra's Earring",
+    "description": "This achievement is gained upon crafting Crestra's Earring.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000257,
+        "label": "Crestra - Here or Over There?"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000258,
+        "label": "Crestra - Details of the Sky"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000259,
+        "label": "Crestra - Weight of the Sky"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000260,
+        "label": "Crestra - Gorowyn Wares"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000261,
+        "label": "Crestra - Measure of the Dead"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000262,
+        "label": "Crestra - Journey Into Terror"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 25000100,
+        "label": "Craft Crestra's Empowered Elegant Earring"
+      }
+    ]
+  },
+  {
+    "id": 2579210,
+    "title": "Mercenary of Gorowyn",
+    "description": "This achievement is gained upon completing the following quests in Gorowyn",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000241,
+        "label": "Praetor Jerok in The Skyfire Mountains - Kill Krellnakor"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000242,
+        "label": "Praetor Jerok in The Skyfire Mountains - Stop the Support"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000243,
+        "label": "Praetor Jerok in The Skyfire Mountains - Chop Chokidai"
+      }
+    ]
+  },
+  {
+    "id": 2578910,
+    "title": "Mercenary of Sathir's Tomb",
+    "description": "This achievement is gained upon completing the following quests in Sathir's Tomb",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000237,
+        "label": "Praetor Noctis Torg - Stomp the Invaders"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000238,
+        "label": "Praetor Noctis Torg - Stomp the Defenders"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000239,
+        "label": "Praetor Noctis Torg - Tooth and Fist"
+      }
+    ]
+  },
+  {
+    "id": 2581310,
+    "title": "Mercenary of The Howling Stones",
+    "description": "This achievement is gained upon completing the following quests in The Howling Stones",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000231,
+        "label": "Indagatrix Winters in The Overthere - Bones to Dust"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000232,
+        "label": "Indagatrix Winters in The Overthere - Defang the Devourers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000233,
+        "label": "Indagatrix Winters in The Overthere - Buckets of Bile"
+      }
+    ]
+  },
+  {
+    "id": 2581510,
+    "title": "Mercenary of The Overthere",
+    "description": "This achievement is gained upon completing the following quests in The Overthere",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000225,
+        "label": "Praetor Scout Ellidia - Dangerous Fauna"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000226,
+        "label": "Praetor Scout Ellidia - Enemy Clearance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000227,
+        "label": "Praetor Scout Ellidia - Golems Gone Wild"
+      }
+    ]
+  },
+  {
+    "id": 2581410,
+    "title": "Mercenary of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing the following quests in The Skyfire Mountains",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000266,
+        "label": "Requisitioner Olen - Clearing the Way"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000267,
+        "label": "Requisitioner Olen - Black Scale Bounty"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000268,
+        "label": "Requisitioner Olen - Ancient Prey"
+      }
+    ]
+  },
+  {
+    "id": 2581610,
+    "title": "Mercenary of Veeshan's Peak",
+    "description": "This achievement is gained upon completing the following quests in Veeshan's Peak",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000248,
+        "label": "Captain Sedilious in The Skyfire Mountains - All to Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000249,
+        "label": "Captain Sedilious in The Skyfire Mountains - Killing Claws"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000250,
+        "label": "Captain Sedilious in The Skyfire Mountains - Bipedal Dragons"
+      }
+    ]
+  },
+  {
+    "id": 2579220,
+    "title": "Partisan of Gorowyn",
+    "description": "This achievement is gained upon completing the following quests in Gorowyn",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000244,
+        "label": "Praetor Maestra in The Skyfire Mountains - State of the Sarnak"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000245,
+        "label": "Praetor Maestra in The Skyfire Mountains - The Fereth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000246,
+        "label": "a sickly chokidai - Chokidai Unbound"
+      }
+    ]
+  },
+  {
+    "id": 2578920,
+    "title": "Partisan of Sathir's Tomb",
+    "description": "This achievement is gained upon completing the following quest in Sathir's Tomb",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000240,
+        "label": "Praetor Noctis Torg - Who is Buried in Sathir's Tomb?"
+      }
+    ]
+  },
+  {
+    "id": 2581320,
+    "title": "Partisan of The Howling Stones",
+    "description": "This achievement is gained upon completing the following quests in The Howling Stones",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000234,
+        "label": "Praetor Noctis Trayer in The Overthere - The Arisen"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000235,
+        "label": "Praetor Noctis Trayer in The Overthere - Trail of Discovery"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000236,
+        "label": "Praetor Noctis Trayer in The Overthere - Lay the Trap"
+      }
+    ]
+  },
+  {
+    "id": 2581520,
+    "title": "Partisan of The Overthere",
+    "description": "This achievement is gained upon completing the following quests in The Overthere",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000228,
+        "label": "Krama Alaeus - Testing the Waters"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000229,
+        "label": "Krama Alaeus - For My Information"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000230,
+        "label": "Krama Alaeus - What Makes a Scorpiki?"
+      }
+    ]
+  },
+  {
+    "id": 2581420,
+    "title": "Partisan of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing the following quests in The Skyfire Mountains",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000263,
+        "label": "Praetor Brimshaw - The Dragons' Graveyard"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000264,
+        "label": "Praetor Brimshaw - The Orb of Luclin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000265,
+        "label": "Praetor Brimshaw - The Orb of Fire"
+      }
+    ]
+  },
+  {
+    "id": 2581620,
+    "title": "Partisan of Veeshan's Peak",
+    "description": "This achievement is gained upon completing the following quests in Veeshan's Peak",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2504,
+    "subcategoryName": "Quests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000251,
+        "label": "Gelidalin Stormsinger in The Skyfire Mountains - Bane Bound"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000252,
+        "label": "Gelidalin Stormsinger in The Skyfire Mountains - Singing Stone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000253,
+        "label": "Gelidalin Stormsinger in The Skyfire Mountains - Songs of Old"
+      }
+    ]
+  },
+  {
+    "id": 2579230,
+    "title": "Hero of Gorowyn",
+    "description": "This achievement is gained upon completing the following mission in Gorowyn",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2505,
+    "subcategoryName": "Missions",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000247,
+        "label": "Praetor Magnus Auluxus in The Skyfire Mountains - Balance of Power"
+      }
+    ]
+  },
+  {
+    "id": 2581530,
+    "title": "Hero of The Overthere",
+    "description": "This achievement is gained upon completing the following mission in The Overthere",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2505,
+    "subcategoryName": "Missions",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000256,
+        "label": "Hortulanus Cryolex  - Fell Foliage"
+      }
+    ]
+  },
+  {
+    "id": 2581430,
+    "title": "Hero of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing the following mission in The Skyfire Mountains",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2505,
+    "subcategoryName": "Missions",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000269,
+        "label": "Vizra, magia mortis fortitio in The Overthere - End of Empire"
+      }
+    ]
+  },
+  {
+    "id": 2581630,
+    "title": "Hero of Veeshan's Peak",
+    "description": "This achievement is gained upon completing the following mission in Veeshan's Peak",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2505,
+    "subcategoryName": "Missions",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000254,
+        "label": "Praetor General Teralus in The Overthere - Talendor"
+      }
+    ]
+  },
+  {
+    "id": 2581551,
+    "title": "Atrocious (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000121,
+        "label": "Allow at least three sets of the weird little succulents to grow together into atrocious succulents."
+      }
+    ]
+  },
+  {
+    "id": 2581653,
+    "title": "Audience Participation",
+    "description": "This special challenge can be completed during the raid event 'Hoshkar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000108,
+        "label": "Do not kill any wyverns."
+      }
+    ]
+  },
+  {
+    "id": 2581553,
+    "title": "Brown Thumb (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000123,
+        "label": "Kill all the sprouting succulents before they can mature."
+      }
+    ]
+  },
+  {
+    "id": 2578961,
+    "title": "Careful Cures",
+    "description": "This special challenge can be completed during the raid event 'The Sathir Line'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000136,
+        "label": "Do not allow anyone to cure Venril Sathir's Bond of Blood."
+      }
+    ]
+  },
+  {
+    "id": 2579240,
+    "title": "Conqueror of Gorowyn",
+    "description": "This achievement is gained upon completing the following raid in Gorowyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000117,
+        "label": "Praetor Magnus Auluxus in The Skyfire Mountains - Balance of Power"
+      }
+    ]
+  },
+  {
+    "id": 2578940,
+    "title": "Conqueror of Sathir's Tomb",
+    "description": "This achievement is gained upon completing the following raids in Sathir's Tomb:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000125,
+        "label": "Scout Deni M`Trix in The Overthere - Crypt Robbers"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000129,
+        "label": "Scout Deni M`Trix in The Overthere - Drusella's Vault"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000133,
+        "label": "Scout Deni M`Trix in The Overthere - The Sathir Line"
+      }
+    ]
+  },
+  {
+    "id": 2581540,
+    "title": "Conqueror of The Overthere",
+    "description": "This achievement is gained upon completing the following raid in The Overthere:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000124,
+        "label": "Hortulanus Cryolex - Fell Foliage"
+      }
+    ]
+  },
+  {
+    "id": 2581440,
+    "title": "Conqueror of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing the following raid in The Skyfire Mountains:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000101,
+        "label": "Vizra, magia mortis fortitio in The Overthere - End of Empire"
+      }
+    ]
+  },
+  {
+    "id": 2581640,
+    "title": "Conqueror of Veeshan's Peak",
+    "description": "This achievement is gained upon completing the following raids in Veeshan's Peak:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000105,
+        "label": "Praetor General Teralus in The Overthere - Hoshkar"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000109,
+        "label": "Praetor General Teralus in The Overthere - Silverwing and Xygoz"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000113,
+        "label": "Praetor General Teralus in The Overthere - Talendor"
+      }
+    ]
+  },
+  {
+    "id": 2578956,
+    "title": "Cryptbreaker",
+    "description": "This special challenge can be completed during the raid event 'Drusella's Vault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000131,
+        "label": "Avoid setting off the traps on the tombs."
+      }
+    ]
+  },
+  {
+    "id": 2578951,
+    "title": "Efficient Investigator",
+    "description": "This special challenge can be completed during the raid event 'Crypt Robbers'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000126,
+        "label": "Get all clues within 8 seconds of them being available without requesting one before it is available"
+      }
+    ]
+  },
+  {
+    "id": 2579253,
+    "title": "Foul Breath",
+    "description": "This special challenge can be completed during the raid event 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000120,
+        "label": "Individual: Avoid being hit by the drakes' Cinder Sputum breath attack."
+      }
+    ]
+  },
+  {
+    "id": 2581652,
+    "title": "Free Rider",
+    "description": "This special challenge can be completed during the raid event 'Hoshkar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000107,
+        "label": "Individual: Ride at least 1 of the 4 drakes to the balcony."
+      }
+    ]
+  },
+  {
+    "id": 2578959,
+    "title": "Ghost Buster",
+    "description": "This special challenge can be completed during the raid event 'The Sathir Line'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000134,
+        "label": "Defeat Rile with no skeletons or ghosts left standing."
+      }
+    ]
+  },
+  {
+    "id": 2579252,
+    "title": "Ghosted",
+    "description": "This special challenge can be completed during the raid event 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000119,
+        "label": "Defeat 3 or fewer undying ghosts."
+      }
+    ]
+  },
+  {
+    "id": 2581552,
+    "title": "Green Thumb (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000122,
+        "label": "Allow all the sprouting succulents to mature."
+      }
+    ]
+  },
+  {
+    "id": 2581659,
+    "title": "Inflammable? (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000114,
+        "label": "Do not allow any of the fire elementals to explode."
+      }
+    ]
+  },
+  {
+    "id": 2578957,
+    "title": "Keep Away",
+    "description": "This special challenge can be completed during the raid event 'Drusella's Vault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000132,
+        "label": "Individual: Avoid being struck by Drusella's aura."
+      }
+    ]
+  },
+  {
+    "id": 2581660,
+    "title": "Keep the Shades Down (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000115,
+        "label": "Allow no more than 5 hero's shades to be created."
+      }
+    ]
+  },
+  {
+    "id": 2578953,
+    "title": "Loot Hoarder",
+    "description": "This special challenge can be completed during the raid event 'Crypt Robbers'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000128,
+        "label": "Allow a single person to loot all three artifacts and ensure their survival until the end."
+      }
+    ]
+  },
+  {
+    "id": 2578952,
+    "title": "Naught for the Gnawlings",
+    "description": "This special challenge can be completed during the raid event 'Crypt Robbers'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000127,
+        "label": "Do not allow the gnawlings to cause any member of your raid to explode."
+      }
+    ]
+  },
+  {
+    "id": 2579251,
+    "title": "No Fakes",
+    "description": "This special challenge can be completed during the raid event 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000118,
+        "label": "Do not kill the fake mirror image versions of the Arcron sarnak."
+      }
+    ]
+  },
+  {
+    "id": 2581452,
+    "title": "No Outbreaks (Raid)",
+    "description": "This special challenge can be completed during the raid event 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000103,
+        "label": "Do not allow Virulent Toxin to spread to anyone but its initial target."
+      }
+    ]
+  },
+  {
+    "id": 2581655,
+    "title": "Partly Cloudy",
+    "description": "This special challenge can be completed during the raid event 'Silverwing and Xygoz'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000110,
+        "label": "Individual: Suffer at least the first rank of Metal Cloud but don't allow it to progress to rank 5."
+      }
+    ]
+  },
+  {
+    "id": 2578960,
+    "title": "Resisting the Pull",
+    "description": "This special challenge can be completed during the raid event 'The Sathir Line'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000135,
+        "label": "Do not allow Drusella to activate her gravitate ability."
+      }
+    ]
+  },
+  {
+    "id": 2578955,
+    "title": "Serial Sarnak Killer",
+    "description": "This special challenge can be completed during the raid event 'Drusella's Vault'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000130,
+        "label": "Kill the sarnak in alphabetical order."
+      }
+    ]
+  },
+  {
+    "id": 2581451,
+    "title": "Stalwart Guardian (Raid)",
+    "description": "This special challenge can be completed during the raid event 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000102,
+        "label": "Individual: Successfully block a meteor with a shield."
+      }
+    ]
+  },
+  {
+    "id": 2581656,
+    "title": "Storm Clears",
+    "description": "This special challenge can be completed during the raid event 'Silverwing and Xygoz'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000111,
+        "label": "Do not allow the lightning progress past the pillars."
+      }
+    ]
+  },
+  {
+    "id": 2581657,
+    "title": "Sudden Death",
+    "description": "This special challenge can be completed during the raid event 'Silverwing and Xygoz'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000112,
+        "label": "Kill all four bosses within 30 seconds of each other."
+      }
+    ]
+  },
+  {
+    "id": 2581661,
+    "title": "The Hard Way (Raid)",
+    "description": "This special challenge can be completed during the raid event 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000116,
+        "label": "Preserve at least one lava ooze, kill all the racnar, and do not charm any drakes."
+      }
+    ]
+  },
+  {
+    "id": 2581453,
+    "title": "Unhammered (Raid)",
+    "description": "This special challenge can be completed during the raid event 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000104,
+        "label": "Cure all curses of the Doomhammer before they fade."
+      }
+    ]
+  },
+  {
+    "id": 2579250,
+    "title": "Vanquisher of Balance of Power",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000036,
+        "label": "No Fakes"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000037,
+        "label": "Ghosted"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000038,
+        "label": "Foul Breath"
+      }
+    ]
+  },
+  {
+    "id": 2578950,
+    "title": "Vanquisher of Crypt Robbers",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000017,
+        "label": "Efficient Investigator"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000018,
+        "label": "Naught for the Gnawlings"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000019,
+        "label": "Loot Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 2578954,
+    "title": "Vanquisher of Drusella's Vault",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000021,
+        "label": "Serial Sarnak Killer"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000022,
+        "label": "Cryptbreaker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000023,
+        "label": "Keep Away"
+      }
+    ]
+  },
+  {
+    "id": 2581450,
+    "title": "Vanquisher of End of Empire",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000055,
+        "label": "Stalwart Guardian (Raid)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000056,
+        "label": "No Outbreaks (Raid)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000057,
+        "label": "Unhammered (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2581550,
+    "title": "Vanquisher of Fell Foliage",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000069,
+        "label": "Atrocious (Raid)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000070,
+        "label": "Green Thumb (Raid)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000071,
+        "label": "Brown Thumb (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2581650,
+    "title": "Vanquisher of Hoshkar",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000082,
+        "label": "Vortexless"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000083,
+        "label": "Free Rider"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000084,
+        "label": "Audience Participation"
+      }
+    ]
+  },
+  {
+    "id": 2581654,
+    "title": "Vanquisher of Silverwing and Xygoz",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000086,
+        "label": "Partly Cloudy"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000087,
+        "label": "Storm Clears"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000088,
+        "label": "Sudden Death"
+      }
+    ]
+  },
+  {
+    "id": 2581658,
+    "title": "Vanquisher of Talendor",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000090,
+        "label": "Inflammable? (Raid)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000091,
+        "label": "Keep the Shades Down (Raid)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000092,
+        "label": "The Hard Way (Raid)"
+      }
+    ]
+  },
+  {
+    "id": 2578958,
+    "title": "Vanquisher of The Sathir Line",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000025,
+        "label": "Ghost Buster"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000026,
+        "label": "Resisting the Pull"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000027,
+        "label": "Careful Cures"
+      }
+    ]
+  },
+  {
+    "id": 2581651,
+    "title": "Vortexless",
+    "description": "This special challenge can be completed during the raid event 'Hoshkar'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2506,
+    "subcategoryName": "Raids",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000106,
+        "label": "Do not allow anyone to be hit by the vortex."
+      }
+    ]
+  },
+  {
+    "id": 2581571,
+    "title": "Atrocious (Group)",
+    "description": "This special challenge can be completed during the mission 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000146,
+        "label": "Allow at least one set of the weird little succulents to grow together into an atrocious succulent."
+      }
+    ]
+  },
+  {
+    "id": 2581573,
+    "title": "Brown Thumb (Group)",
+    "description": "This special challenge can be completed during the mission 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000148,
+        "label": "Kill all the sprouting succulents before they can mature."
+      }
+    ]
+  },
+  {
+    "id": 2581572,
+    "title": "Green Thumb (Group)",
+    "description": "This special challenge can be completed during the mission 'Fell Foliage'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000147,
+        "label": "Allow all the sprouting succulents to mature."
+      }
+    ]
+  },
+  {
+    "id": 2581671,
+    "title": "Inflammable? (Group)",
+    "description": "This special challenge can be completed during the mission 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000140,
+        "label": "Do not allow any of the fire elementals to explode."
+      }
+    ]
+  },
+  {
+    "id": 2579272,
+    "title": "Just in Time",
+    "description": "This special challenge can be completed during the mission 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000144,
+        "label": "Kill all five undying ghosts within 60 seconds of each other."
+      }
+    ]
+  },
+  {
+    "id": 2581672,
+    "title": "Keep the Shades Down (Group)",
+    "description": "This special challenge can be completed during the mission 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000141,
+        "label": "Allow no more than 5 hero's shades to be created."
+      }
+    ]
+  },
+  {
+    "id": 2581472,
+    "title": "No Outbreaks (Group)",
+    "description": "This special challenge can be completed during the mission 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000138,
+        "label": "Don't allow Virulent Toxin to spread to anyone but its initial target."
+      }
+    ]
+  },
+  {
+    "id": 2579270,
+    "title": "Savior of Gorowyn",
+    "description": "This achievement is gained upon completing all quests and missions in Gorowyn.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000031,
+        "label": "Mercenary of Gorowyn"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000032,
+        "label": "Partisan of Gorowyn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000033,
+        "label": "Hero of Gorowyn"
+      }
+    ]
+  },
+  {
+    "id": 2578970,
+    "title": "Savior of Sathir's Tomb",
+    "description": "This achievement is gained upon completing all quests in Sathir's Tomb.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000013,
+        "label": "Mercenary of Sathir's Tomb"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000014,
+        "label": "Partisan of Sathir's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2581370,
+    "title": "Savior of The Howling Stones",
+    "description": "This achievement is gained upon completing all quests in The Howling Stones.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000045,
+        "label": "Mercenary of The Howling Stones"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000046,
+        "label": "Partisan of The Howling Stones"
+      }
+    ]
+  },
+  {
+    "id": 2581570,
+    "title": "Savior of The Overthere",
+    "description": "This achievement is gained upon completing all quests and missions in The Overthere.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000064,
+        "label": "Mercenary of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000065,
+        "label": "Partisan of The Overthere"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000066,
+        "label": "Hero of The Overthere"
+      }
+    ]
+  },
+  {
+    "id": 2581470,
+    "title": "Savior of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing all quests and missions in The Skyfire Mountains.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000050,
+        "label": "Mercenary of The Skyfire Mountains"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000051,
+        "label": "Partisan of The Skyfire Mountains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000052,
+        "label": "Hero of The Skyfire Mountains"
+      }
+    ]
+  },
+  {
+    "id": 2581670,
+    "title": "Savior of Veeshan's Peak",
+    "description": "This achievement is gained upon completing all quests and missions in Veeshan's Peak.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000077,
+        "label": "Mercenary of Veeshan's Peak"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000078,
+        "label": "Partisan of Veeshan's Peak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000079,
+        "label": "Hero of Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 2579271,
+    "title": "Sorted!",
+    "description": "This special challenge can be completed during the mission 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000143,
+        "label": "Kill the five undying ghosts in alphabetical order."
+      }
+    ]
+  },
+  {
+    "id": 2581471,
+    "title": "Stalwart Guardian (Group)",
+    "description": "This special challenge can be completed during the mission 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000137,
+        "label": "Individual: Successfully block a meteor with a shield."
+      }
+    ]
+  },
+  {
+    "id": 2581673,
+    "title": "The Hard Way (Group)",
+    "description": "This special challenge can be completed during the mission 'Talendor'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000142,
+        "label": "Win after preserving at least one lava ooze, killing all the racnar, and not charming any drakes."
+      }
+    ]
+  },
+  {
+    "id": 2579273,
+    "title": "Unburnt",
+    "description": "This special challenge can be completed during the mission 'Balance of Power'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000145,
+        "label": "Individual: Avoid being hit by the drakes' Cinder Sputum breath attack."
+      }
+    ]
+  },
+  {
+    "id": 2581473,
+    "title": "Unhammered (Group)",
+    "description": "This special challenge can be completed during the mission 'End of Empire'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2507,
+    "subcategoryName": "Conquests",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000139,
+        "label": "Cure all curses of the Doomhammer before they fade."
+      }
+    ]
+  },
+  {
+    "id": 2500090,
+    "title": "Adept Hunter of The Ring of Scale",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000048,
+        "label": "Hunter of The Howling Stones"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000029,
+        "label": "Hunter of Sathir's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2579280,
+    "title": "Hunter of Gorowyn",
+    "description": "This achievement is gained upon defeating the following rare monsters in Gorowyn.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000202,
+        "label": "Artikla, Fereth Despot"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000203,
+        "label": "Elkikatar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000204,
+        "label": "Gnaw"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000205,
+        "label": "Head Boiler Akett"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000206,
+        "label": "High Arcron Zeklor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000207,
+        "label": "Hissilith, the Brittlebones"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000208,
+        "label": "Overlord Klerkon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000209,
+        "label": "Overlord Teralov"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000210,
+        "label": "Overlord Tevik"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000211,
+        "label": "Rekatok One-Eye"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000212,
+        "label": "The Magmalisk"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000213,
+        "label": "Wulthan High Inquisitor Kraz"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 25000214,
+        "label": "Fereth Captain Ordran"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 25000215,
+        "label": "Wulthan Elder Priest Ovun"
+      }
+    ]
+  },
+  {
+    "id": 2578980,
+    "title": "Hunter of Sathir's Tomb",
+    "description": "This achievement is gained upon defeating the following rare monsters in Sathir's Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000197,
+        "label": "Arisen Gloriant Kra`du"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000198,
+        "label": "a Kar`zok grave robber"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000199,
+        "label": "a Kar`zok infiltrator"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000200,
+        "label": "Xalgoz the Arisen"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 25000201,
+        "label": "Ancient Apparition"
+      }
+    ]
+  },
+  {
+    "id": 2581380,
+    "title": "Hunter of The Howling Stones",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Howling Stones.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000183,
+        "label": "Deka the Reaper"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000184,
+        "label": "Embalming Goo"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000185,
+        "label": "General V`Deers, the Arisen"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000186,
+        "label": "Nureya Arisen"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000187,
+        "label": "Shandral Arisen"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000188,
+        "label": "The Arisen Admiral Tylix"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000189,
+        "label": "The Arisen Dragoon T`Vem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000190,
+        "label": "The Arisen Dragoon T`Vex"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000191,
+        "label": "The Great Sentinel"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000192,
+        "label": "The Underlord"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000193,
+        "label": "Tormented Adalora"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000194,
+        "label": "Vermistipus"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 25000195,
+        "label": "Arisen Fenistra"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 25000196,
+        "label": "Arisen Mentor Sishallan"
+      }
+    ]
+  },
+  {
+    "id": 2581580,
+    "title": "Hunter of The Overthere",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Overthere.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000149,
+        "label": "Banshee"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000150,
+        "label": "Bloodstalker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000151,
+        "label": "a bluff golem"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000152,
+        "label": "Drakis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000153,
+        "label": "Fang"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000154,
+        "label": "a grotesque succulent"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000155,
+        "label": "an iron sentinel"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000156,
+        "label": "Janissary Virzak"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000157,
+        "label": "a Kar`Zok lacerator"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000158,
+        "label": "a majestic cockatrice"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000159,
+        "label": "Myrmidon Tundak"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000160,
+        "label": "Needle"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 25000161,
+        "label": "Observer Eyrzekla"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 25000162,
+        "label": "Rigelon the Watcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 25000163,
+        "label": "Saber"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 25000164,
+        "label": "Arcron Thaumaturge Osellik"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 25000165,
+        "label": "Flamescale Overlord Takarious"
+      }
+    ]
+  },
+  {
+    "id": 2581480,
+    "title": "Hunter of The Skyfire Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Skyfire Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000166,
+        "label": "an Arcron researcher"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000167,
+        "label": "Chirurgeon Hemofax"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000168,
+        "label": "Dragoflux"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000169,
+        "label": "a feverish marauder"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000170,
+        "label": "Mawmun"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000171,
+        "label": "Old Raspy"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000172,
+        "label": "a rabid reveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000173,
+        "label": "Rirwech the Fink"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000174,
+        "label": "Ritualist Bomoda"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 25000175,
+        "label": "a scree-borne magmite"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 25000176,
+        "label": "Shardstubble"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 25000177,
+        "label": "Skrizix"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 25000178,
+        "label": "a supercharged tyro"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 25000179,
+        "label": "The Crimson Sentinel"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 25000180,
+        "label": "The Gatekeeper"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 25000181,
+        "label": "Ash Guardian Tolemak"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 25000182,
+        "label": "Radiant Overseer Triluan"
+      }
+    ]
+  },
+  {
+    "id": 2581680,
+    "title": "Hunter of Veeshan's Peak",
+    "description": "This achievement is gained upon defeating the following rare monsters in Veeshan's Peak.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000216,
+        "label": "Blood-Thirsty Racnar"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000217,
+        "label": "Elder Azeron"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000218,
+        "label": "Elder Ekron"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000219,
+        "label": "Ellarr Stormcloud"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000220,
+        "label": "Kluzen the Protector"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000221,
+        "label": "Magma Basilisk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000222,
+        "label": "Milyex Vioren"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000223,
+        "label": "Qunard Ashenclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 25000224,
+        "label": "Travenro the Skygazer"
+      }
+    ]
+  },
+  {
+    "id": 2500085,
+    "title": "Novice Hunter of The Ring of Scale",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000075,
+        "label": "Hunter of The Overthere"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000062,
+        "label": "Hunter of The Skyfire Mountains"
+      }
+    ]
+  },
+  {
+    "id": 2500095,
+    "title": "Veteran Hunter of The Ring of Scale",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2508,
+    "subcategoryName": "Hunts",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000043,
+        "label": "Hunter of Gorowyn"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000097,
+        "label": "Hunter of Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 25078910,
+    "title": "Ancient Insects (Sathir's Tomb)",
+    "description": "The smaller residents of these forgotten halls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000434,
+        "label": "Ancient Tomb Scarab"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000435,
+        "label": "Ancient Corpse Moth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000436,
+        "label": "Ancient Dust Spider"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000437,
+        "label": "Ancient Stone Mite"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000438,
+        "label": "Ancient Cloth Weevil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000439,
+        "label": "Ancient Dreadwasp"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000440,
+        "label": "Ancient Centipede"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000441,
+        "label": "Ancient Brightmoth"
+      }
+    ]
+  },
+  {
+    "id": 25079220,
+    "title": "Arcron Artifacts (Gorowyn)",
+    "description": "The scholars of Gorowyn seek to unearth and preserve the dark rituals of their forebears.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000378,
+        "label": "Cracked Mystical Mirror"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000379,
+        "label": "Glowing Blue Stone Fragment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000380,
+        "label": "Shattered Vial"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000381,
+        "label": "Fractured Crucible"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000382,
+        "label": "Mangled Tongs"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000383,
+        "label": "Crushed Funnel"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000384,
+        "label": "Defective Burner"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000385,
+        "label": "Ruptured Flask"
+      }
+    ]
+  },
+  {
+    "id": 25081410,
+    "title": "Bloodstones (The Skyfire Mountains)",
+    "description": "Purveyors of death and undeath have taken residence along the corpse scavengers in the scattered boneyards.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000306,
+        "label": "Stone of Biting"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000307,
+        "label": "Stone of Seeing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000308,
+        "label": "Stone of Congealing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000309,
+        "label": "Stone of Entrancing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000310,
+        "label": "Stone of Projecting"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000311,
+        "label": "Stone of Hearing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000312,
+        "label": "Stone of Consuming"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000313,
+        "label": "Stone of Moonlight"
+      }
+    ]
+  },
+  {
+    "id": 25081520,
+    "title": "Botanical Bounty (The Overthere)",
+    "description": "Buried between the dreary shrubs and sharp grey stones is an impressive assortment of plantlife.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000346,
+        "label": "Tundra Daisy"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000347,
+        "label": "Brightflower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000348,
+        "label": "Pink Carnation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000349,
+        "label": "White Carnation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000350,
+        "label": "Hyacinth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000351,
+        "label": "Ground Bloom"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000352,
+        "label": "Mistletoe"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000353,
+        "label": "Lucky Clover"
+      }
+    ]
+  },
+  {
+    "id": 25078930,
+    "title": "Crypt Dust (Sathir's Tomb)",
+    "description": "It seems adventurers will collect just about anything once they've convinced themselves of its rarity, even dirt.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000450,
+        "label": "Corpse Dust"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000451,
+        "label": "Bone Dust"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000452,
+        "label": "Scale Dust"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000453,
+        "label": "Iron Dust"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000454,
+        "label": "Gold Dust"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000455,
+        "label": "Mold Dust"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000456,
+        "label": "Magic Dust"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000457,
+        "label": "Dried Blood Dust"
+      }
+    ]
+  },
+  {
+    "id": 25081300,
+    "title": "Cryptic Excavation",
+    "description": "The Sathirian mausoleum has long been an attractive destination for pilferers and plunderers, which would account for some of the skeletons.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000287,
+        "label": "Tribal Currency"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000288,
+        "label": "Imperial Heritage"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000289,
+        "label": "Slaves of the Empire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000290,
+        "label": "Echoes of the Dead"
+      }
+    ]
+  },
+  {
+    "id": 25081540,
+    "title": "Decorated Driftwood (The Overthere)",
+    "description": "Former inhabitants of the outpost would carve various patterns into pieces of driftwood that made their way onto the shore.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000362,
+        "label": "Woodcarved Symbol"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000363,
+        "label": "Woodcarved Ocean"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000364,
+        "label": "Woodcarved Volcano"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000365,
+        "label": "Woodcarved Thunderstorm"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000366,
+        "label": "Woodcarved Flower Bulb"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000367,
+        "label": "Woodcarved Rainstorm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000368,
+        "label": "Woodcarved Butterfly"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000369,
+        "label": "Woodcarved Teardrop"
+      }
+    ]
+  },
+  {
+    "id": 25081640,
+    "title": "Dragonhunter's Folly (Veeshan's Peak)",
+    "description": "'You are not the first to breach the Ring's stronghold but we hope you will be the first to return.'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000490,
+        "label": "Battered Helm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000491,
+        "label": "Ripped Vambrace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000492,
+        "label": "Mauled Gloves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000493,
+        "label": "Shredded Breastplate"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000494,
+        "label": "Ruined Pants"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000495,
+        "label": "Destroyed Boots"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000496,
+        "label": "Shattered Shield"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000497,
+        "label": "Melted Longsword"
+      }
+    ]
+  },
+  {
+    "id": 25081610,
+    "title": "Dragonkin Scales (Veeshan's Peak)",
+    "description": "Those loyal to the elder dragons of the Ring stand vigilant in the sacred halls.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000466,
+        "label": "Azure Drake Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000467,
+        "label": "Emerald Drake Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000468,
+        "label": "Cinder Drake Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000469,
+        "label": "Onyx Drake Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000470,
+        "label": "Chromatic Drake Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000471,
+        "label": "Frost Wurm Scale"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000472,
+        "label": "Flame Wurm Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000473,
+        "label": "Wyvern Scale"
+      }
+    ]
+  },
+  {
+    "id": 25081340,
+    "title": "Echoes of the Dead (The Howling Stones)",
+    "description": "Small glimpses into the lives of the ordinary citizens that once inhabited these ruins.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000426,
+        "label": "Broken Ceramic Cup"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000427,
+        "label": "Frayed Muslin Patch"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000428,
+        "label": "Dusty Metal Spoon"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000429,
+        "label": "Torn Weathered Parchment"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000430,
+        "label": "Tattered Baby Sling"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000431,
+        "label": "Wooden Cazic Idol"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000432,
+        "label": "Tiny Carved Shissar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000433,
+        "label": "Splintered Wooden Recorder"
+      }
+    ]
+  },
+  {
+    "id": 25079240,
+    "title": "Fereth Authority (Gorowyn)",
+    "description": "The leaders of Gorowyn work to build the mechanisms and order that allow a society to thrive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000394,
+        "label": "Rules of the Forge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000395,
+        "label": "Forge Iron"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000396,
+        "label": "Rune-etched Lavastone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000397,
+        "label": "Fireproof Vest"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000398,
+        "label": "Forge-stamped Ingot"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000399,
+        "label": "Kres's Rules of Rulership"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000400,
+        "label": "Tablet of Scales"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000401,
+        "label": "Forgemasters Badge"
+      }
+    ]
+  },
+  {
+    "id": 25081400,
+    "title": "Fire In the Sky",
+    "description": "Keep watch toward the skies to stave off ambushes from drakes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000292,
+        "label": "Bloodstones"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000293,
+        "label": "Skyfire Trophies"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000294,
+        "label": "Scouting Accessories"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000295,
+        "label": "Ritual Runes"
+      }
+    ]
+  },
+  {
+    "id": 25081620,
+    "title": "Fractured Findings (Veeshan's Peak)",
+    "description": "The scars borne by those who survived the Insurrection of the Younger are a testament to the Ring's resilience.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000474,
+        "label": "Fractured Blue Dragon Scale"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000475,
+        "label": "Fractured Green Dragon Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000476,
+        "label": "Fractured Red Dragon Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000477,
+        "label": "Fractured Black Dragon Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000478,
+        "label": "Fractured White Dragon Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000479,
+        "label": "Fractured Grey Dragon Scale"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000480,
+        "label": "Fractured Silver Dragon Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000481,
+        "label": "Fractured Gold Dragon Scale"
+      }
+    ]
+  },
+  {
+    "id": 25079200,
+    "title": "Gorowynning",
+    "description": "Perched atop mount Gor, the second city of the Sarnak is a thriving mine and a well guarded fortress to would be invaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000282,
+        "label": "Krellnakor Badges (Gorowyn)"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000283,
+        "label": "Arcron Artifacts (Gorowyn)"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000284,
+        "label": "Wulthan Ceremonies (Gorowyn)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000285,
+        "label": "Fereth Authority (Gorowyn)"
+      }
+    ]
+  },
+  {
+    "id": 25081510,
+    "title": "Headhunter (The Overthere)",
+    "description": "A vast expanse of lush wildlands inhabited by amazing native creatures is just awaiting rote decapitation.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000338,
+        "label": "Rhino Skull"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000339,
+        "label": "Sarnak Skull"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000340,
+        "label": "Sabretooth Skull"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000341,
+        "label": "Chokidai Skull"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000342,
+        "label": "Turtle Skull"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000343,
+        "label": "Scorpikis Skull"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000344,
+        "label": "Cockatrice Skull"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000345,
+        "label": "Succulent Skull"
+      }
+    ]
+  },
+  {
+    "id": 25081320,
+    "title": "Imperial Heritage (The Howling Stones)",
+    "description": "These ruins were once great cities; diverse and majestic in their architecture and opulence",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000410,
+        "label": "Veksar City Sigil"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000411,
+        "label": "Sebilis City Sigil"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000412,
+        "label": "Charasis City Sigil"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000413,
+        "label": "Torsis City Sigil"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000414,
+        "label": "Karnor City Sigil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000415,
+        "label": "Chardok City Sigil"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000416,
+        "label": "Kaesora City Sigil"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000417,
+        "label": "Danak City Emblem"
+      }
+    ]
+  },
+  {
+    "id": 25079210,
+    "title": "Krellnakor Badges (Gorowyn)",
+    "description": "The regimented protectors of Gorowyn adhere to a strict hierarchy in both training and service.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000370,
+        "label": "Seeker's Badge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000371,
+        "label": "Beastmaster's Badge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000372,
+        "label": "Slayer's Badge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000373,
+        "label": "Terror's Badge"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000374,
+        "label": "Hunter's Badge"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000375,
+        "label": "Enforcer's Badge"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000376,
+        "label": "Patroller's Badge"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000377,
+        "label": "Master's Badge"
+      }
+    ]
+  },
+  {
+    "id": 25081440,
+    "title": "Ritual Runes (The Skyfire Mountains)",
+    "description": "Bits and pieces chipped away from the ruins of draconic antiquities.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000330,
+        "label": "Runic Shard of Might"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000331,
+        "label": "Runic Shard of Control"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000332,
+        "label": "Runic Shard of Protection"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000333,
+        "label": "Runic Shard of Speed"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000334,
+        "label": "Runic Tablet of Might"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000335,
+        "label": "Runic Tablet of Control"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000336,
+        "label": "Runic Tablet of Protection"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000337,
+        "label": "Runic Tablet of Speed"
+      }
+    ]
+  },
+  {
+    "id": 25081630,
+    "title": "Rocks and or Boulders (Veeshan's Peak)",
+    "description": "Scattered among the great hoards of gold and priceless artifacts accumulated by the Ring is an interesting assortment of rocks.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000482,
+        "label": "Pavement Fragment"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000483,
+        "label": "Turquoise Imbedded Stone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000484,
+        "label": "Lava Rock"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000485,
+        "label": "Iron-Flecked Boulder"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000486,
+        "label": "Chunk of Granite"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000487,
+        "label": "Worn Paving Stone"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000488,
+        "label": "Shard of Fool's Gold"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000489,
+        "label": "Draconic Runestone"
+      }
+    ]
+  },
+  {
+    "id": 25081430,
+    "title": "Scouting Accessories (The Skyfire Mountains)",
+    "description": "Grim mementos of adventurers who did not find victory in battle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000322,
+        "label": "Ashbreather's Rations"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000323,
+        "label": "Ashbreather's Ring"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000324,
+        "label": "Ashbreather's Earring"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000325,
+        "label": "Ashbreather's Amulet"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000326,
+        "label": "Ashbreather's Veil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000327,
+        "label": "Quick Shelter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000328,
+        "label": "Hillcrester's Rope"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000329,
+        "label": "Hillcrester's Pick"
+      }
+    ]
+  },
+  {
+    "id": 25078920,
+    "title": "Sebilisian Medallions (Sathir's Tomb)",
+    "description": "Accoutrements of distinguished members of the Empire deemed worthy to guard the tomb eternally.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000442,
+        "label": "Black Golden Death's Head Medal"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000443,
+        "label": "Blue Golden Death's Head Medal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000444,
+        "label": "Green Golden Death's Head Medal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000445,
+        "label": "Red Golden Death's Head Medal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000446,
+        "label": "Iron Death's Head Medal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000447,
+        "label": "Silver Death's Head Medal"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000448,
+        "label": "Bloodbathed Death's Head Medal"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000449,
+        "label": "Bloodbathed Deathblade Medal"
+      }
+    ]
+  },
+  {
+    "id": 25081420,
+    "title": "Skyfire Trophies (The Skyfire Mountains)",
+    "description": "Grim mementos of creatures who did not find victory in battle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000314,
+        "label": "Dragon Fang"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000315,
+        "label": "Chromadrac Skin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000316,
+        "label": "Black Drake Eye"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000317,
+        "label": "Ruby Scales"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000318,
+        "label": "Viridian Scales"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000319,
+        "label": "Onyx Scales"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000320,
+        "label": "Wurm Head"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000321,
+        "label": "Red Drake Eye"
+      }
+    ]
+  },
+  {
+    "id": 25081330,
+    "title": "Slaves of the Empire (The Howling Stones)",
+    "description": "The construction and maintenance of great cities fell upon the shoulders of unwilling laborers.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000418,
+        "label": "Emaciated Froglok Skin"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000419,
+        "label": "Severed Sarnak Talon"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000420,
+        "label": "Brittle Giant Hair"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000421,
+        "label": "Desiccated Goblin Tongue"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000422,
+        "label": "Shriveled Sokokar Wing"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000423,
+        "label": "Festering Drolvarg Claw"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000424,
+        "label": "Broken Chokidai Fang"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000425,
+        "label": "Splintered Dragon Scale"
+      }
+    ]
+  },
+  {
+    "id": 25081530,
+    "title": "Soilsuppers (The Overthere)",
+    "description": "Buried beneath the dreary shrubs and sharp grey stones is a mediocre assortment of wormlife.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000354,
+        "label": "Water Worm"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000355,
+        "label": "Sea Worm"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000356,
+        "label": "Gravel Worm"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000357,
+        "label": "Grass Worm"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000358,
+        "label": "Blood Worm"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000359,
+        "label": "Flesh Worm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000360,
+        "label": "Steam Worm"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000361,
+        "label": "Plague Worm"
+      }
+    ]
+  },
+  {
+    "id": 25081600,
+    "title": "Taking a Peak",
+    "description": "The fortified heart of the Ring of Scale that rests within the mightiest peak of the Skyfire Mountains.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000302,
+        "label": "Dragonkin Scales"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000303,
+        "label": "Fractured Findings"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000304,
+        "label": "Rocks and or Boulders"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000305,
+        "label": "Dragonhunter's Folly"
+      }
+    ]
+  },
+  {
+    "id": 25081500,
+    "title": "The Over Under",
+    "description": "The Combine Empire expands their frontier to the northwestern coast.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000297,
+        "label": "Headhunter"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000298,
+        "label": "Botanical Bounty"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000299,
+        "label": "Soilsuppers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000300,
+        "label": "Decorated Driftwood"
+      }
+    ]
+  },
+  {
+    "id": 25000010,
+    "title": "The Plains of Kunark",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000296,
+        "label": "The Over Under"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000291,
+        "label": "Fire In the Sky"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000286,
+        "label": "Cryptic Excavation"
+      }
+    ]
+  },
+  {
+    "id": 25000020,
+    "title": "The Ruins of Kunark",
+    "description": "Complete all of the following achievements:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000276,
+        "label": "Treasure Hunting"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000281,
+        "label": "Gorowynning"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000301,
+        "label": "Taking a Peak"
+      }
+    ]
+  },
+  {
+    "id": 25078940,
+    "title": "Tomb Tokens (Sathir's Tomb)",
+    "description": "Rather than currency, some coins served as heirlooms or as a means of proving station among the tribe.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000458,
+        "label": "Ancient Brass Coin"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000459,
+        "label": "Ancient Copper Coin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000460,
+        "label": "Ancient Lead Coin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000461,
+        "label": "Ancient Silver Coin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000462,
+        "label": "Ancient Gold Coin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000463,
+        "label": "Ancient Platinum Coin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000464,
+        "label": "Ancient Brellium Coin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000465,
+        "label": "Ancient Steel Coin"
+      }
+    ]
+  },
+  {
+    "id": 25078900,
+    "title": "Treasure Hunting",
+    "description": "Perhaps delving deeper into the Sathirian crypt will finally reveal what has been sought by so many adventurers before you.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000277,
+        "label": "Ancient Insects"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000278,
+        "label": "Sebilisian Medallions"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000279,
+        "label": "Crypt Dust"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000280,
+        "label": "Tomb Tokens"
+      }
+    ]
+  },
+  {
+    "id": 25081310,
+    "title": "Tribal Currency (The Howling Stones)",
+    "description": "The warring tribes agreed on very little before the unification of the Empire, including coin.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000402,
+        "label": "Obulus Engraved Copper"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000403,
+        "label": "Kunzar Engraved Copper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000404,
+        "label": "Jarsath Engraved Copper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000405,
+        "label": "Kylong Engraved Copper"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000406,
+        "label": "Nathsar Engraved Copper"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000407,
+        "label": "Sebilisian Imperial Gold"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000408,
+        "label": "Broken Chelsith Silver"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000409,
+        "label": "Wooden Slave Coin"
+      }
+    ]
+  },
+  {
+    "id": 25079230,
+    "title": "Wulthan Ceremonies (Gorowyn)",
+    "description": "The clergy of Gorowyn guide the laity to better understand and appreciate the often misconstrued history of their people.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2509,
+    "subcategoryName": "Collections",
+    "categoryId": 2500,
+    "categoryName": "Ring of Scale",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 25000386,
+        "label": "Votive Candle"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 25000387,
+        "label": "Kneeling Pad"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 25000388,
+        "label": "Medallion of the Dragon"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 25000389,
+        "label": "Golden Censer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 25000390,
+        "label": "Vestment of the Dragon"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 25000391,
+        "label": "Blood Chalice"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 25000392,
+        "label": "Candelabra"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 25000393,
+        "label": "Writ of the Scale"
+      }
+    ]
+  }
+]

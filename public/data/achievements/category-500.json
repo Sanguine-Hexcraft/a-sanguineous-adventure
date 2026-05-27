@@ -1,0 +1,4024 @@
+[
+  {
+    "id": 500085,
+    "title": "Conqueror of The Planes of Power",
+    "description": "This achievement is gained upon completing all the raids in The Planes of Power.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 501,
+    "subcategoryName": "General",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000202,
+        "label": "Conqueror of Doomfire, the Burning Lands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000200,
+        "label": "Conqueror of Drunder, Fortress of Zek"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000203,
+        "label": "Conqueror of Eryslai, the Kingdom of Wind"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000197,
+        "label": "Conqueror of The Halls of Honor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000189,
+        "label": "Conqueror of The Lair of Terris-Thule"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000190,
+        "label": "Conqueror of The Plane of Disease"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000191,
+        "label": "Conqueror of The Plane of Innovation"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000192,
+        "label": "Conqueror of The Plane of Justice"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000188,
+        "label": "Conqueror of The Plane of Nightmare"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000193,
+        "label": "Conqueror of The Plane of Storms"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000194,
+        "label": "Conqueror of The Plane of Valor"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 5000327,
+        "label": "Conqueror of The Plane of War"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000187,
+        "label": "Conqueror of The Prison of the Forsaken"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000206,
+        "label": "Conqueror of Ragrax, Stronghold of the Twelve"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000204,
+        "label": "Conqueror of The Reef of Coirnav"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000196,
+        "label": "Conqueror of The Ruins of Lxanvom"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000201,
+        "label": "Conqueror of Solusek Ro's Tower"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 5000198,
+        "label": "Conqueror of The Temple of Marr"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 5000199,
+        "label": "Conqueror of Torden, the Bastion of Thunder"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 5000195,
+        "label": "Conqueror of Torment, the Plane of Pain"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 5000205,
+        "label": "Conqueror of Vegarlson, the Earthen Badlands"
+      }
+    ]
+  },
+  {
+    "id": 500050,
+    "title": "Planes of Power Explorer",
+    "description": "This achievement is gained upon visiting all the Planes of Power.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 501,
+    "subcategoryName": "General",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270661,
+        "label": "The Plane of Knowledge Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270662,
+        "label": "The Plane of Tranquility Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270663,
+        "label": "The Plane of Justice Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270664,
+        "label": "The Plane of Disease Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270665,
+        "label": "The Ruins of Lxanvom Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270666,
+        "label": "The Plane of Nightmare Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270667,
+        "label": "The Lair of Terris-Thule Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270668,
+        "label": "The Plane of Innovation Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270669,
+        "label": "The Plane of Valor Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270670,
+        "label": "The Halls of Honor Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270671,
+        "label": "The Temple of Marr Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270672,
+        "label": "The Plane of Storms Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270673,
+        "label": "Torden, the Bastion of Thunder Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270674,
+        "label": "Torment, the Plane of Pain Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270675,
+        "label": "Drunder, the Fortress of Zek Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270676,
+        "label": "The Tower of Solusek Ro Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 270677,
+        "label": "Doomfire, the Burning Lands Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270678,
+        "label": "Eryslai, the Kingdom of Wind Traveler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 270679,
+        "label": "The Reef of Coirnav Traveler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 270680,
+        "label": "Vegarlson, The Earthen Badlands Traveler"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 270681,
+        "label": "Ragrax, Stronghold of the Twelve Traveler"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 270682,
+        "label": "The Plane of Time Traveler"
+      },
+      {
+        "order": 23,
+        "type": 2,
+        "value": 270683,
+        "label": "The Prison of the Forsaken Traveler"
+      },
+      {
+        "order": 24,
+        "type": 2,
+        "value": 270872,
+        "label": "The Plane of War Traveler"
+      }
+    ]
+  },
+  {
+    "id": 500080,
+    "title": "Planeslayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 501,
+    "subcategoryName": "General",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000001,
+        "label": "Hunter of the Ruins of Lxanvom"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000014,
+        "label": "Hunter of Doomfire, the Burning Lands"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000011,
+        "label": "Hunter of Drunder, the Fortress of Zek"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000009,
+        "label": "Hunter of The Halls of Honor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000017,
+        "label": "Hunter of The Lair of Terris-Thule"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000012,
+        "label": "Hunter of Eryslai, the Kingdom of Wind"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000004,
+        "label": "Hunter of The Plane of Disease"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000005,
+        "label": "Hunter of The Plane of Innovation"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000002,
+        "label": "Hunter of The Plane of Justice"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000003,
+        "label": "Hunter of The Plane of Nightmare"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000007,
+        "label": "Hunter of The Plane of Valor"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 5000367,
+        "label": "Hunter of The Plane of War"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000013,
+        "label": "Hunter of The Reef of Coirnav"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000016,
+        "label": "Hunter of The Temple of Marr"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000008,
+        "label": "Hunter of Torden, the Bastion of Thunder"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000006,
+        "label": "Hunter of Torment, the Plane of Pain"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000010,
+        "label": "Hunter of The Tower of Solusek Ro"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 5000015,
+        "label": "Hunter of Vegarlson, The Earthen Badlands"
+      }
+    ]
+  },
+  {
+    "id": 521700,
+    "title": "Doomfire, the Burning Lands Traveler",
+    "description": "This achievement is gained upon visiting Doomfire, the Burning Lands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270170,
+        "label": "Visit Doomfire, the Burning Lands"
+      }
+    ]
+  },
+  {
+    "id": 521400,
+    "title": "Drunder, the Fortress of Zek Traveler",
+    "description": "This achievement is gained upon visiting Drunder, the Fortress of Zek.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270167,
+        "label": "Visit Drunder, the Fortress of Zek"
+      }
+    ]
+  },
+  {
+    "id": 521500,
+    "title": "Eryslai, the Kingdom of Wind Traveler",
+    "description": "This achievement is gained upon visiting Eryslai, the Kingdom of Wind.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270168,
+        "label": "Visit Eryslai, the Kingdom of Wind"
+      }
+    ]
+  },
+  {
+    "id": 522200,
+    "title": "Ragrax, Stronghold of the Twelve Traveler",
+    "description": "This achievement is gained upon visiting Ragrax, Stronghold of the Twelve.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270175,
+        "label": "Visit Ragrax, Stronghold of the Twelve"
+      }
+    ]
+  },
+  {
+    "id": 521100,
+    "title": "The Halls of Honor Traveler",
+    "description": "This achievement is gained upon visiting The Halls of Honor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270165,
+        "label": "Visit The Halls of Honor"
+      }
+    ]
+  },
+  {
+    "id": 522100,
+    "title": "The Lair of Terris-Thule Traveler",
+    "description": "This achievement is gained upon visiting The Lair of Terris-Thule.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270174,
+        "label": "Visit The Lair of Terris-Thule"
+      }
+    ]
+  },
+  {
+    "id": 520500,
+    "title": "The Plane of Disease Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Disease.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270159,
+        "label": "Visit The Plane of Disease"
+      }
+    ]
+  },
+  {
+    "id": 520600,
+    "title": "The Plane of Innovation Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Innovation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270160,
+        "label": "Visit The Plane of Innovation"
+      }
+    ]
+  },
+  {
+    "id": 520100,
+    "title": "The Plane of Justice Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Justice.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270155,
+        "label": "Visit The Plane of Justice"
+      }
+    ]
+  },
+  {
+    "id": 520200,
+    "title": "The Plane of Knowledge Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Knowledge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270156,
+        "label": "Visit The Plane of Knowledge"
+      }
+    ]
+  },
+  {
+    "id": 520400,
+    "title": "The Plane of Nightmare Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Nightmare.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270158,
+        "label": "Visit The Plane of Nightmare"
+      }
+    ]
+  },
+  {
+    "id": 521000,
+    "title": "The Plane of Storms Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Storms.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270164,
+        "label": "Visit The Plane of Storms"
+      }
+    ]
+  },
+  {
+    "id": 521900,
+    "title": "The Plane of Time Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Time.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270172,
+        "label": "Visit The Plane of Time"
+      }
+    ]
+  },
+  {
+    "id": 520300,
+    "title": "The Plane of Tranquility Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Tranquility.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270157,
+        "label": "Visit The Plane of Tranquility"
+      }
+    ]
+  },
+  {
+    "id": 520800,
+    "title": "The Plane of Valor Traveler",
+    "description": "This achievement is gained upon visiting The Plane of Valor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270162,
+        "label": "Visit The Plane of Valor"
+      }
+    ]
+  },
+  {
+    "id": 521300,
+    "title": "The Plane of War Traveler",
+    "description": "This achievement is gained upon visiting The Plane of War.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500000,
+        "label": "Visit The Plane of War"
+      }
+    ]
+  },
+  {
+    "id": 522300,
+    "title": "The Prison of the Forsaken Traveler",
+    "description": "This achievement is gained upon visiting The Prison of the Forsaken.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270176,
+        "label": "Visit The Prison of the Forsaken"
+      }
+    ]
+  },
+  {
+    "id": 521600,
+    "title": "The Reef of Coirnav Traveler",
+    "description": "This achievement is gained upon visiting The Reef of Coirnav.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270169,
+        "label": "Visit The Reef of Coirnav"
+      }
+    ]
+  },
+  {
+    "id": 520000,
+    "title": "The Ruins of Lxanvom Traveler",
+    "description": "This achievement is gained upon visiting the Ruins of Lxanvom.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270154,
+        "label": "Visit the Ruins of Lxanvom"
+      }
+    ]
+  },
+  {
+    "id": 522000,
+    "title": "The Temple of Marr Traveler",
+    "description": "This achievement is gained upon visiting The Temple of Marr.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270173,
+        "label": "Visit The Temple of Marr"
+      }
+    ]
+  },
+  {
+    "id": 521200,
+    "title": "The Tower of Solusek Ro Traveler",
+    "description": "This achievement is gained upon visiting The Tower of Solusek Ro.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270166,
+        "label": "Visit The Tower of Solusek Ro"
+      }
+    ]
+  },
+  {
+    "id": 520900,
+    "title": "Torden, the Bastion of Thunder Traveler",
+    "description": "This achievement is gained upon visiting Torden, the Bastion of Thunder.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270163,
+        "label": "Visit Torden, the Bastion of Thunder"
+      }
+    ]
+  },
+  {
+    "id": 520700,
+    "title": "Torment, the Plane of Pain Traveler",
+    "description": "This achievement is gained upon visiting Torment, the Plane of Pain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270161,
+        "label": "Visit Torment, the Plane of Pain"
+      }
+    ]
+  },
+  {
+    "id": 521800,
+    "title": "Vegarlson, The Earthen Badlands Traveler",
+    "description": "This achievement is gained upon visiting Vegarlson, The Earthen Badlands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 502,
+    "subcategoryName": "Exploration",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270171,
+        "label": "Visit Vegarlson, The Earthen Badlands"
+      }
+    ]
+  },
+  {
+    "id": 90024,
+    "title": "Completed Diaku Emblem",
+    "description": "This key unlocks the entrance to Drunder, Fortress of Zek (Plane of Tactics).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3038,
+        "label": "Completed Diaku Emblem"
+      }
+    ]
+  },
+  {
+    "id": 90021,
+    "title": "Crystalline Globe",
+    "description": "This key unlocks the door to Aerin`Dar's lair within the Plane of Valor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3034,
+        "label": "Crystalline Globe"
+      }
+    ]
+  },
+  {
+    "id": 90029,
+    "title": "Enchanted Ring of Torden",
+    "description": "This key unlocks the portals to the four greater towers within Torden, the Bastion of Thunder.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3043,
+        "label": "Enchanted Ring of Torden"
+      }
+    ]
+  },
+  {
+    "id": 90020,
+    "title": "Factory Code",
+    "description": "This key unlocks the door to the factory at the heart of the Plane of Innovation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3033,
+        "label": "'Three small turns to the right on the bottommost rivet should open the door.'"
+      }
+    ]
+  },
+  {
+    "id": 90032,
+    "title": "Gem-Etched Key",
+    "description": "This key unlocks the door to the mines within Vegarlson, the Earthen Badlands (Plane of Earth).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3046,
+        "label": "Gem-Etched Key"
+      }
+    ]
+  },
+  {
+    "id": 90034,
+    "title": "Keys of War",
+    "description": "These keys unlock the doors within the Plane of War.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3048,
+        "label": "Field of Strife"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 3049,
+        "label": "Castle Rulnavis"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 3050,
+        "label": "Castle Tamrel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 3051,
+        "label": "Rallos' Tower"
+      }
+    ]
+  },
+  {
+    "id": 90023,
+    "title": "Lxanvom, Lower Depths Key",
+    "description": "This key unlocks the portal to the lower depths of the Ruins of Lxanvom (Crypt of Decay).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3037,
+        "label": "Lxanvom, Lower Depths Key"
+      }
+    ]
+  },
+  {
+    "id": 90033,
+    "title": "Passkey of the Twelve",
+    "description": "This key unlocks the entrance to Ragrax, Stronghold of the Twelve (Plane of Earth).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3047,
+        "label": "Passkey of the Twelve"
+      }
+    ]
+  },
+  {
+    "id": 90025,
+    "title": "Ring of Marr",
+    "description": "This key unlocks the entrance to the Halls of Honor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3039,
+        "label": "Ring of Marr"
+      }
+    ]
+  },
+  {
+    "id": 90022,
+    "title": "Ruins of Lxanvom Key",
+    "description": "This key unlocks the entrance to the Ruins of Lxanvom (Crypt of Decay).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3035,
+        "label": "Ruins of Lxanvom Key"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 3036,
+        "label": "Grimror's Bracer"
+      }
+    ]
+  },
+  {
+    "id": 90027,
+    "title": "Screaming Sphere",
+    "description": "This key unlocks the door to Saryrn's chambers within Torment, the Plane of Pain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3041,
+        "label": "Screaming Sphere"
+      }
+    ]
+  },
+  {
+    "id": 90030,
+    "title": "Symbol of Torden",
+    "description": "This key unlocks the portal to Karana's tower within Torden, the Bastion of Thunder.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3044,
+        "label": "Symbol of Torden"
+      }
+    ]
+  },
+  {
+    "id": 90026,
+    "title": "Symbol of Torment",
+    "description": "This key unlocks the entrance to Torment, the Plane of Pain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3040,
+        "label": "Symbol of Torment"
+      }
+    ]
+  },
+  {
+    "id": 90028,
+    "title": "Talisman of Thunderous Foyer",
+    "description": "This key unlocks the entrance to Torden, the Bastion of Thunder.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3042,
+        "label": "Talisman of Thunderous Foyer"
+      }
+    ]
+  },
+  {
+    "id": 90031,
+    "title": "Wind Etched Key",
+    "description": "This key unlocks the portal to Xegony's island within Eryslai, the Kingdom of Wind (Plane of Air).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 503,
+    "subcategoryName": "Progression",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3045,
+        "label": "Wind Etched Key"
+      }
+    ]
+  },
+  {
+    "id": 521301,
+    "title": "Mercenary of The Plane of War",
+    "description": "This achievement is gained upon completing the following quests in The Plane of War:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 504,
+    "subcategoryName": "Quests",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500001,
+        "label": "Etsinthinikonarifet - Tithes of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 500002,
+        "label": "The Judicator - Those Who Fight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 500003,
+        "label": "Refiner Dyrginal - Deserving of Battle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 500004,
+        "label": "Katka - The Unworthy"
+      }
+    ]
+  },
+  {
+    "id": 521302,
+    "title": "Partisan of The Plane of War",
+    "description": "This achievement is gained upon completing the following quests in The Plane of War:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 504,
+    "subcategoryName": "Quests",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500005,
+        "label": "Captain Flavis Stella - The Tamrel Trials"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 500006,
+        "label": "General Ugor Gronno - General's Orders"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 500007,
+        "label": "Edmuund - Edmuund's Plight"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 500008,
+        "label": "Captain Dulkot - The Long and Grinding Road"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 500009,
+        "label": "High Strategist Galben - Any Means Necessary"
+      }
+    ]
+  },
+  {
+    "id": 520205,
+    "title": "Signet of the Arcane",
+    "description": "Assist Aid Grimel and Councilman Taldarius in The Plane of Knowledge:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 504,
+    "subcategoryName": "Quests",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 500036,
+        "label": "Councilman Taldarius - Signet of the Arcane (or Signet of Might)"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 500037,
+        "label": "Aid Grimel - Hardened Leather Signet"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 500038,
+        "label": "Aid Grimel - Clay Signet"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 500039,
+        "label": "Aid Grimel - Wooden Signet"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 500040,
+        "label": "Aid Grimel - Metal Signet"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 500041,
+        "label": "Aid Grimel - Marked Signet"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 500042,
+        "label": "Aid Grimel - Runed Signet"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 500043,
+        "label": "Aid Grimel - Marked Runed Signet"
+      }
+    ]
+  },
+  {
+    "id": 521740,
+    "title": "Conqueror of Doomfire, the Burning Lands",
+    "description": "This achievement is gained upon completing the following raids in Doomfire, the Burning Lands:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000303,
+        "label": "Arch Mage Yozanni"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000304,
+        "label": "Babnoxis the Spider Queen"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000305,
+        "label": "Blazzax the Omnifiend"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000300,
+        "label": "Criare Sunmane"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000223,
+        "label": "Fennin Ro the Tyrant of Fire"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000301,
+        "label": "General Druav Flamesinger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000296,
+        "label": "General Reparm"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000302,
+        "label": "Jaxoliz Dawneyes"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000297,
+        "label": "Magmaton"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000298,
+        "label": "Pyronis"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000299,
+        "label": "Quavonis Firetail"
+      }
+    ]
+  },
+  {
+    "id": 521440,
+    "title": "Conqueror of Drunder, Fortress of Zek",
+    "description": "This achievement is gained upon completing the following raids in Drunder, Fortress of Zek:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000355,
+        "label": "The Diaku Overseer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000354,
+        "label": "Glykus Helmir"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000217,
+        "label": "Rallos Zek the Warlord"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000356,
+        "label": "Tagrin Maldric"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000215,
+        "label": "Tallon Zek"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000216,
+        "label": "Vallon Zek"
+      }
+    ]
+  },
+  {
+    "id": 521540,
+    "title": "Conqueror of Eryslai, the Kingdom of Wind",
+    "description": "This achievement is gained upon completing the following raids in Eryslai, the Kingdom of Wind:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000307,
+        "label": "Arch Mage Alchtonion"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000314,
+        "label": "Avatar of Dust"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000313,
+        "label": "Avatar of Mist"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000312,
+        "label": "Avatar of Smoke"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000311,
+        "label": "Avatar of Wind"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000315,
+        "label": "Baltaldor the Cursed"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000306,
+        "label": "Chamberlain Escalardian"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000308,
+        "label": "Gakamenial Fir`Disralsi"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000309,
+        "label": "Queen Silandria"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000310,
+        "label": "Rinturion Windblade"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000224,
+        "label": "Xegony the Queen of Air"
+      }
+    ]
+  },
+  {
+    "id": 522240,
+    "title": "Conqueror of Ragrax, Stronghold of the Twelve",
+    "description": "This achievement is gained upon completing the following raids in Ragrax, Stronghold of the Twelve:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000221,
+        "label": "Avatar of Earth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000326,
+        "label": "Warlord Gintolaken"
+      }
+    ]
+  },
+  {
+    "id": 521240,
+    "title": "Conqueror of Solusek Ro's Tower",
+    "description": "This achievement is gained upon completing the following raids in Solusek Ro's Tower:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000291,
+        "label": "Arlyxir"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000292,
+        "label": "Jiva"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000295,
+        "label": "The Protector of Dresolik"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000293,
+        "label": "Rizlona"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000219,
+        "label": "Solusek Ro"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000294,
+        "label": "Xuzl"
+      }
+    ]
+  },
+  {
+    "id": 521140,
+    "title": "Conqueror of The Halls of Honor",
+    "description": "This achievement is gained upon completing the following raids in The Halls of Honor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000286,
+        "label": "Alekson Garn's Trial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000285,
+        "label": "Rhaliq Trell's Trial"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000284,
+        "label": "Trydan Faye's Trial"
+      }
+    ]
+  },
+  {
+    "id": 522140,
+    "title": "Conqueror of The Lair of Terris-Thule",
+    "description": "This achievement is gained upon completing the following raids in The Lair of Terris-Thule:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000214,
+        "label": "Terris-Thule"
+      }
+    ]
+  },
+  {
+    "id": 520540,
+    "title": "Conqueror of The Plane of Disease",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Disease:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000210,
+        "label": "Grummus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000343,
+        "label": "Rallius Rattican"
+      }
+    ]
+  },
+  {
+    "id": 520640,
+    "title": "Conqueror of The Plane of Innovation",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Innovation:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000209,
+        "label": "Manaetic Behemoth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000268,
+        "label": "Manaetic Prototype IX"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000269,
+        "label": "Manaetic Prototype X"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000267,
+        "label": "Manaetic Prototype XI"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000266,
+        "label": "Xanamech Nezmirthafen"
+      }
+    ]
+  },
+  {
+    "id": 520140,
+    "title": "Conqueror of The Plane of Justice",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Justice:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000270,
+        "label": "The Seventh Hammer"
+      }
+    ]
+  },
+  {
+    "id": 520440,
+    "title": "Conqueror of The Plane of Nightmare",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Nightmare:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000341,
+        "label": "Deyid the Twisted"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000264,
+        "label": "Hobgoblin Anguish Lord"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000263,
+        "label": "Mujaki the Devourer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000342,
+        "label": "Terror Matriarch"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000265,
+        "label": "Tyrant of Nightmare"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000340,
+        "label": "Untel`Dak"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000262,
+        "label": "Vhaksiz the Shade"
+      }
+    ]
+  },
+  {
+    "id": 521040,
+    "title": "Conqueror of The Plane of Storms",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Storms:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000276,
+        "label": "Drornok Tok Vo`Lok"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000272,
+        "label": "Falto, Lord of Thunder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000348,
+        "label": "Faruek the Bold"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000273,
+        "label": "Gurebk, Lord of Krendic"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000274,
+        "label": "Jeplak, Lord of Srerendi"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000352,
+        "label": "Laruken the Rigid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000275,
+        "label": "Neffiken, Lord of Kelek`Vor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000349,
+        "label": "Paruek the Strong"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000351,
+        "label": "Pendubk the Turbulent"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000350,
+        "label": "Solnebk the Unruly"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000271,
+        "label": "Ston`Ruak, Ancient of the Trees"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000353,
+        "label": "Zertuken the Unyielding"
+      }
+    ]
+  },
+  {
+    "id": 520840,
+    "title": "Conqueror of The Plane of Valor",
+    "description": "This achievement is gained upon completing the following raids in The Plane of Valor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000211,
+        "label": "Aerin`Dar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000357,
+        "label": "The Sleep Walker"
+      }
+    ]
+  },
+  {
+    "id": 200071,
+    "title": "Conqueror of The Plane of War",
+    "description": "This achievement is gained upon completing all the raids in The Plane of War:",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 200098,
+        "label": "The Brothers Zek"
+      }
+    ]
+  },
+  {
+    "id": 573640,
+    "title": "Conqueror of The Prison of the Forsaken",
+    "description": "This achievement is gained upon completing the following raids in The Prison of the Forsaken:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000358,
+        "label": "Complete Phase 1"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 5000226,
+        "label": "Anar of Water"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 5000227,
+        "label": "Kazrok of Fire"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 5000228,
+        "label": "Neimon of Air"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 5000230,
+        "label": "Rythor of the Undead"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 5000229,
+        "label": "Terlok of Earth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000359,
+        "label": "Complete Phase 2"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 5000232,
+        "label": "Earthen Overseer"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 5000234,
+        "label": "Gutripping War Beast"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 5000235,
+        "label": "Ralthos Enrok"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 5000233,
+        "label": "War Shapen Emissary"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 5000231,
+        "label": "Windshapen Warlord of Air"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000360,
+        "label": "Complete Phase 3"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 5000252,
+        "label": "Avatar of the Elements"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 5000242,
+        "label": "Champion of Torment"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 5000245,
+        "label": "Dark Knight of Terris"
+      },
+      {
+        "order": 17,
+        "type": 2,
+        "value": 5000251,
+        "label": "A Deadly Warboar"
+      },
+      {
+        "order": 18,
+        "type": 2,
+        "value": 5000248,
+        "label": "Deathbringer Blackheart"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 5000246,
+        "label": "Deathbringer Rianit"
+      },
+      {
+        "order": 20,
+        "type": 2,
+        "value": 5000250,
+        "label": "Deathbringer Skullsmash"
+      },
+      {
+        "order": 21,
+        "type": 2,
+        "value": 5000238,
+        "label": "Dersool Fal`Giersnaol"
+      },
+      {
+        "order": 22,
+        "type": 2,
+        "value": 5000243,
+        "label": "Dreamwarp"
+      },
+      {
+        "order": 23,
+        "type": 2,
+        "value": 5000249,
+        "label": "A Ferocious Warboar"
+      },
+      {
+        "order": 24,
+        "type": 2,
+        "value": 5000236,
+        "label": "Herlsoakian"
+      },
+      {
+        "order": 25,
+        "type": 2,
+        "value": 5000240,
+        "label": "Kraksmaal Fir`Dethsin"
+      },
+      {
+        "order": 26,
+        "type": 2,
+        "value": 5000247,
+        "label": "A Needletusk Warboar"
+      },
+      {
+        "order": 27,
+        "type": 2,
+        "value": 5000237,
+        "label": "Sinrunal Gorgedreal"
+      },
+      {
+        "order": 28,
+        "type": 2,
+        "value": 5000253,
+        "label": "Supernatural Guardian"
+      },
+      {
+        "order": 29,
+        "type": 2,
+        "value": 5000244,
+        "label": "Undead Squad Leader"
+      },
+      {
+        "order": 30,
+        "type": 2,
+        "value": 5000241,
+        "label": "Xeroan Xi`Geruonask"
+      },
+      {
+        "order": 31,
+        "type": 2,
+        "value": 5000239,
+        "label": "Xerskel Gerodnsal"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 5000361,
+        "label": "Complete Phase 4"
+      },
+      {
+        "order": 33,
+        "type": 2,
+        "value": 5000255,
+        "label": "Saryrn"
+      },
+      {
+        "order": 34,
+        "type": 2,
+        "value": 5000256,
+        "label": "Tallon Zek"
+      },
+      {
+        "order": 35,
+        "type": 2,
+        "value": 5000254,
+        "label": "Terris-Thule"
+      },
+      {
+        "order": 36,
+        "type": 2,
+        "value": 5000257,
+        "label": "Vallon Zek"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 5000362,
+        "label": "Complete Phase 5"
+      },
+      {
+        "order": 38,
+        "type": 2,
+        "value": 5000259,
+        "label": "Bertoxxulous"
+      },
+      {
+        "order": 39,
+        "type": 2,
+        "value": 5000258,
+        "label": "Cazic-Thule"
+      },
+      {
+        "order": 40,
+        "type": 2,
+        "value": 5000261,
+        "label": "Innoruuk"
+      },
+      {
+        "order": 41,
+        "type": 2,
+        "value": 5000260,
+        "label": "Rallos Zek"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 5000225,
+        "label": "Complete Phase 6"
+      },
+      {
+        "order": 43,
+        "type": 2,
+        "value": 5000225,
+        "label": "Quarm"
+      }
+    ]
+  },
+  {
+    "id": 521640,
+    "title": "Conqueror of The Reef of Coirnav",
+    "description": "This achievement is gained upon completing the following raids in The Reef of Coirnav:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000222,
+        "label": "Coirnav the Avatar of Water"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000337,
+        "label": "Fishlord Summoning Event"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 5000334,
+        "label": "Phase 1: a hungry, stringy, or toughened anglerfish"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 5000335,
+        "label": "Phase 2: a dark, foul, or wicked anglerfish"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 5000336,
+        "label": "Phase 3: a prime, prismatic, or superior anglerfish"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 5000337,
+        "label": "Phase 4: a king, master, or supreme anglerfish"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000316,
+        "label": "Grioihin the Wise"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000317,
+        "label": "Hydrotha"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000318,
+        "label": "Krziik the Mighty"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000319,
+        "label": "Ofossaa the Enlightened"
+      }
+    ]
+  },
+  {
+    "id": 520040,
+    "title": "Conqueror of The Ruins of Lxanvom",
+    "description": "This achievement is gained upon completing the following raids in The Ruins of Lxanvom:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000212,
+        "label": "Bertoxxulous"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000283,
+        "label": "High Priest Ultor Szanvon"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000282,
+        "label": "Overlord Banord Paffa"
+      }
+    ]
+  },
+  {
+    "id": 522040,
+    "title": "Conqueror of The Temple of Marr",
+    "description": "This achievement is gained upon completing the following raids in The Temple of Marr:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000220,
+        "label": "Lord Mithaniel Marr"
+      }
+    ]
+  },
+  {
+    "id": 520940,
+    "title": "Conqueror of Torden, the Bastion of Thunder",
+    "description": "This achievement is gained upon completing the following raids in Torden, the Bastion of Thunder:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000218,
+        "label": "Agnarr the Storm Lord"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000290,
+        "label": "Auliffe Chaoswind"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000288,
+        "label": "Brynju Thunderclap"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000289,
+        "label": "Eindride Icestorm"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000344,
+        "label": "Gaukr Sandstorm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000345,
+        "label": "Hreidar Lynhillig"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000287,
+        "label": "Kuanbyr Hailstorm"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000347,
+        "label": "Laef Windfall"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000346,
+        "label": "Oreen Wavecrasher"
+      }
+    ]
+  },
+  {
+    "id": 520740,
+    "title": "Conqueror of Torment, the Plane of Pain",
+    "description": "This achievement is gained upon completing the following raids in Torment, the Plane of Pain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000280,
+        "label": "The Acolyte of Affliction"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000281,
+        "label": "The Keeper of Sorrows"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000277,
+        "label": "Maareq the Prophet"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000278,
+        "label": "Salczek the Fleshgrinder"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000213,
+        "label": "Saryrn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000279,
+        "label": "Ta`Grusch the Abomination"
+      }
+    ]
+  },
+  {
+    "id": 521840,
+    "title": "Conqueror of Vegarlson, the Earthen Badlands",
+    "description": "This achievement is gained upon completing the following raids in Vegarlson, the Earthen Badlands:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 506,
+    "subcategoryName": "Raids",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000324,
+        "label": "Derugoak Bloodwalker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000322,
+        "label": "A Monstrous Mudwalker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000320,
+        "label": "A Mystical Arbitor of Earth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000325,
+        "label": "Peregrin Rockskull"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000323,
+        "label": "A Perfected Warder of Earth"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000321,
+        "label": "Tantisala Jaggedtooth"
+      }
+    ]
+  },
+  {
+    "id": 521305,
+    "title": "Beyond the Zekarian",
+    "description": "Solve the Sphinx's riddle to gain access to the Field of Strife and the Mines of Narikor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500001,
+        "label": "You may now enter the Field of Strife. Should you die you will be banished to Narikor."
+      }
+    ]
+  },
+  {
+    "id": 521308,
+    "title": "Castle Rulnavis",
+    "description": "Best The Judicator and use The Warlord's Blessing to gain access to Castle Rulnavis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500029,
+        "label": "You may now enter Castle Rulnavis."
+      }
+    ]
+  },
+  {
+    "id": 521306,
+    "title": "Castle Tamrel",
+    "description": "Best The Judicator and use The Warlord's Blessing to gain access to Castle Tamrel.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500023,
+        "label": "You may now enter Castle Tamrel."
+      }
+    ]
+  },
+  {
+    "id": 521304,
+    "title": "Savior of The Plane of War",
+    "description": "This achievement is gained upon completing the following quests in The Plane of War:",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500021,
+        "label": "Mercenary of The Plane of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 500022,
+        "label": "Partisan of The Plane of War"
+      }
+    ]
+  },
+  {
+    "id": 521310,
+    "title": "The Antechamber of Drunder",
+    "description": "Gain renown with both armies of Zek to earn access to the Antechamber of Drunder.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500035,
+        "label": "You may now enter the Antechamber of Drunder."
+      }
+    ]
+  },
+  {
+    "id": 521309,
+    "title": "The Favor of Tallon",
+    "description": "Prove your worth to the army of Tallon Zek.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500030,
+        "label": "Reach maximum ally [5000] faction with Castle Rulnavis."
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 500031,
+        "label": "Reach dubious [250] faction with Castle Rulnavis."
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 500032,
+        "label": "Reach indifferent [750] faction with Castle Rulnavis."
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 500033,
+        "label": "Reach kindly [1250] faction with Castle Rulnavis."
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 500034,
+        "label": "Reach warmly [1500] faction with Castle Rulnavis."
+      }
+    ]
+  },
+  {
+    "id": 521307,
+    "title": "The Favor of Vallon",
+    "description": "Prove your worth to the army of Vallon Zek.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 507,
+    "subcategoryName": "Conquest",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500024,
+        "label": "Reach maximum ally [5000] faction with Castle Tamrel."
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 500025,
+        "label": "Reach dubious [250] faction with Castle Tamrel."
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 500026,
+        "label": "Reach indifferent [750] faction with Castle Tamrel."
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 500027,
+        "label": "Reach kindly [1250] faction with Castle Tamrel."
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 500028,
+        "label": "Reach warmly [1500] faction with Castle Tamrel."
+      }
+    ]
+  },
+  {
+    "id": 521780,
+    "title": "Hunter of Doomfire, the Burning Lands",
+    "description": "This achievement is gained upon defeating the following rare monsters in Doomfire, the Burning Lands:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000151,
+        "label": "Captain of Fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000152,
+        "label": "Charmer of Fire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000160,
+        "label": "Dark Obsidian Lava Spider"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000155,
+        "label": "Doomfire Firecharmer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000156,
+        "label": "Doomfire Magus"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000157,
+        "label": "Doomfire Reaver"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000158,
+        "label": "Doomfire Vicar"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000159,
+        "label": "Doomfire Warlord"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000164,
+        "label": "Doomfire Warmaster"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000161,
+        "label": "Fiery Spirit Equine Overlord"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000162,
+        "label": "Flame Overlord"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000148,
+        "label": "Flame Wilder"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000168,
+        "label": "Jopal Chieftain"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000165,
+        "label": "Jopal Crafter"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000166,
+        "label": "Jopal Flame Protector"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000167,
+        "label": "Jopal Seer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000149,
+        "label": "Jopal Tracker"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 5000163,
+        "label": "Magma Overlord"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 5000150,
+        "label": "Obsidian Tree Spider Queen"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 5000169,
+        "label": "Obsidian War Spider"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 5000153,
+        "label": "Sorcerer of Fire"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 5000154,
+        "label": "Vicar of Fire"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 5000147,
+        "label": "Wild Fiery Spirit Steed"
+      }
+    ]
+  },
+  {
+    "id": 521480,
+    "title": "Hunter of Drunder, the Fortress of Zek",
+    "description": "This achievement is gained upon defeating the following rare monsters in Drunder, the Fortress of Zek:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000128,
+        "label": "Anival the Blade"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000127,
+        "label": "The Diaku Supplier"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000124,
+        "label": "an Enraged War Boar"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000339,
+        "label": "a frenzied initiate"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000126,
+        "label": "Hinvat Deathbringer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000129,
+        "label": "Shadow Master Vinta"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000332,
+        "label": "a Stampeding Piglet"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000125,
+        "label": "Zelrin Morlock"
+      }
+    ]
+  },
+  {
+    "id": 521580,
+    "title": "Hunter of Eryslai, the Kingdom of Wind",
+    "description": "This achievement is gained upon defeating the following rare monsters in Eryslai, the Kingdom of Wind:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000363,
+        "label": "Calebgrothiel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000364,
+        "label": "Inlokher the Warlord"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000333,
+        "label": "Lossenmachar"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000366,
+        "label": "a phoenix breezewing"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000365,
+        "label": "a phoenix searedwing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000130,
+        "label": "Swirling Elemental Force"
+      }
+    ]
+  },
+  {
+    "id": 521180,
+    "title": "Hunter of The Halls of Honor",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Halls of Honor:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000113,
+        "label": "Captain Danon Shern"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000114,
+        "label": "Captain Kage Shou"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000115,
+        "label": "Konid Merdrid"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000117,
+        "label": "A Protector of Valor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000116,
+        "label": "A Wrulon Protector"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000368,
+        "label": "A Wrulon Sentry"
+      }
+    ]
+  },
+  {
+    "id": 522180,
+    "title": "Hunter of The Lair of Terris-Thule",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Lair of Terris-Thule:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000182,
+        "label": "Protector of Terris"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000183,
+        "label": "Sentry of Nightmares"
+      }
+    ]
+  },
+  {
+    "id": 520580,
+    "title": "Hunter of The Plane of Disease",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Disease:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000072,
+        "label": "an arachnae parian"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000073,
+        "label": "a diseased infested bubonian"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000075,
+        "label": "a malarian metamo"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000074,
+        "label": "a sengian fly"
+      }
+    ]
+  },
+  {
+    "id": 520680,
+    "title": "Hunter of The Plane of Innovation",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Innovation:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000077,
+        "label": "Junk Beast"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000076,
+        "label": "a malfunctioning system, a rust covered model, or a corroded prototype"
+      }
+    ]
+  },
+  {
+    "id": 520180,
+    "title": "Hunter of The Plane of Justice",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Justice:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000057,
+        "label": "an accursed tormentor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000063,
+        "label": "the ancient crawler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000064,
+        "label": "a blood leech"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000046,
+        "label": "a burning nemesis"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000045,
+        "label": "a diamond beetle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000047,
+        "label": "a fiery aggressor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000058,
+        "label": "a grallok appraisor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000059,
+        "label": "a grallok crusader"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000060,
+        "label": "a grallok elder"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000061,
+        "label": "a grallok overseer"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000062,
+        "label": "the grallok underlord"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000053,
+        "label": "a harrowing lasher"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000048,
+        "label": "herald of destruction"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000056,
+        "label": "nemesis of despair"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000055,
+        "label": "nemesis of stone"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000051,
+        "label": "phantom of asphyxiation"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000049,
+        "label": "priest of doom"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 5000054,
+        "label": "a ruthless grinder"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 5000065,
+        "label": "a screeching parasite"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 5000050,
+        "label": "a smothering nemesis"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 5000052,
+        "label": "a stinging nemesis"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 5000044,
+        "label": "the yrendan scarab"
+      }
+    ]
+  },
+  {
+    "id": 520480,
+    "title": "Hunter of The Plane of Nightmare",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Nightmare:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000069,
+        "label": "an agony mephit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000066,
+        "label": "a bullyrag bat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000068,
+        "label": "a fearsome hobgoblin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000071,
+        "label": "a fiendish consort"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000070,
+        "label": "an infernal consort"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000067,
+        "label": "a painwrack hobgoblin"
+      }
+    ]
+  },
+  {
+    "id": 521080,
+    "title": "Hunter of The Plane of Storms",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Storms:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000331,
+        "label": "Dolshak the Ornery"
+      }
+    ]
+  },
+  {
+    "id": 520880,
+    "title": "Hunter of The Plane of Valor",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of Valor:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000094,
+        "label": "A Diseased Guard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000087,
+        "label": "a festering worm"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000093,
+        "label": "Lieutenant Baelin Dwinn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000086,
+        "label": "A Luminii Crawler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000090,
+        "label": "A Razorfiend Subjugator"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000096,
+        "label": "Sergeant Terrick Burns"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000095,
+        "label": "A Skeletal Guardian"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000088,
+        "label": "A Traglimite Frog"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000091,
+        "label": "An Undead Doorman"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000092,
+        "label": "An Undead Footman"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000089,
+        "label": "an Ungainly Beast"
+      }
+    ]
+  },
+  {
+    "id": 521303,
+    "title": "Hunter of The Plane of War",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Plane of War:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 500010,
+        "label": "Commander Gannar Dolm"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 500011,
+        "label": "Commander Inasch Prae`va"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 500012,
+        "label": "Gyrup, the Caller"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 500013,
+        "label": "Kijarl, Arcanist of Rulnavis"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 500014,
+        "label": "Rolfron Zek, Lord of Despair"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 500015,
+        "label": "Slave Driver Thokk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 500016,
+        "label": "The Barb"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 500017,
+        "label": "The Blade"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 500018,
+        "label": "The Grandmaster"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 500019,
+        "label": "The Heart of Narikor"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 500020,
+        "label": "The Judicator"
+      }
+    ]
+  },
+  {
+    "id": 521680,
+    "title": "Hunter of The Reef of Coirnav",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Reef of Coirnav:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000338,
+        "label": "an enormous frog"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000132,
+        "label": "Ferocious Barracuda"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000131,
+        "label": "Frenzied Anglerfish"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000138,
+        "label": "Furious Deepwater Kraken"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000143,
+        "label": "Gigadon"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000136,
+        "label": "Hammertooth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000144,
+        "label": "Hraquis Arch Magus"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000145,
+        "label": "Hraquis Chieftain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000135,
+        "label": "Monstrous Sea Turtle"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000142,
+        "label": "Razorfin"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000134,
+        "label": "Regrua Overlord"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000133,
+        "label": "Regrua Protector"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000137,
+        "label": "Savage Deepwater Kraken"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000146,
+        "label": "Swordfang"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000140,
+        "label": "Triloun Egg Keeper"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000139,
+        "label": "Triloun Seer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000141,
+        "label": "Triloun Warder"
+      }
+    ]
+  },
+  {
+    "id": 520080,
+    "title": "Hunter of the Ruins of Lxanvom",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Ruins of Lxanvom:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000328,
+        "label": "Assassin Kakoo"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000025,
+        "label": "Bubonian Death Caster"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000029,
+        "label": "Bubonian Great Mystic"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000032,
+        "label": "Bubonian Warlord"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000030,
+        "label": "Crazed Bubonian Berzerker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000035,
+        "label": "Deathbone Archmagus"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000037,
+        "label": "Elite Corrupted Knight"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000036,
+        "label": "Elite Death Knight"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000041,
+        "label": "Elite Knight of Decay"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000040,
+        "label": "Elite Necromancer of Decay"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000039,
+        "label": "Elite Priest of Decay"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000026,
+        "label": "Eviscerator Fwexar"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000038,
+        "label": "Firebone Archmagus"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000042,
+        "label": "Greater Corrupted Pusling"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000043,
+        "label": "Greater Foul Pusling"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000027,
+        "label": "High Mystic Qucosp"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 5000034,
+        "label": "Pestilence Archon"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 5000028,
+        "label": "Plague Lord Hetral"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 5000031,
+        "label": "War Chieftain Dorwikak"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 5000033,
+        "label": "Witchdoctor Orxkra"
+      }
+    ]
+  },
+  {
+    "id": 522080,
+    "title": "Hunter of The Temple of Marr",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Temple of Marr:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000116,
+        "label": "A Wrulon Protector"
+      }
+    ]
+  },
+  {
+    "id": 521280,
+    "title": "Hunter of The Tower of Solusek Ro",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Tower of Solusek Ro:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000120,
+        "label": "a fervid magmin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000123,
+        "label": "a flare mephit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000121,
+        "label": "a pumice collector"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000119,
+        "label": "a radiant guardian"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000118,
+        "label": "a runed giant"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000122,
+        "label": "a sweltering mephit"
+      }
+    ]
+  },
+  {
+    "id": 520980,
+    "title": "Hunter of Torden, the Bastion of Thunder",
+    "description": "This achievement is gained upon defeating the following rare monsters in Torden, the Bastion of Thunder:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000104,
+        "label": "Amnquetil Brynjulffr"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000105,
+        "label": "Atle Cloudburst"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000106,
+        "label": "Bordir Bjomolf"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000097,
+        "label": "Elif Whitewind"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000098,
+        "label": "Erech Eyford"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000109,
+        "label": "Finvakur Icemantle"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000110,
+        "label": "Fogl Iceshard"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000111,
+        "label": "Galm Snowdrift"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000112,
+        "label": "Riodhr Torrentwind"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000099,
+        "label": "Rorek Steelthorn"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000100,
+        "label": "Thangbrand"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000101,
+        "label": "Thorolf Sutherland"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 5000107,
+        "label": "Torstien Stoneskin"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 5000102,
+        "label": "Valbrand"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 5000108,
+        "label": "Wybjorn"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 5000103,
+        "label": "Ymir Stormseer"
+      }
+    ]
+  },
+  {
+    "id": 520780,
+    "title": "Hunter of Torment, the Plane of Pain",
+    "description": "This achievement is gained upon defeating the following rare monsters in Torment, the Plane of Pain:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000078,
+        "label": "The Avatar of Agony"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000079,
+        "label": "The Avatar of Anguish"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000080,
+        "label": "The Avatar of Pain"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000081,
+        "label": "The Avatar of Suffering"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000329,
+        "label": "Dirge Malicia"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000330,
+        "label": "A Kaniz flesh flayer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000085,
+        "label": "The Mouths of Misery"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000084,
+        "label": "A pain devourer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000082,
+        "label": "A pain golem"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000083,
+        "label": "A sorrow seeker"
+      }
+    ]
+  },
+  {
+    "id": 521880,
+    "title": "Hunter of Vegarlson, The Earthen Badlands",
+    "description": "This achievement is gained upon defeating the following rare monsters in Vegarlson, The Earthen Badlands:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 508,
+    "subcategoryName": "Hunter",
+    "categoryId": 500,
+    "categoryName": "Planes of Power",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 5000180,
+        "label": "An Ancient Vekerchiki Champion"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 5000172,
+        "label": "Calris Bristlebranch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 5000178,
+        "label": "Galsinak Earthrumble"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 5000177,
+        "label": "Glimmerstone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 5000173,
+        "label": "A Korascian Warlord"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 5000171,
+        "label": "The Living Earth"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 5000181,
+        "label": "A Monstrous Earthwalker"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 5000176,
+        "label": "A Perfect Rock Formation"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 5000170,
+        "label": "A Prismatic Basilisk"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 5000174,
+        "label": "A Pristine Gem Golem"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 5000175,
+        "label": "A Shimmering Gem Sentry"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 5000179,
+        "label": "Tribal Leader Diseranon"
+      }
+    ]
+  }
+]

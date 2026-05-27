@@ -1,0 +1,6338 @@
+[
+  {
+    "id": 700085,
+    "title": "Conqueror of Lost Dungeons of Norrath",
+    "description": "This achievement is gained upon completing all the raids in Lost Dungeons of Norrath.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 701,
+    "subcategoryName": "General",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000153,
+        "label": "Conqueror of Deepest Guk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000154,
+        "label": "Conqueror of The Rujarkian Hills"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000155,
+        "label": "Conqueror of Takish-Hiz"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000156,
+        "label": "Conqueror of Miragul's Menagerie"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000157,
+        "label": "Conqueror of Mistmoore's Catacombs"
+      }
+    ]
+  },
+  {
+    "id": 700080,
+    "title": "Dungeon Slayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 701,
+    "subcategoryName": "General",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000214,
+        "label": "Hunter of Deepest Guk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000215,
+        "label": "Hunter of Miragul's Menagerie"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000216,
+        "label": "Hunter of Mistmoore's Catacombs"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000217,
+        "label": "Hunter of The Rujarkian Hills"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000218,
+        "label": "Hunter of Takish-Hiz"
+      }
+    ]
+  },
+  {
+    "id": 700050,
+    "title": "Lost Dungeons of Norrath Explorer",
+    "description": "This achievement is gained upon visiting all the Lost Dungeons of Norrath.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 701,
+    "subcategoryName": "General",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270867,
+        "label": "Deepest Guk Explorer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270868,
+        "label": "Miragul's Menagerie Explorer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270869,
+        "label": "Mistmoore's Catacombs Explorer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270870,
+        "label": "The Rujarkian Hills Explorer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270871,
+        "label": "Takish-Hiz Explorer"
+      }
+    ]
+  },
+  {
+    "id": 726400,
+    "title": "Accursed Sanctuary Traveler",
+    "description": "This achievement is gained upon visiting the Accursed Sanctuary.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270217,
+        "label": "Visit the Accursed Sanctuary"
+      }
+    ]
+  },
+  {
+    "id": 726800,
+    "title": "Aisles of Blood Traveler",
+    "description": "This achievement is gained upon visiting the Aisles of Blood.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270221,
+        "label": "Visit the Aisles of Blood"
+      }
+    ]
+  },
+  {
+    "id": 723900,
+    "title": "Ancient Aqueducts Traveler",
+    "description": "This achievement is gained upon visiting the Ancient Aqueducts.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270192,
+        "label": "Visit the Ancient Aqueducts"
+      }
+    ]
+  },
+  {
+    "id": 727000,
+    "title": "Antiquated Palace Traveler",
+    "description": "This achievement is gained upon visiting the Antiquated Palace.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270223,
+        "label": "Visit the Antiquated Palace"
+      }
+    ]
+  },
+  {
+    "id": 726900,
+    "title": "Arena of Chance Traveler",
+    "description": "This achievement is gained upon visiting the Arena of Chance.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270222,
+        "label": "Visit the Arena of Chance"
+      }
+    ]
+  },
+  {
+    "id": 724300,
+    "title": "Asylum of Invoked Stone Traveler",
+    "description": "This achievement is gained upon visiting the Asylum of Invoked Stone.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270196,
+        "label": "Visit the Asylum of Invoked Stone"
+      }
+    ]
+  },
+  {
+    "id": 726100,
+    "title": "Balancing Chamber Traveler",
+    "description": "This achievement is gained upon visiting the Balancing Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270214,
+        "label": "Visit the Balancing Chamber"
+      }
+    ]
+  },
+  {
+    "id": 727300,
+    "title": "Barracks of War Traveler",
+    "description": "This achievement is gained upon visiting the Barracks of War.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270226,
+        "label": "Visit the Barracks of War"
+      }
+    ]
+  },
+  {
+    "id": 726500,
+    "title": "Blazing Forge Traveler",
+    "description": "This achievement is gained upon visiting the Blazing Forge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270218,
+        "label": "Visit the Blazing Forge"
+      }
+    ]
+  },
+  {
+    "id": 723000,
+    "title": "Bloodied Quarries Traveler",
+    "description": "This achievement is gained upon visiting the Bloodied Quarries.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270183,
+        "label": "Visit the Bloodied Quarries"
+      }
+    ]
+  },
+  {
+    "id": 722900,
+    "title": "Cauldron of Lost Souls Traveler",
+    "description": "This achievement is gained upon visiting the Cauldron of Lost Souls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270182,
+        "label": "Visit the Cauldron of Lost Souls"
+      }
+    ]
+  },
+  {
+    "id": 726300,
+    "title": "Cesspits of Putrescence Traveler",
+    "description": "This achievement is gained upon visiting the Cesspits of Putrescence.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270216,
+        "label": "Visit the Cesspits of Putrescence"
+      }
+    ]
+  },
+  {
+    "id": 724800,
+    "title": "Chambers of Eternal Affliction Traveler",
+    "description": "This achievement is gained upon visiting the Chambers of Eternal Affliction.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270201,
+        "label": "Visit the Chambers of Eternal Affliction"
+      }
+    ]
+  },
+  {
+    "id": 725400,
+    "title": "Chapel of the Witnesses Traveler",
+    "description": "This achievement is gained upon visiting the Chapel of the Witnesses.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270207,
+        "label": "Visit the Chapel of the Witnesses"
+      }
+    ]
+  },
+  {
+    "id": 700051,
+    "title": "Deepest Guk Explorer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270615,
+        "label": "Accursed Sanctuary Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270610,
+        "label": "Ancient Aqueducts Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270608,
+        "label": "Cauldron of Lost Souls Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270613,
+        "label": "Chapel of the Witnesses Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270609,
+        "label": "Drowning Crypt Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270612,
+        "label": "Foreboding Prison Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270611,
+        "label": "Mushroom Grove Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270614,
+        "label": "Root Garden Traveler"
+      }
+    ]
+  },
+  {
+    "id": 723800,
+    "title": "Dreary Grotto Traveler",
+    "description": "This achievement is gained upon visiting the Dreary Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270191,
+        "label": "Visit the Dreary Grotto"
+      }
+    ]
+  },
+  {
+    "id": 723400,
+    "title": "Drowning Crypt Traveler",
+    "description": "This achievement is gained upon visiting the Drowning Crypt.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270187,
+        "label": "Visit the Drowning Crypt"
+      }
+    ]
+  },
+  {
+    "id": 725000,
+    "title": "Drudge Hollows Traveler",
+    "description": "This achievement is gained upon visiting the Drudge Hollows.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270203,
+        "label": "Visit the Drudge Hollows"
+      }
+    ]
+  },
+  {
+    "id": 724100,
+    "title": "Fading Temple Traveler",
+    "description": "This achievement is gained upon visiting the Fading Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270194,
+        "label": "Visit the Fading Temple"
+      }
+    ]
+  },
+  {
+    "id": 724900,
+    "title": "Foreboding Prison Traveler",
+    "description": "This achievement is gained upon visiting the Foreboding Prison.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270202,
+        "label": "Visit the Foreboding Prison"
+      }
+    ]
+  },
+  {
+    "id": 725700,
+    "title": "Forgotten Wastes Traveler",
+    "description": "This achievement is gained upon visiting the Forgotten Wastes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270210,
+        "label": "Visit the Forgotten Wastes"
+      }
+    ]
+  },
+  {
+    "id": 723300,
+    "title": "Forlorn Caverns Traveler",
+    "description": "This achievement is gained upon visiting the Forlorn Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270186,
+        "label": "Visit the Forlorn Caverns"
+      }
+    ]
+  },
+  {
+    "id": 725500,
+    "title": "Fortified Lair of the Taskmasters Traveler",
+    "description": "This achievement is gained upon visiting the Fortified Lair of the Taskmasters.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270208,
+        "label": "Visit the Fortified Lair of the Taskmasters"
+      }
+    ]
+  },
+  {
+    "id": 725200,
+    "title": "Frosted Halls Traveler",
+    "description": "This achievement is gained upon visiting the Frosted Halls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270205,
+        "label": "Visit the Frosted Halls"
+      }
+    ]
+  },
+  {
+    "id": 724500,
+    "title": "Gladiator Pits Traveler",
+    "description": "This achievement is gained upon visiting the Gladiator Pits.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270198,
+        "label": "Visit the Gladiator Pits"
+      }
+    ]
+  },
+  {
+    "id": 727500,
+    "title": "Grand Library Traveler",
+    "description": "This achievement is gained upon visiting the Grand Library.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270228,
+        "label": "Visit the Grand Library"
+      }
+    ]
+  },
+  {
+    "id": 727200,
+    "title": "Halls of Sanguinary Rites Traveler",
+    "description": "This achievement is gained upon visiting the Halls of Sanguinary Rites.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270225,
+        "label": "Visit the Halls of Sanguinary Rites"
+      }
+    ]
+  },
+  {
+    "id": 723500,
+    "title": "Halls of War Traveler",
+    "description": "This achievement is gained upon visiting the Halls of War.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270188,
+        "label": "Visit the Halls of War"
+      }
+    ]
+  },
+  {
+    "id": 726200,
+    "title": "Heart of the Menagerie Traveler",
+    "description": "This achievement is gained upon visiting the Heart of the Menagerie.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270215,
+        "label": "Visit the Heart of the Menagerie"
+      }
+    ]
+  },
+  {
+    "id": 726000,
+    "title": "Hidden Vale Traveler",
+    "description": "This achievement is gained upon visiting the Hidden Vale.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270213,
+        "label": "Visit the Hidden Vale"
+      }
+    ]
+  },
+  {
+    "id": 724700,
+    "title": "Hushed Banquet Traveler",
+    "description": "This achievement is gained upon visiting the Hushed Banquet.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270200,
+        "label": "Visit the Hushed Banquet"
+      }
+    ]
+  },
+  {
+    "id": 727600,
+    "title": "Infernal Sanctuary Traveler",
+    "description": "This achievement is gained upon visiting the Infernal Sanctuary.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270229,
+        "label": "Visit the Infernal Sanctuary"
+      }
+    ]
+  },
+  {
+    "id": 723700,
+    "title": "Maw of the Menagerie Traveler",
+    "description": "This achievement is gained upon visiting the Maw of the Menagerie.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270190,
+        "label": "Visit the Maw of the Menagerie"
+      }
+    ]
+  },
+  {
+    "id": 700052,
+    "title": "Miragul's Menagerie Explorer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270621,
+        "label": "Forgotten Wastes Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270620,
+        "label": "Frosted Halls Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270625,
+        "label": "Grand Library Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270622,
+        "label": "Heart of the Menagerie Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270619,
+        "label": "Hushed Banquet Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270617,
+        "label": "Maw of the Menagerie Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270623,
+        "label": "Morbid Laboratory Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270616,
+        "label": "Silent Gallery Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270618,
+        "label": "Spider Den Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270624,
+        "label": "Theater of Imprisoned Horrors Traveler"
+      }
+    ]
+  },
+  {
+    "id": 700053,
+    "title": "Mistmoore's Catacombs Explorer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270633,
+        "label": "Aisles of Blood Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270628,
+        "label": "Asylum of Invoked Stone Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270632,
+        "label": "Cesspits of Putrescence Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270629,
+        "label": "Chambers of Eternal Affliction Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270627,
+        "label": "Dreary Grotto Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270626,
+        "label": "Forlorn Caverns Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270634,
+        "label": "Halls of Sanguinary Rites Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270635,
+        "label": "Infernal Sanctuary Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270631,
+        "label": "Ritualistic Summoning Grounds Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270630,
+        "label": "Sepulcher of the Damned Traveler"
+      }
+    ]
+  },
+  {
+    "id": 726700,
+    "title": "Morbid Laboratory Traveler",
+    "description": "This achievement is gained upon visiting the Morbid Laboratory.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270220,
+        "label": "Visit the Morbid Laboratory"
+      }
+    ]
+  },
+  {
+    "id": 724400,
+    "title": "Mushroom Grove Traveler",
+    "description": "This achievement is gained upon visiting the Mushroom Grove.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270197,
+        "label": "Visit the Mushroom Grove"
+      }
+    ]
+  },
+  {
+    "id": 727400,
+    "title": "Prismatic Corridors Traveler",
+    "description": "This achievement is gained upon visiting the Prismatic Corridors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270227,
+        "label": "Visit the Prismatic Corridors"
+      }
+    ]
+  },
+  {
+    "id": 725800,
+    "title": "Ritualistic Summoning Grounds Traveler",
+    "description": "This achievement is gained upon visiting the Ritualistic Summoning Grounds.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270211,
+        "label": "Visit the Ritualistic Summoning Grounds"
+      }
+    ]
+  },
+  {
+    "id": 725100,
+    "title": "River of Recollection Traveler",
+    "description": "This achievement is gained upon visiting the River of Recollection.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270204,
+        "label": "Visit the River of Recollection"
+      }
+    ]
+  },
+  {
+    "id": 725900,
+    "title": "Root Garden Traveler",
+    "description": "This achievement is gained upon visiting the Root Garden.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270212,
+        "label": "Visit the Root Garden"
+      }
+    ]
+  },
+  {
+    "id": 724600,
+    "title": "Royal Observatory Traveler",
+    "description": "This achievement is gained upon visiting the Royal Observatory.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270199,
+        "label": "Visit the Royal Observatory"
+      }
+    ]
+  },
+  {
+    "id": 725600,
+    "title": "Sandfall Corridors Traveler",
+    "description": "This achievement is gained upon visiting the Sandfall Corridors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270209,
+        "label": "Visit the Sandfall Corridors"
+      }
+    ]
+  },
+  {
+    "id": 725300,
+    "title": "Sepulcher of the Damned Traveler",
+    "description": "This achievement is gained upon visiting the Sepulcher of the Damned.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270206,
+        "label": "Visit the Sepulcher of the Damned"
+      }
+    ]
+  },
+  {
+    "id": 723600,
+    "title": "Shifting Tower Traveler",
+    "description": "This achievement is gained upon visiting the Shifting Tower.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270189,
+        "label": "Visit the Shifting Tower"
+      }
+    ]
+  },
+  {
+    "id": 723200,
+    "title": "Silent Gallery Traveler",
+    "description": "This achievement is gained upon visiting the Silent Gallery.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270185,
+        "label": "Visit the Silent Gallery"
+      }
+    ]
+  },
+  {
+    "id": 724200,
+    "title": "Spider Den Traveler",
+    "description": "This achievement is gained upon visiting the Spider Den.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270195,
+        "label": "Visit the Spider Den"
+      }
+    ]
+  },
+  {
+    "id": 723100,
+    "title": "Sunken Library Traveler",
+    "description": "This achievement is gained upon visiting the Sunken Library.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270184,
+        "label": "Visit the Sunken Library"
+      }
+    ]
+  },
+  {
+    "id": 726600,
+    "title": "Sweeping Tides Traveler",
+    "description": "This achievement is gained upon visiting the Sweeping Tides.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270219,
+        "label": "Visit the Sweeping Tides"
+      }
+    ]
+  },
+  {
+    "id": 700055,
+    "title": "Takish-Hiz Explorer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270654,
+        "label": "Antiquated Palace Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270652,
+        "label": "Balancing Chamber Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270648,
+        "label": "Fading Temple Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270655,
+        "label": "Prismatic Corridors Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270650,
+        "label": "River of Recollection Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270649,
+        "label": "Royal Observatory Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270651,
+        "label": "Sandfall Corridors Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270647,
+        "label": "Shifting Tower Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270646,
+        "label": "Sunken Library Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270653,
+        "label": "Sweeping Tides Traveler"
+      }
+    ]
+  },
+  {
+    "id": 700054,
+    "title": "The Rujarkian Hills Explorer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270644,
+        "label": "Arena of Chance Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270645,
+        "label": "Barracks of War Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270643,
+        "label": "Blazing Forge Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270636,
+        "label": "Bloodied Quarries Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270640,
+        "label": "Drudge Hollows Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270641,
+        "label": "Fortified Lair of the Taskmasters Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270639,
+        "label": "Gladiator Pits Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270637,
+        "label": "Halls of War Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270642,
+        "label": "Hidden Vale Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270638,
+        "label": "Wind Bridges Traveler"
+      }
+    ]
+  },
+  {
+    "id": 727100,
+    "title": "Theater of Imprisoned Horrors Traveler",
+    "description": "This achievement is gained upon visiting the Theater of Imprisoned Horrors.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270224,
+        "label": "Visit the Theater of Imprisoned Horrors"
+      }
+    ]
+  },
+  {
+    "id": 724000,
+    "title": "Wind Bridges Traveler",
+    "description": "This achievement is gained upon visiting the Wind Bridges.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 702,
+    "subcategoryName": "Exploration",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270193,
+        "label": "Visit the Wind Bridges"
+      }
+    ]
+  },
+  {
+    "id": 722940,
+    "title": "Conqueror of Deepest Guk",
+    "description": "This achievement is gained upon completing the following raids in Deepest Guk:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 706,
+    "subcategoryName": "Raids",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000161,
+        "label": "The Curse Reborn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000160,
+        "label": "The Rescue"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000159,
+        "label": "Ritualist of Hate"
+      }
+    ]
+  },
+  {
+    "id": 723240,
+    "title": "Conqueror of Miragul's Menagerie",
+    "description": "This achievement is gained upon completing the following raids in Miragul's Menagerie:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 706,
+    "subcategoryName": "Raids",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000164,
+        "label": "Folly of Miragul's Ambition"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000163,
+        "label": "Frozen Nightmare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000162,
+        "label": "Spider Den"
+      }
+    ]
+  },
+  {
+    "id": 723340,
+    "title": "Conqueror of Mistmoore's Catacombs",
+    "description": "This achievement is gained upon completing the following raids in Mistmoore's Catacombs:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 706,
+    "subcategoryName": "Raids",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000165,
+        "label": "Scion Lair of Fury"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000166,
+        "label": "Struggles within the Progeny"
+      }
+    ]
+  },
+  {
+    "id": 723140,
+    "title": "Conqueror of Takish-Hiz",
+    "description": "This achievement is gained upon completing the following raids in Takish-Hiz:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 706,
+    "subcategoryName": "Raids",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000171,
+        "label": "The Palace Grounds"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000170,
+        "label": "Sunken Library"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000172,
+        "label": "Within the Compact"
+      }
+    ]
+  },
+  {
+    "id": 723040,
+    "title": "Conqueror of The Rujarkian Hills",
+    "description": "This achievement is gained upon completing the following raids in The Rujarkian Hills:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 706,
+    "subcategoryName": "Raids",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000169,
+        "label": "Hidden Vale of Deceit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000168,
+        "label": "Prison Break"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000167,
+        "label": "War March of Imal Ojun"
+      }
+    ]
+  },
+  {
+    "id": 742880,
+    "title": "Hunter of Accursed Sanctuary",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Accursed Sanctuary:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000032,
+        "label": "Dripping Lich"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000030,
+        "label": "Witness of Hate shadowstalker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000026,
+        "label": "Witness of Hate Soulstealer"
+      }
+    ]
+  },
+  {
+    "id": 743980,
+    "title": "Hunter of Aisles of Blood",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Aisles of Blood:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 715380,
+    "title": "Hunter of Ancient Aqueducts",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Ancient Aqueducts:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000018,
+        "label": "Cursed Shinta Protector"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000010,
+        "label": "Infected Observer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000021,
+        "label": "Spirit-Torn Yunta Alchemist"
+      }
+    ]
+  },
+  {
+    "id": 746180,
+    "title": "Hunter of Antiquated Palace",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Antiquated Palace:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000133,
+        "label": "Antlion Burrower"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000152,
+        "label": "Rumbling Sandherder"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 7000138,
+        "label": "Takish-Hiz Lady of the Court"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 745080,
+    "title": "Hunter of Arena of Chance",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Arena of Chance:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000034,
+        "label": "Bloodied Harrower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000055,
+        "label": "Captive Coin Bank Robber"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000054,
+        "label": "Captive Coin Bleeder"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000053,
+        "label": "Captive Coin Sacrificer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000037,
+        "label": "Enslaved Mystic"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000038,
+        "label": "Enslaved Prophet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000033,
+        "label": "Escaped Harrower"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000061,
+        "label": "Famished Hound"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000049,
+        "label": "Master Smith"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000040,
+        "label": "Murdering Slave"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000036,
+        "label": "Rabid Fleshfeaster"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000042,
+        "label": "Rebellious Arcanist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000039,
+        "label": "Slave Marauder"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000056,
+        "label": "Steelslave Beast Tamer"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000048,
+        "label": "Steelslave Berserker"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000045,
+        "label": "Steelslave Blademaster"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000043,
+        "label": "Steelslave Emissary"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000058,
+        "label": "Steelslave Infiltrator"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000052,
+        "label": "Steelslave Priest"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000047,
+        "label": "Steelslave Raid Chief"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000046,
+        "label": "Steelslave Ravager"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000059,
+        "label": "Steelslave Strategist"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000057,
+        "label": "Steelslave Thrasher"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000060,
+        "label": "Steelslave Trader"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000051,
+        "label": "Steelslave Visionary"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000044,
+        "label": "Steelslave War Criminal"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000035,
+        "label": "Steeltusk Razorback"
+      }
+    ]
+  },
+  {
+    "id": 716480,
+    "title": "Hunter of Asylum of Invoked Stone",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Asylum of Invoked Stone:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 735180,
+    "title": "Hunter of Balancing Chamber",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Balancing Chamber:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 749480,
+    "title": "Hunter of Barracks of War",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Barracks of War:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000062,
+        "label": "Ironfang Slayer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000041,
+        "label": "Maniacal Slave"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000050,
+        "label": "Steelslave Champion"
+      }
+    ]
+  },
+  {
+    "id": 739580,
+    "title": "Hunter of Blazing Forge",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Blazing Forge :",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000053,
+        "label": "Captive Coin Sacrificer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000033,
+        "label": "Escaped Harrower"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000059,
+        "label": "Steelslave Strategist"
+      }
+    ]
+  },
+  {
+    "id": 701080,
+    "title": "Hunter of Bloodied Quarries",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Bloodied Quarries:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000039,
+        "label": "Slave Marauder"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000043,
+        "label": "Steelslave Emissary"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000051,
+        "label": "Steelslave Visionary"
+      }
+    ]
+  },
+  {
+    "id": 704380,
+    "title": "Hunter of Cauldron of Lost Souls",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Cauldron of Lost Souls:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000013,
+        "label": "Maddened Dar Brawler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000011,
+        "label": "Murmuring Kor Seeker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000014,
+        "label": "Witness of Hate Laborer"
+      }
+    ]
+  },
+  {
+    "id": 738480,
+    "title": "Hunter of Cesspits of Putrescence",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Cesspits of Putrescence:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 721980,
+    "title": "Hunter of Chambers of Eternal Affliction",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Chambers of Eternal Affliction:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000065,
+        "label": "Scion Bone Binder"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000074,
+        "label": "Scion Matron"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000083,
+        "label": "Trueborn Element Wielder"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      }
+    ]
+  },
+  {
+    "id": 731880,
+    "title": "Hunter of Chapel of the Witnesses",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Chapel of the Witnesses:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000024,
+        "label": "Gnashing Burrower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000031,
+        "label": "Pitiful Darta Adventurer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000028,
+        "label": "Raving Jinta Explorer"
+      }
+    ]
+  },
+  {
+    "id": 730010,
+    "title": "Hunter of Deepest Guk",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000202,
+        "label": "Hunter of Accursed Sanctuary"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000177,
+        "label": "Hunter of Ancient Aqueducts"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000003,
+        "label": "Hunter of Cauldron of Lost Souls"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000192,
+        "label": "Hunter of Chapel of the Witnesses"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000008,
+        "label": "Hunter of Drowning Crypt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000187,
+        "label": "Hunter of Foreboding Prison"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000182,
+        "label": "Hunter of Mushroom Grove"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000197,
+        "label": "Hunter of Root Garden"
+      }
+    ]
+  },
+  {
+    "id": 710980,
+    "title": "Hunter of Dreary Grotto",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Dreary Grotto:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000065,
+        "label": "Scion Bone Binder"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000074,
+        "label": "Scion Matron"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000083,
+        "label": "Trueborn Element Wielder"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 709880,
+    "title": "Hunter of Drowning Crypt",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Drowning Crypt:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000023,
+        "label": "Corpseripper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000012,
+        "label": "Ecstatic Kor Zealot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000015,
+        "label": "Seething Pariah"
+      }
+    ]
+  },
+  {
+    "id": 723080,
+    "title": "Hunter of Drudge Hollows",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Drudge Hollows:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000056,
+        "label": "Steelslave Beast Tamer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000048,
+        "label": "Steelslave Berserker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000035,
+        "label": "Steeltusk Razorback"
+      }
+    ]
+  },
+  {
+    "id": 713180,
+    "title": "Hunter of Fading Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Fading Temple:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 726380,
+    "title": "Hunter of Foreboding Prison",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Foreboding Prison:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000017,
+        "label": "Abandoned Jin Sorcerer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000020,
+        "label": "Ghostly Neophyte"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000019,
+        "label": "Witness of Hate Preacher"
+      }
+    ]
+  },
+  {
+    "id": 730780,
+    "title": "Hunter of Forgotten Wastes",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Forgotten Wastes:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000117,
+        "label": "Crystalline Mutation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000094,
+        "label": "Fussy Amalgam"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000110,
+        "label": "Recreated Holgresh"
+      }
+    ]
+  },
+  {
+    "id": 705480,
+    "title": "Hunter of Forlorn Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Forlorn Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 728580,
+    "title": "Hunter of Fortified Lair of the Taskmasters",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Fortified Lair of the Taskmasters:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000049,
+        "label": "Master Smith"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000036,
+        "label": "Rabid Fleshfeaster"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000057,
+        "label": "Steelslave Thrasher"
+      }
+    ]
+  },
+  {
+    "id": 725280,
+    "title": "Hunter of Frosted Halls",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Frosted Halls:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000095,
+        "label": "Demented Amalgam"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000106,
+        "label": "Hypnotized Holgresh"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000111,
+        "label": "Spell-Torn Holgresh"
+      }
+    ]
+  },
+  {
+    "id": 717580,
+    "title": "Hunter of Gladiator Pits",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Gladiator Pits:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000042,
+        "label": "Rebellious Arcanist"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000045,
+        "label": "Steelslave Blademaster"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000046,
+        "label": "Steelslave Ravager"
+      }
+    ]
+  },
+  {
+    "id": 751680,
+    "title": "Hunter of Grand Library",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Grand Library:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000115,
+        "label": "Effusive Construct"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000101,
+        "label": "Fiendish Invader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000113,
+        "label": "Siphoned Manticore"
+      }
+    ]
+  },
+  {
+    "id": 748380,
+    "title": "Hunter of Halls of Sanguinary Rites",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Halls of Sanguinary Rites:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 706580,
+    "title": "Hunter of Halls of War",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Halls of War:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000055,
+        "label": "Captive Coin Bank Robber"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000037,
+        "label": "Enslaved Mystic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000044,
+        "label": "Steelslave War Criminal"
+      }
+    ]
+  },
+  {
+    "id": 736280,
+    "title": "Hunter of Heart of the Menagerie",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Heart of the Menagerie:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000093,
+        "label": "Fading Amalgam"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000099,
+        "label": "Flurry of Insanity"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000108,
+        "label": "Holgresh Trickster"
+      }
+    ]
+  },
+  {
+    "id": 734080,
+    "title": "Hunter of Hidden Vale",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Hidden Vale:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000038,
+        "label": "Enslaved Prophet"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000052,
+        "label": "Steelslave Priest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000047,
+        "label": "Steelslave Raid Chief"
+      }
+    ]
+  },
+  {
+    "id": 719780,
+    "title": "Hunter of Hushed Banquet",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Hushed Banquet:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000119,
+        "label": "Conscious Magical Essence"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000096,
+        "label": "Flighty Amalgam"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000109,
+        "label": "Ravaged Ancient Holgresh"
+      }
+    ]
+  },
+  {
+    "id": 752780,
+    "title": "Hunter of Infernal Sanctuary",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Infernal Sanctuary:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 708780,
+    "title": "Hunter of Maw of the Menagerie",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Maw of the Menagerie:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000122,
+        "label": "Cognizant Coalescence"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000103,
+        "label": "Crushing Mass of Ice"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000100,
+        "label": "Whirlwind of Madness"
+      }
+    ]
+  },
+  {
+    "id": 730020,
+    "title": "Hunter of Miragul's Menagerie",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000191,
+        "label": "Hunter of Forgotten Wastes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000186,
+        "label": "Hunter of Frosted Halls"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000210,
+        "label": "Hunter of Grand Library"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000196,
+        "label": "Hunter of Heart of the Menagerie"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000181,
+        "label": "Hunter of Hushed Banquet"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000007,
+        "label": "Hunter of Maw of the Menagerie"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000201,
+        "label": "Hunter of Morbid Laboratory"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000002,
+        "label": "Hunter of Silent Gallery"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000176,
+        "label": "Hunter of Spider Den"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000206,
+        "label": "Hunter of Theater of Imprisoned Horrors"
+      }
+    ]
+  },
+  {
+    "id": 730030,
+    "title": "Hunter of Mistmoore's Catacombs",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000203,
+        "label": "Hunter of Aisles of Blood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000178,
+        "label": "Hunter of Asylum of Invoked Stone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000198,
+        "label": "Hunter of Cesspits of Putrescence"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000183,
+        "label": "Hunter of Chambers of Eternal Affliction"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000173,
+        "label": "Hunter of Dreary Grotto"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000004,
+        "label": "Hunter of Forlorn Caverns"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000207,
+        "label": "Hunter of Halls of Sanguinary Rites"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000211,
+        "label": "Hunter of Infernal Sanctuary"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000193,
+        "label": "Hunter of Ritualistic Summoning Grounds"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000188,
+        "label": "Hunter of Sepulcher of the Damned"
+      }
+    ]
+  },
+  {
+    "id": 741780,
+    "title": "Hunter of Morbid Laboratory",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Morbid Laboratory:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000098,
+        "label": "Bone-Riddled Dervish"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000114,
+        "label": "Chirping Construct"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000107,
+        "label": "Confused Holgresh"
+      }
+    ]
+  },
+  {
+    "id": 720880,
+    "title": "Hunter of Mushroom Grove",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Mushroom Grove:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000016,
+        "label": "Blighted Dar Bruiser"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000027,
+        "label": "Cauldron of Hate Overseer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000022,
+        "label": "Yunta Soothsayer"
+      }
+    ]
+  },
+  {
+    "id": 750580,
+    "title": "Hunter of Prismatic Corridors",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Prismatic Corridors:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000133,
+        "label": "Antlion Burrower"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000152,
+        "label": "Rumbling Sandherder"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 7000138,
+        "label": "Takish-Hiz Lady of the Court"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 732980,
+    "title": "Hunter of Ritualistic Summoning Grounds",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Ritualistic Summoning Grounds:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 724180,
+    "title": "Hunter of River of Recollection",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: River of Recollection:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000133,
+        "label": "Antlion Burrower"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000152,
+        "label": "Rumbling Sandherder"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000138,
+        "label": "Takish-Hiz Lady of the Court"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 737380,
+    "title": "Hunter of Root Garden",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Deepest Guk: Root Garden:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000029,
+        "label": "Cauldron of Hate Dread Guard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000009,
+        "label": "Corrupted Oculus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000025,
+        "label": "Manic Deathcaller"
+      }
+    ]
+  },
+  {
+    "id": 718680,
+    "title": "Hunter of Royal Observatory",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Royal Observatory:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 729680,
+    "title": "Hunter of Sandfall Corridors",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Sandfall Corridors:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 727480,
+    "title": "Hunter of Sepulcher of the Damned",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Mistmoore's Catacombs: Sepulcher of the Damned:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000091,
+        "label": "Despairing Trueborn Soul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000092,
+        "label": "Dishonored Trueborn Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000068,
+        "label": "Enraged Trueborn Lightstealer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000067,
+        "label": "Malicious Scion Shadow"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000063,
+        "label": "Malicious Trueborn Essence"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000072,
+        "label": "Scion Assassin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000088,
+        "label": "Scion Brutish Converter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000080,
+        "label": "Scion Captain"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000064,
+        "label": "Scion Chaotic Swarm"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000069,
+        "label": "Scion Deathmender"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000076,
+        "label": "Scion Dismantler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000073,
+        "label": "Scion Extremist"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000084,
+        "label": "Scion Flesh Patcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000085,
+        "label": "Scion Harlot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000082,
+        "label": "Scion Repressor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000081,
+        "label": "Trueborn Advisor"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000070,
+        "label": "Trueborn Bloodgiver"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000066,
+        "label": "Trueborn Bone Shaper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000086,
+        "label": "Trueborn Bonesplicer"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000077,
+        "label": "Trueborn Conspirator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000089,
+        "label": "Trueborn Death Synergist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000071,
+        "label": "Trueborn Hopedasher"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000075,
+        "label": "Trueborn Provoker"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000079,
+        "label": "Trueborn Shadowmaster"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000078,
+        "label": "Trueborn Soul Render"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000087,
+        "label": "Trueborn Tenet Enforcer"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000090,
+        "label": "Trueborn Vitae Hoarder"
+      }
+    ]
+  },
+  {
+    "id": 707680,
+    "title": "Hunter of Shifting Tower",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Shifting Tower:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 703280,
+    "title": "Hunter of Silent Gallery",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Silent Gallery:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000104,
+        "label": "Enchanted Ice Form"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000121,
+        "label": "Sentient Resonance"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000118,
+        "label": "Skeletal Understudy"
+      }
+    ]
+  },
+  {
+    "id": 714280,
+    "title": "Hunter of Spider Den",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Spider Den:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000120,
+        "label": "Echo of Miragul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000105,
+        "label": "Enchanted Ice Mass"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000097,
+        "label": "Ruined Amalgam"
+      }
+    ]
+  },
+  {
+    "id": 702180,
+    "title": "Hunter of Sunken Library",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Sunken Library:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000133,
+        "label": "Antlion Burrower"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000152,
+        "label": "Rumbling Sandherder"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000138,
+        "label": "Takish-Hiz Lady of the Court"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 740680,
+    "title": "Hunter of Sweeping Tides",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Takish-Hiz: Sweeping Tides:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000125,
+        "label": "Age-Old Tree Spirit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000129,
+        "label": "Amethyst Summoning"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000123,
+        "label": "Chaotic Manifestation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000126,
+        "label": "Enraged Roughbark"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000134,
+        "label": "Ferocious Sand Digger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000136,
+        "label": "Flowkeeper Structure Attendant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000137,
+        "label": "Geomantic Compact Repairer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000144,
+        "label": "Geomantic Compact Timekeeper"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000141,
+        "label": "Hollow Flowkeeper Sage"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000142,
+        "label": "Idle Jeweled Guard Champion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 7000135,
+        "label": "Intimidating Sand Burrower"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 7000145,
+        "label": "Jeweled Guard Captain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 7000146,
+        "label": "Jeweled Guard Chieftan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 7000130,
+        "label": "Multifaceted Summoning"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 7000148,
+        "label": "Observant Monolith"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 7000131,
+        "label": "Panicked Summoning"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 7000128,
+        "label": "Petrifying Frog"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 7000151,
+        "label": "Raving Rock Thrower"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 7000147,
+        "label": "Reanimated Flowkeeper"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 7000139,
+        "label": "Reticent Virtuoso"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 7000143,
+        "label": "Royal Priest"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 7000149,
+        "label": "Sand Tide Guardian"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 7000150,
+        "label": "Sand Tide Overseer"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 7000132,
+        "label": "Sparkling Summoning"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 7000127,
+        "label": "Splintered Thornwood"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 7000140,
+        "label": "Swaying Sand Shaper"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 7000124,
+        "label": "Whipping Sandstorm"
+      }
+    ]
+  },
+  {
+    "id": 730050,
+    "title": "Hunter of Takish-Hiz",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000205,
+        "label": "Hunter of Antiquated Palace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000195,
+        "label": "Hunter of Balancing Chamber"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000175,
+        "label": "Hunter of Fading Temple"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000209,
+        "label": "Hunter of Prismatic Corridors"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000185,
+        "label": "Hunter of River of Recollection"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000180,
+        "label": "Hunter of Royal Observatory"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000190,
+        "label": "Hunter of Sandfall Corridors"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000006,
+        "label": "Hunter of Shifting Tower"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000001,
+        "label": "Hunter of Sunken Library"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000200,
+        "label": "Hunter of Sweeping Tides"
+      }
+    ]
+  },
+  {
+    "id": 730040,
+    "title": "Hunter of The Rujarkian Hills",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000204,
+        "label": "Hunter of Arena of Chance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000208,
+        "label": "Hunter of Barracks of War"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000199,
+        "label": "Hunter of Blazing Forge"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 7000213,
+        "label": "Hunter of Bloodied Quarries"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 7000184,
+        "label": "Hunter of Drudge Hollows"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 7000189,
+        "label": "Hunter of Fortified Lair of the Taskmasters"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 7000179,
+        "label": "Hunter of Gladiator Pits"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 7000005,
+        "label": "Hunter of Halls of War"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 7000194,
+        "label": "Hunter of Hidden Vale"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 7000174,
+        "label": "Hunter of Wind Bridges"
+      }
+    ]
+  },
+  {
+    "id": 747280,
+    "title": "Hunter of Theater of Imprisoned Horrors",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in Miragul's Menagerie: Theater of Imprisoned Horrors:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000112,
+        "label": "Depleted Manticore"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000102,
+        "label": "Exiled Planar Fiend"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000116,
+        "label": "Gabbling Construct"
+      }
+    ]
+  },
+  {
+    "id": 712080,
+    "title": "Hunter of Wind Bridges",
+    "description": "This achievement is gained upon defeating the following rare monsters found in the level 65+ hard difficulty adventures in The Rujarkian Hills: Wind Bridges:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 708,
+    "subcategoryName": "Hunter",
+    "categoryId": 700,
+    "categoryName": "Lost Dungeons of Norrath",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 7000055,
+        "label": "Captive Coin Bank Robber"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 7000037,
+        "label": "Enslaved Mystic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 7000044,
+        "label": "Steelslave War Criminal"
+      }
+    ]
+  }
+]

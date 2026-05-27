@@ -1,0 +1,2427 @@
+[
+  {
+    "id": 41120000,
+    "title": "Fighter Agents: Common",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41120000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41120001,
+        "label": "Ak'Anon Guard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41120002,
+        "label": "Bandit Lookout"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41120003,
+        "label": "Blighted Scarecrow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41120004,
+        "label": "Blood Wolf"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41120005,
+        "label": "Cauldron Rat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41120006,
+        "label": "Crypt Ghoul"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41120007,
+        "label": "Eldritch Wanderer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41120008,
+        "label": "Faerie Guard"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41120009,
+        "label": "Faerie Royal Guard"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41120010,
+        "label": "Faerie Troublemaker"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41120011,
+        "label": "Faydark Bandit"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41120012,
+        "label": "Faydark Nightgazer"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41120013,
+        "label": "Felwithe Guard"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41120014,
+        "label": "Goblin Grunts"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41120015,
+        "label": "Guardian of the Keep"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41120016,
+        "label": "Kaladim Guard"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41120017,
+        "label": "Kelethin Guard"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41120018,
+        "label": "Koada'Dal Diviner"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41120019,
+        "label": "Masked Changeling"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41120020,
+        "label": "Nightrage Decapitator"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41120021,
+        "label": "Nightrage Narcissist"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41120022,
+        "label": "Orc Legionnaire"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41120023,
+        "label": "Orc Scoutmaster"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41120024,
+        "label": "Pixie Jongleur"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 41120025,
+        "label": "Rogue Clockwork"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 41120026,
+        "label": "Servant of the Ancients"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 41120027,
+        "label": "Shadowmane Brawler"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 41120028,
+        "label": "Sleeper's Acolyte"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 41120029,
+        "label": "Soul Seductress"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 41120030,
+        "label": "Steamwork Shock Trooper"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 41120031,
+        "label": "Sylvan Bat"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 41120032,
+        "label": "Teir'Dal Marauder"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 41120033,
+        "label": "Tormented Dead"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 41120034,
+        "label": "Undead Knight"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 41120035,
+        "label": "Undertow Skeleton"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 41120036,
+        "label": "Werewolf Gypsy"
+      }
+    ]
+  },
+  {
+    "id": 41150000,
+    "title": "Fighter Agents: Elite",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41150000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41150001,
+        "label": "Ambassador D'Vinn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41150002,
+        "label": "Avatar of Luclin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41150003,
+        "label": "Emperor Crush"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41150004,
+        "label": "Firiona Vie"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41150005,
+        "label": "First Ranger Kele"
+      }
+    ]
+  },
+  {
+    "id": 41140000,
+    "title": "Fighter Agents: Rare",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41140000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41140001,
+        "label": "Butler Syncall"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41140002,
+        "label": "Cavalier Devolah"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41140003,
+        "label": "Founy Jestands"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41140004,
+        "label": "Galeth Veredeth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41140005,
+        "label": "Garanel Rucksif"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41140006,
+        "label": "Gearheart"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41140007,
+        "label": "General Jyleel"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41140008,
+        "label": "Lady Chiasa"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41140009,
+        "label": "Maesyn Trueshot"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41140010,
+        "label": "Maid Issis"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41140011,
+        "label": "Nitalla"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41140012,
+        "label": "Thubr Axebringer"
+      }
+    ]
+  },
+  {
+    "id": 41130000,
+    "title": "Fighter Agents: Uncommon",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41130000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41130001,
+        "label": "Bilge Farfathom"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41130002,
+        "label": "Black Dire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41130003,
+        "label": "Cloaked Dhampyre"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41130004,
+        "label": "Clockwork VIIX"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41130005,
+        "label": "Corflunk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41130006,
+        "label": "Cursed Remnant"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41130007,
+        "label": "Disciple of Tunare"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41130008,
+        "label": "Elder Ice Drake"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41130009,
+        "label": "Ennixy Frennor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41130010,
+        "label": "Equestrielle"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41130011,
+        "label": "Exiled Legionnaire"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41130012,
+        "label": "Glyphed Ghoul"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41130013,
+        "label": "Guard Orcflayer"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41130014,
+        "label": "Minotaur Lord"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41130015,
+        "label": "Nybright Sisters"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41130016,
+        "label": "Orc Arsonist"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41130017,
+        "label": "Orc Taskmaster"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41130018,
+        "label": "Orc Warlord"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41130019,
+        "label": "Overseer Gakkor Deepscar"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41130020,
+        "label": "Priest of Najena"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41130021,
+        "label": "Shadowmane Warrior"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41130022,
+        "label": "Signus Boran"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41130023,
+        "label": "Stalking Fury"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41130024,
+        "label": "Tandan Nybright"
+      }
+    ]
+  },
+  {
+    "id": 41320000,
+    "title": "Traveler Agents: Common",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41320000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41320001,
+        "label": "Advocate of Brell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41320002,
+        "label": "Barbed Bone Skeleton"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41320003,
+        "label": "Captive Elemental"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41320004,
+        "label": "Crystallos Stone Trader"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41320005,
+        "label": "Dark Reflection Poisoner"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41320006,
+        "label": "Darkvine Entrancer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41320007,
+        "label": "Darkvine Thistle"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41320008,
+        "label": "Deathspore Decomposer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41320009,
+        "label": "Dwarven Trinket Seller"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41320010,
+        "label": "Elder Spirit Guide"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41320011,
+        "label": "Emissary of Crystallos"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41320012,
+        "label": "Enraged Dwarf Skeleton"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41320013,
+        "label": "Faerie Courtier"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41320014,
+        "label": "Fallen Noble"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41320015,
+        "label": "Feir'Dal Salvager"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41320016,
+        "label": "Felwithe Songwhisperer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41320017,
+        "label": "Firstlight Refugee"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41320018,
+        "label": "Forest Gatherer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41320019,
+        "label": "Impetuous Rover"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41320020,
+        "label": "Inquisitive Wanderer"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41320021,
+        "label": "Junk Dealer"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41320022,
+        "label": "Kelethin Lorist"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41320023,
+        "label": "Kirathas Druid"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41320024,
+        "label": "Kirathas Villager"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 41320025,
+        "label": "Koada'Dal Alchemist"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 41320026,
+        "label": "Koada'Dal Counselor"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 41320027,
+        "label": "Orc Emissary"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 41320028,
+        "label": "Orc Slavers"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 41320029,
+        "label": "Shadowy Scrivener"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 41320030,
+        "label": "Sneering Gargoyle"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 41320031,
+        "label": "Steam Trader"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 41320032,
+        "label": "Steam Zealot"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 41320033,
+        "label": "Treasure Seeker"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 41320034,
+        "label": "Tunarian Scout"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 41320035,
+        "label": "Undead Barkeep"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 41320036,
+        "label": "Wandering Tinker"
+      }
+    ]
+  },
+  {
+    "id": 41350000,
+    "title": "Traveler Agents: Elite",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41350000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41350001,
+        "label": "Avatar of Bristlebane"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41350002,
+        "label": "Avatar of Quellious"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41350003,
+        "label": "King Kazon Stormhammer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41350004,
+        "label": "King Tearis Thex"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41350005,
+        "label": "Marcia Attamilgad"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41350006,
+        "label": "Phinigel Autropos"
+      }
+    ]
+  },
+  {
+    "id": 41340000,
+    "title": "Traveler Agents: Rare",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41340000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41340001,
+        "label": "Dabner Drednever"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41340002,
+        "label": "Enynti"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41340003,
+        "label": "Joren Nobleheart"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41340004,
+        "label": "Juline Urncaller"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41340005,
+        "label": "Lorisyn Oakwynd"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41340006,
+        "label": "Lyirae Oakwynd"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41340007,
+        "label": "Niola Impholder"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41340008,
+        "label": "Nylianne the True"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41340009,
+        "label": "Overvolt Rigster the IV"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41340010,
+        "label": "Princess Joleena"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41340011,
+        "label": "Shifty Jenkins"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41340012,
+        "label": "Sister Daria"
+      }
+    ]
+  },
+  {
+    "id": 41330000,
+    "title": "Traveler Agents: Uncommon",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41330000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41330001,
+        "label": "Amber"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41330002,
+        "label": "Avenging Caitiff"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41330003,
+        "label": "Banker Rylisan"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41330004,
+        "label": "Captain Silverwind"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41330005,
+        "label": "Conium Darkblade"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41330006,
+        "label": "Dark Elf Courier"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41330007,
+        "label": "Deathly Usher"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41330008,
+        "label": "Dwigus Lowater"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41330009,
+        "label": "Elder Fire Drake"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41330010,
+        "label": "Imp Familiar"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41330011,
+        "label": "Kaladim Surveyor"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41330012,
+        "label": "Kimble Nogflop"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41330013,
+        "label": "Koada'Dal Noble"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41330014,
+        "label": "Lanika Shadestepper"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41330015,
+        "label": "Magus Tira"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41330016,
+        "label": "Peg Leg"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41330017,
+        "label": "Priest of Discord"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41330018,
+        "label": "Retlon Brenclog"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41330019,
+        "label": "Shadowman Leader"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41330020,
+        "label": "Teir'Dal Prophet"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41330021,
+        "label": "The Prophet"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41330022,
+        "label": "Tumpy Irontoe"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41330023,
+        "label": "Weapons Trader"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41330024,
+        "label": "Zarchoomi"
+      }
+    ]
+  },
+  {
+    "id": 41220000,
+    "title": "Worker Agents: Common",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41220000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41220001,
+        "label": "Acidic Ooze"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41220002,
+        "label": "Acolyte of Brell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41220003,
+        "label": "Ak'Anon Architect"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41220004,
+        "label": "Ak'Anon Engineer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41220005,
+        "label": "Cargo Clockwork"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41220006,
+        "label": "Cauldron Cliffdiver"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41220007,
+        "label": "Cauldron Merchant"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41220008,
+        "label": "Coral Carver"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41220009,
+        "label": "Darkvine Shadereaper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41220010,
+        "label": "Deathly Harbinger"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41220011,
+        "label": "Deep Muse Healer"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41220012,
+        "label": "Drangol Cook"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41220013,
+        "label": "Dwarven Blacksmith"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41220014,
+        "label": "Dwarven Lorekeeper"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41220015,
+        "label": "Dwarven Theologist"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41220016,
+        "label": "Felwithe Sunweaver"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41220017,
+        "label": "Free Diving Limnologist"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41220018,
+        "label": "Goblin Mapmaker"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41220019,
+        "label": "Ice Drake"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41220020,
+        "label": "Kelethin Herbalist"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41220021,
+        "label": "Nightwalker Scavenger"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41220022,
+        "label": "Pixie Trickster"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41220023,
+        "label": "Rock Spider"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41220024,
+        "label": "Scavenge Diver"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 41220025,
+        "label": "Scion Grave Scourer"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 41220026,
+        "label": "Siege Specialist"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 41220027,
+        "label": "Steamwork Hunter"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 41220028,
+        "label": "Steamwork Mender"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 41220029,
+        "label": "Sylvan Pilgrim"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 41220030,
+        "label": "Trueborn Embalmer"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 41220031,
+        "label": "Undying Magus"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 41220032,
+        "label": "Unrest Noble"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 41220033,
+        "label": "Vicious Worg"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 41220034,
+        "label": "Wandering Greenblood"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 41220035,
+        "label": "Wandering Minstrel"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 41220036,
+        "label": "Wasp Worker"
+      }
+    ]
+  },
+  {
+    "id": 41250000,
+    "title": "Worker Agents: Elite",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41250000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41250001,
+        "label": "Avatar of Anashti Sul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41250002,
+        "label": "Avatar of Brell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41250003,
+        "label": "Avatar of Tunare"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41250004,
+        "label": "Avatar of Xegony"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41250005,
+        "label": "Mayong Mistmoore"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41250006,
+        "label": "Meldrath The Malignant"
+      }
+    ]
+  },
+  {
+    "id": 41240000,
+    "title": "Worker Agents: Rare",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41240000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41240001,
+        "label": "Anitohk the Everliving"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41240002,
+        "label": "Barrith the Brave"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41240003,
+        "label": "Bimbalicus the Soulbleeder"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41240004,
+        "label": "Lord Nethryn the Arbitrato"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41240005,
+        "label": "Nyzil Bloodforge"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41240006,
+        "label": "Ognit Eznertob"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41240007,
+        "label": "Reaver Lebanezer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41240008,
+        "label": "Sylia Windlehands"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41240009,
+        "label": "The Collector"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41240010,
+        "label": "Tobon Starpyre"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41240011,
+        "label": "Xicotl"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41240012,
+        "label": "Yeolarn Bronzeleaf"
+      }
+    ]
+  },
+  {
+    "id": 41230000,
+    "title": "Worker Agents: Uncommon",
+    "description": "This achievement is gained upon collecting the following Overseer Agents.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 41,
+    "subcategoryName": "Faydwer Agents",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 41230000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 41230001,
+        "label": "Challice"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 41230002,
+        "label": "Commander Gearwell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 41230003,
+        "label": "Cursed Treant"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 41230004,
+        "label": "Dryad Tender"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 41230005,
+        "label": "Elia the Pure"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 41230006,
+        "label": "Estrella of Gloomwater"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 41230007,
+        "label": "Farios Elianos"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 41230008,
+        "label": "Felwithe Armorer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 41230009,
+        "label": "Forpar Fizfla"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 41230010,
+        "label": "Golden Haired Mermaid"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 41230011,
+        "label": "Head Administrator Grigano"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 41230012,
+        "label": "Kaladim Brewmaster"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 41230013,
+        "label": "Maukris"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 41230014,
+        "label": "Mistmoore Advisor"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 41230015,
+        "label": "Orc Chief"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 41230016,
+        "label": "Orc Trainer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 41230017,
+        "label": "Reclusive Ghoul Magus"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 41230018,
+        "label": "Serra"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 41230019,
+        "label": "Sister Donna"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 41230020,
+        "label": "Ssynthi"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 41230021,
+        "label": "Thistle Underbrush"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 41230022,
+        "label": "Trapped Elemental"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 41230023,
+        "label": "Usbak the Old"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 41230024,
+        "label": "Warden of Tunare"
+      }
+    ]
+  },
+  {
+    "id": 42120000,
+    "title": "Fighter Quests: Level 2",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42120000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42120001,
+        "label": "Plunder Level 2"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42120002,
+        "label": "Stealth Level 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42120003,
+        "label": "Military Level 2"
+      }
+    ]
+  },
+  {
+    "id": 42130000,
+    "title": "Fighter Quests: Level 3",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42130000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42130001,
+        "label": "Plunder Level 3"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42130002,
+        "label": "Stealth Level 3"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42130003,
+        "label": "Military Level 3"
+      }
+    ]
+  },
+  {
+    "id": 42140000,
+    "title": "Fighter Quests: Level 4",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42140000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42140001,
+        "label": "Plunder Level 4"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42140002,
+        "label": "Stealth Level 4"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42140003,
+        "label": "Military Level 4"
+      }
+    ]
+  },
+  {
+    "id": 42150000,
+    "title": "Fighter Quests: Level 5",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42150000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42150001,
+        "label": "Plunder Level 5"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42150002,
+        "label": "Stealth Level 5"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42150003,
+        "label": "Military Level 5"
+      }
+    ]
+  },
+  {
+    "id": 42320000,
+    "title": "Traveler Quests: Level 2",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42320000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42320001,
+        "label": "Diplomacy Level 2"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42320002,
+        "label": "Trade Level 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42320003,
+        "label": "Exploration Level 2"
+      }
+    ]
+  },
+  {
+    "id": 42330000,
+    "title": "Traveler Quests: Level 3",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42330000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42330001,
+        "label": "Diplomacy Level 3"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42330002,
+        "label": "Trade Level 3"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42330003,
+        "label": "Exploration Level 3"
+      }
+    ]
+  },
+  {
+    "id": 42340000,
+    "title": "Traveler Quests: Level 4",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42340000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42340001,
+        "label": "Diplomacy Level 4"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42340002,
+        "label": "Trade Level 4"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42340003,
+        "label": "Exploration Level 4"
+      }
+    ]
+  },
+  {
+    "id": 42350000,
+    "title": "Traveler Quests: Level 5",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42350000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42350001,
+        "label": "Diplomacy Level 5"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42350002,
+        "label": "Trade Level 5"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42350003,
+        "label": "Exploration Level 5"
+      }
+    ]
+  },
+  {
+    "id": 42220000,
+    "title": "Worker Quests: Level 2",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42220000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42220001,
+        "label": "Crafting Level 2"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42220002,
+        "label": "Harvesting Level 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42220003,
+        "label": "Research Level 2"
+      }
+    ]
+  },
+  {
+    "id": 42230000,
+    "title": "Worker Quests: Level 3",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42230000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42230001,
+        "label": "Crafting Level 3"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42230002,
+        "label": "Harvesting Level 3"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42230003,
+        "label": "Research Level 3"
+      }
+    ]
+  },
+  {
+    "id": 42240000,
+    "title": "Worker Quests: Level 4",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42240000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42240001,
+        "label": "Crafting Level 4"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42240002,
+        "label": "Harvesting Level 4"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42240003,
+        "label": "Research Level 4"
+      }
+    ]
+  },
+  {
+    "id": 42250000,
+    "title": "Worker Quests: Level 5",
+    "description": "This achievement is gained upon reaching the following Overseer Quest Category Levels.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 42,
+    "subcategoryName": "Faydwer Quests",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 42250000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 42250001,
+        "label": "Crafting Level 5"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 42250002,
+        "label": "Harvesting Level 5"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 42250003,
+        "label": "Research Level 5"
+      }
+    ]
+  },
+  {
+    "id": 43100000,
+    "title": "Collect Fippy Darkpaw",
+    "description": "This achievement is gained upon collecting Fippy Darkpaw, available via the Overseer Starter Bundle on the marketplace.",
+    "points": 0,
+    "isHidden": true,
+    "subcategoryId": 43,
+    "subcategoryName": "Special",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 43100000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 43100001,
+        "label": "Fippy Darkpaw"
+      }
+    ]
+  },
+  {
+    "id": 45000014,
+    "title": "Feast of Giving: Quests",
+    "description": "This achievement is gained upon completing the following Feast of Giving Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 45000014,
+        "label": "Overseer unlocked on server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 45000015,
+        "label": "Feast For No One"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 45000016,
+        "label": "These Walls Have Ears"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 45000017,
+        "label": "Feast Fit For A Festival"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 45000018,
+        "label": "Need For A Feast"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 45000019,
+        "label": "Recruit the Avatar of Rodcet Nife"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 45000020,
+        "label": "Feast For the Deceased"
+      }
+    ]
+  },
+  {
+    "id": 44920000,
+    "title": "Frostfell: Quests",
+    "description": "This achievement is gained upon completing the following Frostfell Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 44920000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 44920001,
+        "label": "A True Friend"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 44920002,
+        "label": "Snug in Their Beds"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 44920003,
+        "label": "Avarice Never Ends"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 44920004,
+        "label": "Silent Night"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 44920005,
+        "label": "A Wonderful Awful Idea"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 44920006,
+        "label": "Return of the Music"
+      }
+    ]
+  },
+  {
+    "id": 44820000,
+    "title": "Nights of the Dead: Quests",
+    "description": "This achievement is gained upon completing the following Nights of the Dead Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 44820000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 44820001,
+        "label": "Season of Dread"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 44820002,
+        "label": "Tricks and Treats"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 44820003,
+        "label": "Ways of the Wicked"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 44820004,
+        "label": "Bakes and Shakes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 44820005,
+        "label": "Fear Itself"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 44820006,
+        "label": "Not Our Festival"
+      }
+    ]
+  },
+  {
+    "id": 44720000,
+    "title": "Scorched Sky: Quests",
+    "description": "This achievement is gained upon completing the following Scorched Sky Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 44720000,
+        "label": "Overseer Unlocked on Server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 44720001,
+        "label": "Season of Flame"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 44720002,
+        "label": "Groundwater Rising"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 44720003,
+        "label": "A Devotee's Quest"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 44720004,
+        "label": "Deepwater Symbol Research"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 44720005,
+        "label": "Divine Intervention"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 44720006,
+        "label": "Plunder the Plane of Fire"
+      }
+    ]
+  },
+  {
+    "id": 45000007,
+    "title": "Stone Cold Summer: Quests",
+    "description": "This achievement is gained upon completing the following Stone Cold Summer Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 45000007,
+        "label": "Overseer unlocked on server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 45000008,
+        "label": "Cranium Conundrum"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 45000009,
+        "label": "Lend Me Your Ears"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 45000010,
+        "label": "General Recruiting"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 45000011,
+        "label": "Lost Alaran Metallurgy"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 45000012,
+        "label": "Recruit the Avatar of War"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 45000013,
+        "label": "Quenching the Steel"
+      }
+    ]
+  },
+  {
+    "id": 45000000,
+    "title": "Tempest Festival: Quests",
+    "description": "This achievement is gained upon completing the following Tempest Festival Overseer Quests.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 44,
+    "subcategoryName": "Holiday",
+    "categoryId": 40,
+    "categoryName": "Overseer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 45000000,
+        "label": "Overseer unlocked on server"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 45000001,
+        "label": "Contamination Quandary"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 45000002,
+        "label": "Origin of the Spread"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 45000003,
+        "label": "Calm Before the Squall"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 45000004,
+        "label": "United Front"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 45000005,
+        "label": "Recruit Avatar of Karana"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 45000006,
+        "label": "Unleash the Storm"
+      }
+    ]
+  }
+]

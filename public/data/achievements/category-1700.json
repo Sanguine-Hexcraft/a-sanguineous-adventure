@@ -1,0 +1,5807 @@
+[
+  {
+    "id": 1748505,
+    "title": "Arthicrex Traveler",
+    "description": "This achievement is gained after visiting Arthicrex.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148505,
+        "label": "Visit Arthicrex."
+      }
+    ]
+  },
+  {
+    "id": 1749200,
+    "title": "Brell's Arena Traveler",
+    "description": "This achievement is gained upon visiting Brell's Arena.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270422,
+        "label": "Visit Brell's Arena"
+      }
+    ]
+  },
+  {
+    "id": 1748005,
+    "title": "Brell's Rest Traveler",
+    "description": "This achievement is gained after visiting Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148005,
+        "label": "Visit Brell's Rest."
+      }
+    ]
+  },
+  {
+    "id": 1749005,
+    "title": "Brell's Temple Traveler",
+    "description": "This achievement is gained after visiting Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149005,
+        "label": "Visit Brell's Temple."
+      }
+    ]
+  },
+  {
+    "id": 1749105,
+    "title": "Convorteum Traveler",
+    "description": "This achievement is gained after visiting the Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149105,
+        "label": "Visit the Convorteum."
+      }
+    ]
+  },
+  {
+    "id": 1748105,
+    "title": "Fungal Forest Traveler",
+    "description": "This achievement is gained after visiting Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148105,
+        "label": "Visit the Fungal Forest."
+      }
+    ]
+  },
+  {
+    "id": 1748405,
+    "title": "Kernagir Traveler",
+    "description": "This achievement is gained after visiting Kernagir.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148405,
+        "label": "Visit the Kernagir, the Shining City."
+      }
+    ]
+  },
+  {
+    "id": 1748705,
+    "title": "Lichen Creep Traveler",
+    "description": "This achievement is gained after visiting Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148705,
+        "label": "Visit Lichen Creep."
+      }
+    ]
+  },
+  {
+    "id": 1748805,
+    "title": "Pellucid Grotto Traveler",
+    "description": "This achievement is gained after visiting Pellucid Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148805,
+        "label": "Visit Pellucid Grotto."
+      }
+    ]
+  },
+  {
+    "id": 1748305,
+    "title": "The Cooling Chamber Traveler",
+    "description": "This achievement is gained after visiting the Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148305,
+        "label": "Visit the Cooling Chamber."
+      }
+    ]
+  },
+  {
+    "id": 1748605,
+    "title": "The Foundation Traveler",
+    "description": "This achievement is gained after visiting the Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148605,
+        "label": "Visit the Foundation."
+      }
+    ]
+  },
+  {
+    "id": 1748205,
+    "title": "The Underquarry Traveler",
+    "description": "This achievement is gained after visiting the Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148205,
+        "label": "Visit the Underquarry."
+      }
+    ]
+  },
+  {
+    "id": 1748905,
+    "title": "Volska's Husk Traveler",
+    "description": "This achievement is gained after visiting Volska's Husk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1701,
+    "subcategoryName": "Exploration",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148905,
+        "label": "Visit Volska's Husk."
+      }
+    ]
+  },
+  {
+    "id": 1700000,
+    "title": "Champion of the Underfoot",
+    "description": "This achievement is gained after completing all the quests in the Underfoot.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700030,
+        "label": "Complete the achievement \"Mercenary of Brell's Rest\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1700031,
+        "label": "Complete the achievement \"Partisan of Brell's Rest\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1700032,
+        "label": "Complete the achievement \"Mercenary of Fungal Forest\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1700033,
+        "label": "Complete the achievement \"Partisan of Fungal Forest\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1700034,
+        "label": "Complete the achievement \"Mercenary of The Underquarry\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1700035,
+        "label": "Complete the achievement \"Partisan of The Underquarry\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1700036,
+        "label": "Complete the achievement \"Mercenary of The Cooling Chamber\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1700037,
+        "label": "Complete the achievement \"Partisan of The Cooling Chamber\""
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1700038,
+        "label": "Complete the achievement \"Mercenary of Kernagir\""
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1700039,
+        "label": "Complete the achievement \"Partisan of Kernagir\""
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1700040,
+        "label": "Complete the achievement \"Mercenary of Arthicrex\""
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1700041,
+        "label": "Complete the achievement \"Partisan of Arthicrex\""
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1700042,
+        "label": "Complete the achievement \"Mercenary of The Foundation\""
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1700043,
+        "label": "Complete the achievement \"Partisan of The Foundation\""
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1700044,
+        "label": "Complete the achievement \"Mercenary of Lichen Creep\""
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1700045,
+        "label": "Complete the achievement \"Partisan of Lichen Creep\""
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1700046,
+        "label": "Complete the achievement \"Mercenary of Pellucid Grotto\""
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1700047,
+        "label": "Complete the achievement \"Partisan of Pellucid Grotto\""
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1700048,
+        "label": "Complete the achievement \"Mercenary of Volska's Husk\""
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1700049,
+        "label": "Complete the achievement \"Partisan of Volska's Husk\""
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1700050,
+        "label": "Complete the achievement \"Mercenary of Brell's Temple\""
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1700051,
+        "label": "Complete the achievement \"Partisan of Brell's Temple\""
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1700052,
+        "label": "Complete the achievement \"Mercenary of Convorteum\""
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1700053,
+        "label": "Complete the achievement \"Partisan of Convorteum\""
+      }
+    ]
+  },
+  {
+    "id": 1700002,
+    "title": "Conqueror of the Underfoot",
+    "description": "This achievement is gained after completing the following raids in the Underfoot.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700066,
+        "label": "Complete the achievement \"Conquerer of Brell's Rest\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1700067,
+        "label": "Complete the achievement \"Conquerer of Fungal Forest\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1700068,
+        "label": "Complete the achievement \"Conquerer of The Underquarry\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1700069,
+        "label": "Complete the achievement \"Conquerer of The Cooling Chamber\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1700070,
+        "label": "Complete the achievement \"Conquerer of Arthicrex\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1700071,
+        "label": "Complete the achievement \"Conquerer of The Foundation\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1700072,
+        "label": "Complete the achievement \"Conquerer of Lichen Creep\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1700073,
+        "label": "Complete the achievement \"Conquerer of Pellucid Grotto\""
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1700075,
+        "label": "Complete the achievement \"Conquerer of Brell's Temple\""
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1700076,
+        "label": "Complete the achievement \"Conquerer of Convorteum\""
+      }
+    ]
+  },
+  {
+    "id": 1702003,
+    "title": "Firstslayer",
+    "description": "This achievement is gained upon completing all hunts in Underfoot.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170200301,
+        "label": "Novice Hunter of Underfoot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170200302,
+        "label": "Adept Hunter of Underfoot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170200303,
+        "label": "Veteran Hunter of Underfoot"
+      }
+    ]
+  },
+  {
+    "id": 1700003,
+    "title": "Master of the Underfoot",
+    "description": "This achievement is gained after completing all quests and missions in the Underfoot.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700125,
+        "label": "Complete the achievement \"Champion of the Underfoot\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1700126,
+        "label": "Complete the achievement \"Paragon of the Underfoot\""
+      }
+    ]
+  },
+  {
+    "id": 1700001,
+    "title": "Paragon of the Underfoot",
+    "description": "This achievement is gained after completing all the missions for the Underfoot.",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700054,
+        "label": "Complete \"Don't Fear the Destroyer\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1700055,
+        "label": "Complete \"Fungal Bloom\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1700056,
+        "label": "Complete \"Scent of a Woman\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1700057,
+        "label": "Complete \"Tasnise Underbelly\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1700058,
+        "label": "Complete \"The Silent Schism\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1700059,
+        "label": "Complete \"To Serve Sporali\"."
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1700060,
+        "label": "Complete \"The Search for Saunk\"."
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1700061,
+        "label": "Complete \"Bonfire of the Adherents\"."
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1700062,
+        "label": "Complete \"Seeding Frenzy\""
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1700063,
+        "label": "Complete \"Kill The Hatchlings\"."
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1700064,
+        "label": "Complete \"Fire in the Hole\"."
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1700065,
+        "label": "Complete \"The First Corruption\"."
+      }
+    ]
+  },
+  {
+    "id": 1700004,
+    "title": "Underfoot Challenger",
+    "description": "This achievement is gained after completing all the Underfoot mission challenges.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700077,
+        "label": "Don't Fear The Destroyer Time Trial"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1700078,
+        "label": "Don't Fear The Destroyer Challenge of Toughness"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1700079,
+        "label": "No Mez for You!"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1700080,
+        "label": "Fungal Bloom Time Trial"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1700081,
+        "label": "Fungal Bloom Challenge of Toughness"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1700082,
+        "label": "Dependable Ally"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1700083,
+        "label": "Scent of a Woman Time Trial"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1700084,
+        "label": "Scent of a Woman Challenge of Toughness"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1700085,
+        "label": "Clockwork Apocalypse"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1700086,
+        "label": "Tasnise Underbelly Time Trial"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1700087,
+        "label": "Tasnise Underbelly Challenge of Toughness"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1700088,
+        "label": "Alphabet Goop"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1700089,
+        "label": "The Silent Schism Time Trial"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1700090,
+        "label": "The Silent Schism Challenge of Toughness"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1700091,
+        "label": "Burn The Heretics"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1700092,
+        "label": "To Serve Sporali Time Trial"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1700093,
+        "label": "To Serve Sporali Challenge of Toughness"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1700094,
+        "label": "Tilling the Soil"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1700095,
+        "label": "The Search for Saunk Time Trial"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1700096,
+        "label": "The Search for Saunk Challenge of Toughness"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1700097,
+        "label": "Shades of Extremism"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1700098,
+        "label": "Bonfire of The Adherents Time Trial"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1700099,
+        "label": "Bonfire of The Adherents Challenge of Toughness"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1700100,
+        "label": "Celebrity Roast"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1700101,
+        "label": "Seeding Frenzy Time Trial"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1700102,
+        "label": "Seeding Frenzy Challenge of Toughness"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1700103,
+        "label": "Gem Collector"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1700104,
+        "label": "Kill The Hatchlings Time Trial"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1700105,
+        "label": "Kill The Hatchlings Challenge of Toughness"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 1700106,
+        "label": "Golem Hooky"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 1700107,
+        "label": "Fire in The Hole Time Trial"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 1700108,
+        "label": "Fire in The Hole Challenge of Toughness"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 1700109,
+        "label": "Slaughter is as Slaughter Does"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 1700110,
+        "label": "The First Corruption Time Trial"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 1700111,
+        "label": "The First Corruption Challenge of Toughness"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 1700112,
+        "label": "We Interrupt the Following Spellcast"
+      }
+    ]
+  },
+  {
+    "id": 1700005,
+    "title": "Underfoot Explorer",
+    "description": "This achievement is gained after visiting all of the zones in the Underfoot.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1702,
+    "subcategoryName": "General",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700113,
+        "label": "Brell's Rest Traveler"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270488,
+        "label": "Brell's Arena Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1700114,
+        "label": "Fungal Forest Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1700115,
+        "label": "The Underquarry Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1700116,
+        "label": "The Cooling Chamber Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1700117,
+        "label": "Kernagir Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1700118,
+        "label": "Arthicrex Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1700119,
+        "label": "The Foundation Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1700120,
+        "label": "Lichen Creep Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1700121,
+        "label": "Pellucid Grotto Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1700122,
+        "label": "Volska's Husk Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1700123,
+        "label": "Brell's Temple Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1700124,
+        "label": "Convorteum Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1700012,
+    "title": "Coin of Brell",
+    "description": "This achievement grants access to tier 2 raids and is gained after using the Coin of Brell.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1703,
+    "subcategoryName": "Progression",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1700012,
+        "label": "Receive the Coin of Brell."
+      }
+    ]
+  },
+  {
+    "id": 1700013,
+    "title": "Emblem of Brell",
+    "description": "This achievement grants access to tier 3 raids and is gained after using the Emblem of Brell.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1703,
+    "subcategoryName": "Progression",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1700013,
+        "label": "Receive the Emblem of Brell."
+      }
+    ]
+  },
+  {
+    "id": 1700006,
+    "title": "Underfoot Adept",
+    "description": "This achievement grants access to tier 2 and is gained after completing one of the following.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1703,
+    "subcategoryName": "Progression",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700006,
+        "label": "Complete one of the following achievements."
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 1700016,
+        "label": "Appease The Gatekeeper (Mission)."
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1700026,
+        "label": "Appease The Gatekeeper (Raid)."
+      }
+    ]
+  },
+  {
+    "id": 1700007,
+    "title": "Underfoot Veteran",
+    "description": "This achievement grants access to tier 3 and is gained after completing one of the following.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1703,
+    "subcategoryName": "Progression",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1700007,
+        "label": "Complete one of the following achievements."
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 1700017,
+        "label": "Unlock The Mystery (Mission)."
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1700027,
+        "label": "Unlock The Mystery (Raid)."
+      }
+    ]
+  },
+  {
+    "id": 1748333,
+    "title": "Alphabet Goop",
+    "description": "This is a special challenge that can be completed during the \"Tasnise Underbelly\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148333,
+        "label": "Kill the six bosses in alphabetical order."
+      }
+    ]
+  },
+  {
+    "id": 1748723,
+    "title": "Bonfire of The Adherents Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148723,
+        "label": "Complete \"Bonfire of the Adherents\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748713,
+    "title": "Bonfire of The Adherents Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148713,
+        "label": "Complete \"Bonfire of the Adherents\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748433,
+    "title": "Burn The Heretics",
+    "description": "This is a special challenge that can be completed during the \"Silent Schism\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148433,
+        "label": "Defeat all of the heretics using only fire spells."
+      }
+    ]
+  },
+  {
+    "id": 1748733,
+    "title": "Celebrity Roast",
+    "description": "This is a special challenge that can be completed during the \"Bonfire of The Adherents\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148733,
+        "label": "Defeat all lava mephits."
+      }
+    ]
+  },
+  {
+    "id": 1748233,
+    "title": "Clockwork Apocalypse",
+    "description": "This is a special challenge that can be completed during the \"Scent of a Woman\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148233,
+        "label": "Defeat all Galvanite, Periluminum, Steelhead, Tantalum, and Therium Clockworks."
+      }
+    ]
+  },
+  {
+    "id": 1748133,
+    "title": "Dependable Ally",
+    "description": "This is a special challenge that can be completed during the \"Fungal Bloom\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148133,
+        "label": "Complete \"Fungal Bloom\" without losing an ally."
+      }
+    ]
+  },
+  {
+    "id": 1748023,
+    "title": "Don't Fear The Destroyer Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148023,
+        "label": "Complete \"Don't Fear the Destroyer\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748013,
+    "title": "Don't Fear The Destroyer Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148013,
+        "label": "Complete \"Don't Fear the Destroyer\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1749023,
+    "title": "Fire in The Hole Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1149023,
+        "label": "Complete \"Fire in the Hole\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1749013,
+    "title": "Fire in The Hole Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149013,
+        "label": "Complete \"Fire in the Hole\" in under 50 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748123,
+    "title": "Fungal Bloom Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148123,
+        "label": "Complete \"Fungal Bloom\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748113,
+    "title": "Fungal Bloom Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148113,
+        "label": "Complete \"Fungal Bloom\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748833,
+    "title": "Gem Collector",
+    "description": "This is a special challenge that can be completed during the \"Seeding Frenzy\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148834,
+        "label": "Collect the Gem of Life from the inhabitants of Pellucid."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148835,
+        "label": "Collect the Gem of Structure from the inhabitants of Pellucid."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148836,
+        "label": "Collect the Gem of Pain from the inhabitants of Pellucid."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1148837,
+        "label": "Collect the Gem of Resilience from the inhabitants of Pellucid."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1148838,
+        "label": "Collect the Gem of Destruction from the inhabitants of Pellucid."
+      }
+    ]
+  },
+  {
+    "id": 1748933,
+    "title": "Golem Hooky",
+    "description": "This is a special challenge that can be completed during the \"Kill the Hatchlings\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148933,
+        "label": "Complete \"Kill the Hatchlings\" without killing a lava golem."
+      }
+    ]
+  },
+  {
+    "id": 1748923,
+    "title": "Kill The Hatchlings Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148923,
+        "label": "Complete \"Kill the Hatchlings\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748913,
+    "title": "Kill The Hatchlings Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148913,
+        "label": "Complete \"Kill the Hatchlings\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748033,
+    "title": "No Mez for You!",
+    "description": "This is a special challenge that can be completed during the \"Don't Fear the Destroyer\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148033,
+        "label": "Defeat Vark Scrapseater and Reurhof Gnawbones without using a mez or movement altering spells."
+      }
+    ]
+  },
+  {
+    "id": 1730050,
+    "title": "Savior of Arthicrex",
+    "description": "This achievement is gained upon completing all quests and missions in Arthicrex",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730015,
+        "label": "Mercenary of Arthicrex"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730016,
+        "label": "Partisan of Arthicrex"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730017,
+        "label": "Hero of Arthicrex"
+      }
+    ]
+  },
+  {
+    "id": 1730000,
+    "title": "Savior of Brell's Rest",
+    "description": "This achievement is gained upon completing all quests and missions in Brell's Rest.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730000,
+        "label": "Mercenary of Brell's Rest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730001,
+        "label": "Partisan of Brell's Rest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730002,
+        "label": "Hero of Brell's Rest"
+      }
+    ]
+  },
+  {
+    "id": 1730100,
+    "title": "Savior of Brell's Temple",
+    "description": "This achievement is gained upon completing all quests and missions in Brell's Temple.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730030,
+        "label": "Mercenary of Brell's Temple"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730031,
+        "label": "Partisan of Brell's Temple"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730032,
+        "label": "Hero of Brell's Temple"
+      }
+    ]
+  },
+  {
+    "id": 1730110,
+    "title": "Savior of Convorteum",
+    "description": "This achievement is gained upon completing all quests and missions in Convorteum.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730033,
+        "label": "Mercenary of Convorteum"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730034,
+        "label": "Partisan of Convorteum"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730035,
+        "label": "Hero of Convorteum"
+      }
+    ]
+  },
+  {
+    "id": 1730010,
+    "title": "Savior of Fungal Forest",
+    "description": "This achievement is gained upon completing all quests and missions in Fungal Forest.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730003,
+        "label": "Mercenary of Fungal Forest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730004,
+        "label": "Partisan of Fungal Forest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730005,
+        "label": "Hero of Fungal Forest"
+      }
+    ]
+  },
+  {
+    "id": 1730040,
+    "title": "Savior of Kernagir",
+    "description": "This achievement is gained upon completing all quests and missions in Kernagir",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730012,
+        "label": "Mercenary of Kernagir"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730013,
+        "label": "Partisan of Kernagir"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730014,
+        "label": "Hero of Kernagir"
+      }
+    ]
+  },
+  {
+    "id": 1730070,
+    "title": "Savior of Lichen Creep",
+    "description": "This achievement is gained upon completing all quests and missions in Lichen Creep.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730021,
+        "label": "Mercenary of Lichen Creep"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730022,
+        "label": "Partisan of Lichen Creep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730023,
+        "label": "Hero of Lichen Creep"
+      }
+    ]
+  },
+  {
+    "id": 1730080,
+    "title": "Savior of Pellucid Grotto",
+    "description": "This achievement is gained upon completing all quests and missions in Pellucid Grotto",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730024,
+        "label": "Mercenary of Pellucid Grotto"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730025,
+        "label": "Partisan of Pellucid Grotto"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730026,
+        "label": "Hero of Pellucid Grotto"
+      }
+    ]
+  },
+  {
+    "id": 1730030,
+    "title": "Savior of The Cooling Chamber",
+    "description": "This achievement is gained upon completing all quests and missions in The Cooling Chamber.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730009,
+        "label": "Mercenary of The Cooling Chamber"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730010,
+        "label": "Partisan of The Cooling Chamber"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730011,
+        "label": "Hero of The Cooling Chamber"
+      }
+    ]
+  },
+  {
+    "id": 1730060,
+    "title": "Savior of The Foundation",
+    "description": "This achievement is gained upon completing all quests and missions in The Foundation.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730018,
+        "label": "Mercenary of The Foundation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730019,
+        "label": "Partisan of The Foundation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730020,
+        "label": "Hero of The Foundation"
+      }
+    ]
+  },
+  {
+    "id": 1730020,
+    "title": "Savior of The Underquarry",
+    "description": "This achievement is gained upon completing all quests and missions in The Underquarry.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730006,
+        "label": "Mercenary of The Underquarry"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730007,
+        "label": "Partisan of The Underquarry"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730008,
+        "label": "Hero of The Underquarry"
+      }
+    ]
+  },
+  {
+    "id": 1730090,
+    "title": "Savior of Volska's Husk",
+    "description": "This achievement is gained upon completing all quests and missions in Volska's Husk.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730027,
+        "label": "Mercenary of Volska's Husk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730028,
+        "label": "Partisan of Volska's Husk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730029,
+        "label": "Hero of Volska's Husk"
+      }
+    ]
+  },
+  {
+    "id": 1748223,
+    "title": "Scent of a Woman Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148223,
+        "label": "Complete \"Scent of a Woman\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748213,
+    "title": "Scent of a Woman Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148213,
+        "label": "Complete \"Scent of a Woman\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748823,
+    "title": "Seeding Frenzy Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148823,
+        "label": "Complete \"Seeding Frenzy\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748813,
+    "title": "Seeding Frenzy Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148813,
+        "label": "Complete \"Seeding Frenzy\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748633,
+    "title": "Shades of Extremism",
+    "description": "This is a special challenge that can be completed during the \"Search for Saunk\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148633,
+        "label": "Defeat all shades except Darrot."
+      }
+    ]
+  },
+  {
+    "id": 1749033,
+    "title": "Slaughter is as Slaughter Does",
+    "description": "This is a special challenge that can be completed during the \"Fire in The Hole\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1149033,
+        "label": "Defeat all creatures in the Vault of Stone within 90 minutes time."
+      }
+    ]
+  },
+  {
+    "id": 1748323,
+    "title": "Tasnise Underbelly Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148323,
+        "label": "Complete \"Tasnise Underbelly\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748313,
+    "title": "Tasnise Underbelly Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148313,
+        "label": "Complete \"Tasnise Underbelly\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1749123,
+    "title": "The First Corruption Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1149123,
+        "label": "Complete \"The First Corruption\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1749113,
+    "title": "The First Corruption Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149113,
+        "label": "Complete \"The First Corruption\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748623,
+    "title": "The Search for Saunk Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148623,
+        "label": "Complete \"The Search for Saunk\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748613,
+    "title": "The Search for Saunk Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148613,
+        "label": "Complete \"The Search for Saunk\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748423,
+    "title": "The Silent Schism Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148423,
+        "label": "Complete \"The Silent Schism\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748413,
+    "title": "The Silent Schism Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148413,
+        "label": "Complete \"The Silent Schism\" in under 40 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1748533,
+    "title": "Tilling the Soil",
+    "description": "This is a special challenge that can be completed during the \"To Serve Sporali\" mission.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148533,
+        "label": "Defeat Spore Collector Kerod, Reguloid Koryx, and Mineralist Dek within 30 seconds of each other."
+      }
+    ]
+  },
+  {
+    "id": 1748523,
+    "title": "To Serve Sporali Challenge of Toughness",
+    "description": "This achievement is gained after completing this mission with no deaths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148523,
+        "label": "Complete \"To Serve Sporali\" without having a member of your party die."
+      }
+    ]
+  },
+  {
+    "id": 1748513,
+    "title": "To Serve Sporali Time Trial",
+    "description": "This achievement is gained after completing this mission within a given time period.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148513,
+        "label": "Complete \"To Serve Sporali\" in under 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1749133,
+    "title": "We Interrupt the Following Spellcast",
+    "description": "This achievement is gained after completing a special challenge.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1704,
+    "subcategoryName": "Conquests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1149133,
+        "label": "Complete \"The First Corruption\" without allowing Delth's spell charging to be interrupted."
+      }
+    ]
+  },
+  {
+    "id": 1700008,
+    "title": "Appease The Gatekeeper (Mission)",
+    "description": "This achievement is gained after completing all the missions required for tier 2 access.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148203,
+        "label": "Complete \"Scent of a Woman\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148303,
+        "label": "Complete \"Tasnise Underbelly\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148503,
+        "label": "Complete \"To Serve Sporali\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148603,
+        "label": "Complete \"The Search for Saunk\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148803,
+        "label": "Complete \"The Seeding Frenzy\"."
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148003,
+        "label": "Complete \"Don't Fear the Destroyer\"."
+      }
+    ]
+  },
+  {
+    "id": 1748503,
+    "title": "Hero of Arthicrex",
+    "description": "This achievement is gained after completing the missions for Arthicrex",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148503,
+        "label": "Complete \"To Serve Sporali\"."
+      }
+    ]
+  },
+  {
+    "id": 1748003,
+    "title": "Hero of Brell's Rest",
+    "description": "This achievement is gained after completing the missions for Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148003,
+        "label": "Complete \"Don't Fear the Destroyer\"."
+      }
+    ]
+  },
+  {
+    "id": 1749003,
+    "title": "Hero of Brell's Temple",
+    "description": "This achievement is gained after completing the missions for Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149003,
+        "label": "Complete \"Fire in the Hole\"."
+      }
+    ]
+  },
+  {
+    "id": 1749103,
+    "title": "Hero of Convorteum",
+    "description": "This achievement is gained after completing the missions for Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149103,
+        "label": "Complete \"The First Corruption\"."
+      }
+    ]
+  },
+  {
+    "id": 1748103,
+    "title": "Hero of Fungal Forest",
+    "description": "This achievement is gained after completing the missions for Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148103,
+        "label": "Complete \"The Fungal Bloom\"."
+      }
+    ]
+  },
+  {
+    "id": 1748403,
+    "title": "Hero of Kernagir",
+    "description": "This achievement is gained after completing the missions for Kernagir",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148403,
+        "label": "Complete \"The Silent Schism\"."
+      }
+    ]
+  },
+  {
+    "id": 1748703,
+    "title": "Hero of Lichen Creep",
+    "description": "This achievement is gained after completing the missions for Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148703,
+        "label": "Complete \"Bonfire of the Adherents\"."
+      }
+    ]
+  },
+  {
+    "id": 1748803,
+    "title": "Hero of Pellucid Grotto",
+    "description": "This achievement is gained after completing the missions for Pellucid Grotto",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148803,
+        "label": "Complete \"The Seeding Frenzy\""
+      }
+    ]
+  },
+  {
+    "id": 1748303,
+    "title": "Hero of The Cooling Chamber",
+    "description": "This achievement is gained after completing the missions for The Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148303,
+        "label": "Complete \"Tasnise Underbelly\""
+      }
+    ]
+  },
+  {
+    "id": 1748603,
+    "title": "Hero of The Foundation",
+    "description": "This achievement is gained after completing the missions for The Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148603,
+        "label": "Complete \"The Search for Saunk\"."
+      }
+    ]
+  },
+  {
+    "id": 1748203,
+    "title": "Hero of The Underquarry",
+    "description": "This achievement is gained after completing the missions for The Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148203,
+        "label": "Complete \"Scent of a Woman\"."
+      }
+    ]
+  },
+  {
+    "id": 1748903,
+    "title": "Hero of Volska's Husk",
+    "description": "This achievement is gained after completing the missions for Volska's Husk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148903,
+        "label": "Complete \"Kill The Hatchlings\"."
+      }
+    ]
+  },
+  {
+    "id": 1700010,
+    "title": "Unlock The Mystery (Mission)",
+    "description": "This achievement is gained after completing all the missions required for tier 3 access.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1705,
+    "subcategoryName": "Missions",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148103,
+        "label": "Complete \"The Fungal Bloom\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148403,
+        "label": "Complete \"The Silent Schism\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148703,
+        "label": "Complete \"Bonfire of the Adherents\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148903,
+        "label": "Complete \"Kill The Hatchlings\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1149003,
+        "label": "Complete \"Fire in the Hole\"."
+      }
+    ]
+  },
+  {
+    "id": 1748501,
+    "title": "Mercenary of Arthicrex",
+    "description": "This achievement is gained after completing the kill quests for Arthicrex.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148501,
+        "label": "Complete \"Who is Scouting the Scouts?\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248501,
+        "label": "Complete \"A Caustic Path\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348501,
+        "label": "Complete \"Irrational Fears\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448501,
+        "label": "Complete \"The Ants Go Marching\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548501,
+        "label": "Complete \"Buying the Farm\"."
+      }
+    ]
+  },
+  {
+    "id": 1748001,
+    "title": "Mercenary of Brell's Rest",
+    "description": "This achievement is gained after completing the kill quests for Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148001,
+        "label": "Complete \"Too Hot To Handle\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248001,
+        "label": "Complete \"A Nest Full of Trouble\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348001,
+        "label": "Complete \"Steaming With Anger\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448001,
+        "label": "Complete \"Buried in Death\"."
+      }
+    ]
+  },
+  {
+    "id": 1749001,
+    "title": "Mercenary of Brell's Temple",
+    "description": "This achievement is gained after completing the kill quests for Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149001,
+        "label": "Complete \"Mangling Mephits\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1249001,
+        "label": "Complete \"Likely Candidate\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1349001,
+        "label": "Complete \"The Scientific Mephit\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1549001,
+        "label": "Complete \"Frozen Hearts\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1649001,
+        "label": "Complete \"Crystalline Skin\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1749001,
+        "label": "Complete \"Wing Fragments\"."
+      }
+    ]
+  },
+  {
+    "id": 1749101,
+    "title": "Mercenary of Convorteum",
+    "description": "This achievement is gained after completing the kill quests for Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149101,
+        "label": "Complete \"Failed Creations\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1249101,
+        "label": "Complete \"Scrolls of Faith and Devotion\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1349101,
+        "label": "Complete \"Poor Bergolos\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1449101,
+        "label": "Complete \"A Proper Burial\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1549101,
+        "label": "Complete \"Autarchian Bounty\"."
+      }
+    ]
+  },
+  {
+    "id": 1748101,
+    "title": "Mercenary of Fungal Forest",
+    "description": "This achievement is gained after completing the kill quests for Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148101,
+        "label": "Complete \"Kill the Deagus Biters\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248101,
+        "label": "Complete \"Shake Off the Moss\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348101,
+        "label": "Complete \"Whatever Adeenas Wants\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448101,
+        "label": "Complete \"Exterminating Deagus' Pests\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548101,
+        "label": "Complete \"Autoros' Anger\"."
+      }
+    ]
+  },
+  {
+    "id": 1748401,
+    "title": "Mercenary of Kernagir",
+    "description": "This achievement is gained after completing the kill quests for Kernagir.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148401,
+        "label": "Complete \"Fight for Our Right\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248401,
+        "label": "Complete \"Strayed from the Path\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348401,
+        "label": "Complete \"Outrage Against the Machinists\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448401,
+        "label": "Complete \"Heavy Metals\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548401,
+        "label": "Complete \"Changing of the Guard\"."
+      }
+    ]
+  },
+  {
+    "id": 1748701,
+    "title": "Mercenary of Lichen Creep",
+    "description": "This achievement is gained after completing the kill quests for Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148701,
+        "label": "Complete \"Blazing a Trail\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248701,
+        "label": "Complete \"Golems, Fabulous Golems\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348701,
+        "label": "Complete \"No Sess Outta You\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448701,
+        "label": "Complete \"Futile Resistance\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548701,
+        "label": "Complete \"Self-borne Pests\"."
+      }
+    ]
+  },
+  {
+    "id": 1748801,
+    "title": "Mercenary of Pellucid Grotto",
+    "description": "This achievement is gained after completing the kill quests for Pellucid Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148801,
+        "label": "Complete \"Only You Can Prevent Elemental Fires\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248801,
+        "label": "Complete \"Quell the Autarchian Rebellion\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348801,
+        "label": "Complete \"Hinder the Cliknar Invasion\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448801,
+        "label": "Complete \"Thinning the Ooze\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548801,
+        "label": "Complete \"Thinning Out the Sessiloids\""
+      }
+    ]
+  },
+  {
+    "id": 1748301,
+    "title": "Mercenary of The Cooling Chamber",
+    "description": "This achievement is gained after completing the kill quests for The Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148301,
+        "label": "Complete \"Banshee Hunt\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248301,
+        "label": "Complete \"Goo Kill Hunting\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348301,
+        "label": "Complete \"Traitorous Dogs\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448301,
+        "label": "Complete \"Vanquish the Dead\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548301,
+        "label": "Complete \"In the Face of Danger\"."
+      }
+    ]
+  },
+  {
+    "id": 1748601,
+    "title": "Mercenary of The Foundation",
+    "description": "This achievement is gained after completing the kill quests for The Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148601,
+        "label": "Complete \"Beetle Bashing\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248601,
+        "label": "Complete \"Insecticide\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348601,
+        "label": "Complete \"Baelorat Stomping\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448601,
+        "label": "Complete \"Burynai Braining\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548601,
+        "label": "Complete \"Cliknar Crushing\"."
+      }
+    ]
+  },
+  {
+    "id": 1748201,
+    "title": "Mercenary of The Underquarry",
+    "description": "This achievement is gained after completing the kill quests for The Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248201,
+        "label": "Complete \"Golems Amok\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148201,
+        "label": "Complete \"A Clean Mine is a Safe Mine\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348201,
+        "label": "Complete \"Cliknar Attrition\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448201,
+        "label": "Complete \"The Lone Adventurer\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548201,
+        "label": "Complete \"The Box of Abu-Kar\"."
+      }
+    ]
+  },
+  {
+    "id": 1748901,
+    "title": "Mercenary of Volska's Husk",
+    "description": "This achievement is gained after completing the kill quests for Volska's Husk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148901,
+        "label": "Complete \"Stop Bugging Me\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248901,
+        "label": "Complete \"What A Tangled Web We Weave\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348901,
+        "label": "Complete \"A Dish Served Cold\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448901,
+        "label": "Complete \"Stocking the Pantry\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548901,
+        "label": "Complete \"Short on Supplies and Patience\"."
+      }
+    ]
+  },
+  {
+    "id": 1748502,
+    "title": "Partisan of Arthicrex",
+    "description": "This achievement is gained after completing the main quests for Arthicrex.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148502,
+        "label": "Complete \"Abandon All Hope\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248502,
+        "label": "Complete \"For Those Who Have Fallen\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1648502,
+        "label": "Complete \"A Desperate Deed\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1348502,
+        "label": "Complete \"Finding Your Faith\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1448502,
+        "label": "Complete \"The Cost of Individuality\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1548502,
+        "label": "Complete \"Of Like Minds\"."
+      }
+    ]
+  },
+  {
+    "id": 1748002,
+    "title": "Partisan of Brell's Rest",
+    "description": "This achievement is gained after completing the main quests for Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148002,
+        "label": "Complete \"Gnoll Who Your Friends Are\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248002,
+        "label": "Complete \"Clash of the Kobolds\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348002,
+        "label": "Complete \"Gnoll With the Punches\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448002,
+        "label": "Complete \"Nogol and the Bandits\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548002,
+        "label": "Complete \"Paradise Lost\"."
+      }
+    ]
+  },
+  {
+    "id": 1749002,
+    "title": "Partisan of Brell's Temple",
+    "description": "This achievement is gained after completing the main quests for Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1449001,
+        "label": "Complete \"Exotic Locales\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1149002,
+        "label": "Complete \"The One True Faith\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1249002,
+        "label": "Complete \"The Laws of Physics\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1349002,
+        "label": "Complete \"This Magic Moment\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1449002,
+        "label": "Complete \"Give My Creation... Life!\"."
+      }
+    ]
+  },
+  {
+    "id": 1749102,
+    "title": "Partisan of Convorteum",
+    "description": "This achievement is gained after completing the main quests for Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149102,
+        "label": "Complete \"Of Utmost Importance\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1249102,
+        "label": "Complete \"Operation: Whizzlebang!\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1349102,
+        "label": "Complete \"Different Point of View\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1449102,
+        "label": "Complete \"I, Bellikos\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1549102,
+        "label": "Complete \"Convorteum Coercion\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1649102,
+        "label": "Complete \"Testing the Telmira\"."
+      }
+    ]
+  },
+  {
+    "id": 1748102,
+    "title": "Partisan of Fungal Forest",
+    "description": "This achievement is gained after completing the main quests for Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148102,
+        "label": "Complete \"Gathering of Essentials\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248102,
+        "label": "Complete \"Fate of the Telmira\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348102,
+        "label": "Complete \"Seeds for the Waterstalkers\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448102,
+        "label": "Complete \"Salvation of Spores\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548102,
+        "label": "Complete \"Trail of Flame\"."
+      }
+    ]
+  },
+  {
+    "id": 1748402,
+    "title": "Partisan of Kernagir",
+    "description": "This achievement is gained after completing the main quests for Kernagir.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148402,
+        "label": "Complete \"Is it Contagious?\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248402,
+        "label": "Complete \"Where Did It Come From?\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348402,
+        "label": "Complete \"Sifting for Clues\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448402,
+        "label": "Complete \"The Scrying Game\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548402,
+        "label": "Complete \"Replenishing the Ranks\"."
+      }
+    ]
+  },
+  {
+    "id": 1748702,
+    "title": "Partisan of Lichen Creep",
+    "description": "This achievement is gained after completing the main quests for Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148702,
+        "label": "Complete \"The Grand Experiment\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248702,
+        "label": "Complete \"The Experiment Begins\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348702,
+        "label": "Complete \"What Could Go Wrong?\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448702,
+        "label": "Complete \"Searching for a Cure\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548702,
+        "label": "Complete \"The Trouble with Lichen\"."
+      }
+    ]
+  },
+  {
+    "id": 1748802,
+    "title": "Partisan of Pellucid Grotto",
+    "description": "This achievement is gained after completing the main quests for Pellucid Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148802,
+        "label": "Complete \"A Many-Faceted Dilemma\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248802,
+        "label": "Complete \"A Delicate Matter\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348802,
+        "label": "Complete \"New Mates For the Menagerie\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448802,
+        "label": "Complete \"Filling the Repository\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548802,
+        "label": "Complete \"A Most Foul Encounter\""
+      }
+    ]
+  },
+  {
+    "id": 1748302,
+    "title": "Partisan of The Cooling Chamber",
+    "description": "This achievement is gained after completing the main quests for The Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148302,
+        "label": "Complete \"It's Getting Hot In Here\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248302,
+        "label": "Complete \"Still Too Hot to Handle\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348302,
+        "label": "Complete \"Goos Gone Wild!\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1648302,
+        "label": "Complete \"Investigate the Dead\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1548302,
+        "label": "Complete \"Hunt the Dead\"."
+      }
+    ]
+  },
+  {
+    "id": 1748602,
+    "title": "Partisan of The Foundation",
+    "description": "This achievement is gained after completing the main quests for The Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148602,
+        "label": "Complete \"Cliknar Clay\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248602,
+        "label": "Complete \"Feet of Clay\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348602,
+        "label": "Complete \"Rock the Worlds\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448602,
+        "label": "Complete \"Harvest of Sorrow\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548602,
+        "label": "Complete \"Scouting for Land\"."
+      }
+    ]
+  },
+  {
+    "id": 1748202,
+    "title": "Partisan of The Underquarry",
+    "description": "This achievement is gained after completing the main quests for The Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148202,
+        "label": "Complete \"Unrest in the Metal Mines\"."
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1348202,
+        "label": "Complete \"Chaos in the Stonequarry\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248202,
+        "label": "Complete \"An Alternative Explanation\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448202,
+        "label": "Complete \"Mercurial Metal\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548202,
+        "label": "Complete \"Overheated Production\"."
+      }
+    ]
+  },
+  {
+    "id": 1748902,
+    "title": "Partisan of Volska's Husk",
+    "description": "This achievement is gained after completing the main quests for Volska's Husk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1706,
+    "subcategoryName": "Quests",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148902,
+        "label": "Complete \"Into the Fire\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1248902,
+        "label": "Complete \"Uncover the Truth\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1348902,
+        "label": "Complete \"Autochthonous Support\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1448902,
+        "label": "Complete \"The Arms of Brell\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1548902,
+        "label": "Complete \"Brell's Will Be Done\"."
+      }
+    ]
+  },
+  {
+    "id": 1749167,
+    "title": "A Bridge Two Far",
+    "description": "Defeat The First Creation with at least two Bridge Guardians still alive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749167,
+        "label": "Defeat The First Creation with at least two Bridge Guardians still alive."
+      }
+    ]
+  },
+  {
+    "id": 1749162,
+    "title": "A Little Help From My Friends",
+    "description": "Defeat Kilreck the Cleaner with all three Brell Loyalists still alive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749162,
+        "label": "Defeat Kilreck the Cleaner with all three Brell Loyalists still alive."
+      }
+    ]
+  },
+  {
+    "id": 1700009,
+    "title": "Appease The Gatekeeper (Raid)",
+    "description": "This achievement is gained after completing all the raids required for tier 2 access.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1148004,
+        "label": "Complete \"Fippy's Revenge\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1148304,
+        "label": "Complete \"The Beast Below\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1148804,
+        "label": "Complete \"The Unburrowing\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1148204,
+        "label": "Complete \"The Wrath of Brath\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1148604,
+        "label": "Complete \"Masked Invaders\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1248504,
+        "label": "Complete \"The Cliknar Queen\"."
+      }
+    ]
+  },
+  {
+    "id": 1749152,
+    "title": "Army of One",
+    "description": "Defeat the Stone Warden while engaging one of The First Creation's mistresses.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749152,
+        "label": "Defeat the Stone Warden while engaging one of The First Creation's mistresses."
+      }
+    ]
+  },
+  {
+    "id": 1749153,
+    "title": "Army of Two",
+    "description": "Defeat the Stone Warden while engaging two of The First Creation's mistresses.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749153,
+        "label": "Defeat the Stone Warden while engaging two of The First Creation's mistresses."
+      }
+    ]
+  },
+  {
+    "id": 1748504,
+    "title": "Conqueror of Arthicrex",
+    "description": "This achievement is gained after completing the raids for Arthicrex.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148504,
+        "label": "Complete \"Cliknar Hive Guardians\""
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1248504,
+        "label": "Complete \"The Cliknar Queen\"."
+      }
+    ]
+  },
+  {
+    "id": 1748004,
+    "title": "Conqueror of Brell's Rest",
+    "description": "This achievement is gained after completing the raid for Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148004,
+        "label": "Complete \"Fippy's Revenge\"."
+      }
+    ]
+  },
+  {
+    "id": 1749004,
+    "title": "Conqueror of Brell's Temple",
+    "description": "This achievement is gained after completing the raids for Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1149004,
+        "label": "Complete \"An Audience with Brell Serilis\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1249004,
+        "label": "Complete \"Trial of Creation\""
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1349004,
+        "label": "Complete \"Trial of Deconstruction\""
+      }
+    ]
+  },
+  {
+    "id": 1749104,
+    "title": "Conqueror of Convorteum",
+    "description": "This achievement is gained after completing the raids for Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1149104,
+        "label": "Complete \"The Gatekeeper\"."
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1149106,
+        "label": "Complete \"The Stone Warden\"."
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1149107,
+        "label": "Complete \"Unstable Creation\"."
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1149108,
+        "label": "Complete \"The Keymaster\"."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1149109,
+        "label": "Complete \"The Hall of Records\"."
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1149110,
+        "label": "Complete \"Magus Sisters\"."
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1149111,
+        "label": "Complete \"The First Creation\"."
+      }
+    ]
+  },
+  {
+    "id": 1748104,
+    "title": "Conqueror of Fungal Forest",
+    "description": "This achievement is gained after completing the raid for Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148104,
+        "label": "Complete \"The Fungal Corruption\""
+      }
+    ]
+  },
+  {
+    "id": 1748704,
+    "title": "Conqueror of Lichen Creep",
+    "description": "This achievement is gained after completing the raid for Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148704,
+        "label": "Complete \"A Cunning Plan\""
+      }
+    ]
+  },
+  {
+    "id": 1748804,
+    "title": "Conqueror of Pellucid Grotto",
+    "description": "This achievement is gained after completing the raid for Pellucid Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148804,
+        "label": "Complete \"The Unburrowing\""
+      }
+    ]
+  },
+  {
+    "id": 1748304,
+    "title": "Conqueror of The Cooling Chamber",
+    "description": "This achievement is gained after completing the raid for The Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148304,
+        "label": "Complete \"The Beast Below\""
+      }
+    ]
+  },
+  {
+    "id": 1748604,
+    "title": "Conqueror of The Foundation",
+    "description": "This achievement is gained after completing the raid for The Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148604,
+        "label": "Complete \"Masked Invaders\""
+      }
+    ]
+  },
+  {
+    "id": 1748204,
+    "title": "Conqueror of The Underquarry",
+    "description": "This achievement is gained after completing the raid for The Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148204,
+        "label": "Complete \"The Wrath of Brath\""
+      }
+    ]
+  },
+  {
+    "id": 1749157,
+    "title": "Crowd Control",
+    "description": "Defeat the Unstable Creation with only one resource overload.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749157,
+        "label": "Defeat the Unstable Creation after allowing no more than one resource to explode."
+      }
+    ]
+  },
+  {
+    "id": 1749168,
+    "title": "Fire Under The Bridge",
+    "description": "Defeat The First Creation with at least three Bridge Guardians still alive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749168,
+        "label": "Defeat The First Creation with at least three Bridge Guardians still alive."
+      }
+    ]
+  },
+  {
+    "id": 1749159,
+    "title": "Gatekeeper",
+    "description": "This is a special challenge that can be completed during the \"Keymaster\" raid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749159,
+        "label": "Defeat Borzaloth without allowing him to leave the lava."
+      }
+    ]
+  },
+  {
+    "id": 1749169,
+    "title": "Grand Slam",
+    "description": "Defeat The First Creation with all four Bridge Guardians still alive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749169,
+        "label": "Defeat The First Creation with all four Bridge Guardians still alive."
+      }
+    ]
+  },
+  {
+    "id": 1749164,
+    "title": "Half Sisters",
+    "description": "This is a special challenge that can be completed during the \"Magus Sisters\" raid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749164,
+        "label": "Defeat the Magus Sisters after allowing two essences to be absorbed from fallen sisters."
+      }
+    ]
+  },
+  {
+    "id": 1749150,
+    "title": "I Am The Keymaster!",
+    "description": "Defeat the Gatekeeper in under 5 minutes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749150,
+        "label": "Defeat the Gatekeeper in 5 minutes or less."
+      }
+    ]
+  },
+  {
+    "id": 1749158,
+    "title": "Lockdown",
+    "description": "Defeat the Unstable Creation without any resource overloads.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749158,
+        "label": "Defeat the Unstable Creation without allowing any resources to explode."
+      }
+    ]
+  },
+  {
+    "id": 1749163,
+    "title": "Make Them Watch",
+    "description": "This is a special challenge that can be completed during the \"Magus Sisters\" raid.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749163,
+        "label": "Defeat the Magus Sisters after allowing one essence to be absorbed from fallen sisters."
+      }
+    ]
+  },
+  {
+    "id": 1749160,
+    "title": "One Must Stand",
+    "description": "Defeat Kilreck the Cleaner with at least one Brell Loyalist still alive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749160,
+        "label": "Defeat Kilreck the Cleaner with at least one Brell Loyalist still alive."
+      }
+    ]
+  },
+  {
+    "id": 1749151,
+    "title": "Price of Perfection",
+    "description": "Defeat the Gatekeeper with no member of your raid dying.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749151,
+        "label": "Defeat the Gatekeeper without allowing any member of your raid to die."
+      }
+    ]
+  },
+  {
+    "id": 1749155,
+    "title": "Resistance",
+    "description": "Defeat the Unstable Creation with only three resource overloads.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749155,
+        "label": "Defeat the Unstable Creation after allowing no more than three resources to explode."
+      }
+    ]
+  },
+  {
+    "id": 1749165,
+    "title": "Slumber Party",
+    "description": "This is a special challenge that can be completed during the \"Magus Sisters\" raid.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749165,
+        "label": "Defeat the Magus Sisters after allowing three essences to be absorbed from fallen sisters."
+      }
+    ]
+  },
+  {
+    "id": 1749156,
+    "title": "Suppression",
+    "description": "Defeat the Unstable Creation with only two resource overloads.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749156,
+        "label": "Defeat the Unstable Creation after allowing no more than two resources to explode."
+      }
+    ]
+  },
+  {
+    "id": 1749166,
+    "title": "Take It To The Bridge",
+    "description": "Defeat The First Creation with at least one Bridge Guardian still alive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749166,
+        "label": "Defeat The First Creation with at least one Bridge Guardian still alive."
+      }
+    ]
+  },
+  {
+    "id": 1749161,
+    "title": "Two's A Party",
+    "description": "Defeat Kilreck the Cleaner with at least two Brell Loyalists still alive.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749161,
+        "label": "Defeat Kilreck the Cleaner with at least two Brell Loyalists still alive."
+      }
+    ]
+  },
+  {
+    "id": 1700011,
+    "title": "Unlock The Mystery (Raid)",
+    "description": "This achievement is gained after completing all the raids required for tier 3 access.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148104,
+        "label": "Complete \"The Fungal Corruption\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1148704,
+        "label": "Complete \"A Cunning Plan\"."
+      },
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1149004,
+        "label": "Complete \"An Audience with Brell Serilis\""
+      }
+    ]
+  },
+  {
+    "id": 1749180,
+    "title": "Vanquisher of Magus Sisters",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749163,
+        "label": "Make Them Watch"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749164,
+        "label": "Half Sisters"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749165,
+        "label": "Slumber Party"
+      }
+    ]
+  },
+  {
+    "id": 1749170,
+    "title": "Vanquisher of the Convorteum",
+    "description": "This achievement is gained after completing all the Convorteum raid challenges",
+    "points": 50,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749150,
+        "label": "I Am The Keymaster!"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749151,
+        "label": "Price of Perfection"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749152,
+        "label": "Army of One"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1749153,
+        "label": "Army of Two"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1749154,
+        "label": "You and Who's Army?"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1749155,
+        "label": "Resistance"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1749156,
+        "label": "Suppression"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1749157,
+        "label": "Crowd Control"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1749158,
+        "label": "Lockdown"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1749159,
+        "label": "Gatekeeper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1749160,
+        "label": "One Must Stand"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1749161,
+        "label": "Two's A Party"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1749162,
+        "label": "A Little Help From My Friends"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1749163,
+        "label": "Make Them Watch"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1749164,
+        "label": "Half Sisters"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1749165,
+        "label": "Slumber Party"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1749166,
+        "label": "Take It To The Bridge"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1749167,
+        "label": "A Bridge Two Far"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1749168,
+        "label": "Fire Under The Bridge"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1749169,
+        "label": "Grand Slam"
+      }
+    ]
+  },
+  {
+    "id": 1749181,
+    "title": "Vanquisher of The First Creation",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749166,
+        "label": "Take It To The Bridge"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749167,
+        "label": "A Bridge Two Far"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749168,
+        "label": "Fire Under The Bridge"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1749169,
+        "label": "Grand Slam"
+      }
+    ]
+  },
+  {
+    "id": 1749175,
+    "title": "Vanquisher of The Gatekeeper",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749150,
+        "label": "I Am The Keymaster!"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749151,
+        "label": "Price of Perfection"
+      }
+    ]
+  },
+  {
+    "id": 1749179,
+    "title": "Vanquisher of The Hall of Records",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749160,
+        "label": "One Must Stand"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749161,
+        "label": "Two's A Party"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749162,
+        "label": "A Little Help From My Friends"
+      }
+    ]
+  },
+  {
+    "id": 1749178,
+    "title": "Vanquisher of The Keymaster",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749159,
+        "label": "Gatekeeper"
+      }
+    ]
+  },
+  {
+    "id": 1749176,
+    "title": "Vanquisher of The Stone Warden",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749152,
+        "label": "Army of One"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749153,
+        "label": "Army of Two"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749154,
+        "label": "You and Whose Army?"
+      }
+    ]
+  },
+  {
+    "id": 1749177,
+    "title": "Vanquisher of Unstable Creation",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749155,
+        "label": "Resistance"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1749156,
+        "label": "Suppression"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1749157,
+        "label": "Crowd Control"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1749158,
+        "label": "Lockdown"
+      }
+    ]
+  },
+  {
+    "id": 1749154,
+    "title": "You and Whose Army?",
+    "description": "Defeat the Stone Warden while engaging all three of The First Creation's mistresses.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1707,
+    "subcategoryName": "Raids",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1749154,
+        "label": "Defeat the Stone Warden while engaging all three of The First Creation's mistresses."
+      }
+    ]
+  },
+  {
+    "id": 1708020,
+    "title": "Adept Hunter of Underfoot",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170802001,
+        "label": "Hunter of Arthicrex"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170802002,
+        "label": "Hunter of Lichen Creep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170802003,
+        "label": "Hunter of The Underquarry"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170802004,
+        "label": "Hunter of The Foundation"
+      }
+    ]
+  },
+  {
+    "id": 1708500,
+    "title": "Hunter of Arthicrex",
+    "description": "This achievement is gained upon defeating the following rare monsters in Arthicrex.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170850001,
+        "label": "a frenzied tender"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170850002,
+        "label": "a larval swarmer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170850003,
+        "label": "a necrophatic ooze"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170850004,
+        "label": "Anoh Chex"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170850005,
+        "label": "Blightcap"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170850006,
+        "label": "Brax Nae"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170850007,
+        "label": "Cephuloid Tatraatix"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170850008,
+        "label": "Cinderweb"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170850009,
+        "label": "Gomphus"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170850010,
+        "label": "Harvester Collyx"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170850011,
+        "label": "Jalymandix"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170850012,
+        "label": "Sol Nox"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170850013,
+        "label": "The Hive Nurse"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170850014,
+        "label": "Xax"
+      }
+    ]
+  },
+  {
+    "id": 1708100,
+    "title": "Hunter of Brell's Rest",
+    "description": "This achievement is gained upon defeating the following rare monsters in Brell's Rest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170810001,
+        "label": "Bermax Flamepaw"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170810002,
+        "label": "Cenobite Denuar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170810003,
+        "label": "Champion Oricx"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170810004,
+        "label": "Cragma"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170810005,
+        "label": "Dargak the Warder"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170810006,
+        "label": "Defender Choxar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170810007,
+        "label": "Guardian Romix"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170810008,
+        "label": "Hunter Nargik"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170810009,
+        "label": "Namirba Aelstrom"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170810010,
+        "label": "Neppigrim Raztupit"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170810011,
+        "label": "Slurid"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170810012,
+        "label": "Soothsayer Wroulf"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170810013,
+        "label": "Steamshear"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170810014,
+        "label": "Thornscrape"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170810015,
+        "label": "Vrolg the Charger"
+      }
+    ]
+  },
+  {
+    "id": 1708000,
+    "title": "Hunter of Brell's Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters in Brell's Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170800001,
+        "label": "Empowered Reflection"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170800002,
+        "label": "Gigyn Brute"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170800003,
+        "label": "Misshapen Formation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170800004,
+        "label": "Naglebrak"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170800005,
+        "label": "Pristine Creation"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170800006,
+        "label": "Rockslide"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170800007,
+        "label": "The Groundskeeper"
+      }
+    ]
+  },
+  {
+    "id": 1708400,
+    "title": "Hunter of Fungal Forest",
+    "description": "This achievement is gained upon defeating the following rare monsters in Fungal Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170840001,
+        "label": "Azurestrike"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170840002,
+        "label": "Ceannaire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170840003,
+        "label": "Creeping Deathspore"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170840004,
+        "label": "Death`s Hand"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170840005,
+        "label": "Enforcer Stoutspore"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170840006,
+        "label": "Fungalshock"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170840007,
+        "label": "Gaiscioch"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170840008,
+        "label": "Gore"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170840009,
+        "label": "Hungry Earth"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170840010,
+        "label": "Orangeback"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170840011,
+        "label": "Ring"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170840012,
+        "label": "Silent Death"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170840013,
+        "label": "Solenopsis"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170840014,
+        "label": "Sporeflame"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170840015,
+        "label": "Uisce"
+      }
+    ]
+  },
+  {
+    "id": 1708900,
+    "title": "Hunter of Kernagir, the Shining City",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kernagir, the Shining City.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170890001,
+        "label": "A Cliknar Invader"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170890002,
+        "label": "A Guard"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170890003,
+        "label": "A Raging Gygin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170890004,
+        "label": "A Resonating Crystalkin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170890005,
+        "label": "A Rogue Builder"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170890006,
+        "label": "A Shop Sweeper (Trelinna, Lady of Pain)"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170890007,
+        "label": "A Wary Guard (Sirana, the Knife Mistress)"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170890008,
+        "label": "An Abraded Genari"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170890009,
+        "label": "An Energetic Guardian"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170890010,
+        "label": "An Overgrown Crystalkin"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170890011,
+        "label": "An Oversized Burynai"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170890012,
+        "label": "Bekthar, Kobold Mob Leader"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170890013,
+        "label": "Granth, The Mad Sizentist"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170890014,
+        "label": "Harbinger Of The Undying One"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170890015,
+        "label": "Tani The Fire Alchemist"
+      }
+    ]
+  },
+  {
+    "id": 1708600,
+    "title": "Hunter of Lichen Creep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Lichen Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170860001,
+        "label": "Ancill the Collector"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170860002,
+        "label": "Anvil Golem"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170860003,
+        "label": "Ash Golem"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170860004,
+        "label": "Cliknar Hunter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170860005,
+        "label": "Cliknar Ravager"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170860006,
+        "label": "Confused Greken Pup"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170860007,
+        "label": "Dwarven Stalwart"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170860008,
+        "label": "Flame Spirit"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170860009,
+        "label": "Frantic Sporali"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170860010,
+        "label": "Gnomish Rockomancer"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170860011,
+        "label": "Gygin Enforcer"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170860012,
+        "label": "Maddened Mephit"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170860013,
+        "label": "Mephit Workmaster"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170860014,
+        "label": "Sessiloid Calcifier"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170860015,
+        "label": "Steamed Mephit"
+      }
+    ]
+  },
+  {
+    "id": 1708300,
+    "title": "Hunter of Pellucid Grotto",
+    "description": "This achievement is gained upon defeating the following rare monsters in Pellucid Grotto.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170830001,
+        "label": "Anarchist Agitator Clatktu"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170830002,
+        "label": "Atopalit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170830003,
+        "label": "Conical Terror"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170830004,
+        "label": "Foul Deeping Ooze"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170830005,
+        "label": "Gluttonous Sessiloid"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170830006,
+        "label": "Gyi the Lifter"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170830007,
+        "label": "Hergnan the Malefactor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170830008,
+        "label": "Igeraun the Unstable"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170830009,
+        "label": "Ker-Klik-Klik"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170830010,
+        "label": "Laval Guardian"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170830011,
+        "label": "Mithril Guardian"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170830012,
+        "label": "Rock Guardian"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170830013,
+        "label": "Scour"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170830014,
+        "label": "Tratcita the Punisher"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170830015,
+        "label": "Xorus the Faceted"
+      }
+    ]
+  },
+  {
+    "id": 1708008,
+    "title": "Hunter of The Convorteum",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Convorteum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170800801,
+        "label": "A Blazing Basilisk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170800802,
+        "label": "Alysse the Librarian"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170800803,
+        "label": "Animated Lava"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170800804,
+        "label": "Apexus Enforcer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170800805,
+        "label": "Apexus Punisher"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170800806,
+        "label": "Armethys Keenslice"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170800807,
+        "label": "Bellikos Bloodsiren"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170800808,
+        "label": "Deformed Firebug"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170800809,
+        "label": "Gressie"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170800810,
+        "label": "Leviathan"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170800811,
+        "label": "Lithographer Bakann"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170800812,
+        "label": "Mistress of Pain"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170800813,
+        "label": "Priestess of the First"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170800814,
+        "label": "Sergeant Deepwater"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170800815,
+        "label": "Slaggard the Smelter"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 170800816,
+        "label": "Spitting Firebug"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 170800817,
+        "label": "Summoner Netikos"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 170800818,
+        "label": "The Collector"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 170800819,
+        "label": "The Scavenger Subjugator"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 170800820,
+        "label": "Twisted Handmaiden"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 170800821,
+        "label": "Warden Bindleskin"
+      }
+    ]
+  },
+  {
+    "id": 1708200,
+    "title": "Hunter of The Cooling Chamber",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Cooling Chamber.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170820001,
+        "label": "Acidic Goo"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170820002,
+        "label": "Angram Coldheart"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170820003,
+        "label": "Bonechips"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170820004,
+        "label": "Donan Twest"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170820005,
+        "label": "Edward Coldbiter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170820006,
+        "label": "Eldaa Kemph"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170820007,
+        "label": "Ephraim Deeprocks"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170820008,
+        "label": "Glindah Rockchip"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170820009,
+        "label": "Gnawing Goo"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170820010,
+        "label": "Rags"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170820011,
+        "label": "Rampaging Ghoul"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170820012,
+        "label": "Rock Crunch Goo"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170820013,
+        "label": "Shrieking Death"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170820014,
+        "label": "Tatters"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170820015,
+        "label": "Zendrilla the Dread"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 170820016,
+        "label": "Zombie Deathmaker"
+      }
+    ]
+  },
+  {
+    "id": 1708800,
+    "title": "Hunter of The Foundation",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Foundation.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170880001,
+        "label": "a brass golem"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170880002,
+        "label": "Agriculturist Spong"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170880003,
+        "label": "Arabella"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170880004,
+        "label": "Creeping Mold"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170880005,
+        "label": "Fetid Boring Beetle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170880006,
+        "label": "Merl"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170880007,
+        "label": "Ragbeard the Morose"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170880008,
+        "label": "Reborn Fetid Boring Beetle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170880009,
+        "label": "Tilda Grintwisdom"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170880010,
+        "label": "Trag"
+      }
+    ]
+  },
+  {
+    "id": 1708700,
+    "title": "Hunter of The Underquarry",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Underquarry.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170870001,
+        "label": "a flint genati"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170870002,
+        "label": "a great brass golem"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170870003,
+        "label": "a master hunter"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170870004,
+        "label": "a master scout"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170870005,
+        "label": "a master soldier"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170870006,
+        "label": "a red gold golem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170870007,
+        "label": "a sand genati"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170870008,
+        "label": "Envoy Frindar"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170870009,
+        "label": "Envoy Gorta"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170870010,
+        "label": "Envoy Therma"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 170870011,
+        "label": "Grai"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 170870012,
+        "label": "Regla"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 170870013,
+        "label": "Tracker Eigorn Skullsmasher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 170870014,
+        "label": "Tracker Klarden Valorstriker"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 170870015,
+        "label": "Tracker Rocklin Hammertaker"
+      }
+    ]
+  },
+  {
+    "id": 1708031,
+    "title": "Hunter of Volska's Husk",
+    "description": "This achievement is gained upon defeating the following rare monsters in Volska's Husk.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170803101,
+        "label": "Deathspore"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170803102,
+        "label": "Foreman Growl"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170803103,
+        "label": "Mature Greken"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170803104,
+        "label": "Mistress Lisjani"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 170803105,
+        "label": "Scout Flametongue"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 170803106,
+        "label": "Skin Borer Beetle"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 170803107,
+        "label": "Slag Golem"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 170803108,
+        "label": "Stoneskull Spider"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 170803109,
+        "label": "Taskmaster Jialli"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 170803110,
+        "label": "Trickster Flamescar"
+      }
+    ]
+  },
+  {
+    "id": 1708010,
+    "title": "Novice Hunter of Underfoot",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170801001,
+        "label": "Hunter of Brell's Rest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170801002,
+        "label": "Hunter of The Cooling Chamber"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170801003,
+        "label": "Hunter of Pellucid Grotto"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170801004,
+        "label": "Hunter of Fungal Forest"
+      }
+    ]
+  },
+  {
+    "id": 1708030,
+    "title": "Veteran Hunter of Underfoot",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1708,
+    "subcategoryName": "Hunts",
+    "categoryId": 1700,
+    "categoryName": "Underfoot",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 170803001,
+        "label": "Hunter of Kernagir, the Shining City"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 170803002,
+        "label": "Hunter of Brell's Temple"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 170803003,
+        "label": "Hunter of The Convorteum"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 170803004,
+        "label": "Hunter of Volska's Husk"
+      }
+    ]
+  }
+]

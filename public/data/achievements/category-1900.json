@@ -1,0 +1,6307 @@
+[
+  {
+    "id": 1900120,
+    "title": "Challenger of Alaris",
+    "description": "This achievement is gained upon completing all the mission challenges in the Veil of Alaris. Completing this achievement grants the title ', Legend of Alaris'",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900120,
+        "label": "Air Commander"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900121,
+        "label": "Fire Marshal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900122,
+        "label": "Bombadier"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900123,
+        "label": "Golem Breaker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1900124,
+        "label": "Ramming Speed"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1900125,
+        "label": "Cool Off"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1900126,
+        "label": "Fizzlemaster"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1900127,
+        "label": "Fuzzles Must Die"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1900128,
+        "label": "Big Game Hunter"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1900129,
+        "label": "Tower Offense"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1900130,
+        "label": "Healing Optional"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1900131,
+        "label": "Perfect Game"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1900132,
+        "label": "Army of One"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1900133,
+        "label": "Sturdy Serpent"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1900134,
+        "label": "Rebel Commander"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1900135,
+        "label": "Out of My Way!"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1900136,
+        "label": "Hail to the Shark King"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1900137,
+        "label": "Humanoid Tsunami"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1900138,
+        "label": "Demolition Man"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1900139,
+        "label": "Excommunication"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1900140,
+        "label": "Water Gun"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1900141,
+        "label": "Heretic"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1900142,
+        "label": "Religious Fervor"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1900143,
+        "label": "High Tide"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1900144,
+        "label": "The Hunters Hunted"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1900145,
+        "label": "Hunting Trip"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1900146,
+        "label": "Trag the Mighty"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1900147,
+        "label": "The Hunt is On!"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 1900148,
+        "label": "Slaughterhouse"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 1900149,
+        "label": "Hungry Hungry Goral"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 1900150,
+        "label": "Perfection"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 1900151,
+        "label": "Make Haste"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 1900152,
+        "label": "Damage Control"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 1900153,
+        "label": "Self Containment"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 1900154,
+        "label": "Light & Shadow"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 1900155,
+        "label": "Split Personality"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 1900156,
+        "label": "Pillar Pillager"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 1900157,
+        "label": "Ardent Defender"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 1900158,
+        "label": "Mana Drain"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 1900159,
+        "label": "Pillars of Success"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 1900160,
+        "label": "You're Doing it Wrong"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 1900161,
+        "label": "Master of the Pillars"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 1900162,
+        "label": "Silent Disruption"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 1900163,
+        "label": "Silent Killer"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 1900164,
+        "label": "Harmonious"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 1900165,
+        "label": "Instrumental"
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 1900166,
+        "label": "Stop Yelling At Me!"
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 1900167,
+        "label": "Just, Die Already!"
+      },
+      {
+        "order": 49,
+        "type": 1,
+        "value": 1900168,
+        "label": "The Great Escape"
+      },
+      {
+        "order": 50,
+        "type": 1,
+        "value": 1900169,
+        "label": "Exit, Stage Right"
+      },
+      {
+        "order": 51,
+        "type": 1,
+        "value": 1900170,
+        "label": "Jerinos Wins Again"
+      },
+      {
+        "order": 52,
+        "type": 1,
+        "value": 1900171,
+        "label": "Color Coordinated"
+      },
+      {
+        "order": 53,
+        "type": 1,
+        "value": 1900172,
+        "label": "Clear the Roof"
+      },
+      {
+        "order": 54,
+        "type": 1,
+        "value": 1900173,
+        "label": "Erillion Blitz"
+      },
+      {
+        "order": 55,
+        "type": 1,
+        "value": 1900174,
+        "label": "Exterminate, Annihilate, Destroy"
+      },
+      {
+        "order": 56,
+        "type": 1,
+        "value": 1900175,
+        "label": "Barrier-Breakers"
+      },
+      {
+        "order": 57,
+        "type": 1,
+        "value": 1900176,
+        "label": "Touched By A Guardian"
+      },
+      {
+        "order": 58,
+        "type": 1,
+        "value": 1900177,
+        "label": "Healthy Relics"
+      },
+      {
+        "order": 59,
+        "type": 1,
+        "value": 1900178,
+        "label": "Destruction of Avatars"
+      },
+      {
+        "order": 60,
+        "type": 1,
+        "value": 1900179,
+        "label": "Divine Charm"
+      }
+    ]
+  },
+  {
+    "id": 1900065,
+    "title": "Champion of Alaris",
+    "description": "This achievement is gained upon completing all the quests in the Veil of Alaris.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900065,
+        "label": "Mercenary of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900066,
+        "label": "Partisan of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900067,
+        "label": "Mercenary of the Valley of Lunanyn"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900068,
+        "label": "Partisan of the Valley of Lunanyn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1900069,
+        "label": "Mercenary of Sarith, City of Tides"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1900070,
+        "label": "Partisan of Sarith, City of Tides"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1900071,
+        "label": "Mercenary of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1900072,
+        "label": "Partisan of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1900073,
+        "label": "Mercenary of The Beasts' Domain"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1900074,
+        "label": "Partisan of The Beasts' Domain"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1900075,
+        "label": "Mercenary of The Resplendent Temple"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1900076,
+        "label": "Partisan of The Resplendent Temple"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1900077,
+        "label": "Mercenary of The Pillars of Alra"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1900078,
+        "label": "Partisan of The Pillars of Alra"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1900079,
+        "label": "Mercenary of Windsong Sanctuary"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1900080,
+        "label": "Partisan of Windsong Sanctuary"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1900081,
+        "label": "Mercenary of Erillion, City of Bronze"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1900082,
+        "label": "Partisan of Erillion, City of Bronze"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1900083,
+        "label": "Mercenary of Sepulcher of Order"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1900084,
+        "label": "Partisan of Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1900105,
+    "title": "Conqueror of Alaris",
+    "description": "This achievement is gained upon completing all the raids in the Veil of Alaris.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900105,
+        "label": "Conquerer of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900106,
+        "label": "Conquerer of the Valley of Lunanyn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900107,
+        "label": "Conquerer of Sarith, City of Tides"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900108,
+        "label": "Conquerer of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1900109,
+        "label": "Conquerer of The Beasts' Domain"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1900110,
+        "label": "Conquerer of The Resplendent Temple"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1900111,
+        "label": "Conquerer of The Pillars of Alra"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1900112,
+        "label": "Conquerer of Windsong Sanctuary"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1900113,
+        "label": "Conquerer of Erillion, City of Bronze"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1900114,
+        "label": "Conquerer of Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1973361,
+    "title": "God Learner",
+    "description": "This achievement is gained upon gathering all eight shards from the Sentry Stones",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 20000,
+        "label": "Sentry Shard of Order"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 20001,
+        "label": "Sentry Shard of Oratory"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 20002,
+        "label": "Sentry Shard of Magic"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 20003,
+        "label": "Sentry Shard of Splendor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 20004,
+        "label": "Sentry Shard of Tides"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 20005,
+        "label": "Sentry Shard of Beasts"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 20006,
+        "label": "Sentry Shard of Fertility"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 20007,
+        "label": "Sentry Shard of Battle"
+      }
+    ]
+  },
+  {
+    "id": 1900210,
+    "title": "Master of Alaris",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in the Veil of Alaris.",
+    "points": 80,
+    "isHidden": true,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900210,
+        "label": "Champion of Alaris"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900211,
+        "label": "Paragon of Alaris"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900212,
+        "label": "Veilslayer"
+      }
+    ]
+  },
+  {
+    "id": 1900090,
+    "title": "Paragon of Alaris",
+    "description": "This achievement is gained upon completing all the missions in the Veil of Alaris.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900090,
+        "label": "Hero of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900091,
+        "label": "Hero of the Valley of Lunanyn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900092,
+        "label": "Hero of Sarith, City of Tides"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900093,
+        "label": "Hero of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1900094,
+        "label": "Hero of The Beasts' Domain"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1900095,
+        "label": "Hero of The Resplendent Temple"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1900096,
+        "label": "Hero of The Pillars of Alra"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1900097,
+        "label": "Hero of Windsong Sanctuary"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1900098,
+        "label": "Hero of Erillion, City of Bronze"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1900099,
+        "label": "Hero of Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1900500,
+    "title": "Shatter the Veil",
+    "description": "This achievement is gained upon completing the following mission for the Veil of Alaris launch event.",
+    "points": 25,
+    "isHidden": false,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 3,
+        "value": 1900500,
+        "label": "Display: Shatter the Veil"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900500,
+        "label": "Engine Trouble"
+      }
+    ]
+  },
+  {
+    "id": 1900050,
+    "title": "Veil of Alaris Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Veil of Alaris.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900050,
+        "label": "Argath, Bastion of Illdaera Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900051,
+        "label": "Valley of Lunanyn Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900052,
+        "label": "Sarith, City of Tides Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900053,
+        "label": "Rubak Oseka, Temple of the Sea Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1900054,
+        "label": "The Beasts' Domain Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1900055,
+        "label": "The Resplendent Temple Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1900056,
+        "label": "Pillars of Alra Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1900057,
+        "label": "Windsong Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1900058,
+        "label": "Erillion, City of Bronze Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1900059,
+        "label": "Sepulcher of Order Traveler"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270491,
+        "label": "East Sepulcher Traveler"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 270492,
+        "label": "West Sepulcher Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1900205,
+    "title": "Veilslayer",
+    "description": "This achievement is gained upon completing all Hunter achievements. Completing this achievement grants the title 'the Veilslayer'",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1901,
+    "subcategoryName": "General",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900205,
+        "label": "Novice Hunter of Alaris"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900206,
+        "label": "Adept Hunter of Alaris"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900207,
+        "label": "Veteran Hunter of Alaris"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900208,
+        "label": "Expert Hunter of Alaris"
+      }
+    ]
+  },
+  {
+    "id": 1972400,
+    "title": "Argath, Bastion of Illdaera Traveler",
+    "description": "This achievement is gained upon visiting Argath, Bastion of Illdaera.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972400,
+        "label": "Visit Argath, Bastion of Illdaera"
+      }
+    ]
+  },
+  {
+    "id": 1973400,
+    "title": "East Sepulcher Traveler",
+    "description": "This achievement is gained upon visiting East Sepulcher.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270460,
+        "label": "Visit East Sepulcher"
+      }
+    ]
+  },
+  {
+    "id": 1973200,
+    "title": "Erillion, City of Bronze Traveler",
+    "description": "This achievement is gained upon visiting Erillion, City of Bronze.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973200,
+        "label": "Visit Erillion, City of Bronze"
+      }
+    ]
+  },
+  {
+    "id": 1972700,
+    "title": "Rubak Oseka, Temple of the Sea Traveler",
+    "description": "This achievement is gained upon visiting Rubak Oseka, Temple of the Sea.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972700,
+        "label": "Visit Rubak Oseka, Temple of the Sea"
+      }
+    ]
+  },
+  {
+    "id": 1972600,
+    "title": "Sarith, City of Tides Traveler",
+    "description": "This achievement is gained upon visiting Sarith, City of Tides.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972600,
+        "label": "Visit Sarith, City of Tides"
+      }
+    ]
+  },
+  {
+    "id": 1972800,
+    "title": "The Beasts' Domain Traveler",
+    "description": "This achievement is gained upon visiting the Beasts' Domain.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972800,
+        "label": "Visit The Beasts' Domain"
+      }
+    ]
+  },
+  {
+    "id": 1973000,
+    "title": "The Pillars of Alra Traveler",
+    "description": "This achievement is gained upon visiting the Pillars of Alra.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973000,
+        "label": "Visit The Pillars of Alra"
+      }
+    ]
+  },
+  {
+    "id": 1972900,
+    "title": "The Resplendent Temple Traveler",
+    "description": "This achievement is gained upon visiting The Resplendent Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972900,
+        "label": "Visit The Resplendent Temple"
+      }
+    ]
+  },
+  {
+    "id": 1973300,
+    "title": "The Sepulcher of Order Traveler",
+    "description": "This achievement is gained upon visiting the Sepulcher of Order.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973300,
+        "label": "Visit Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1973100,
+    "title": "The Windsong Sanctuary Traveler",
+    "description": "This achievement is gained upon visiting the Windsong Sanctuary.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973100,
+        "label": "Visit Windsong Sanctuary"
+      }
+    ]
+  },
+  {
+    "id": 1972500,
+    "title": "Valley of Lunanyn Traveler",
+    "description": "This achievement is gained upon visiting the Valley of Lunanyn.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972500,
+        "label": "Visit the Valley of Lunanyn"
+      }
+    ]
+  },
+  {
+    "id": 1973500,
+    "title": "West Sepulcher Traveler",
+    "description": "This achievement is gained upon visiting West Sepulcher.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1902,
+    "subcategoryName": "Exploration",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270461,
+        "label": "Visit West Sepulcher"
+      }
+    ]
+  },
+  {
+    "id": 1900000,
+    "title": "Alaran Adventurer (Group)",
+    "description": "Completing the following missions grants this achievement:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972431,
+        "label": "Illdaera's Vengeance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972531,
+        "label": "The Herald of Oratory"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972631,
+        "label": "The Defeat of Prexus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972731,
+        "label": "Time and Tides"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972831,
+        "label": "The King of the Beasts"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972931,
+        "label": "Two Sides of the Stone"
+      }
+    ]
+  },
+  {
+    "id": 1900020,
+    "title": "Alaran Adventurer (Raid)",
+    "description": "Completing the following raids will grant you this achievement:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972440,
+        "label": "Illdaera's Vengeance"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972540,
+        "label": "The Herald of Oratory"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972640,
+        "label": "The Defeat of Prexus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972740,
+        "label": "Time and Tides"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972840,
+        "label": "The King of the Beasts"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972940,
+        "label": "Two Sides of the Stone"
+      }
+    ]
+  },
+  {
+    "id": 1900010,
+    "title": "Alaran Hero (Group)",
+    "description": "Completing the following missions grants this achievement:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973031,
+        "label": "The Growing Threat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973131,
+        "label": "The Cacophony of Power"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973231,
+        "label": "The Order of Three"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973331,
+        "label": "The Triune God"
+      }
+    ]
+  },
+  {
+    "id": 1900030,
+    "title": "Alaran Hero (Raid)",
+    "description": "Completing the following raids will grant you this achievement:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1973040,
+        "label": "Unearthing Alra"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1973140,
+        "label": "The Cacophony of Power"
+      }
+    ]
+  },
+  {
+    "id": 1900045,
+    "title": "Alaran Language Aware",
+    "description": "This achievement is gained by learning the basics of the Alaran language.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900045,
+        "label": "Alaran Language: 25"
+      }
+    ]
+  },
+  {
+    "id": 1900048,
+    "title": "Alaran Language Expert",
+    "description": "This achievement is gained by becoming close to mastering the Alaran language.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900048,
+        "label": "Alaran Language: 90"
+      }
+    ]
+  },
+  {
+    "id": 1900047,
+    "title": "Alaran Language Fluent",
+    "description": "This achievement is gained by speaking Alaran with some proficiency.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900047,
+        "label": "Alaran Language: 71"
+      }
+    ]
+  },
+  {
+    "id": 1900049,
+    "title": "Alaran Language Master",
+    "description": "This achievement is gained by mastering the Alaran language.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900049,
+        "label": "Alaran Language: 100 - Update by clicking language primer books"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 1900263,
+        "label": "- Complete any 5 of these tasks in Argath and Valley of Lunanyn to gain 10 points of language."
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 1900264,
+        "label": ".... Complete Secure From Within from Supplykeeper Proxipid"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 1900265,
+        "label": ".... Complete Gone Traitors Gone from Risathron"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 1900266,
+        "label": ".... Complete Collecting the Steels from Blacksmith Zojirath"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 1900267,
+        "label": ".... Complete Collecting the Blades from Blacksmith Zojirath"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 1900268,
+        "label": ".... Complete Slimming the Invaders from Captain Walkath"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 1900269,
+        "label": ".... Complete Pest Control from Mabus"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 1900270,
+        "label": ".... Complete Fertilizer for the Crops from Mabus"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 1900271,
+        "label": ".... Complete Reaping the Harvest from Mabus"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 1900272,
+        "label": ".... Complete It's a Dog-Eat-Cat World Out There from Kallik the Cook"
+      },
+      {
+        "order": 12,
+        "type": 2,
+        "value": 1900273,
+        "label": ".... Complete Rat-a-chewy from Kallik the Cook"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 1900274,
+        "label": ".... Complete Who You Gonna Call? from Hallay"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 1900275,
+        "label": "- Complete any 3 of these tasks in Argath and Valley of Lunanyn to gain 15 points of language."
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 1900276,
+        "label": ".... Complete This Is Argath from Atleris, Council Pinnacle"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 1900277,
+        "label": ".... Complete Shoring Up Defenses from Atleris, Council Pinnacle"
+      },
+      {
+        "order": 17,
+        "type": 2,
+        "value": 1900278,
+        "label": ".... Complete Protect the Arms from Troopwielder Baris"
+      },
+      {
+        "order": 18,
+        "type": 2,
+        "value": 1900279,
+        "label": ".... Complete Raid and Recover from Geirdan Ath"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 1900280,
+        "label": ".... Complete The Assassination Game from Geirdan Ath"
+      },
+      {
+        "order": 20,
+        "type": 2,
+        "value": 1900281,
+        "label": ".... Complete Uncharted Territory from Captain Gre Metkal"
+      },
+      {
+        "order": 21,
+        "type": 2,
+        "value": 1900282,
+        "label": "- Complete any 3 of these tasks in Argath and Valley of Lunanyn to gain 21 points of language."
+      },
+      {
+        "order": 22,
+        "type": 2,
+        "value": 1900283,
+        "label": ".... Complete The Riddle of Steel from Atleris, Council Pinnacle"
+      },
+      {
+        "order": 23,
+        "type": 2,
+        "value": 1900284,
+        "label": ".... Complete Breaking Ballistae from Atleris, Council Pinnacle"
+      },
+      {
+        "order": 24,
+        "type": 2,
+        "value": 1900285,
+        "label": ".... Complete Critical Mass from Bursin the Legend"
+      },
+      {
+        "order": 25,
+        "type": 2,
+        "value": 1900286,
+        "label": ".... Complete The Enemy of My Enemy from Captain Gre Metkal"
+      },
+      {
+        "order": 26,
+        "type": 2,
+        "value": 1900287,
+        "label": ".... Complete The Memory Remains from Aedros"
+      },
+      {
+        "order": 27,
+        "type": 2,
+        "value": 1900288,
+        "label": ".... Complete Filthy Oashim! from Grave Digger Undros"
+      },
+      {
+        "order": 28,
+        "type": 2,
+        "value": 1900289,
+        "label": "- Complete 2 of these missions in Argath and Valley of Lunanyn to gain 24 language, one for 12."
+      },
+      {
+        "order": 29,
+        "type": 2,
+        "value": 1900290,
+        "label": ".... Complete Reclaiming Argath from Atleris, Council Pinnacle"
+      },
+      {
+        "order": 30,
+        "type": 2,
+        "value": 1900291,
+        "label": ".... Complete Illdaera's Vengeance from Mechanic Vitesal"
+      },
+      {
+        "order": 31,
+        "type": 2,
+        "value": 1900292,
+        "label": ".... Complete Into the Abyss from Aedros"
+      },
+      {
+        "order": 32,
+        "type": 2,
+        "value": 1900293,
+        "label": ".... Complete The Herald of Oratory from Zarbak"
+      },
+      {
+        "order": 33,
+        "type": 2,
+        "value": 1900294,
+        "label": "- Complete all tasks in Sarith to gain 5. Half of them gain you 3, and one gains you 1 point."
+      },
+      {
+        "order": 34,
+        "type": 2,
+        "value": 1900295,
+        "label": ".... Complete The Governor's Plot from Governor Parrin Wenst"
+      },
+      {
+        "order": 35,
+        "type": 2,
+        "value": 1900296,
+        "label": ".... Complete Rescue Ranger from Rebel Leader Ain Kavus"
+      },
+      {
+        "order": 36,
+        "type": 2,
+        "value": 1900297,
+        "label": ".... Complete Aid for Sarith from Guard Captain Naraind Reles"
+      },
+      {
+        "order": 37,
+        "type": 2,
+        "value": 1900298,
+        "label": ".... Complete Captain's Orders from Captain Lonz Duran"
+      },
+      {
+        "order": 38,
+        "type": 2,
+        "value": 1900299,
+        "label": ".... Complete Unforgivable Betrayal from Commander Marrien Kavus"
+      },
+      {
+        "order": 39,
+        "type": 2,
+        "value": 1900300,
+        "label": ".... Complete Systematic Oppression from Falthen Berros"
+      },
+      {
+        "order": 40,
+        "type": 2,
+        "value": 1900301,
+        "label": ".... Complete Rebel Assault from Rebel Leader Ain Kavus"
+      },
+      {
+        "order": 41,
+        "type": 2,
+        "value": 1900302,
+        "label": ".... Complete The Defeat of Prexus from Governor Parrin Wenst"
+      },
+      {
+        "order": 42,
+        "type": 2,
+        "value": 1900303,
+        "label": "- Complete all tasks in Rubak to gain 3. Half of them gain you 2, and one gains you 1 point."
+      },
+      {
+        "order": 43,
+        "type": 2,
+        "value": 1900304,
+        "label": ".... Complete Oseka's Knowledge from Solphius Kelprunner"
+      },
+      {
+        "order": 44,
+        "type": 2,
+        "value": 1900305,
+        "label": ".... Complete Sacred Relics from Solphius Kelprunner"
+      },
+      {
+        "order": 45,
+        "type": 2,
+        "value": 1900306,
+        "label": ".... Complete Tides of Change from Solphius Kelprunner"
+      },
+      {
+        "order": 46,
+        "type": 2,
+        "value": 1900307,
+        "label": ".... Complete The Key to Freedom from Aquarn the Tidalmaster"
+      },
+      {
+        "order": 47,
+        "type": 2,
+        "value": 1900308,
+        "label": ".... Complete Begin the Offensive from Tiljin of the Deep"
+      },
+      {
+        "order": 48,
+        "type": 2,
+        "value": 1900309,
+        "label": ".... Complete Soothing the Spirits from Coraln Seagazer"
+      },
+      {
+        "order": 49,
+        "type": 2,
+        "value": 1900310,
+        "label": ".... Complete Assault the Tower from General Serobi"
+      },
+      {
+        "order": 50,
+        "type": 2,
+        "value": 1900311,
+        "label": ".... Complete Time and Tides from General Serobi"
+      },
+      {
+        "order": 51,
+        "type": 2,
+        "value": 1900312,
+        "label": "- Complete all tasks in Beast Domain to gain 3. Half of them to gain 2, and one gains you 1 point."
+      },
+      {
+        "order": 52,
+        "type": 2,
+        "value": 1900313,
+        "label": ".... Complete Beasts for the Stew from Mea Treg"
+      },
+      {
+        "order": 53,
+        "type": 2,
+        "value": 1900314,
+        "label": ".... Complete A Question of Integrity from Mea Treg"
+      },
+      {
+        "order": 54,
+        "type": 2,
+        "value": 1900315,
+        "label": ".... Complete Message of Faith from Mea Treg"
+      },
+      {
+        "order": 55,
+        "type": 2,
+        "value": 1900316,
+        "label": ".... Complete Trial of the Beast from Treg"
+      },
+      {
+        "order": 56,
+        "type": 2,
+        "value": 1900317,
+        "label": ".... Complete One To Lead Them from Treg"
+      },
+      {
+        "order": 57,
+        "type": 2,
+        "value": 1900318,
+        "label": ".... Complete Braxi Trouble from Braxi Keeper Yubai"
+      },
+      {
+        "order": 58,
+        "type": 2,
+        "value": 1900319,
+        "label": ".... Complete Pups of War from Captain Portencia"
+      },
+      {
+        "order": 59,
+        "type": 2,
+        "value": 1900320,
+        "label": ".... Complete The King of the Beasts from Kalda Treg"
+      },
+      {
+        "order": 60,
+        "type": 2,
+        "value": 1900321,
+        "label": "- Complete all tasks in Resplendent to gain 4. Half of them to gain 2, and one gains you 1 point."
+      },
+      {
+        "order": 61,
+        "type": 2,
+        "value": 1900322,
+        "label": ".... Complete The Light Within from Nadja Irespine"
+      },
+      {
+        "order": 62,
+        "type": 2,
+        "value": 1900323,
+        "label": ".... Complete An Initiate's Task from Chancellor Corcelia"
+      },
+      {
+        "order": 63,
+        "type": 2,
+        "value": 1900324,
+        "label": ".... Complete At Your Disposal from Chancellor Corcelia"
+      },
+      {
+        "order": 64,
+        "type": 2,
+        "value": 1900325,
+        "label": ".... Complete Death to Clan Piq`a! from Udgar the Brave"
+      },
+      {
+        "order": 65,
+        "type": 2,
+        "value": 1900326,
+        "label": ".... Complete Death to Clan Ulork! from Hoarder Paoliq"
+      },
+      {
+        "order": 66,
+        "type": 2,
+        "value": 1900327,
+        "label": ".... Complete Plannty of Tricks from Plann"
+      },
+      {
+        "order": 67,
+        "type": 2,
+        "value": 1900328,
+        "label": ".... Complete Secrets of the Stones from Reklor Irespine"
+      },
+      {
+        "order": 68,
+        "type": 2,
+        "value": 1900329,
+        "label": ".... Complete Two Sides of the Stone from Reklor Irespine"
+      },
+      {
+        "order": 69,
+        "type": 2,
+        "value": 1900330,
+        "label": "- Complete all tasks in Pillars of Alra to gain 4. Half of them to gain 2, and one gains you 1."
+      },
+      {
+        "order": 70,
+        "type": 2,
+        "value": 1900331,
+        "label": ".... Complete The First Pilgrimage by locating the Discarded Stone Tablet"
+      },
+      {
+        "order": 71,
+        "type": 2,
+        "value": 1900332,
+        "label": ".... Complete The Word of Melretia from Selulian of Melretia"
+      },
+      {
+        "order": 72,
+        "type": 2,
+        "value": 1900333,
+        "label": ".... Complete The Word of Anriella from Il`Rator of Anriella"
+      },
+      {
+        "order": 73,
+        "type": 2,
+        "value": 1900334,
+        "label": ".... Complete The Word of Fal`Kaa from Wrakt of Fal`Kaa"
+      },
+      {
+        "order": 74,
+        "type": 2,
+        "value": 1900335,
+        "label": ".... Complete The Word of Erion from Il`Nendale of Erion"
+      },
+      {
+        "order": 75,
+        "type": 2,
+        "value": 1900336,
+        "label": ".... Complete Crisis of Faith from an apparition"
+      },
+      {
+        "order": 76,
+        "type": 2,
+        "value": 1900337,
+        "label": ".... Complete The Truth from a shade"
+      },
+      {
+        "order": 77,
+        "type": 2,
+        "value": 1900338,
+        "label": ".... Complete The Growing Threat from a shade"
+      },
+      {
+        "order": 78,
+        "type": 2,
+        "value": 1900339,
+        "label": "- Complete all tasks in Windsong to gain 4. Half of them gain you 2, and one gains you 1 point."
+      },
+      {
+        "order": 79,
+        "type": 2,
+        "value": 1900340,
+        "label": ".... Complete Stranger in a Strange Land from Giggbledon Cogboggle"
+      },
+      {
+        "order": 80,
+        "type": 2,
+        "value": 1900341,
+        "label": ".... Complete Getting Down to Business from Giggbledon Cogboggle"
+      },
+      {
+        "order": 81,
+        "type": 2,
+        "value": 1900342,
+        "label": ".... Complete Making Music from Giggbledon Cogboggle"
+      },
+      {
+        "order": 82,
+        "type": 2,
+        "value": 1900343,
+        "label": ".... Complete Winds of Change from Kolain"
+      },
+      {
+        "order": 83,
+        "type": 2,
+        "value": 1900344,
+        "label": ".... Complete Stop the Pollution from Wasinai"
+      },
+      {
+        "order": 84,
+        "type": 2,
+        "value": 1900345,
+        "label": ".... Complete Eggscellent Eggs from Wilmina Cogboggle"
+      },
+      {
+        "order": 85,
+        "type": 2,
+        "value": 1900346,
+        "label": ".... Complete The Sound of Silence from Giggbledon Cogboggle"
+      },
+      {
+        "order": 86,
+        "type": 2,
+        "value": 1900347,
+        "label": ".... Complete The Cacophony of Power from General Terasal"
+      },
+      {
+        "order": 87,
+        "type": 2,
+        "value": 1900348,
+        "label": "- Complete all tasks in Erillion to gain 3. Half of them gain you 2, and one gains you 1 point."
+      },
+      {
+        "order": 88,
+        "type": 2,
+        "value": 1900349,
+        "label": ".... Complete Dreams of Chaos from Joral"
+      },
+      {
+        "order": 89,
+        "type": 2,
+        "value": 1900350,
+        "label": ".... Complete A Spy Among Us from Nulbar"
+      },
+      {
+        "order": 90,
+        "type": 2,
+        "value": 1900351,
+        "label": ".... Complete Restoring Order from Caindi"
+      },
+      {
+        "order": 91,
+        "type": 2,
+        "value": 1900352,
+        "label": ".... Complete Political Favors from Vinloi"
+      },
+      {
+        "order": 92,
+        "type": 2,
+        "value": 1900353,
+        "label": ".... Complete Stop the Dreams from Alchemist Xortiv"
+      },
+      {
+        "order": 93,
+        "type": 2,
+        "value": 1900354,
+        "label": ".... Complete Information is King from Faltar"
+      },
+      {
+        "order": 94,
+        "type": 2,
+        "value": 1900355,
+        "label": ".... Complete The Traitor Revealed from Archon Xalvir"
+      },
+      {
+        "order": 95,
+        "type": 2,
+        "value": 1900356,
+        "label": ".... Complete The Order of Three from General Tyronith"
+      },
+      {
+        "order": 96,
+        "type": 2,
+        "value": 1900357,
+        "label": "- Complete all of these tasks in Sepulcher to gain 4. Half of them to gain 2, and one gains you 1."
+      },
+      {
+        "order": 97,
+        "type": 2,
+        "value": 1900358,
+        "label": ".... Complete The Fracturing of Order from Therin the Ancient"
+      },
+      {
+        "order": 98,
+        "type": 2,
+        "value": 1900359,
+        "label": ".... Complete Resurrecting the Gods from Sentry Stone of Illdaera"
+      },
+      {
+        "order": 99,
+        "type": 2,
+        "value": 1900360,
+        "label": ".... Complete The Power of Alsa Thel from Planner Vanseth"
+      },
+      {
+        "order": 100,
+        "type": 2,
+        "value": 1900361,
+        "label": ".... Complete Serving the Triumvirate from Thado Penn"
+      },
+      {
+        "order": 101,
+        "type": 2,
+        "value": 1900362,
+        "label": ".... Complete Crafting the Triumvirate's Downfall from Sentry Stone of Illdaera"
+      },
+      {
+        "order": 102,
+        "type": 2,
+        "value": 1900363,
+        "label": ".... Complete To Kill a Thel Ereth Ril from Alchemist Vaskerin"
+      },
+      {
+        "order": 103,
+        "type": 2,
+        "value": 1900364,
+        "label": ".... Complete Breaching the Barrier from Sentry Stone of Illdaera"
+      },
+      {
+        "order": 104,
+        "type": 2,
+        "value": 1900365,
+        "label": ".... Complete The Triune God from Sentry Stone of Illdaera"
+      }
+    ]
+  },
+  {
+    "id": 1900046,
+    "title": "Alaran Language Novice",
+    "description": "This achievement is gained by having slight experience with the Alaran language.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900046,
+        "label": "Alaran Language: 50"
+      }
+    ]
+  },
+  {
+    "id": 1900040,
+    "title": "Alaran Legend (Raid)",
+    "description": "Completing the following raids will grant you this achievement:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1903,
+    "subcategoryName": "Progression",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1973240,
+        "label": "The Order of Three"
+      }
+    ]
+  },
+  {
+    "id": 1972410,
+    "title": "Mercenary of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon completing the following kill quests in Argath, Bastion of Illdaera:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972410,
+        "label": "Secure From Within"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972411,
+        "label": "Gone Traitors Gone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972412,
+        "label": "Collecting the Steels"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972413,
+        "label": "Collecting the Blades"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972414,
+        "label": "Slimming the Invaders"
+      }
+    ]
+  },
+  {
+    "id": 1973210,
+    "title": "Mercenary of Erillion, City of Bronze",
+    "description": "This achievement is gained upon completing the following kill quests in Erillion, City of Bronze:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973210,
+        "label": "It's Only a Crime If You're Caught!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973211,
+        "label": "They Who Must Not Be Named"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973212,
+        "label": "Ratting Out the Faithful"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973213,
+        "label": "Silence is Golden"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973214,
+        "label": "Soliciting Trouble"
+      }
+    ]
+  },
+  {
+    "id": 1972710,
+    "title": "Mercenary of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon completing the following kill quests in Rubak Oseka, Temple of the Sea:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972710,
+        "label": "Diminishing the Temple - Zealots"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972711,
+        "label": "Diminishing the Temple - Alarans"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972712,
+        "label": "Diminishing the Temple - Priests and Acolytes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972713,
+        "label": "Diminishing the Temple - Hadal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972714,
+        "label": "Diminishing the Temple - Ophidians"
+      }
+    ]
+  },
+  {
+    "id": 1972610,
+    "title": "Mercenary of Sarith, City of Tides",
+    "description": "This achievement is gained upon completing the following kill quests in Sarith, City of Tides:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972610,
+        "label": "A Meal for the Rebels"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972611,
+        "label": "Pots and Pans Fighter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972612,
+        "label": "Sharks in the Water"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972613,
+        "label": "Clearing the Path - Entrance"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972614,
+        "label": "Clearing the Path - Guardsmen"
+      }
+    ]
+  },
+  {
+    "id": 1972810,
+    "title": "Mercenary of the Beasts' Domain",
+    "description": "This achievement is gained upon completing the following kill quests in the Beasts' Domain:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972810,
+        "label": "Hunters' Bounty"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972811,
+        "label": "The Hunter Becomes The Hunted"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972812,
+        "label": "Eewww!"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972813,
+        "label": "At The Water's Edge.."
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972814,
+        "label": "Mass Extinction - The Hard Way!"
+      }
+    ]
+  },
+  {
+    "id": 1973010,
+    "title": "Mercenary of the Pillars of Alra",
+    "description": "This achievement is gained upon completing the following kill quests in the Pillars of Alra:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973010,
+        "label": "A Snake in the Grass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973011,
+        "label": "Sitting Drakes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973012,
+        "label": "Blazing Trails"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973013,
+        "label": "Innocent as a Tiger"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973014,
+        "label": "Rising Through the Ranks"
+      }
+    ]
+  },
+  {
+    "id": 1972910,
+    "title": "Mercenary of The Resplendent Temple",
+    "description": "This achievement is gained upon completing the following kill quests in The Resplendent Temple:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972910,
+        "label": "Taking Out the Trash"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972911,
+        "label": "Piq`a - BOO!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972912,
+        "label": "An End To Perfection"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972913,
+        "label": "Beautiful Corpses"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972914,
+        "label": "Purging The Impure"
+      }
+    ]
+  },
+  {
+    "id": 1973310,
+    "title": "Mercenary of the Sepulcher of Order",
+    "description": "This achievement is gained upon completing the following kill quests in the Sepulcher of Order:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973310,
+        "label": "Revenge Is Its Own Reward"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973311,
+        "label": "It's A Jungle Out There"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973312,
+        "label": "Sleeping With The Fishes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973313,
+        "label": "Rest In Pieces"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973314,
+        "label": "Clipping An Ascended's Wings"
+      }
+    ]
+  },
+  {
+    "id": 1972510,
+    "title": "Mercenary of the Valley of Lunanyn",
+    "description": "This achievement is gained upon completing the following kill quests in the Valley of Lunanyn:",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972510,
+        "label": "Pest Control"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972511,
+        "label": "Fertilizer for the Crops"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972512,
+        "label": "Reaping the Harvest"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972513,
+        "label": "It's a Dog-Eat-Cat World Out There"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972514,
+        "label": "Rat-a-chewy"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972515,
+        "label": "Who You Gonna Call?"
+      }
+    ]
+  },
+  {
+    "id": 1973110,
+    "title": "Mercenary of the Windsong Sanctuary",
+    "description": "This achievement is gained upon completing the following kill quests in the Windsong Sanctuary:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973110,
+        "label": "Preaching To The Choir"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973111,
+        "label": "Raising A Ruckus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973112,
+        "label": "In Perfect Harmony"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973113,
+        "label": "Flat Lute"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973114,
+        "label": "Going Native"
+      }
+    ]
+  },
+  {
+    "id": 1972420,
+    "title": "Partisan of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon completing the following quests in Argath, Bastion of Illdaera:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972420,
+        "label": "This Is Argath"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972421,
+        "label": "Shoring Up Defenses"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972422,
+        "label": "Protect the Arms"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972423,
+        "label": "The Riddle of Steel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972424,
+        "label": "Breaking Ballistae"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972425,
+        "label": "Critical Mass"
+      }
+    ]
+  },
+  {
+    "id": 1973220,
+    "title": "Partisan of Erillion, City of Bronze",
+    "description": "This achievement is gained upon completing the following quests in Erillion, City of Bronze:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973220,
+        "label": "Dreams of Chaos"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973221,
+        "label": "A Spy Among Us"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973222,
+        "label": "Restoring Order"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973223,
+        "label": "Political Favors"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973224,
+        "label": "Stop the Dreams"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973225,
+        "label": "Information is King"
+      }
+    ]
+  },
+  {
+    "id": 1972720,
+    "title": "Partisan of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon completing the following quests in Rubak Oseka, Temple of the Sea:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972720,
+        "label": "Oseka's Knowledge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972721,
+        "label": "Sacred Relics"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972722,
+        "label": "Tides of Change"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972723,
+        "label": "The Key to Freedom"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972724,
+        "label": "Begin the Offensive"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972725,
+        "label": "Soothing the Spirits"
+      }
+    ]
+  },
+  {
+    "id": 1972620,
+    "title": "Partisan of Sarith, City of Tides",
+    "description": "This achievement is gained upon completing the following quests in Sarith, City of Tides:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972620,
+        "label": "The Governor's Plot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972621,
+        "label": "Rescue Ranger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972622,
+        "label": "Aid for Sarith"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972623,
+        "label": "Captain's Orders"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972624,
+        "label": "Unforgivable Betrayal"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972625,
+        "label": "Systematic Oppression"
+      }
+    ]
+  },
+  {
+    "id": 1972820,
+    "title": "Partisan of the Beasts' Domain",
+    "description": "This achievement is gained upon completing the following quests in the Beasts' Domain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972820,
+        "label": "Beasts for the Stew"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972821,
+        "label": "A Question of Integrity"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972822,
+        "label": "Message of Faith"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972823,
+        "label": "Trial of the Beast"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972824,
+        "label": "One To Lead Them"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972825,
+        "label": "Braxi Trouble"
+      }
+    ]
+  },
+  {
+    "id": 1973020,
+    "title": "Partisan of the Pillars of Alra",
+    "description": "This achievement is gained upon completing the following quests in the Pillars of Alra:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973020,
+        "label": "The First Pilgrimage"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973021,
+        "label": "The Word of Melretia"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973022,
+        "label": "The Word of Anriella"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973023,
+        "label": "The Word of Fal`Kaa"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973024,
+        "label": "The Word of Erion"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973025,
+        "label": "Crisis of Faith"
+      }
+    ]
+  },
+  {
+    "id": 1972920,
+    "title": "Partisan of The Resplendent Temple",
+    "description": "This achievement is gained upon completing the following quests in The Resplendent Temple:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972920,
+        "label": "The Light Within"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972921,
+        "label": "An Initiate's Task"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972922,
+        "label": "At Your Disposal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972923,
+        "label": "Death to Clan Piq`a!"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972924,
+        "label": "Death to Clan Ulork!"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972925,
+        "label": "Plannty of Tricks"
+      }
+    ]
+  },
+  {
+    "id": 1973320,
+    "title": "Partisan of the Sepulcher of Order",
+    "description": "This achievement is gained upon completing the following quests in the Sepulcher of Order:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973320,
+        "label": "The Fracturing of Order"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973321,
+        "label": "To Kill a Thel Ereth Ril"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973322,
+        "label": "Resurrecting the Gods"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973323,
+        "label": "The Power of Alsa Thel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973324,
+        "label": "Crafting the Triumvirate's Downfall"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973325,
+        "label": "Serving the Triumvirate"
+      }
+    ]
+  },
+  {
+    "id": 1972520,
+    "title": "Partisan of the Valley of Lunanyn",
+    "description": "This achievement is gained upon completing the following quests in the Valley of Lunanyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972520,
+        "label": "Raid and Recover"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972521,
+        "label": "The Assassination Game"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972522,
+        "label": "Uncharted Territory"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972523,
+        "label": "The Enemy of My Enemy"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972524,
+        "label": "The Memory Remains"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972525,
+        "label": "Filthy Oashim!"
+      }
+    ]
+  },
+  {
+    "id": 1973120,
+    "title": "Partisan of the Windsong Sanctuary",
+    "description": "This achievement is gained upon completing the following quests in the Windsong Sanctuary:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1904,
+    "subcategoryName": "Quests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973120,
+        "label": "Stranger in a Strange Land"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973121,
+        "label": "Getting Down to Business"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973122,
+        "label": "Making Music"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973123,
+        "label": "Winds of Change"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973124,
+        "label": "Stop the Pollution"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973125,
+        "label": "Eggscellent Eggs"
+      }
+    ]
+  },
+  {
+    "id": 1972430,
+    "title": "Hero of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon completing the following missions in Argath, Bastion of Illdaera:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972430,
+        "label": "Reclaiming Argath"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972431,
+        "label": "Illdaera's Vengeance"
+      }
+    ]
+  },
+  {
+    "id": 1973230,
+    "title": "Hero of Erillion, City of Bronze",
+    "description": "This achievement is gained upon completing the following missions in Erillion, City of Bronze:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973230,
+        "label": "The Traitor Revealed"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973231,
+        "label": "The Order of Three"
+      }
+    ]
+  },
+  {
+    "id": 1972730,
+    "title": "Hero of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon completing the following missions in Rubak Oseka, Temple of the Sea:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972730,
+        "label": "Assault the Tower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972731,
+        "label": "Time and Tides"
+      }
+    ]
+  },
+  {
+    "id": 1972630,
+    "title": "Hero of Sarith, City of Tides",
+    "description": "This achievement is gained upon completing the following missions in Sarith, City of Tides:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972630,
+        "label": "Rebel Assault"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972631,
+        "label": "The Defeat of Prexus"
+      }
+    ]
+  },
+  {
+    "id": 1972830,
+    "title": "Hero of the Beasts' Domain",
+    "description": "This achievement is gained upon completing the following missions in the Beasts' Domain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972830,
+        "label": "Pups of War"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972831,
+        "label": "The King of the Beasts"
+      }
+    ]
+  },
+  {
+    "id": 1973030,
+    "title": "Hero of the Pillars of Alra",
+    "description": "This achievement is gained upon completing the following missions in the Pillars of Alra:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973030,
+        "label": "The Truth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973031,
+        "label": "The Growing Threat"
+      }
+    ]
+  },
+  {
+    "id": 1972930,
+    "title": "Hero of The Resplendent Temple",
+    "description": "This achievement is gained upon completing the following missions in The Resplendent Temple:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972931,
+        "label": "Two Sides of the Stone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972930,
+        "label": "Secrets of the Stones"
+      }
+    ]
+  },
+  {
+    "id": 1973330,
+    "title": "Hero of the Sepulcher of Order",
+    "description": "This achievement is gained upon completing the following missions in the Sepulcher of Order:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973330,
+        "label": "Breaching the Barrier"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973331,
+        "label": "The Triune God"
+      }
+    ]
+  },
+  {
+    "id": 1972530,
+    "title": "Hero of the Valley of Lunanyn",
+    "description": "This achievement is gained upon completing the following missions in the Valley of Lunanyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972530,
+        "label": "Into the Abyss"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972531,
+        "label": "The Herald of Oratory"
+      }
+    ]
+  },
+  {
+    "id": 1973130,
+    "title": "Hero of the Windsong Sanctuary",
+    "description": "This achievement is gained upon completing the following missions in the Windsong Sanctuary:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1905,
+    "subcategoryName": "Missions",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973130,
+        "label": "The Sound of Silence"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973131,
+        "label": "The Cacophony of Power"
+      }
+    ]
+  },
+  {
+    "id": 1972440,
+    "title": "Conqueror of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon completing the following raids in Argath, Bastion of Illdaera:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972440,
+        "label": "Illdaera's Vengeance"
+      }
+    ]
+  },
+  {
+    "id": 1973240,
+    "title": "Conqueror of Erillion, City of Bronze",
+    "description": "This achievement is gained upon completing the following raids in Erillion, City of Bronze:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973240,
+        "label": "The Order of Three"
+      }
+    ]
+  },
+  {
+    "id": 1972740,
+    "title": "Conqueror of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon completing the following raids in Rubak Oseka, Temple of the Sea:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972740,
+        "label": "Time and Tides"
+      }
+    ]
+  },
+  {
+    "id": 1972640,
+    "title": "Conqueror of Sarith, City of Tides",
+    "description": "This achievement is gained upon completing the following raids in Sarith, City of Tides:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972640,
+        "label": "The Defeat of Prexus"
+      }
+    ]
+  },
+  {
+    "id": 1972840,
+    "title": "Conqueror of the Beasts' Domain",
+    "description": "This achievement is gained upon completing the following raids in the Beasts' Domain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972840,
+        "label": "The King of the Beasts"
+      }
+    ]
+  },
+  {
+    "id": 1973040,
+    "title": "Conqueror of the Pillars of Alra",
+    "description": "This achievement is gained upon completing the following raids in the Pillars of Alra:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973040,
+        "label": "Unearthing Alra"
+      }
+    ]
+  },
+  {
+    "id": 1972940,
+    "title": "Conqueror of The Resplendent Temple",
+    "description": "This achievement is gained upon completing the following raids in The Resplendent Temple:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972940,
+        "label": "Two Sides of the Stone"
+      }
+    ]
+  },
+  {
+    "id": 1973340,
+    "title": "Conqueror of the Sepulcher of Order",
+    "description": "This achievement is gained upon completing the following raids in the Sepulcher of Order:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973340,
+        "label": "Two Faces, One Vision"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973341,
+        "label": "Raising the Dead"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973342,
+        "label": "Fumerak the Quintessence"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973343,
+        "label": "Cacophony of Oratory"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973344,
+        "label": "The Triune God"
+      }
+    ]
+  },
+  {
+    "id": 1972540,
+    "title": "Conqueror of the Valley of Lunanyn",
+    "description": "This achievement is gained upon completing the following raids in the Valley of Lunanyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972540,
+        "label": "The Herald of Oratory"
+      }
+    ]
+  },
+  {
+    "id": 1973140,
+    "title": "Conqueror of the Windsong Sanctuary",
+    "description": "This achievement is gained upon completing the following raids in the Windsong Sanctuary:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1906,
+    "subcategoryName": "Raids",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973140,
+        "label": "The Cacophony of Power"
+      }
+    ]
+  },
+  {
+    "id": 1972450,
+    "title": "Air Commander",
+    "description": "This special challenge can be completed during the mission \"Reclaiming Argath\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972450,
+        "label": "Clear the first two towers in less than 10 minutes after boarding the ship."
+      }
+    ]
+  },
+  {
+    "id": 1973051,
+    "title": "Ardent Defender",
+    "description": "This special challenge can be completed during the mission \"The Truth\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973051,
+        "label": "While escorting the spirits, prevent undying fragments from reclaiming their energy."
+      }
+    ]
+  },
+  {
+    "id": 1972650,
+    "title": "Army of One",
+    "description": "This special challenge can be completed during the mission \"Rebel Assault\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972650,
+        "label": "Defeat all of Vyer's hadal and all of Riago's unit. Then, defeat all of Archon Erie's unit."
+      }
+    ]
+  },
+  {
+    "id": 1973351,
+    "title": "Barrier-Breakers",
+    "description": "This special challenge can be completed during the mission \"Breaching the Barrier\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973351,
+        "label": "Cleanse all temple entrances within 30 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1972552,
+    "title": "Big Game Hunter",
+    "description": "This special challenge can be completed during the mission \"Into the Abyss\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972552,
+        "label": "Defeat Ovex after he transforms into something more dangerous."
+      }
+    ]
+  },
+  {
+    "id": 1972452,
+    "title": "Bombadier",
+    "description": "This special challenge can be completed during the mission \"Reclaiming Argath\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972452,
+        "label": "Kill 50 enemies with battle spheres."
+      }
+    ]
+  },
+  {
+    "id": 1973254,
+    "title": "Clear the Roof",
+    "description": "This special challenge can be completed during the mission \"The Order of Three\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973254,
+        "label": "Defeat all the sharpshooters on the roof."
+      }
+    ]
+  },
+  {
+    "id": 1973253,
+    "title": "Color Coordinated",
+    "description": "This special challenge can be completed during the mission \"The Order of Three\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973253,
+        "label": "Complete the towers in the order of Skies, Tides, Strength, and finally Light."
+      }
+    ]
+  },
+  {
+    "id": 1972455,
+    "title": "Cool Off",
+    "description": "This special challenge can be completed during the mission \"Illdaera's Vengeance\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972455,
+        "label": "Douse the boss within 5 minutes after speaking to Mechanic Vitesal."
+      }
+    ]
+  },
+  {
+    "id": 1972952,
+    "title": "Damage Control",
+    "description": "This special challenge can be completed during the mission \"Secrets of the Stones\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972952,
+        "label": "Subdue Reklor within 90 seconds."
+      }
+    ]
+  },
+  {
+    "id": 1972750,
+    "title": "Demolition Man",
+    "description": "This special challenge can be completed during the mission \"Assault the Tower\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972750,
+        "label": "Attach all bombs in less than 15 minutes after entering."
+      }
+    ]
+  },
+  {
+    "id": 1973354,
+    "title": "Destruction of Avatars",
+    "description": "This special challenge can be completed during the mission \"The Triune God\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973354,
+        "label": "Slay each avatar that must be charmed to damage the Triune God."
+      }
+    ]
+  },
+  {
+    "id": 1973355,
+    "title": "Divine Charm",
+    "description": "This special challenge can be completed during the mission \"The Triune God\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973355,
+        "label": "Norrathian gods must be charmed at least ten times."
+      }
+    ]
+  },
+  {
+    "id": 1973255,
+    "title": "Erillion Blitz",
+    "description": "This special challenge can be completed during the mission \"The Order of Three\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973255,
+        "label": "Defeat Jerinos, Soliran, Wilo, and Pyntara within 10 minutes after Jerinos challenges you."
+      }
+    ]
+  },
+  {
+    "id": 1972751,
+    "title": "Excommunication",
+    "description": "This special challenge can be completed during the mission \"Assault the Tower\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972751,
+        "label": "Defeat all Hadal priests."
+      }
+    ]
+  },
+  {
+    "id": 1973251,
+    "title": "Exit, Stage Right",
+    "description": "This special challenge can be completed during the mission \"The Traitor Revealed\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973251,
+        "label": "Escape the prison and speak to Jerinos in less than 15 minutes."
+      }
+    ]
+  },
+  {
+    "id": 1973350,
+    "title": "Exterminate, Annihilate, Destroy",
+    "description": "This special challenge can be completed during the mission \"Breaching the Barrier\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973350,
+        "label": "Defeat over 100 opponents."
+      }
+    ]
+  },
+  {
+    "id": 1972451,
+    "title": "Fire Marshal",
+    "description": "This special challenge can be completed during the mission \"Reclaiming Argath\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972451,
+        "label": "Defeat 50 magic blasts."
+      }
+    ]
+  },
+  {
+    "id": 1972550,
+    "title": "Fizzlemaster",
+    "description": "This special challenge can be completed during the mission \"Into the Abyss\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972550,
+        "label": "Defeat Fizzlefingers after allowing him to successfully cast 5 spells."
+      }
+    ]
+  },
+  {
+    "id": 1972551,
+    "title": "Fuzzles Must Die",
+    "description": "This special challenge can be completed during the mission \"Into the Abyss\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972551,
+        "label": "Defeat Fuzzles before defeating Gigglin."
+      }
+    ]
+  },
+  {
+    "id": 1972453,
+    "title": "Golem Breaker",
+    "description": "This special challenge can be completed during the mission \"Illdaera's Vengeance\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972453,
+        "label": "Defeat 15 golem splinters within 5 minutes of speaking to Mechanic Vitesal."
+      }
+    ]
+  },
+  {
+    "id": 1972654,
+    "title": "Hail to the Shark King",
+    "description": "This special challenge can be completed during the mission \"The Defeat of Prexus\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972654,
+        "label": "Defeat Leveth the Shark King only after defeating Desalin and Nhron."
+      }
+    ]
+  },
+  {
+    "id": 1973152,
+    "title": "Harmonious",
+    "description": "This special challenge can be completed during the mission \"The Sound of Silence\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973152,
+        "label": "Defeat High Priest Aldior without defeating any of their summoned allies."
+      }
+    ]
+  },
+  {
+    "id": 1972554,
+    "title": "Healing Optional",
+    "description": "This special challenge can be completed during the mission \"The Herald of Oratory\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972554,
+        "label": "Compete the mission without buying any Sol Ro soothers."
+      }
+    ]
+  },
+  {
+    "id": 1973353,
+    "title": "Healthy Relics",
+    "description": "This special challenge can be completed during the mission \"The Triune God\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973353,
+        "label": "Prevent any relic from gaining full health."
+      }
+    ]
+  },
+  {
+    "id": 1972753,
+    "title": "Heretic",
+    "description": "This special challenge can be completed during the mission \"Time and Tides\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972753,
+        "label": "Defeat 16 devout templars without failing the High Priest Xalziks encounter."
+      }
+    ]
+  },
+  {
+    "id": 1972755,
+    "title": "High Tide",
+    "description": "This special challenge can be completed during the mission \"Time and Tides\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972755,
+        "label": "Successfully confine the spirit of Oseka within 8 minutes of engaging the High Priests."
+      }
+    ]
+  },
+  {
+    "id": 1972655,
+    "title": "Humanoid Tsunami",
+    "description": "This special challenge can be completed during the mission \"The Defeat of Prexus\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972655,
+        "label": "Allow High Priest Vyers Rinad to summon 5 tidal clones before defeating them."
+      }
+    ]
+  },
+  {
+    "id": 1972855,
+    "title": "Hungry Hungry Goral",
+    "description": "This special challenge can be completed during the mission \"The King of the Beasts\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972855,
+        "label": "Let the King devour 5 beasts before defeating it."
+      }
+    ]
+  },
+  {
+    "id": 1972851,
+    "title": "Hunting Trip",
+    "description": "This special challenge can be completed during the mission \"Pups of War\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972851,
+        "label": "Kill 3 goral, 3 crocodile, and 3 apes."
+      }
+    ]
+  },
+  {
+    "id": 1973153,
+    "title": "Instrumental",
+    "description": "This special challenge can be completed during the mission \"The Cacophony of Power\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973153,
+        "label": "Have the instruments start playing in 15 minutes after finding the first."
+      }
+    ]
+  },
+  {
+    "id": 1973252,
+    "title": "Jerinos Wins Again",
+    "description": "This special challenge can be completed during the mission \"The Traitor Revealed\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973252,
+        "label": "Defeat Jerinos after he hits everyone at least once with his ability."
+      }
+    ]
+  },
+  {
+    "id": 1973155,
+    "title": "Just, Die Already!",
+    "description": "This special challenge can be completed during the mission \"The Cacophony of Power\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973155,
+        "label": "Attempt to slay Ryken three times while the blind dreamers are still alive."
+      }
+    ]
+  },
+  {
+    "id": 1972954,
+    "title": "Light & Shadow",
+    "description": "This special challenge can be completed during the mission \"Two Sides of the Stone\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972954,
+        "label": "Defeat the Shadow of Decay and Vision of Splendor within 8 minutes each time they appear."
+      }
+    ]
+  },
+  {
+    "id": 1972951,
+    "title": "Make Haste",
+    "description": "This special challenge can be completed during the mission \"Secrets of the Stones\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972951,
+        "label": "Deliver all fragments within 15 minutes of defeating the first sentry stone and talk to Reklor."
+      }
+    ]
+  },
+  {
+    "id": 1973052,
+    "title": "Mana Drain",
+    "description": "This special challenge can be completed during the mission \"The Truth\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973052,
+        "label": "Defeat all four Mana Wards within 15 minutes of defeating the first."
+      }
+    ]
+  },
+  {
+    "id": 1973055,
+    "title": "Master of the Pillars",
+    "description": "This special challenge can be completed during the mission \"The Growing Threat\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973055,
+        "label": "Keep everyone alive during all of the battles."
+      }
+    ]
+  },
+  {
+    "id": 1972653,
+    "title": "Out of My Way!",
+    "description": "This special challenge can be completed during the mission \"The Defeat of Prexus\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972653,
+        "label": "Defeat Rysen and Yesleth in under 15 minutes after talking to High Priest Vyers."
+      }
+    ]
+  },
+  {
+    "id": 1972555,
+    "title": "Perfect Game",
+    "description": "This special challenge can be completed during the mission \"The Herald of Oratory\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972555,
+        "label": "Complete the mission without losing any units."
+      }
+    ]
+  },
+  {
+    "id": 1972950,
+    "title": "Perfection",
+    "description": "This special challenge can be completed during the mission \"Secrets of the Stones\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972950,
+        "label": "Collect and return the radiant stone fragments without killing any Nitore."
+      }
+    ]
+  },
+  {
+    "id": 1973050,
+    "title": "Pillar Pillager",
+    "description": "This special challenge can be completed during the mission \"The Truth\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973050,
+        "label": "Defeat the fourth Mana Ward with all four Grasp effects."
+      }
+    ]
+  },
+  {
+    "id": 1973053,
+    "title": "Pillars of Success",
+    "description": "This special challenge can be completed during the mission \"The Growing Threat\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973053,
+        "label": "Complete all four trials perfectly and win the final battle."
+      }
+    ]
+  },
+  {
+    "id": 1972454,
+    "title": "Ramming Speed",
+    "description": "This special challenge can be completed during the mission \"Illdaera's Vengeance\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972454,
+        "label": "Move both carts near the golem within 5 minutes after speaking to Mechanic Vitesal."
+      }
+    ]
+  },
+  {
+    "id": 1972652,
+    "title": "Rebel Commander",
+    "description": "This special challenge can be completed during the mission \"Rebel Assault\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972652,
+        "label": "Complete the mission without losing any rebels."
+      }
+    ]
+  },
+  {
+    "id": 1972754,
+    "title": "Religious Fervor",
+    "description": "This special challenge can be completed during the mission \"Time and Tides\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972754,
+        "label": "Defeat 8 Zealots before attempting to confine the spirit of Oseka in High Priest Xalziks."
+      }
+    ]
+  },
+  {
+    "id": 1900215,
+    "title": "Savior of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon completing all quests and missions in Argath, Bastion of Illdaera.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900215,
+        "label": "Mercenary of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900216,
+        "label": "Partisan of Argath, Bastion of Illdaera"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900217,
+        "label": "Hero of Argath, Bastion of Illdaera"
+      }
+    ]
+  },
+  {
+    "id": 1900255,
+    "title": "Savior of Erillion, City of Bronze",
+    "description": "This achievement is gained upon completing all quests and missions in Erillion, City of Bronze.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900255,
+        "label": "Mercenary of Erillion, City of Bronze"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900256,
+        "label": "Partisan of Erillion, City of Bronze"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900257,
+        "label": "Hero of Erillion, City of Bronze"
+      }
+    ]
+  },
+  {
+    "id": 1900230,
+    "title": "Savior of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon completing all quests and missions in Rubak Oseka, Temple of the Sea.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900230,
+        "label": "Mercenary of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900231,
+        "label": "Partisan of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900232,
+        "label": "Hero of Rubak Oseka, Temple of the Sea"
+      }
+    ]
+  },
+  {
+    "id": 1900225,
+    "title": "Savior of Sarith, City of Tides",
+    "description": "This achievement is gained upon completing all quests and missions in Sarith, City of Tides.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900225,
+        "label": "Mercenary of Sarith, City of Tides"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900226,
+        "label": "Partisan of Sarith, City of Tides"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900227,
+        "label": "Hero of Sarith, City of Tides"
+      }
+    ]
+  },
+  {
+    "id": 1900235,
+    "title": "Savior of the Beasts' Domain",
+    "description": "This achievement is gained upon completing all quests and missions in the Beasts' Domain.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900235,
+        "label": "Mercenary of The Beasts' Domain"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900236,
+        "label": "Partisan of The Beasts' Domain"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900237,
+        "label": "Hero of The Beasts' Domain"
+      }
+    ]
+  },
+  {
+    "id": 1900245,
+    "title": "Savior of the Pillars of Alra",
+    "description": "This achievement is gained upon completing all quests and missions in the Pillars of Alra.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900245,
+        "label": "Mercenary of The Pillars of Alra"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900246,
+        "label": "Partisan of The Pillars of Alra"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900247,
+        "label": "Hero of The Pillars of Alra"
+      }
+    ]
+  },
+  {
+    "id": 1900240,
+    "title": "Savior of The Resplendent Temple",
+    "description": "This achievement is gained upon completing all quests and missions in The Resplendent Temple.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900240,
+        "label": "Mercenary of The Resplendent Temple"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900241,
+        "label": "Partisan of The Resplendent Temple"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900242,
+        "label": "Hero of The Resplendent Temple"
+      }
+    ]
+  },
+  {
+    "id": 1900260,
+    "title": "Savior of the Sepulcher of Order",
+    "description": "This achievement is gained upon completing all quests and missions in the Sepulcher of Order.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900260,
+        "label": "Mercenary of Sepulcher of Order"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900261,
+        "label": "Partisan of Sepulcher of Order"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900262,
+        "label": "Hero of Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1900220,
+    "title": "Savior of the Valley of Lunanyn",
+    "description": "This achievement is gained upon completing all quests and missions in the Valley of Lunanyn.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900220,
+        "label": "Mercenary of the Valley of Lunanyn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900221,
+        "label": "Partisan of the Valley of Lunanyn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900222,
+        "label": "Hero of the Valley of Lunanyn"
+      }
+    ]
+  },
+  {
+    "id": 1900250,
+    "title": "Savior of the Windsong Sanctuary",
+    "description": "This achievement is gained upon completing all quests and missions in the Windsong Sanctuary.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900250,
+        "label": "Mercenary of Windsong Sanctuary"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900251,
+        "label": "Partisan of Windsong Sanctuary"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900252,
+        "label": "Hero of Windsong Sanctuary"
+      }
+    ]
+  },
+  {
+    "id": 1972953,
+    "title": "Self Containment",
+    "description": "This special challenge can be completed during the mission \"Two Sides of the Stone\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972953,
+        "label": "Destroy all Inner Darkness adds before they explode."
+      }
+    ]
+  },
+  {
+    "id": 1973150,
+    "title": "Silent Disruption",
+    "description": "This special challenge can be completed during the mission \"The Sound of Silence\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973150,
+        "label": "Disrupt all sentry stones without destroying any unspeaking sentinels."
+      }
+    ]
+  },
+  {
+    "id": 1973151,
+    "title": "Silent Killer",
+    "description": "This special challenge can be completed during the mission \"The Sound of Silence\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973151,
+        "label": "Destroy all unspeaking sentinels."
+      }
+    ]
+  },
+  {
+    "id": 1972854,
+    "title": "Slaughterhouse",
+    "description": "This special challenge can be completed during the mission \"The King of the Beasts\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972854,
+        "label": "Defeat 10 summoned beasts before defeating the King."
+      }
+    ]
+  },
+  {
+    "id": 1972955,
+    "title": "Split Personality",
+    "description": "This special challenge can be completed during the mission \"Two Sides of the Stone\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972955,
+        "label": "Defeat the Avatar after it changes form 20 times."
+      }
+    ]
+  },
+  {
+    "id": 1973154,
+    "title": "Stop Yelling At Me!",
+    "description": "This special challenge can be completed during the mission \"The Cacophony of Power\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973154,
+        "label": "Get screeched at by Ryken's bats 20 times."
+      }
+    ]
+  },
+  {
+    "id": 1972651,
+    "title": "Sturdy Serpent",
+    "description": "This special challenge can be completed during the mission \"Rebel Assault\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972651,
+        "label": "Defeat Archon Eries and Riago Barthes before defeating all of Eries' troops."
+      }
+    ]
+  },
+  {
+    "id": 1973250,
+    "title": "The Great Escape",
+    "description": "This special challenge can be completed during the mission \"The Traitor Revealed\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973250,
+        "label": "Talk to all the prisoners to help them escape."
+      }
+    ]
+  },
+  {
+    "id": 1972853,
+    "title": "The Hunt is On!",
+    "description": "This special challenge can be completed during the mission \"The King of the Beasts\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972853,
+        "label": "Lose no hunters in battle."
+      }
+    ]
+  },
+  {
+    "id": 1972850,
+    "title": "The Hunters Hunted",
+    "description": "This special challenge can be completed during the mission \"Pups of War\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972850,
+        "label": "Kill all of the Domain hunters."
+      }
+    ]
+  },
+  {
+    "id": 1973352,
+    "title": "Touched By A Guardian",
+    "description": "This special challenge can be completed during the mission \"Breaching the Barrier\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973352,
+        "label": "Let the final opponent cast Touch of the Guardian 10 times."
+      }
+    ]
+  },
+  {
+    "id": 1972553,
+    "title": "Tower Offense",
+    "description": "This special challenge can be completed during the mission \"The Herald of Oratory\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972553,
+        "label": "Kill 100 Erillian units."
+      }
+    ]
+  },
+  {
+    "id": 1972852,
+    "title": "Trag the Mighty",
+    "description": "This special challenge can be completed during the mission \"Pups of War\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972852,
+        "label": "Let Trag deliver the final blow on a creature."
+      }
+    ]
+  },
+  {
+    "id": 1972752,
+    "title": "Water Gun",
+    "description": "This special challenge can be completed during the mission \"Assault the Tower\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972752,
+        "label": "Get High Priest Xalziks to damage themself 5 times with Raging Vortex Explosion before killing them."
+      }
+    ]
+  },
+  {
+    "id": 1973054,
+    "title": "You're Doing it Wrong",
+    "description": "This special challenge can be completed during the mission \"The Growing Threat\"",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1907,
+    "subcategoryName": "Conquests",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973054,
+        "label": "Defeat Vsariard the Precursor after failing all four trials."
+      }
+    ]
+  },
+  {
+    "id": 1900190,
+    "title": "Adept Hunter of Alaris",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900190,
+        "label": "Hunter of Valley of Lunanyn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900191,
+        "label": "Hunter of Sarith, City of Tides"
+      }
+    ]
+  },
+  {
+    "id": 1900200,
+    "title": "Expert Hunter of Alaris",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900200,
+        "label": "Hunter of The Pillars of Alra"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900201,
+        "label": "Hunter of Windsong Sanctuary"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900202,
+        "label": "Hunter of Erillion, City of Bronze"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1900203,
+        "label": "Hunter of Sepulcher of Order"
+      }
+    ]
+  },
+  {
+    "id": 1972460,
+    "title": "Hunter of Argath, Bastion of Illdaera",
+    "description": "This achievement is gained upon defeating the following rare monsters in Argath, Bastion of Illdaera:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972460,
+        "label": "Husk of Starvation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972461,
+        "label": "The Collector"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972462,
+        "label": "Keramar the Naeya"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972463,
+        "label": "Seed of Battle"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972464,
+        "label": "Core of the Mountain"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972465,
+        "label": "Illdaera's Tear"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972466,
+        "label": "Shards of Battle"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972467,
+        "label": "Armor of the Dead"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1972468,
+        "label": "Breath of Ryken"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1972469,
+        "label": "Blades of Forgotten Heroes"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1972470,
+        "label": "Legendary Swords"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1972471,
+        "label": "Felsalath"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1972472,
+        "label": "Kalkek"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1972473,
+        "label": "Kaledor the Tide Turner"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1972474,
+        "label": "Shieldbearer of the Gods"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1972475,
+        "label": "Bane of Argath"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1972476,
+        "label": "Interrogator Galectes"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1972477,
+        "label": "Blademaster of the Order"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1972478,
+        "label": "Emissary Drucifel"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1972479,
+        "label": "Tactician Krucidon"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1972480,
+        "label": "Burnmaster of the Pillars"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1972481,
+        "label": "Gravemaster of the Pillars"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1972482,
+        "label": "Vigorous Turncoat"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1972483,
+        "label": "Reviler of Argath"
+      }
+    ]
+  },
+  {
+    "id": 1973260,
+    "title": "Hunter of Erillion, City of Bronze",
+    "description": "This achievement is gained upon defeating the following rare monsters in Erillion, City of Bronze:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973260,
+        "label": "Archon Kinafu"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973261,
+        "label": "A Raging Braxi"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973262,
+        "label": "Guggles"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973263,
+        "label": "Carnifex Korum"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973264,
+        "label": "Guard Horlian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973265,
+        "label": "The Record Master"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1973266,
+        "label": "Citizen Jlane"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1973267,
+        "label": "Guard Tulzix"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1973268,
+        "label": "Archon Norandi"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1973269,
+        "label": "A Rabid Selyrah"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1973270,
+        "label": "Bloodclaw"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1973271,
+        "label": "Blacksmith Julandi"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1973272,
+        "label": "Cook Goranan"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1973273,
+        "label": "Fuandir the Master Potter"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1973274,
+        "label": "Guard Tuankod"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1973275,
+        "label": "Citizen Julazir"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1973276,
+        "label": "Citizen Silaindi"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1973277,
+        "label": "Deathsqueak"
+      }
+    ]
+  },
+  {
+    "id": 1972760,
+    "title": "Hunter of Rubak Oseka, Temple of the Sea",
+    "description": "This achievement is gained upon defeating the following rare monsters in Rubak Oseka, Temple of the Sea:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972760,
+        "label": "Curate Zlinair"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972761,
+        "label": "Slorn the Holy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972762,
+        "label": "Zealot of Oseka"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972763,
+        "label": "Holy Ophidian"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972764,
+        "label": "Sacred Ophidian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972765,
+        "label": "Templar Razkin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972766,
+        "label": "Evangelizer Runarn"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972767,
+        "label": "Tiuanid the Faithful"
+      }
+    ]
+  },
+  {
+    "id": 1972660,
+    "title": "Hunter of Sarith, City of Tides",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Sarith, City of Tides:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972660,
+        "label": "Battlemage Resk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972661,
+        "label": "Captain Dahlena"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972662,
+        "label": "The Giant Crab"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972663,
+        "label": "The Kraken"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972664,
+        "label": "Lieutenant Vasko"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972665,
+        "label": "The Megaladon"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972666,
+        "label": "Oseka`s Chosen Ikallis"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972667,
+        "label": "Sarith`s Guardian"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1972668,
+        "label": "Tactician Perak"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1972669,
+        "label": "Tidalmage Narens"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1972670,
+        "label": "Bishop Kyzer"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1972671,
+        "label": "Kaneida"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1972672,
+        "label": "Master Trainer Ganelin"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1972673,
+        "label": "Assassin Thale"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1972674,
+        "label": "Sea Ranger Huren"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1972675,
+        "label": "Ocean Mage Rettun"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1972676,
+        "label": "Death Knight Sharris"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1972677,
+        "label": "Life Knight Jasul"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1972678,
+        "label": "Dark Mage Naxin"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1972679,
+        "label": "Primal Mage Mollens"
+      }
+    ]
+  },
+  {
+    "id": 1972860,
+    "title": "Hunter of the Beasts' Domain",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Beasts' Domain:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972860,
+        "label": "King Rex"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972861,
+        "label": "Bonecruncher"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972862,
+        "label": "Slaughter"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972863,
+        "label": "Deathglider"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972864,
+        "label": "Blightwing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972865,
+        "label": "Thunderpunch"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972866,
+        "label": "Bopo"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972867,
+        "label": "Bonecracker"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1972868,
+        "label": "Maw Lurker"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1972869,
+        "label": "Willowcrush"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1972870,
+        "label": "Stonebark"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1972871,
+        "label": "Deathsquirm"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1972872,
+        "label": "Stranglefang"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1972873,
+        "label": "Ribcrusher"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1972874,
+        "label": "Nighthowl"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1972875,
+        "label": "Swiftwind"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1972876,
+        "label": "Deathleaper"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1972877,
+        "label": "A Twisted Strangler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1972878,
+        "label": "Tangledeath"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1972879,
+        "label": "Nightleaper"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1972880,
+        "label": "Thundercut"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1972881,
+        "label": "An Ancient Selyrah"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1972882,
+        "label": "Karn the Hunter"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1972883,
+        "label": "Jorth Hunter of Beasts"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1972884,
+        "label": "Elder Gotikan"
+      }
+    ]
+  },
+  {
+    "id": 1973060,
+    "title": "Hunter of the Pillars of Alra",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Pillars of Alra:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973060,
+        "label": "Varinyr the Construct of Life"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973061,
+        "label": "Il`Valrikar the Purifier"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973062,
+        "label": "Tsianvar the Studious"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973063,
+        "label": "Wreliard the Arctender"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973064,
+        "label": "Tonmek the Mind-Drainer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973065,
+        "label": "Soliadal the Timid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1973066,
+        "label": "Cysivir the Constructor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1973067,
+        "label": "Opholonas the Harvester"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1973068,
+        "label": "Korellister the Stoic"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1973069,
+        "label": "V`Dralk the Construct of Shade"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1973070,
+        "label": "Vak`Ridel the Shadowcaller"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1973071,
+        "label": "Ivrikdal the Infuser"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1973072,
+        "label": "Peacekeeper of Anriella"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1973073,
+        "label": "Peacekeeper of Melretia"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1973074,
+        "label": "Peacekeeper of Erion"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1973075,
+        "label": "Peacekeeper of Fal`Kaa"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1973076,
+        "label": "The Ut`len Depthkeeper"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1973077,
+        "label": "an unusual creature"
+      }
+    ]
+  },
+  {
+    "id": 1972960,
+    "title": "Hunter of The Resplendent Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Resplendent Temple:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972960,
+        "label": "Grimlop"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972961,
+        "label": "An Ivory Serpent"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972962,
+        "label": "Gisette"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972963,
+        "label": "Ungimar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972964,
+        "label": "A Prismatic Selyrah"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972965,
+        "label": "Larsena the Lunatic"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972966,
+        "label": "Advisor Enaris"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972967,
+        "label": "Chief Recruiter Joceil"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1972968,
+        "label": "Pledgemaster Oeslik"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1972969,
+        "label": "Afton the Cleanser"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1972970,
+        "label": "Chancellor Mardis"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1972971,
+        "label": "Miggles"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1972972,
+        "label": "Arms Master Hegul"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1972973,
+        "label": "Ambassador Khorin"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1972974,
+        "label": "High Priest Nelori"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1972975,
+        "label": "Groundskeeper Areut"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1972976,
+        "label": "High Guard Alsera"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1972977,
+        "label": "Cijerst, Lord of Decay"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1972978,
+        "label": "King Zarq"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1972979,
+        "label": "King Piqiorn"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1972980,
+        "label": "Hiqork the Putrid"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1972981,
+        "label": "Summoner Sirqo"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1972982,
+        "label": "An Animated Servant"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1972983,
+        "label": "The Rat Queen"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1972984,
+        "label": "The Slothlord"
+      }
+    ]
+  },
+  {
+    "id": 1973360,
+    "title": "Hunter of the Sepulcher of Order",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Sepulcher of Order:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973360,
+        "label": "Eldanum of the Ser Alsa"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973361,
+        "label": "Alsara the Ansel Ereth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973362,
+        "label": "The Exalted Ser Alsa Thel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973363,
+        "label": "Agralta"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973364,
+        "label": "Tegleth"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973365,
+        "label": "Excrucidator"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1973366,
+        "label": "Champion of the Triumvirate"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1973367,
+        "label": "Tendros"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1973368,
+        "label": "Clampgrit"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1973369,
+        "label": "The Dark"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1973370,
+        "label": "Spernal"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1973371,
+        "label": "Bonemeal"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1973372,
+        "label": "Primordial Steel"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1973373,
+        "label": "Paleodontis"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1973374,
+        "label": "Gleaming Tricor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1973375,
+        "label": "The Digger"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1973376,
+        "label": "Wavecrasher"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1973377,
+        "label": "Deepblade"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1973378,
+        "label": "The Chosen"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1973379,
+        "label": "The Cleaner"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1973380,
+        "label": "Mindlock"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1973381,
+        "label": "The Vine Tender"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1973382,
+        "label": "Shadow of the Domain"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1973383,
+        "label": "Kelkos the Berserk"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1973384,
+        "label": "Master Arcania"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1973385,
+        "label": "Master Illum"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 1973386,
+        "label": "Word Lord"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 1973387,
+        "label": "Ryken's Boast"
+      }
+    ]
+  },
+  {
+    "id": 1972560,
+    "title": "Hunter of the Valley of Lunanyn",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Valley of Lunanyn:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1972560,
+        "label": "Nareneth, the Heart Tree"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1972561,
+        "label": "Supply Archon Tergat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1972562,
+        "label": "Archon Haerin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1972563,
+        "label": "Lancer Archon Gaoril"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1972564,
+        "label": "an angry mob leader"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1972565,
+        "label": "Enraged Fertility Spirit"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1972566,
+        "label": "The Moonflower"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1972567,
+        "label": "Overgrown Dung Beetle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1972568,
+        "label": "Hungry Spirit"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1972569,
+        "label": "Moonshade"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1972570,
+        "label": "Oashim Progenitor"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1972571,
+        "label": "The Battlesteel Dead"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1972572,
+        "label": "Urash, Specter of Death"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1972573,
+        "label": "Bloodstalker"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1972574,
+        "label": "Trooper Archon Feht"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1972575,
+        "label": "Ranger Archon Daetas"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1972576,
+        "label": "Blood-gorged Huntsman"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1972577,
+        "label": "Krongar the Enrager"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1972578,
+        "label": "Ker Reega"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 1972579,
+        "label": "Taer Reega"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 1972580,
+        "label": "Lor Reega"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 1972581,
+        "label": "Bloodborn Spirit"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 1972582,
+        "label": "Elsha the Mournful"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 1972583,
+        "label": "Arth, Village Guardian"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 1972584,
+        "label": "Aggrieved Fertility Spirit"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 1972585,
+        "label": "Aethra the Mad"
+      }
+    ]
+  },
+  {
+    "id": 1973160,
+    "title": "Hunter of the Windsong Sanctuary",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Windsong Sanctuary:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1973160,
+        "label": "The Conductor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1973161,
+        "label": "Unvoiced Brute"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1973162,
+        "label": "The Windrunner"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1973163,
+        "label": "The Hornmaster"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1973164,
+        "label": "Breezeglider"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1973165,
+        "label": "The Forlorn Drummer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1973166,
+        "label": "Saduulj Tsepir"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1973167,
+        "label": "Riffmaz the Flute Master"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1973168,
+        "label": "A Fleetfooted Braxi"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1973169,
+        "label": "Stormcaller"
+      }
+    ]
+  },
+  {
+    "id": 1900185,
+    "title": "Novice Hunter of Alaris",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900185,
+        "label": "Hunter of Argath, Bastion of Illdaera"
+      }
+    ]
+  },
+  {
+    "id": 1900195,
+    "title": "Veteran Hunter of Alaris",
+    "description": "This achievement is gained upon the completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1908,
+    "subcategoryName": "Hunts",
+    "categoryId": 1900,
+    "categoryName": "Veil of Alaris",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1900195,
+        "label": "Hunter of Rubak Oseka, Temple of the Sea"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1900196,
+        "label": "Hunter of the Beasts' Domain"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1900197,
+        "label": "Hunter of The Resplendent Temple"
+      }
+    ]
+  }
+]

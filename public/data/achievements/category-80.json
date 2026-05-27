@@ -1,0 +1,4537 @@
+[
+  {
+    "id": 11000001,
+    "title": "A Force of Nature",
+    "description": "Complete all of the high-tier slayer achievements.",
+    "points": 100,
+    "isHidden": true,
+    "subcategoryId": 81,
+    "subcategoryName": "General",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300004,
+        "label": "Complete the achievement \"Doesn't Play Well With Others\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300005,
+        "label": "Complete the achievement \"Don't Bug Me\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300006,
+        "label": "Complete the achievement \"I Hate Snakes!\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300007,
+        "label": "Complete the achievement \"Pesticide\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300008,
+        "label": "Complete the achievement \"We are the dead!\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300009,
+        "label": "Complete the achievement \"Strange Weather\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300010,
+        "label": "Complete the achievement \"The Zookeeper\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300011,
+        "label": "Complete the achievement \"Swordfishmermaid\""
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300012,
+        "label": "Complete the achievement \"Orc stomp!\""
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 300013,
+        "label": "Complete the achievement \"Ugly creature near my feet...\""
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 300014,
+        "label": "Complete the achievement \"BBBBBAAAARRRKKKK!!!!!\""
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 300015,
+        "label": "Complete the achievement \"Puttin' On The Dog\""
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 300016,
+        "label": "Complete the achievement \"It's Alive!\""
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 300017,
+        "label": "Complete the achievement \"Plants Concrete and Stone\""
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 300018,
+        "label": "Complete the achievement \"Here Be Dragons!\""
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 300019,
+        "label": "Complete the achievement \"Might They Be Giants?\""
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 300020,
+        "label": "Complete the achievement \"Legendary Creatures\""
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 300021,
+        "label": "Complete the achievement \"Planes, Trains and Element-iles\""
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 300022,
+        "label": "Complete the achievement \"A Sight for Sore Eyes\""
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 300023,
+        "label": "Complete the achievement \"Domo Arigato\""
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 300024,
+        "label": "Complete the achievement \"Foreign Affair\""
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 300025,
+        "label": "Complete the achievement \"Invaders in a Strange Land\""
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 300026,
+        "label": "Complete the achievement \"Your god has found you lacking.\""
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 300027,
+        "label": "Complete the achievement \"Table Flipper\""
+      }
+    ]
+  },
+  {
+    "id": 11000002,
+    "title": "Highly Decorated",
+    "description": "Complete all of the mid-tier slayer achievements.",
+    "points": 100,
+    "isHidden": true,
+    "subcategoryId": 81,
+    "subcategoryName": "General",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300028,
+        "label": "Complete the achievement \"I'm a People Person!\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300029,
+        "label": "Complete the achievement \"What Keeps Mankind Alive?\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300030,
+        "label": "Complete the achievement \"Three letter word for dead...\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300031,
+        "label": "Complete the achievement \"Short People\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300032,
+        "label": "Complete the achievement \"Simple Folk of the Ykesha\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300033,
+        "label": "Complete the achievement \"Bounced!\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300034,
+        "label": "Complete the achievement \"Mostly Kunzar\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300035,
+        "label": "Complete the achievement \"Catnipped in the bud.\""
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300036,
+        "label": "Complete the achievement \"Amphibicide\""
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 300037,
+        "label": "Complete the achievement \"Rats!\""
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 300038,
+        "label": "Complete the achievement \"Eight legs are better than one!\""
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 300039,
+        "label": "Complete the achievement \"The Hounds\""
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 300040,
+        "label": "Complete the achievement \"The Cat's Pajamas\""
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 300041,
+        "label": "Complete the achievement \"Bird Flew\""
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 300042,
+        "label": "Complete the achievement \"Monkey Business\""
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 300043,
+        "label": "Complete the achievement \"I'm Boared!\""
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 300044,
+        "label": "Complete the achievement \"Orc Kill!\""
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 300045,
+        "label": "Complete the achievement \"Me thinks that you'll be good to eat!\""
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 300046,
+        "label": "Complete the achievement \"Gnolling is Half the Battle\""
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 300047,
+        "label": "Complete the achievement \"Kobolded Killer\""
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 300048,
+        "label": "Complete the achievement \"Gooooooooooooooolem!\""
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 300049,
+        "label": "Complete the achievement \"Drawing Life From a Stone\""
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 300050,
+        "label": "Complete the achievement \"Living Stone I presume?\""
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 300051,
+        "label": "Complete the achievement \"Herbicide\""
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 300052,
+        "label": "Complete the achievement \"Dragonbane\""
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 300053,
+        "label": "Complete the achievement \"You call that a dragon?\""
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 300054,
+        "label": "Complete the achievement \"A Giant Problem\""
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 300055,
+        "label": "Complete the achievement \"Shorter People\""
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 300056,
+        "label": "Complete the achievement \"Slayer of Mystical Horses\""
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 300057,
+        "label": "Complete the achievement \"It's Plane to See\""
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 300058,
+        "label": "Complete the achievement \"Breakdown Dead Ahead\""
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 300059,
+        "label": "Complete the achievement \"Natives of Velious\""
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 300060,
+        "label": "Complete the achievement \"Navies of Luclin\""
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 300061,
+        "label": "Complete the achievement \"Natives of Taelosia\""
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 300062,
+        "label": "Complete the achievement \"Natives of Kuua\""
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 300063,
+        "label": "Complete the achievement \"Natives of Alaris\""
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 300064,
+        "label": "Complete the achievement \"Such Anguish\""
+      }
+    ]
+  },
+  {
+    "id": 11000000,
+    "title": "Megadeath",
+    "description": "What's left to say, you've killed it all. Congratulations?",
+    "points": 100,
+    "isHidden": true,
+    "subcategoryId": 81,
+    "subcategoryName": "General",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300001,
+        "label": "Complete the achievement \"A Force of Nature\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300002,
+        "label": "Complete the achievement \"Highly Decorated\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300003,
+        "label": "Complete the achievement \"Progressive\""
+      }
+    ]
+  },
+  {
+    "id": 11000003,
+    "title": "Progressive",
+    "description": "Complete all of the low-tier slayer achievements.",
+    "points": 100,
+    "isHidden": true,
+    "subcategoryId": 81,
+    "subcategoryName": "General",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300065,
+        "label": "Complete the achievement \"Oh the Humanity!\""
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300066,
+        "label": "Complete the achievement \"Barbarous\""
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300067,
+        "label": "Complete the achievement \"Hardly Erudite of You\""
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300068,
+        "label": "Complete the achievement \"Drackity Drak\""
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300069,
+        "label": "Complete the achievement \"Wood you could you?\""
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300070,
+        "label": "Complete the achievement \"Highly Uncivilized\""
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300071,
+        "label": "Complete the achievement \"Dark Elf Antonican, Please!\""
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300072,
+        "label": "Complete the achievement \"Now .49999%\""
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300073,
+        "label": "Complete the achievement \"It was called Tunaria\""
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 300368,
+        "label": "(Optional) Complete the achievement \"In Your Eyes\""
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 300074,
+        "label": "Complete the achievement \"Axe me no questions.\""
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 300075,
+        "label": "Complete the achievement \"Dainy it's cold outside.\""
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 300076,
+        "label": "Complete the achievement \"Fuzzyfeet\""
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 300077,
+        "label": "Complete the achievement \"A Clockwork Gnome\""
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 300078,
+        "label": "Complete the achievement \"Here's Yer Grozmok\""
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 300079,
+        "label": "Complete the achievement \"Get Stupid\""
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 300080,
+        "label": "Complete the achievement \"Icky!\""
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 300081,
+        "label": "Complete the achievement \"Why the Kylong faces?\""
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 300082,
+        "label": "Complete the achievement \"Good Luck, Bad Guk\""
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 300083,
+        "label": "Complete the achievement \"It's a frog eat frog world\""
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 300084,
+        "label": "Complete the achievement \"Rrrribit!\""
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 300085,
+        "label": "Complete the achievement \"Moonkitty\""
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 300086,
+        "label": "Complete the achievement \"Not a Kerran the world!\""
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 300087,
+        "label": "Complete the achievement \"Bat Country!\""
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 300088,
+        "label": "Complete the achievement \"Rat Killer\""
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 300089,
+        "label": "Complete the achievement \"Armadilloed and Dangerous\""
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 300090,
+        "label": "Complete the achievement \"It Stinks!\""
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 300091,
+        "label": "Complete the achievement \"Bunnyslayer\""
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 300092,
+        "label": "Complete the achievement \"You dirty ratman!\""
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 300093,
+        "label": "Complete the achievement \"Of Micelike Men\""
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 300094,
+        "label": "Complete the achievement \"Badger, Badger, Badger...\""
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 300095,
+        "label": "Complete the achievement \"Beetlemania\""
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 300096,
+        "label": "Complete the achievement \"Leechy Keen\""
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 300097,
+        "label": "Complete the achievement \"Corathus!\""
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 300098,
+        "label": "Complete the achievement \"Army Ants\""
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 300099,
+        "label": "Complete the achievement \"Shoo fly!\""
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 300100,
+        "label": "Complete the achievement \"Get the broom!\""
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 300101,
+        "label": "Complete the achievement \"A Web of Lies\""
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 300102,
+        "label": "Complete the achievement \"Fury of Soriz\""
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 300103,
+        "label": "Complete the achievement \"Snake in the Grass\""
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 300104,
+        "label": "Complete the achievement \"A Bone to Pick With You\""
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 300105,
+        "label": "Complete the achievement \"Stake Dinner\""
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 300106,
+        "label": "Complete the achievement \"Hide your brains!\""
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 300107,
+        "label": "Complete the achievement \"Mummy Dearest\""
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 300108,
+        "label": "Complete the achievement \"Ghoul on the Hill\""
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 300109,
+        "label": "Complete the achievement \"Round of Applause\""
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 300110,
+        "label": "Complete the achievement \"Ghosts of Frostfell Past\""
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 300111,
+        "label": "Complete the achievement \"50 Shades Repaid\""
+      },
+      {
+        "order": 49,
+        "type": 1,
+        "value": 300112,
+        "label": "Complete the achievement \"Suit up!\""
+      },
+      {
+        "order": 50,
+        "type": 1,
+        "value": 300113,
+        "label": "Complete the achievement \"New Tricks\""
+      },
+      {
+        "order": 51,
+        "type": 1,
+        "value": 300114,
+        "label": "Complete the achievement \"Got your Tongue?\""
+      },
+      {
+        "order": 52,
+        "type": 1,
+        "value": 300115,
+        "label": "Complete the achievement \"Featherbrained Plan\""
+      },
+      {
+        "order": 53,
+        "type": 1,
+        "value": 300116,
+        "label": "Complete the achievement \"Better Get a Barrel\""
+      },
+      {
+        "order": 54,
+        "type": 1,
+        "value": 300117,
+        "label": "Complete the achievement \"Bear with me\""
+      },
+      {
+        "order": 55,
+        "type": 2,
+        "value": 300360,
+        "label": "(Optional) Complete the achievement \"Achievement: Spider-Bear\""
+      },
+      {
+        "order": 56,
+        "type": 1,
+        "value": 300118,
+        "label": "Complete the achievement \"The Elephant in the Room\""
+      },
+      {
+        "order": 57,
+        "type": 1,
+        "value": 300119,
+        "label": "Complete the achievement \"Overthere in the Wastes\""
+      },
+      {
+        "order": 58,
+        "type": 1,
+        "value": 300120,
+        "label": "Complete the achievement \"These boots were made for...\""
+      },
+      {
+        "order": 59,
+        "type": 1,
+        "value": 300121,
+        "label": "Complete the achievement \"Guess you didn't like turtles.\""
+      },
+      {
+        "order": 60,
+        "type": 1,
+        "value": 300122,
+        "label": "Complete the achievement \"What has science done!?\""
+      },
+      {
+        "order": 61,
+        "type": 1,
+        "value": 300123,
+        "label": "Complete the achievement \"Have you seen my bucket?\""
+      },
+      {
+        "order": 62,
+        "type": 1,
+        "value": 300124,
+        "label": "Complete the achievement \"Seacow!\""
+      },
+      {
+        "order": 63,
+        "type": 1,
+        "value": 300125,
+        "label": "Complete the achievement \"A molkor?\""
+      },
+      {
+        "order": 64,
+        "type": 1,
+        "value": 300126,
+        "label": "Complete the achievement \"Sealephant\""
+      },
+      {
+        "order": 65,
+        "type": 1,
+        "value": 300127,
+        "label": "Complete the achievement \"A Horse of Course\""
+      },
+      {
+        "order": 66,
+        "type": 1,
+        "value": 300128,
+        "label": "Complete the achievement \"Plenty of fish in the sea.\""
+      },
+      {
+        "order": 67,
+        "type": 1,
+        "value": 300129,
+        "label": "Complete the achievement \"Why so crabby?\""
+      },
+      {
+        "order": 68,
+        "type": 1,
+        "value": 300130,
+        "label": "Complete the achievement \"Orc weapons, your blood will spill!\""
+      },
+      {
+        "order": 69,
+        "type": 1,
+        "value": 300131,
+        "label": "Complete the achievement \"New Frontiers\""
+      },
+      {
+        "order": 70,
+        "type": 1,
+        "value": 300132,
+        "label": "Complete the achievement \"The More You Gnoll!\""
+      },
+      {
+        "order": 71,
+        "type": 1,
+        "value": 300133,
+        "label": "Complete the achievement \"World Warrens Three\""
+      },
+      {
+        "order": 72,
+        "type": 1,
+        "value": 300134,
+        "label": "Complete the achievement \"Alliz Tae Ew\""
+      },
+      {
+        "order": 73,
+        "type": 1,
+        "value": 300135,
+        "label": "Complete the achievement \"Sarnak Slayer\""
+      },
+      {
+        "order": 74,
+        "type": 1,
+        "value": 300136,
+        "label": "Complete the achievement \"Don't be Shellfish!\""
+      },
+      {
+        "order": 75,
+        "type": 1,
+        "value": 300137,
+        "label": "Complete the achievement \"Innoruuk's Gift\""
+      },
+      {
+        "order": 76,
+        "type": 2,
+        "value": 300359,
+        "label": "(Optional) Complete the achievement \"Shadows of Lxanvom\""
+      },
+      {
+        "order": 77,
+        "type": 1,
+        "value": 300138,
+        "label": "Complete the achievement \"A Fallen Empire\""
+      },
+      {
+        "order": 78,
+        "type": 1,
+        "value": 300139,
+        "label": "Complete the achievement \"You can call me Alaran\""
+      },
+      {
+        "order": 79,
+        "type": 1,
+        "value": 300140,
+        "label": "Complete the achievement \"Re-Extinction\""
+      },
+      {
+        "order": 80,
+        "type": 1,
+        "value": 300141,
+        "label": "Complete the achievement \"Aquatic Allure\""
+      },
+      {
+        "order": 81,
+        "type": 1,
+        "value": 300142,
+        "label": "Complete the achievement \"I said Argyle!\""
+      },
+      {
+        "order": 82,
+        "type": 1,
+        "value": 300143,
+        "label": "Complete the achievement \"You're not scaring anyone.\""
+      },
+      {
+        "order": 83,
+        "type": 1,
+        "value": 300144,
+        "label": "Complete the achievement \"Lumberer\""
+      },
+      {
+        "order": 84,
+        "type": 1,
+        "value": 300145,
+        "label": "Complete the achievement \"Mushroom Hunting\""
+      },
+      {
+        "order": 85,
+        "type": 1,
+        "value": 300146,
+        "label": "Complete the achievement \"Stop dragon this out.\""
+      },
+      {
+        "order": 86,
+        "type": 1,
+        "value": 300147,
+        "label": "Complete the achievement \"Quit dragon your heels!\""
+      },
+      {
+        "order": 87,
+        "type": 1,
+        "value": 300148,
+        "label": "Complete the achievement \"You keep dragon me into this.\""
+      },
+      {
+        "order": 88,
+        "type": 2,
+        "value": 300367,
+        "label": "(Optional) Complete the achievement \"Dino-sore!\""
+      },
+      {
+        "order": 89,
+        "type": 1,
+        "value": 300149,
+        "label": "Complete the achievement \"A Small Giant Problem\""
+      },
+      {
+        "order": 90,
+        "type": 1,
+        "value": 300150,
+        "label": "Complete the achievement \"Fairicide\""
+      },
+      {
+        "order": 91,
+        "type": 1,
+        "value": 300151,
+        "label": "Complete the achievement \"For the Hive!\""
+      },
+      {
+        "order": 92,
+        "type": 1,
+        "value": 300152,
+        "label": "Complete the achievement \"Jumjummery\""
+      },
+      {
+        "order": 93,
+        "type": 1,
+        "value": 300153,
+        "label": "Complete the achievement \"Self Centaured\""
+      },
+      {
+        "order": 94,
+        "type": 1,
+        "value": 300154,
+        "label": "Complete the achievement \"You're Faunny\""
+      },
+      {
+        "order": 95,
+        "type": 1,
+        "value": 300155,
+        "label": "Complete the achievement \"Amazing!\""
+      },
+      {
+        "order": 96,
+        "type": 1,
+        "value": 300156,
+        "label": "Complete the achievement \"No Vacancy\""
+      },
+      {
+        "order": 97,
+        "type": 1,
+        "value": 300157,
+        "label": "Complete the achievement \"Half Man, Half Scorpion, Half Lion.\""
+      },
+      {
+        "order": 98,
+        "type": 1,
+        "value": 300158,
+        "label": "Complete the achievement \"Puzzling\""
+      },
+      {
+        "order": 99,
+        "type": 1,
+        "value": 300159,
+        "label": "Complete the achievement \"My Golden Boots\""
+      },
+      {
+        "order": 100,
+        "type": 1,
+        "value": 300160,
+        "label": "Complete the achievement \"Imp-atient\""
+      },
+      {
+        "order": 101,
+        "type": 1,
+        "value": 300161,
+        "label": "Complete the achievement \"Elementary\""
+      },
+      {
+        "order": 102,
+        "type": 1,
+        "value": 300162,
+        "label": "Complete the achievement \"Spin Me Right Round\""
+      },
+      {
+        "order": 103,
+        "type": 2,
+        "value": 300365,
+        "label": "(Optional) Complete the achievement \"Reader's Die Jest\""
+      },
+      {
+        "order": 104,
+        "type": 2,
+        "value": 300366,
+        "label": "(Optional) Complete the achievement \"Witch Mount?\""
+      },
+      {
+        "order": 105,
+        "type": 1,
+        "value": 300163,
+        "label": "Complete the achievement \"They Call Me The Riftseeker\""
+      },
+      {
+        "order": 106,
+        "type": 1,
+        "value": 300164,
+        "label": "Complete the achievement \"Terrorible Tentacles\""
+      },
+      {
+        "order": 107,
+        "type": 1,
+        "value": 300165,
+        "label": "Complete the achievement \"Denizens of Fear\""
+      },
+      {
+        "order": 108,
+        "type": 1,
+        "value": 300166,
+        "label": "Complete the achievement \"Insatiable\""
+      },
+      {
+        "order": 109,
+        "type": 1,
+        "value": 300167,
+        "label": "Complete the achievement \"You look lovely\""
+      },
+      {
+        "order": 110,
+        "type": 1,
+        "value": 300168,
+        "label": "Complete the achievement \"Eye see what you did there!\""
+      },
+      {
+        "order": 111,
+        "type": 1,
+        "value": 300169,
+        "label": "Complete the achievement \"Goo-dness Gracious!\""
+      },
+      {
+        "order": 112,
+        "type": 1,
+        "value": 300170,
+        "label": "Complete the achievement \"Cubic\""
+      },
+      {
+        "order": 113,
+        "type": 1,
+        "value": 300171,
+        "label": "Complete the achievement \"Gnome Tested, Steamwork Approved!\""
+      },
+      {
+        "order": 114,
+        "type": 1,
+        "value": 300172,
+        "label": "Complete the achievement \"Discord Sounds Out of Tune\""
+      }
+    ]
+  },
+  {
+    "id": 11000022,
+    "title": "A Sight for Sore Eyes",
+    "description": "If only you looked more beautiful for each of the horrible looking things you've destroyed. Though seriously, they say beauty is in the eye of the beholder but even these evil eyes know they're ugly!",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300191,
+        "label": "Amygdalans, Cubes, Eyes, Goos, Gorgons, Harpies, Luggalds, Shiliskins, Tentacle Terrors, and Xulous."
+      }
+    ]
+  },
+  {
+    "id": 11000014,
+    "title": "BBBBBAAAARRRKKKK!!!!!",
+    "description": "Here's something fun to try: Have you ever allowed Fippy Darkpaw to make it through the Qeynos gates and into the city? You may just be surprised with what happens.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300183,
+        "label": "Gnolls"
+      }
+    ]
+  },
+  {
+    "id": 11000004,
+    "title": "Doesn't Play Well With Others",
+    "description": "Some people fear you. Others admire you. Most avoid you.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300173,
+        "label": "The playable races."
+      }
+    ]
+  },
+  {
+    "id": 11000023,
+    "title": "Domo Arigato",
+    "description": "Clockworks, gnomeworks and steamworks are now preprogrammed to avoid you at all costs. I hope you've been saving all the gears, bolts and springs they've dropped, your local tinkerer will thank you!",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300192,
+        "label": "Clockwork: Beetles, Boars, Dragons, Rats, Snakes, Spiders, Gnomeworks, Copters, and Tin Soldiers."
+      }
+    ]
+  },
+  {
+    "id": 11000005,
+    "title": "Don't Bug Me",
+    "description": "You really, really... really, hate bugs.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300174,
+        "label": "Beetles, Cliknars, Corathus Beasts, Drachnids, Insects, Leeches, Mosquitoes, Spiders, Ursarachnids."
+      }
+    ]
+  },
+  {
+    "id": 11000024,
+    "title": "Foreign Affair",
+    "description": "You've been impressively consistent in your travels to the far reaches of Norrath and Luclin; if you see something, you kill it.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300193,
+        "label": "Creatures of Luclin, Taelosia, Kuua and Alaris."
+      }
+    ]
+  },
+  {
+    "id": 11000018,
+    "title": "Here Be Dragons!",
+    "description": "Although the Ring of Scale and the Claws of Veeshan are bitterly divided there is at least one thing they can agree upon - You are their enemy!",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300187,
+        "label": "Dinosaurs, Dracoliches, Dragons, Drakes, Drixies, Raptors, Witherans, Wurms, and Wyverns."
+      }
+    ]
+  },
+  {
+    "id": 11000006,
+    "title": "I Hate Snakes!",
+    "description": "Well, technically not just snakes but, 'I hate reptiles', just doesn't have the same impact.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300175,
+        "label": "Alligators, Basilisks, Crocodiles, Lizard Men, Sarnaks, Shissar, Snakes, Sokokar, and Turtles."
+      }
+    ]
+  },
+  {
+    "id": 11000025,
+    "title": "Invaders In a Strange Land",
+    "description": "While Brekt's most notable title is, 'the Rider of Discord' a number of his followers referred to him as 'the Fist of Discord'. He was not amused.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300194,
+        "label": "All creatures of discord: Aneuks, Discordlings, Girplans, Huvuls, Ikaavs, Ixts... See: Such Anguish"
+      }
+    ]
+  },
+  {
+    "id": 11000016,
+    "title": "It's Alive!",
+    "description": "Just think if all of the effort you had put into deconstructing constructs was spent building them, you'd have an army big enough to take out all of the constructs!",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300185,
+        "label": "Brellian Constructs, Gargoyles, Gingerbread Men, Golems, Marionettes, Muddites, and Scarecrows."
+      }
+    ]
+  },
+  {
+    "id": 11000020,
+    "title": "Legendary Creatures",
+    "description": "There's magic in the air... or at least there was until you killed it all. The mystical beasts of Norrath weren't considered 'endangered' until you entered the scene.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300189,
+        "label": "Bixies, Brownies, Centaurs, Fairies, Griffins, Manticores, Minotaurs, Pixies, Satyr, and Sphinxes."
+      }
+    ]
+  },
+  {
+    "id": 11000019,
+    "title": "Might They Be Giants?",
+    "description": "You were apparently put on this planet to finish what the Rathe started - the destruction of Rallos' army! You're most of the way there, Giantslayer.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300188,
+        "label": "Giants"
+      }
+    ]
+  },
+  {
+    "id": 11000012,
+    "title": "Orc Stomp!",
+    "description": "Your name has become a curse in the orcish tongue.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300181,
+        "label": "Orcs and Wereorcs."
+      }
+    ]
+  },
+  {
+    "id": 11000007,
+    "title": "Pesticide",
+    "description": "From your first day as an adventurer to the day you pass the torch onto the next generation there has been a bat and a rat to be slain. A hearty congratulations is in order.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300176,
+        "label": "Armadillos, Bats, Bubonians, Burynai, Molerats, Rabbits, Ratmen, Rats, Skunks and Werebats."
+      }
+    ]
+  },
+  {
+    "id": 11000021,
+    "title": "Planes, Trains and Element-iles",
+    "description": "The planes may think twice before manifesting their power in your presence. It's generally not worth the trouble for them anymore.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300190,
+        "label": "Dervishes, Efreetis, Elementals, Imps, Nilborien, Riftseekers, Scrykin, Stormriders, and Wraiths."
+      }
+    ]
+  },
+  {
+    "id": 11000017,
+    "title": "Plants Concrete and Stone",
+    "description": "Nature thrives on breathing life into new beasts. You thrive on taking that life away. Creatures of plant and stone wilt and crumble in your presence.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300186,
+        "label": "Crystal Creatures, Grekens, Living Plants, Shriekers, Sporalis, Stonegrabbers, and Treants."
+      }
+    ]
+  },
+  {
+    "id": 11000015,
+    "title": "Puttin' On The Dog",
+    "description": "The people of Erudin, Paineel and the Solusek Mining Company would like to officially thank you for your role in aggravating the never ending legions of kobolds throughout Norrath.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300184,
+        "label": "Kobolds"
+      }
+    ]
+  },
+  {
+    "id": 11000009,
+    "title": "Strange Weather",
+    "description": "It must be raining cats and dogs with the absurd number of canines and felines you have disposed of! I'm unsure if I should congratulate you or encourage you to give up your house pets.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300178,
+        "label": "Chokidais, Drolvargs, Hynids, Lions, Pumas, Rotdogs, Tigers, Werewolves, Wolves, Worgs, and Wrulons."
+      }
+    ]
+  },
+  {
+    "id": 11000011,
+    "title": "Swordfishmermaid",
+    "description": "For your own safety I would avoid talking about this accomplishment around any devout worshipers of Prexus. Your distain for creatures of the sea is unfathomable!",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300180,
+        "label": "Crabs, Fishes, Hraquis, Kedge, Krakens, Mermaids, Nymphs, Piranhas, Seahorses, Sharks, and Sirens."
+      }
+    ]
+  },
+  {
+    "id": 11000027,
+    "title": "Table Flipper",
+    "description": "You have ensured that no inanimate object goes unsmashed!",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300196,
+        "label": "Barrels, Bones, Boxes, Chests, Clocks, Coffins, Mimics, Tables, Totems, Traps, Vases, and Webs."
+      }
+    ]
+  },
+  {
+    "id": 11000010,
+    "title": "The Zookeeper",
+    "description": "You have surpassed our expectations and proven that if nothing else, you are truly capable of ruining your own lands.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300179,
+        "label": "Apes, Bears, Birds, Boars, Mammoths, Mystical Horses, Othmirs, Rhinos, Sea Mammals, and Swinetors."
+      }
+    ]
+  },
+  {
+    "id": 11000013,
+    "title": "Ugly Creature Near My Feet...",
+    "description": "You should have easily gained the favor of the people of Kaladim, Chardok, Rivervale, and the Gorge of King Xorbb by now.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300182,
+        "label": "Goblins and Nightmare Goblins."
+      }
+    ]
+  },
+  {
+    "id": 11000008,
+    "title": "We Are the Dead!",
+    "description": "We weren't really sure how you were going to go about killing something that had no life but once again you impressed us with your ability to find a way.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300177,
+        "label": "Animated Armors, Ghosts, Ghouls, Mummies, Shades, Skeletons, Spectres, Vampires, and Zombies."
+      }
+    ]
+  },
+  {
+    "id": 11000026,
+    "title": "Your God Has Found You Lacking",
+    "description": "Not many people choose deicide as a pastime.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 82,
+    "subcategoryName": "Conquest",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300195,
+        "label": "The avatar of a deity."
+      }
+    ]
+  },
+  {
+    "id": 11000054,
+    "title": "A Giant Problem",
+    "description": "These children of Zek have made their homes in just about every part of Norrath, but no matter where you've travelled you've made it a point to tell them they are not welcome!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300238,
+        "label": "Giants"
+      }
+    ]
+  },
+  {
+    "id": 11000036,
+    "title": "Amphibicide",
+    "description": "If it bounces and froaks then you've made it your business to ensure it croaks! Have you considered baking the legs of your victims into a meal? Some people consider them a delicacy.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300220,
+        "label": "Frogloks, Frogs, Guktans, and Tadpoles."
+      }
+    ]
+  },
+  {
+    "id": 11000041,
+    "title": "Bird Flew",
+    "description": "\"Birds of a feather are slain together.\" From the aviary of South Karana to the plains of the Overthere no aviak, cockatrice or raven has escaped your vengeful eagle eye.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300225,
+        "label": "Aviaks, Blood Ravens, Cockatrices, Hawks, and Parrots."
+      }
+    ]
+  },
+  {
+    "id": 11000033,
+    "title": "Bounced!",
+    "description": "If you plan on travelling through the Feerrott any time soon I'd suggest you watch out for Bouncer Flurb. Something tells me he won't look on you too kindly.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300217,
+        "label": "Ogres"
+      }
+    ]
+  },
+  {
+    "id": 11000058,
+    "title": "Breakdown Dead Ahead",
+    "description": "The expression 'running like clockwork' is not meant to denote any degree of certainty.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300242,
+        "label": "Clockwork: Beetles, Boars, Dragons, Rats, Snakes, Spiders, Gnomeworks, Copters, and Tin Soldiers."
+      }
+    ]
+  },
+  {
+    "id": 11000035,
+    "title": "Catnipped In the Bud",
+    "description": "The Vah Shir of Luclin are decedents of the noble Kerrans of Odus. You've made it your business to see that both species are driven into extinction.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300219,
+        "label": "Kerrans and Vah Shir."
+      }
+    ]
+  },
+  {
+    "id": 11000052,
+    "title": "Dragonbane",
+    "description": "You're becoming a thorn in the side of the Wyrmqueen's children. Watch yourself when travelling through Velious as you may find the Claws of Veeshan pointed at your back.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300236,
+        "label": "True Dragons"
+      }
+    ]
+  },
+  {
+    "id": 11000049,
+    "title": "Drawing Life From a Stone",
+    "description": "Or in your case destroying creatures of living stone... The creatures of the Underfoot seem to draw your unequivocal ire while Blind Dreamers, Marionettes, and Sandmen serve as fodder for your rage.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300233,
+        "label": "Apexus, Bellikos, Blind Dreamers, Genari, Gigyns, Marionettes, Sandmen, and Telmiras."
+      }
+    ]
+  },
+  {
+    "id": 11000038,
+    "title": "Eight Legs Are Better Than One!",
+    "description": "\"If it spins a web it better be dead!\" Quite a catchy motto you've adopted in your hunting habits. Arachnophobe barely describes the depth of your contempt for things that crawl and weave.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300222,
+        "label": "Drachnids, Scorpions, Spiders, and Ursarachnids."
+      }
+    ]
+  },
+  {
+    "id": 11000046,
+    "title": "Gnolling is Half the Battle",
+    "description": "\"You gnoll they're not all bad...\" just most of them. You may consider keeping your weapons sheathed while visiting the Snowfang clan of Iceclad Ocean. They're friendlier than the average gnoll.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300230,
+        "label": "Gnolls"
+      }
+    ]
+  },
+  {
+    "id": 11000048,
+    "title": "Gooooooooooooooolem!",
+    "description": "What sets golems apart from other creatures of stone is the lack of sentience. Some golems are constructed out of body parts and others are made of dough, such as the dreaded gingerbread golem.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300232,
+        "label": "Gingerbread Men, Golems, Muddites, and Statues."
+      }
+    ]
+  },
+  {
+    "id": 11000051,
+    "title": "Herbicide",
+    "description": "\"Photosynthesis is for the weak!\" Your colleagues should call you a vegetarian with the voracity in which you devour greenery.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300235,
+        "label": "Mantraps, Shambling Mounds, Shriekers, Succulents, Sunflowers, Vegerogs, and Vine Maws."
+      }
+    ]
+  },
+  {
+    "id": 11000028,
+    "title": "I'm a People Person!",
+    "description": "There's a word for people with your kind of social skills...",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300198,
+        "label": "Barbarians"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300203,
+        "label": "Dark Elves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300200,
+        "label": "Drakkin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300205,
+        "label": "Dwarves"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300199,
+        "label": "Erudites"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300211,
+        "label": "Guktans"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300207,
+        "label": "Gnomes"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300204,
+        "label": "Half Elves"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300206,
+        "label": "Halflings"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 300202,
+        "label": "High Elves"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 300197,
+        "label": "Humans"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 300210,
+        "label": "Iksars"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 300209,
+        "label": "Ogres"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 300208,
+        "label": "Trolls"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 300212,
+        "label": "Vah Shir"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 300201,
+        "label": "Wood Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000043,
+    "title": "I'm Boared!",
+    "description": "\"I love the smell of bacon in the morning!\" Whether boar or swinetor you've made it no secret that any pig that gets in your way is simply an uncooked meal.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300227,
+        "label": "Boars and Swinetors."
+      }
+    ]
+  },
+  {
+    "id": 11000057,
+    "title": "It's Plane to See",
+    "description": "\"I doubt if any of you will ever encounter even one one-hundredth of the marvelous things our planes have to offer. I do not doubt your spirit, I simply doubt your ability to survive.\" - Prof. Suladea",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300241,
+        "label": "Fiends, Guardians, Planar Manifestations, Scrykin, Stormriders, Tormentors, Vegerogs, Wraiths."
+      }
+    ]
+  },
+  {
+    "id": 11000047,
+    "title": "Kobolded Killer",
+    "description": "Your dedication to exterminating kobolds is nothing if not persistent. If your adventures began in the caves of Gloomingdeep then you'll know of these beasts quite well.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300231,
+        "label": "Kobolds"
+      }
+    ]
+  },
+  {
+    "id": 11000050,
+    "title": "Living Stone I presume?",
+    "description": "You've done an impressive job of grinding these beasts of living rock into dust. From the geonids of Velious to the crystalskin of the Underfoot no sentient being of stone has escaped your pickaxe.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300234,
+        "label": "Crystal Spheres, Crystalskins, Geonids, Grekens, Hydra Crystals, and Stonegrabbers."
+      }
+    ]
+  },
+  {
+    "id": 11000045,
+    "title": "Me Thinks That You'll Be Good to Eat!",
+    "description": "Friendlier than your average orc and slightly smarter than your common kobold, goblins are found on just about every continent of Norrath.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300229,
+        "label": "Goblins and Nightmare Goblins."
+      }
+    ]
+  },
+  {
+    "id": 11000042,
+    "title": "Monkey Business",
+    "description": "The holgresh are an interesting species. Rarely seen roaming outside of their natural habitat they tend to avoid contact with adventurers and you are the reason why.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300226,
+        "label": "Gorillas, Holgresh, and Yetis."
+      }
+    ]
+  },
+  {
+    "id": 11000034,
+    "title": "Mostly Kunzar",
+    "description": "History tells us there were six prominent Iksar tribes. The ones you encounter in your adventures will most likely be descendants of the Kunzar tribe.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300218,
+        "label": "Iksars and Kylong Iksars of Veksar."
+      }
+    ]
+  },
+  {
+    "id": 11000063,
+    "title": "Natives of Alaris",
+    "description": "When the veil that hid Alaris was lifted a new opportunity for hunting arose and you answered the call! You've clearly shown your domination over the native beasts of this continent.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300247,
+        "label": "Alarans, Braxi, Gorals, Grendlaens, Hadal, Kangons, Scavengers, and Selyrah."
+      }
+    ]
+  },
+  {
+    "id": 11000062,
+    "title": "Natives of Kuua",
+    "description": "\"The world known as Kuua was once a relatively normal place...\" Just as Norrathians have ruined their own lands they shall now ruin these! You are as feared on Kuua as Mata Muram himself.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300246,
+        "label": "Bazus, Chimeras, Dragorns, Ferans, and Murkgliders."
+      }
+    ]
+  },
+  {
+    "id": 11000060,
+    "title": "Natives of Luclin",
+    "description": "Norrath's ringed moon is host to warring factions, dislocated kerrans, melancholy Norrathians, and a host of uniquely evolved beasts. Or in your opinion, targets, targets and more targets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300244,
+        "label": "Akhevans, Fungal Fiends, Grimlings, Rockhoppers, Shadels, Tegis, Thought Horrors, and Zelniaks."
+      }
+    ]
+  },
+  {
+    "id": 11000061,
+    "title": "Natives of Taelosia",
+    "description": "Taelosia once played host to a vibrant and varied landscape rich with diverse creatures and inhabitants. The remaining wildlife will not last long with slayers like you roaming the lands.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300245,
+        "label": "Cragbeasts, Hynids, Stonemites, Taelosians, and Tureptas."
+      }
+    ]
+  },
+  {
+    "id": 11000059,
+    "title": "Natives of Velious",
+    "description": "So you've set out to explore this icy wonderland and all you've accomplished so far is destroying everything in your path? Job well done!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300243,
+        "label": "Bulthars, Manatees, Molkors, Othmirs, Sea Elephants, Ulthorks, and Walruses."
+      }
+    ]
+  },
+  {
+    "id": 11000044,
+    "title": "Orc Kill!",
+    "description": "Your passion for orc-slaying is boundless. You must have quite the collection of Crushbone Belts at this point; Canloe Nusback of South Kaladim pays handsomely for them.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300228,
+        "label": "Orcs and Wereorcs."
+      }
+    ]
+  },
+  {
+    "id": 11000037,
+    "title": "Rats!",
+    "description": "You're liable to put other exterminators out of business with the haste and brutality in which you've spent your time slaying rodents.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300221,
+        "label": "Armadillos, Bubonians, Burynai, Molerats, Rabbits, Ratmen, Rats, and Skunks."
+      }
+    ]
+  },
+  {
+    "id": 11000031,
+    "title": "Short People",
+    "description": "I wouldn't necessarily say they have no reason to live but the way you've killed them on sight it seems you would! I guess they won't be standing so tall now!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300215,
+        "label": "Coldain, Dwarves, Gnomes, and Halflings."
+      }
+    ]
+  },
+  {
+    "id": 11000055,
+    "title": "Shorter People",
+    "description": "The stature of these brutes has not diminished your determination to ensure their extermination. The world needs dust, chocolate and honey and you're here to harvest it!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300239,
+        "label": "Bixies, Brownies, Dryads, Fairies, and Pixies."
+      }
+    ]
+  },
+  {
+    "id": 11000032,
+    "title": "Simple Folk of the Ykesha",
+    "description": "Barsh 'em, smash 'em and pickle their bones! No troll is safe from your wrath. It's a shame they can't really grasp the concept of irony - trolls being scared of little ol' you.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300216,
+        "label": "Trolls"
+      }
+    ]
+  },
+  {
+    "id": 11000056,
+    "title": "Slayer of Mystical Horses",
+    "description": "Sure, you've killed kirins, pummeled the odd pegasus or two, and undone unicorns, but how many times have you seen Quillmane?",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300240,
+        "label": "Kirins, Nightmares, Pegasus, and Unicorns."
+      }
+    ]
+  },
+  {
+    "id": 11000064,
+    "title": "Such Anguish",
+    "description": "The beasts of Discord were unprepared for what you had in store for them. When Mata Muram spoke his final words, 'There are worlds other than these', you said, 'Yeah and I'll destroy those too!'",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300248,
+        "label": "All creatures of discord: ...Kyvs, Lightning Warriors, Mastruqs... See Discord Sounds Out of Tune"
+      }
+    ]
+  },
+  {
+    "id": 11000040,
+    "title": "The Cat's Pajamas",
+    "description": "If you've been collecting the pelts of your victims then pajamas are just the start. Happen to have any High Quality Lion Skins?",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300224,
+        "label": "Cats, Lions, Pumas, Sabertooths, Scarlet Cheetahs, Tigers, Topiary Lions, and Wrulons."
+      }
+    ]
+  },
+  {
+    "id": 11000039,
+    "title": "The Hounds",
+    "description": "From dire wolves to naeya you've made a mission out of dispersing every pack of dogs you've come across. A howl in the night is like a call to arms for you!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300223,
+        "label": "Chokidais, Drolvargs, Hynids, Rotdogs, Werewolves, Wolves, and Worgs."
+      }
+    ]
+  },
+  {
+    "id": 11000030,
+    "title": "Three Letter Word for Dead...",
+    "description": "If you guessed \"elf\" you would be correct. Dark elves, half elves, high elves, wood elves and even the ancient Elddar elves all tremble in fear as you pass by.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300214,
+        "label": "Dark Elves, Elddar Elves, Fire Elves, Half Elves, High Elves, Sand Elves, and Wood Elves."
+      }
+    ]
+  },
+  {
+    "id": 11000029,
+    "title": "What Keeps Mankind Alive?",
+    "description": "Certainly not you. You've proven yourself as the bane to all things man by slaying all the humans, barbarians, erudites and drakkin that have crossed your path.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300213,
+        "label": "Barbarians, Drakkin, Erudites, and Humans."
+      }
+    ]
+  },
+  {
+    "id": 11000053,
+    "title": "You Call That a Dragon?",
+    "description": "Although dragonlike, not all things are worthy of the title \"dragon\". Drakes, raptors, witheran, wurms, wyverns, and wyrms have not fared well under your watch.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 83,
+    "subcategoryName": "Special",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300237,
+        "label": "Dinosaurs, Dracoliches, Lesser Dragons, Drakes, Drixies, Raptors, Witherans, Wurms, and Wyverns."
+      }
+    ]
+  },
+  {
+    "id": 11000111,
+    "title": "50 Shades...",
+    "description": "Manifestations of shadow and shades differ slightly from spirits and ghosts in that they are not always the remains of a former life.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300295,
+        "label": "Shades and Shadows."
+      }
+    ]
+  },
+  {
+    "id": 11000104,
+    "title": "A Bone to Pick With You",
+    "description": "\"I can still hear their maniacal cackling. The gut-wrenching crunch of solid bone against iron. What animates these skeletal foes!?\" - a Nameless Adventurer",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300288,
+        "label": "Skeletons"
+      }
+    ]
+  },
+  {
+    "id": 11000077,
+    "title": "A Clockwork Gnome",
+    "description": "The industrious citizens of Ak`Anon are known throughout Norrath for being at the forefront of technological advances. They're also known for falling in battle under the weight of their own armor.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300261,
+        "label": "Gnomes"
+      }
+    ]
+  },
+  {
+    "id": 11000138,
+    "title": "A Fallen Empire",
+    "description": "The shiliskin have existed for centuries below the surface of Norrath. It was only recently that their existence and vast empire have become known to modern surface dwellers.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300322,
+        "label": "Shiliskins"
+      }
+    ]
+  },
+  {
+    "id": 11000127,
+    "title": "A Horse of Course",
+    "description": "When asked if you had hunted enough horses you replied, \"Neigh!\" Early in their domestication it was thought that only Guktans would be able to ride the Drogmors of Odus.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300311,
+        "label": "Drogmores and Horses."
+      }
+    ]
+  },
+  {
+    "id": 11000125,
+    "title": "A Molkor?",
+    "description": "Despite its superior intelligence the molkor is considered to be a lower class of being by its kin the ulthork and bulthar.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300309,
+        "label": "Molkors"
+      }
+    ]
+  },
+  {
+    "id": 11000149,
+    "title": "A Small Giant Problem",
+    "description": "It was presumed that most of the giants of Zek were subject to the curse of the Rathe as punishment for attacking the Plane of Earth.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300333,
+        "label": "Giants"
+      }
+    ]
+  },
+  {
+    "id": 11000101,
+    "title": "A Web of Lies",
+    "description": "Legend states that Najena sent one of her black widow spiders along with a Teir`Dal emissary to Mayong Mistmoore as a gift. The gift and her emissary were returned to her as the first Drachnid.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300285,
+        "label": "Drachnids"
+      }
+    ]
+  },
+  {
+    "id": 11000134,
+    "title": "Alliz Tae Ew",
+    "description": "The devout worshipers of Cazic Thule have constructed a great temple in his honor in The Feerrott. You may be interested in exploring this area if slaying lizardmen is your goal.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300318,
+        "label": "Lizard Men"
+      }
+    ]
+  },
+  {
+    "id": 11000155,
+    "title": "Amazing!",
+    "description": "The fearsome minotaur and the closely related tizmak are often found dwelling in labyrinth-like cave structures.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300339,
+        "label": "Minotaurs and Tizmak."
+      }
+    ]
+  },
+  {
+    "id": 11000141,
+    "title": "Aquatic Allure",
+    "description": "Mermaids, sirens and the potamide of Jaggedpine all pose little threat if you avoid their waters.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300325,
+        "label": "Nagas, Mermaids, Nymphs, and Sirens."
+      }
+    ]
+  },
+  {
+    "id": 11000089,
+    "title": "Armadilloed and Dangerous",
+    "description": "The impressive feat is finding the armadillos to hunt.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300273,
+        "label": "Armadillos"
+      }
+    ]
+  },
+  {
+    "id": 11000098,
+    "title": "Army Ants",
+    "description": "\"I've seen the Cliknar devour my allies and leave nothing but the bones. Steel your weapons and march in pairs, don't let them overwhelm you.\" - Exterminator Darkblade",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300282,
+        "label": "Cliknar Soldiers, Workers and Queens."
+      }
+    ]
+  },
+  {
+    "id": 11000074,
+    "title": "Axe Me No Questions",
+    "description": "The residents of Kaladim frown upon your dwarf-killing ways.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300258,
+        "label": "Dwarves"
+      }
+    ]
+  },
+  {
+    "id": 11000094,
+    "title": "Badger, Badger, Badger...",
+    "description": "The burynai were one of Brell Serilis' early creations. They are most commonly found on the continent of Kunark or in the depths of the Underfoot.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300278,
+        "label": "Burynai"
+      }
+    ]
+  },
+  {
+    "id": 11000066,
+    "title": "Barbarous",
+    "description": "Boundless barbaric brutality becomes you!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300250,
+        "label": "Barbarians"
+      }
+    ]
+  },
+  {
+    "id": 11000087,
+    "title": "Bat Country!",
+    "description": "I would encourage you to avoid stopping in areas containing hostile bats.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300271,
+        "label": "Bats and Werebats."
+      }
+    ]
+  },
+  {
+    "id": 11000117,
+    "title": "Bear With Me",
+    "description": "\"That's a bearable pun!\" Whether your homelands contain bears or owlbears you'll barely be able to contain your laughter as you work your way through this slayer task.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300301,
+        "label": "Bears, Kodiaks, Owlbears, and Pandas."
+      }
+    ]
+  },
+  {
+    "id": 11000095,
+    "title": "Beetlemania",
+    "description": "There are a lot of insects in the world. I suggest you start smashing!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300279,
+        "label": "Beetles, Insects, Lightcrawlers, Shik'Nars, and Underbulks."
+      }
+    ]
+  },
+  {
+    "id": 11000116,
+    "title": "Better Get a Barrel",
+    "description": "What with all this fun we're having monkey-hunting!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300300,
+        "label": "Gorillas, Holgresh, and Yetis."
+      }
+    ]
+  },
+  {
+    "id": 11000091,
+    "title": "Bunnyslayer",
+    "description": "They are far deadlier than you may expect... Okay they're actually not, but congratulations anyway.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300275,
+        "label": "Rabbits"
+      }
+    ]
+  },
+  {
+    "id": 11000097,
+    "title": "Corathus!",
+    "description": "The fearsome corathus beast's most powerful weapon is its disease infected maw. Avoid being bitten by these giant insects at all costs.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300281,
+        "label": "Corathus Beasts"
+      }
+    ]
+  },
+  {
+    "id": 11000170,
+    "title": "Cubic",
+    "description": "The gelatinous cube is an overlooked contributor to the aqueduct ecosystem. Without this noble creature there would be an overabundance of adventurers swarming through the overpopulated waters.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300354,
+        "label": "Gelatinous Cubes"
+      }
+    ]
+  },
+  {
+    "id": 11000075,
+    "title": "Dainy It's Cold Outside",
+    "description": "The Coldain dwarves of Thurgadin can be found throughout Velious and even in parts of the Underfoot. It is said there is a second Coldain city called Froststone in the depths of the Crystal Caverns.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300259,
+        "label": "Coldains"
+      }
+    ]
+  },
+  {
+    "id": 11000165,
+    "title": "Denizens of Fear",
+    "description": "The amygdalan are quite simply the essence of fear. A semi-mortal manifestation of Cazic Thule's will.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300349,
+        "label": "Amygdalans"
+      }
+    ]
+  },
+  {
+    "id": 11000177,
+    "title": "Dino-sore!",
+    "description": "\"Beasts as ancient as the Claws yet simple like the raptors of Timorous. We have no idea if these creatures still walk the face of Norrath.\" -Prof. Suladea",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300363,
+        "label": "Ankylosauruses, Triceratopses and Tyrannosauruses."
+      }
+    ]
+  },
+  {
+    "id": 11000172,
+    "title": "Discord Sounds Out of Tune",
+    "description": "The greatest folly of the army of discord was underestimating the resolve of Norrathians... That and allowing us access to their fortresses.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300356,
+        "label": "All creatures of discord: ...Nekhons, Nocs, Ra`tuks, Taneths, Vitriks, and Ukuns."
+      }
+    ]
+  },
+  {
+    "id": 11000136,
+    "title": "Don't Be Shellfish!",
+    "description": "The othmir of Cobalt Scar are loyal servants of the Ocean Lord, Prexus. Members of their tribe will offer tales of their history if you're not too busy brutalizing their clan.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300320,
+        "label": "Othmirs"
+      }
+    ]
+  },
+  {
+    "id": 11000068,
+    "title": "Drackity Drak",
+    "description": "I'm fairly certain there's a wanted poster with your likeness up at the bank in Crescent Reach.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300252,
+        "label": "Drakkin"
+      }
+    ]
+  },
+  {
+    "id": 11000161,
+    "title": "Elementary",
+    "description": "\"Without mastery over the basic elements your pursuit of power is forfeit. You must attune yourself to the will of the planes and work with its power, not against it.\" - Trilith Magi'kot",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300345,
+        "label": "Elementals"
+      }
+    ]
+  },
+  {
+    "id": 11000168,
+    "title": "Eye See What You Did There!",
+    "description": "I suggest you don't try and hide from an Evil Eye. They happen to see very well.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300352,
+        "label": "Evil Eyes"
+      }
+    ]
+  },
+  {
+    "id": 11000150,
+    "title": "Fairicide",
+    "description": "Though not particularly impressive in combat the magical wiles of fairies and pixies can prove quite dangerous if you are unprepared.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300334,
+        "label": "Dryads, Fairies, and Pixies."
+      }
+    ]
+  },
+  {
+    "id": 11000115,
+    "title": "Featherbrained Plan",
+    "description": "If it sings and has wings then it's your on your list of things to slay!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300299,
+        "label": "Aviaks, Blood Ravens, Cockatrices, Hawks, and Parrots."
+      }
+    ]
+  },
+  {
+    "id": 11000151,
+    "title": "For the Hive!",
+    "description": "The twisted and nefarious bixies of Stone Hive a far cry from the menacing but ultimately harmless bixies that can be found in the Commonlands.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300335,
+        "label": "Bixies"
+      }
+    ]
+  },
+  {
+    "id": 11000102,
+    "title": "Fury of Soriz",
+    "description": "Many historians will tell you that there were five major Iksar tribes that existed on Kunark. More learned scholars will speak of the sixth, the Soriz.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300286,
+        "label": "Shissar"
+      }
+    ]
+  },
+  {
+    "id": 11000076,
+    "title": "Fuzzyfeet",
+    "description": "Over eighty percent of halfling deaths are attributed to the music of Rivervale driving adventurers into a murderous rage.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300260,
+        "label": "Halflings"
+      }
+    ]
+  },
+  {
+    "id": 11000079,
+    "title": "Get Stupid",
+    "description": "Many people confuse the strong loyalty and sense of duty that ogres display as stupidity. That said, they still build chairs out of boulders.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300263,
+        "label": "Ogres"
+      }
+    ]
+  },
+  {
+    "id": 11000100,
+    "title": "Get the Broom!",
+    "description": "Throughout Norrath are many varieties of spiders and scorpions. It is recommended that you bring a supply of anti-venom in your travels should you get bitten or stung by one of these dreadful beasts.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300284,
+        "label": "Scorpions and Spiders."
+      }
+    ]
+  },
+  {
+    "id": 11000110,
+    "title": "Ghosts of Frostfell Past",
+    "description": "Spirits, ghosts and spectres haunt areas of particular interest. Though in the Oasis of Marr it seems the spectres would rather patrol the docks than guard the ancient tower.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300294,
+        "label": "Banshees, Ghosts, Spectres, Spirits, and Wisps."
+      }
+    ]
+  },
+  {
+    "id": 11000108,
+    "title": "Ghoul On the Hill",
+    "description": "When the dead are laid to rest they don't always know when to stay down.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300292,
+        "label": "Ghouls"
+      }
+    ]
+  },
+  {
+    "id": 11000171,
+    "title": "Gnome Tested, Steamwork Approved!",
+    "description": "Clockwork creatures are a common sight wherever gnomes reside.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300355,
+        "label": "Clockwork: Beetles, Boars, Dragons, Rats, Snakes, Spiders, Gnomeworks, Copters, and Tin Soldiers."
+      }
+    ]
+  },
+  {
+    "id": 11000169,
+    "title": "Goo-dness Gracious!",
+    "description": "There's not much to say about fighting sentient goo. Avoid stepping in it and avoid being consumed by it.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300353,
+        "label": "Goos"
+      }
+    ]
+  },
+  {
+    "id": 11000082,
+    "title": "Good Luck, Bad Guk",
+    "description": "Guktans are the higher order of frogloks that were blessed by Mithaniel Marr, many of whom were later corrupted by Innoruuk.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300266,
+        "label": "Guktans (Living, Skeletal, Ghostly, or Zombified)"
+      }
+    ]
+  },
+  {
+    "id": 11000114,
+    "title": "Got Your Tongue?",
+    "description": "It would be silly to ask if the cat got your tongue given that you probably have its.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300298,
+        "label": "Cats, Lions, Pumas, Sabertooths, Scarlet Cheetahs, Tigers, Topiary Lions, and Wrulons."
+      }
+    ]
+  },
+  {
+    "id": 11000121,
+    "title": "Guess You Didn't Like Turtles",
+    "description": "Both the sea turtle and mighty turepta use their heavily armored shell to defend against attackers. You're smart enough to aim for their heads though... right?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300305,
+        "label": "Sea Turtles and Tureptas."
+      }
+    ]
+  },
+  {
+    "id": 11000157,
+    "title": "Half Man, Half Scorpion, Half Lion",
+    "description": "\"The manticore is not something you will see much of. If you encounter one I suggest you avoid its scorpion-like tail at all costs. Otherwise, I implore you to have your will in order.\" -Prof. Suladea",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300341,
+        "label": "Manticores"
+      }
+    ]
+  },
+  {
+    "id": 11000067,
+    "title": "Hardly Erudite of You",
+    "description": "Haven't I seen you at a book burning outside the Library of Erudin?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300251,
+        "label": "Erudites"
+      }
+    ]
+  },
+  {
+    "id": 11000123,
+    "title": "Have You Seen My Bucket?",
+    "description": "The ulthork and closely related walrus are but two of many creatures native to Velious.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300307,
+        "label": "Ulthorks and Walruses."
+      }
+    ]
+  },
+  {
+    "id": 11000078,
+    "title": "Here's Yer Grozmok",
+    "description": "It is said that the City of Guk was once a trollish city that was later taken over by invading frogloks.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300262,
+        "label": "Trolls"
+      }
+    ]
+  },
+  {
+    "id": 11000106,
+    "title": "Hide Your Brains!",
+    "description": "I trust you have developed a zombie survival plan by now?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300290,
+        "label": "Hags, Lepertoloths, and Zombies."
+      }
+    ]
+  },
+  {
+    "id": 11000070,
+    "title": "Highly Uncivilized",
+    "description": "I would suggest against trying to rent a room at the Travelers Home Inn of Felwithe.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300254,
+        "label": "High Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000142,
+    "title": "I Said Argyle!",
+    "description": "\"Ghastly beasts of granite with the wings of a bat and the face of a goblin! It descended from the sky and plucked up wolves as if they were mere toys.\" - a Nameless Villager's account of a gargoyle",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300326,
+        "label": "Gargoyles"
+      }
+    ]
+  },
+  {
+    "id": 11000080,
+    "title": "Icky!",
+    "description": "The bad news is: It is recommended that you bring several hundred bone chips with you if you're seeking entry into Cabilis. The good news is: You don't have to deliver them four at a time anymore.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300264,
+        "label": "Iksars"
+      }
+    ]
+  },
+  {
+    "id": 11000160,
+    "title": "Imp-atient",
+    "description": "Mephits and imps are a common planar manifestation. Their fighting styles are typically simple and straight forward and their sentience leaves much to be desired.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300344,
+        "label": "Imps and Mephits."
+      }
+    ]
+  },
+  {
+    "id": 11000178,
+    "title": "In Your Eyes",
+    "description": "The city of Argin-Hiz is physically divided in order to further segregate the radiant Sol`Dal from the dull 'ember elves'.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300364,
+        "label": "Fire Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000137,
+    "title": "Innoruuk's Gift",
+    "description": "The luggald race was a gift Innoruuk bestowed upon his loyal devotees. It should be no surprise that these creatures of hate have since begun conspiring for themselves.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300321,
+        "label": "Luggalds"
+      }
+    ]
+  },
+  {
+    "id": 11000166,
+    "title": "Insatiable",
+    "description": "The strange creature known as a devourer can be periodically be found on Kunark. Their massive mouth and jagged teeth should leave little in the way of confusion about their fighting style.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300350,
+        "label": "Devourers"
+      }
+    ]
+  },
+  {
+    "id": 11000090,
+    "title": "It Stinks!",
+    "description": "You have my distant congratulations for finding and slaying the elusive Norrathian skunk. Please see to it that you bathe soon.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300274,
+        "label": "Skunks"
+      }
+    ]
+  },
+  {
+    "id": 11000073,
+    "title": "It Was Called Tunaria",
+    "description": "Before there were dark elves, high elves and wood elves there were simply the Elddar elves. The ghosts and shades of these creatures offer us a look back into the history of the species.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300257,
+        "label": "Elddar Elves and Sand Elves."
+      }
+    ]
+  },
+  {
+    "id": 11000083,
+    "title": "It's a Frog Eat Frog World",
+    "description": "Frogloks inhabit swamplands and dungeons in many parts of Norrath including the lost city of Guk in Antonica and Sebilis in Kunark. Have you ever noticed the backflip they do when casting?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300267,
+        "label": "Frogloks and Tadpoles."
+      }
+    ]
+  },
+  {
+    "id": 11000152,
+    "title": "Jumjummery",
+    "description": "Ol' Nilipus hailed from Misty Thicket. Where'er he smelled Jumjum he'd pick it. The halflings grew cross when their profits were lost, screamin, 'Where is that brownie? I'll kick it!' - Randal Reedsea",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300336,
+        "label": "Brownies"
+      }
+    ]
+  },
+  {
+    "id": 11000096,
+    "title": "Leechy Keen",
+    "description": "Larvae, worms and leeches will grow into bigger problems if you don't deal with them early.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300280,
+        "label": "Leeches, Ticks, and Vacuum Worms."
+      }
+    ]
+  },
+  {
+    "id": 11000071,
+    "title": "Love Will Teir Them Apart",
+    "description": "The Teir`Dal of Neriak tolerate very little... but you they tolerate even less.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300255,
+        "label": "Dark Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000144,
+    "title": "Lumberer",
+    "description": "The mighty treants that reside in the Plains of Karana hold ageless wisdom and offer insight to the ancient ways of the Unkempt Druids. At odds with this philosophy are the humans who need lumber!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300328,
+        "label": "Treants"
+      }
+    ]
+  },
+  {
+    "id": 11000085,
+    "title": "Moonkitty",
+    "description": "A higher order of Kerran that survived a violent relocation to Norrath's moon, Luclin.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300269,
+        "label": "Vah Shir"
+      }
+    ]
+  },
+  {
+    "id": 11000107,
+    "title": "Mummy Dearest",
+    "description": "Undeath comes in many forms. Sometimes it's wrapped like an unwanted Frostfell gift.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300291,
+        "label": "Mummies"
+      }
+    ]
+  },
+  {
+    "id": 11000145,
+    "title": "Mushroom Hunting",
+    "description": "It is said that the first sporali of Darkhollow began as a mere spore in Clan Runneyeye. From these humble beginnings came all the fungusmen you see today.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300329,
+        "label": "Sporalis"
+      }
+    ]
+  },
+  {
+    "id": 11000159,
+    "title": "My Golden Boots",
+    "description": "It is believed that the Efreeti are a creation of Solusek Ro though they exhibit free will which is uncharacteristic of most elemental creations.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300343,
+        "label": "Djinns and Efreetis."
+      }
+    ]
+  },
+  {
+    "id": 11000131,
+    "title": "New Frontiers",
+    "description": "You will encounter goblins on nearly every continent you visit. It is best you learn their fighting styles early and keep them close to heart, lest they overcome you with their deviousness.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300315,
+        "label": "Goblins and Nightmare Goblins."
+      }
+    ]
+  },
+  {
+    "id": 11000113,
+    "title": "New Tricks",
+    "description": "Who says you can't teach an old dog new tricks? You've taught every dog you've come across how to play dead!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300297,
+        "label": "Chokidais, Drolvargs, Hynids, Rotdogs, Scaled Wolves, Sonic Wolves, Werewolves, Wolves, and Worgs."
+      }
+    ]
+  },
+  {
+    "id": 11000156,
+    "title": "No Vacancy",
+    "description": "It was not an uncommon sight to see travelers running from griffons in The Commonlands. Their folly was expecting the innkeepers to shoo the mystical beasts away.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300340,
+        "label": "Griffons, Griffennes, and Griffins."
+      }
+    ]
+  },
+  {
+    "id": 11000086,
+    "title": "Not a Kerran the World!",
+    "description": "The primary concerns of the kerran people are avoiding the heretics of Paineel and catching enough fish to feed their village.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300270,
+        "label": "Kerrans"
+      }
+    ]
+  },
+  {
+    "id": 11000072,
+    "title": "Now .49999%",
+    "description": "For a miracle of nature they are fairly unremarkable...",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300256,
+        "label": "Half Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000093,
+    "title": "Of Micelike Men",
+    "description": "Bubonians are more mouselike than their ratman counterparts and are primarily servants of Bertoxxulous.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300277,
+        "label": "Bubonians"
+      }
+    ]
+  },
+  {
+    "id": 11000065,
+    "title": "Oh the Humanity!",
+    "description": "You don't seem to particularly care for the company of humans.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300249,
+        "label": "Humans"
+      }
+    ]
+  },
+  {
+    "id": 11000130,
+    "title": "Orc Weapons, Your Blood Will Spill!",
+    "description": "Well, well, well you're certainly on your way to becoming a big strong adventurer now. Just a few dozen more and you'll have slain enough orcs to impress the town guards.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300314,
+        "label": "Orcs and Wereorcs."
+      }
+    ]
+  },
+  {
+    "id": 11000119,
+    "title": "Overthere in the Wastes",
+    "description": "The colossal Brontotherium and its close relative the Rhinoceros are things of beauty and legend. They also happen to be things of danger and power, so watch yourself on the great plains of Norrath.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300303,
+        "label": "Brontotheriums and Rhinoceros."
+      }
+    ]
+  },
+  {
+    "id": 11000128,
+    "title": "Plenty of Fish In the Sea",
+    "description": "\"You spill your beer while bringing in your line.\" There may be plenty of fish in the sea but that hasn't stopped you from trying to catch and kill them all.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300312,
+        "label": "Fishes, Piranhas, Seahorses, Sharks, Swordfishes, and Wetfang Minnows."
+      }
+    ]
+  },
+  {
+    "id": 11000158,
+    "title": "Puzzling",
+    "description": "\"Sphinxes are as brilliant as they are rare. You are unworthy to slay them if you fail their riddles and you would be too wise to spill their blood if you were capable.\" -Noble Jrakil",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300342,
+        "label": "Sphinxes"
+      }
+    ]
+  },
+  {
+    "id": 11000147,
+    "title": "Quit Dragon Your Heels",
+    "description": "Of the lesser dragons:raptors, wyverns, wurms and wyrms are most notable for being the least magically adept members of the species.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300331,
+        "label": "Raptors, Wyverns, and Wurms."
+      }
+    ]
+  },
+  {
+    "id": 11000088,
+    "title": "Rat Killer",
+    "description": "Bring forth your rusty swords and swing away. Maybe you too will be rewarded with rat whiskers!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300272,
+        "label": "Rats and Molerats."
+      }
+    ]
+  },
+  {
+    "id": 11000140,
+    "title": "Re-Extinction",
+    "description": "For many years it was thought that Prexus' creation, the Kedge, had died out, save for Phinigel Autropos. Look to the Buried Sea to find more of these noble creatures.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300324,
+        "label": "Kedge"
+      }
+    ]
+  },
+  {
+    "id": 11000175,
+    "title": "Reader's Die Jest",
+    "description": "Illiterate doesn't even begin to describe you. You are anti-literate. In fact, you ARE Erud's nightmare.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300361,
+        "label": "Book Dervishes and Book Minion."
+      }
+    ]
+  },
+  {
+    "id": 11000109,
+    "title": "Round of Applause",
+    "description": "I've really got to hand it to you, you lent a hand before the situation got out of hand and now I know I am in good hands.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300293,
+        "label": "Animated Hands"
+      }
+    ]
+  },
+  {
+    "id": 11000084,
+    "title": "Rrrribit!",
+    "description": "The primitive and distant relative of the more intelligent froglok race.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300268,
+        "label": "Frogs"
+      }
+    ]
+  },
+  {
+    "id": 11000135,
+    "title": "Sarnak Slayer",
+    "description": "You may opt to side with the sarnak rather than slaying them at some point. Herald Telcha of Chardok accepts the offerings of those wishing to prove themselves loyal to the Brood of Di`Zok.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300319,
+        "label": "Sarnaks"
+      }
+    ]
+  },
+  {
+    "id": 11000124,
+    "title": "Seacow!",
+    "description": "The manatee does not seem to command the same level of respect as its closely related kin the walrus and sea elephant.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300308,
+        "label": "Manatees"
+      }
+    ]
+  },
+  {
+    "id": 11000126,
+    "title": "Sealephant",
+    "description": "The bulthar and sea elephant are some of the more ferocious and territorial aquatic animals found on Velious.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300310,
+        "label": "Bulthars and Sea Elephants."
+      }
+    ]
+  },
+  {
+    "id": 11000153,
+    "title": "Self Centaured",
+    "description": "The noble centaur can generally be found in the open plains of Antonica. Their most prominent villages can be found in South Karana and Goru`Kar Mesa.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300337,
+        "label": "Centaurs"
+      }
+    ]
+  },
+  {
+    "id": 11000173,
+    "title": "Shadows of Lxanvom",
+    "description": "\"Bertoxxulous deceived and corrupted the minds of the royal Xulous priests until their allegiance belonged to the Lord of Death and Decay above their living kings.\"",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300358,
+        "label": "Xulous"
+      }
+    ]
+  },
+  {
+    "id": 11000099,
+    "title": "Shoo fly!",
+    "description": "You are a scourge to butterflies, flies, malarians, mosquitoes, tsetsian, and wasps.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300283,
+        "label": "Butterflies, Flies, Malarians, Mosquitoes, Tsetsians, and Wasps."
+      }
+    ]
+  },
+  {
+    "id": 11000103,
+    "title": "Snake in the Grass",
+    "description": "The world is full of things that slither and hiss. Do your part in thinning out the ecological diversity of your planet!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300287,
+        "label": "Snakes"
+      }
+    ]
+  },
+  {
+    "id": 11000174,
+    "title": "Spider-Bear",
+    "description": "When Ethernere ripped the sky and tainted the plains the dens of the docile brown bears were among the first to be touched by that ethereal water of nightmare.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300357,
+        "label": "Ursarachnids"
+      }
+    ]
+  },
+  {
+    "id": 11000162,
+    "title": "Spin Me Right Round",
+    "description": "\"The Dervish is a manifestation of planar magic not unlike an elemental. Articles of power or simple debris are enchanted and the creature takes the form of a small tornado.\" - Channeler Victus",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300346,
+        "label": "Dervishes"
+      }
+    ]
+  },
+  {
+    "id": 11000105,
+    "title": "Stake Dinner",
+    "description": "Many clans and sects of vampires exist throughout Norrath. I suggest you carry more than a torch and stake should you go seeking their company. Most will not flinch at the sight of such cliches.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300289,
+        "label": "Vampires"
+      }
+    ]
+  },
+  {
+    "id": 11000146,
+    "title": "Stop Dragon This Out",
+    "description": "There are many kinds of dragons in the world. Dracoliches, witherans and sea dragons would be a good place to start your hunt.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300330,
+        "label": "Dracoliches, Water Dragons, and Witherans."
+      }
+    ]
+  },
+  {
+    "id": 11000112,
+    "title": "Suit up!",
+    "description": "Animated or Enchanted Armors are spirits conjured to defend important areas. They are easier to control than other spirits and undead due to their phylactery nature.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300296,
+        "label": "Animated and Enchanted Armors."
+      }
+    ]
+  },
+  {
+    "id": 11000164,
+    "title": "Terrorible Tentacles",
+    "description": "A dark aberration of stone that makes its home in places of nightmare and despair, the tentacle terror is not to be underestimated.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300348,
+        "label": "Tentacle Terrors"
+      }
+    ]
+  },
+  {
+    "id": 11000118,
+    "title": "The Elephant in the Room",
+    "description": "Unless you began your adventure in the frigid plains of Everfrost you may be unfamiliar with Norrath's mighty mammoths. You may also be interested in seeing the great elephants of the Karanas.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300302,
+        "label": "Elephants and Mammoths."
+      }
+    ]
+  },
+  {
+    "id": 11000132,
+    "title": "The More You Gnoll!",
+    "description": "Although the road to becoming a true gnollslayer is long you are well equipped for the journey.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300316,
+        "label": "Gnolls"
+      }
+    ]
+  },
+  {
+    "id": 11000120,
+    "title": "These Boots Were Made For...",
+    "description": "Just remember your reptilian A-B-Cs: Alligators, Basilisks, and Crocodiles!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300304,
+        "label": "Alligators, Basilisks, and Crocodiles."
+      }
+    ]
+  },
+  {
+    "id": 11000163,
+    "title": "They Call Me the Riftseeker",
+    "description": "\"The pyrilen and gelidran were once a unified creature - a pure riftseeker, neither male nor female, with magical powers that were nearly incomprehensible.\" - Tome of a Lorekeeper",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300347,
+        "label": "Gelidrans and Pyrilens."
+      }
+    ]
+  },
+  {
+    "id": 11000122,
+    "title": "What Has Science Done!?",
+    "description": "The sokokar is an interesting breed between a froglok and a dragon devised by the early Iksar empire. The creators of this beast were divided on whether to call it a sokokar or a draglock.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300306,
+        "label": "Sokokars"
+      }
+    ]
+  },
+  {
+    "id": 11000129,
+    "title": "Why So Crabby?",
+    "description": "Have all these puns got you feeling crabby? Then you best get kraken on slarghilug-ing your way through this epic task of slaying mystical water-dwelling beasts!",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300313,
+        "label": "Crabs, Hraquis, Krakens, and Octopuses."
+      }
+    ]
+  },
+  {
+    "id": 11000081,
+    "title": "Why the Kylong faces?",
+    "description": "The ruins of Veksar lie under the Lake of Ill Omen and house all of the Kylong residents that were drowned when the great dragon Garudon flooded the structure.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300265,
+        "label": "Kylong Iksars of Veksar."
+      }
+    ]
+  },
+  {
+    "id": 11000176,
+    "title": "Witch Mount?",
+    "description": "You've made a clean sweep of every broom and brush in your path.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300362,
+        "label": "Broom Minions"
+      }
+    ]
+  },
+  {
+    "id": 11000069,
+    "title": "Wood You Could You?",
+    "description": "Wood you could you kill an elf? Wood you could you by yourself?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300253,
+        "label": "Wood Elves"
+      }
+    ]
+  },
+  {
+    "id": 11000133,
+    "title": "World Warrens Three",
+    "description": "You may find the Warrens near Paineel to be a place worth visiting if you wish kobold killing to become your forte.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300317,
+        "label": "Kobolds"
+      }
+    ]
+  },
+  {
+    "id": 11000139,
+    "title": "You Can Call Me Alaran",
+    "description": "The majority of Alaran natives do not speak our common tongue.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300323,
+        "label": "Alarans"
+      }
+    ]
+  },
+  {
+    "id": 11000092,
+    "title": "You Dirty Ratman!",
+    "description": "The Chetari and Paebala are the two most notable ratmen clans.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300276,
+        "label": "Ratmen"
+      }
+    ]
+  },
+  {
+    "id": 11000148,
+    "title": "You Keep Dragon Me Into This",
+    "description": "Drakes, fay drakes and drixies account for a large percentage of dragonkind. Though less striking than their greater dragon relatives they are quite dangerous in combat.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300332,
+        "label": "Drakes, Drixies, and Fay Drakes."
+      }
+    ]
+  },
+  {
+    "id": 11000167,
+    "title": "You Look Lovely",
+    "description": "When dealing with harpies or gorgons it is best to keep your exchange to a simple hail or a quick bloodbath, deviating from that plan can have undue consequences.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300351,
+        "label": "Gorgons and Harpies."
+      }
+    ]
+  },
+  {
+    "id": 11000154,
+    "title": "You're Faunny",
+    "description": "Fauns and satyrs are not unlike centaurs in their choice of habitats. Fauns you will most likely find in The Wakening Land. Satyrs you will probably find in Goru`Kar Mesa.",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300338,
+        "label": "Fauns and Satyr."
+      }
+    ]
+  },
+  {
+    "id": 11000143,
+    "title": "You're Not Scaring Anyone",
+    "description": "Although some consider scarecrows to be nothing more than \"hay golems\", there is something distinctly more interesting about these creatures. Perhaps it's their laugh?",
+    "points": 5,
+    "isHidden": true,
+    "subcategoryId": 84,
+    "subcategoryName": "Skill",
+    "categoryId": 80,
+    "categoryName": "Slayer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300327,
+        "label": "Scarecrows and Totems."
+      }
+    ]
+  }
+]

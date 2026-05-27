@@ -1,0 +1,1545 @@
+[
+  {
+    "id": 1101003,
+    "title": "Deepslayer",
+    "description": "This achievement is gained upon completing all hunts in Depths of Darkhollow.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1101,
+    "subcategoryName": "General",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110100301,
+        "label": "Novice Hunter of Depths of Darkhollow"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110100302,
+        "label": "Adept Hunter of Depths of Darkhollow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110100303,
+        "label": "Veteran Hunter of Depths of Darkhollow"
+      }
+    ]
+  },
+  {
+    "id": 1100050,
+    "title": "Depths of Darkhollow Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Depths of Darkhollow.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1101,
+    "subcategoryName": "General",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 270541,
+        "label": "Nektulos, Shadowed Grove Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270542,
+        "label": "Corathus Creep Traveler"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270543,
+        "label": "Sporali Caverns Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270544,
+        "label": "The Corathus Mines Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270545,
+        "label": "The Undershore Traveler"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 270546,
+        "label": "Snarlstone Dens Traveler"
+      },
+      {
+        "order": 7,
+        "type": 2,
+        "value": 270547,
+        "label": "Shadow Spine Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270548,
+        "label": "Ruins of Illsalin Traveler"
+      },
+      {
+        "order": 9,
+        "type": 2,
+        "value": 270549,
+        "label": "Illsalin Marketplace Traveler"
+      },
+      {
+        "order": 10,
+        "type": 2,
+        "value": 270550,
+        "label": "Temple of the Korlach Traveler"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 270551,
+        "label": "The Nargilor Pits Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270552,
+        "label": "Stoneroot Falls Traveler"
+      },
+      {
+        "order": 13,
+        "type": 2,
+        "value": 270553,
+        "label": "Prince's Manor Traveler"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 270554,
+        "label": "Caverns of the Lost Traveler"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 270555,
+        "label": "Lair of the Korlach Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270556,
+        "label": "The Hive Traveler"
+      },
+      {
+        "order": 17,
+        "type": 2,
+        "value": 270557,
+        "label": "The Hatchery Traveler"
+      },
+      {
+        "order": 18,
+        "type": 2,
+        "value": 270558,
+        "label": "The Cocoons Traveler"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 270559,
+        "label": "The Queen's Lair Traveler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 270560,
+        "label": "Dreadspire Keep Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1136000,
+    "title": "Caverns of the Lost Traveler",
+    "description": "This achievement is gained upon visiting the Caverns of the Lost.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270296,
+        "label": "Visit the Caverns of the Lost"
+      }
+    ]
+  },
+  {
+    "id": 1136500,
+    "title": "Corathus Creep Traveler",
+    "description": "This achievement is gained upon visiting Corathus Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270301,
+        "label": "Visit Corathus Creep"
+      }
+    ]
+  },
+  {
+    "id": 1135100,
+    "title": "Dreadspire Keep Traveler",
+    "description": "This achievement is gained upon visiting Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270289,
+        "label": "Visit Dreadspire Keep"
+      }
+    ]
+  },
+  {
+    "id": 1134800,
+    "title": "Illsalin Marketplace Traveler",
+    "description": "This achievement is gained upon visiting Illsalin Marketplace.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270286,
+        "label": "Visit Illsalin Marketplace"
+      }
+    ]
+  },
+  {
+    "id": 1136100,
+    "title": "Lair of the Korlach Traveler",
+    "description": "This achievement is gained upon visiting the Lair of the Korlach.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270297,
+        "label": "Visit the Lair of the Korlach"
+      }
+    ]
+  },
+  {
+    "id": 1136800,
+    "title": "Nektulos, Shadowed Grove Traveler",
+    "description": "This achievement is gained upon visiting Nektulos, Shadowed Grove.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270304,
+        "label": "Visit Nektulos, Shadowed Grove"
+      }
+    ]
+  },
+  {
+    "id": 1135900,
+    "title": "Prince's Manor Traveler",
+    "description": "This achievement is gained upon visiting the Prince's Manor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270295,
+        "label": "Visit the Prince's Manor"
+      }
+    ]
+  },
+  {
+    "id": 1134700,
+    "title": "Ruins of Illsalin Traveler",
+    "description": "This achievement is gained upon visiting the Ruins of Illsalin.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270285,
+        "label": "Visit the Ruins of Illsalin"
+      }
+    ]
+  },
+  {
+    "id": 1136400,
+    "title": "Shadow Spine Traveler",
+    "description": "This achievement is gained upon visiting Shadow Spine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270300,
+        "label": "Visit Shadow Spine"
+      }
+    ]
+  },
+  {
+    "id": 1136300,
+    "title": "Snarlstone Dens Traveler",
+    "description": "This achievement is gained upon visiting Snarlstone Dens.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270299,
+        "label": "Visit Snarlstone Dens"
+      }
+    ]
+  },
+  {
+    "id": 1136600,
+    "title": "Sporali Caverns Traveler",
+    "description": "This achievement is gained upon visiting Sporali Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270302,
+        "label": "Visit Sporali Caverns"
+      }
+    ]
+  },
+  {
+    "id": 1135800,
+    "title": "Stoneroot Falls Traveler",
+    "description": "This achievement is gained upon visiting Stoneroot Falls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270294,
+        "label": "Visit Stoneroot Falls"
+      }
+    ]
+  },
+  {
+    "id": 1134900,
+    "title": "Temple of the Korlach Traveler",
+    "description": "This achievement is gained upon visiting Temple of the Korlach.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270287,
+        "label": "Visit Temple of the Korlach"
+      }
+    ]
+  },
+  {
+    "id": 1135600,
+    "title": "The Cocoons Traveler",
+    "description": "This achievement is gained upon visiting The Cocoons.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270292,
+        "label": "Visit The Cocoons"
+      }
+    ]
+  },
+  {
+    "id": 1136700,
+    "title": "The Corathus Mines Traveler",
+    "description": "This achievement is gained upon visiting The Corathus Mines.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270303,
+        "label": "Visit The Corathus Mines"
+      }
+    ]
+  },
+  {
+    "id": 1135500,
+    "title": "The Hatchery Traveler",
+    "description": "This achievement is gained upon visiting The Hatchery.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270291,
+        "label": "Visit The Hatchery"
+      }
+    ]
+  },
+  {
+    "id": 1135400,
+    "title": "The Hive Traveler",
+    "description": "This achievement is gained upon visiting The Hive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270290,
+        "label": "Visit The Hive"
+      }
+    ]
+  },
+  {
+    "id": 1135000,
+    "title": "The Nargilor Pits Traveler",
+    "description": "This achievement is gained upon visiting The Nargilor Pits.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270288,
+        "label": "Visit The Nargilor Pits"
+      }
+    ]
+  },
+  {
+    "id": 1135700,
+    "title": "The Queen's Lair Traveler",
+    "description": "This achievement is gained upon visiting The Queen's Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270293,
+        "label": "Visit The Queen's Lair"
+      }
+    ]
+  },
+  {
+    "id": 1136200,
+    "title": "The Undershore Traveler",
+    "description": "This achievement is gained upon visiting The Undershore.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1102,
+    "subcategoryName": "Exploration",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270298,
+        "label": "Visit The Undershore"
+      }
+    ]
+  },
+  {
+    "id": 90044,
+    "title": "Demi-Plane of Blood Guest",
+    "description": "These keys unlock the entrance to Dreadspire Keep: Demi-Plane of Blood.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1103,
+    "subcategoryName": "Progression",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3061,
+        "label": "Fully embrace the Curse of Blood or defeat the Master to become a welcomed guest:"
+      },
+      {
+        "order": 1,
+        "type": 2,
+        "value": 3062,
+        "label": "Defeated Emperor Draygun"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 3063,
+        "label": "Defeated Council of Nine"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 3064,
+        "label": "Defeated Queen Sendaii"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 3065,
+        "label": "Defeated Matriarch Shyra"
+      },
+      {
+        "order": 5,
+        "type": 2,
+        "value": 3066,
+        "label": "Defeated Bloodeye"
+      },
+      {
+        "order": 6,
+        "type": 2,
+        "value": 3067,
+        "label": "Defeated The Master"
+      }
+    ]
+  },
+  {
+    "id": 90040,
+    "title": "Dreadspire Keep Visitor",
+    "description": "This key unlocks the entrance to Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1103,
+    "subcategoryName": "Progression",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3057,
+        "label": "Treddlehoop's Wonderful Monoculor Seeing Device"
+      }
+    ]
+  },
+  {
+    "id": 90042,
+    "title": "Dreadspire Library Card",
+    "description": "This key unlocks the door to the library within Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1103,
+    "subcategoryName": "Progression",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3059,
+        "label": "Dreadspire Library Card"
+      }
+    ]
+  },
+  {
+    "id": 90043,
+    "title": "Dreadspire Tower Key",
+    "description": "This key unlocks the door to the tower within Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1103,
+    "subcategoryName": "Progression",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3060,
+        "label": "Dreadspire Tower Key"
+      }
+    ]
+  },
+  {
+    "id": 90041,
+    "title": "Formal Dinner Invitation",
+    "description": "This key unlocks the portal to Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1103,
+    "subcategoryName": "Progression",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3058,
+        "label": "Formal Dinner Invitation"
+      }
+    ]
+  },
+  {
+    "id": 1108020,
+    "title": "Adept Hunter of Depths of Darkhollow",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110802001,
+        "label": "Hunter of Stoneroot Falls"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110802002,
+        "label": "Hunter of The Hive"
+      }
+    ]
+  },
+  {
+    "id": 1108100,
+    "title": "Hunter of Corathus Creep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Corathus Creep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110810001,
+        "label": "a corathus infector"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110810002,
+        "label": "a reeking corathus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110810003,
+        "label": "a shuffling mindspore thrall"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110810004,
+        "label": "a sporali frostthrower"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110810005,
+        "label": "a sporali needler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110810006,
+        "label": "a sporali stingswarm"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110810007,
+        "label": "an envenomed thrall"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110810008,
+        "label": "an oozing corathus"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110810009,
+        "label": "Creeper"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110810010,
+        "label": "Defecto-Scraper"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110810011,
+        "label": "Magiken"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110810012,
+        "label": "Octo-Bot"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110810013,
+        "label": "Patrol XIV"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110810014,
+        "label": "Psciospore"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110810015,
+        "label": "Scuttlebucket"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 110810016,
+        "label": "Slink"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 110810017,
+        "label": "Slither"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 110810018,
+        "label": "Squirmsnare"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 110810019,
+        "label": "The Sporali Avenger"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 110810020,
+        "label": "Vernon"
+      }
+    ]
+  },
+  {
+    "id": 1108200,
+    "title": "Hunter of Corathus Lair",
+    "description": "This achievement is gained upon defeating the following rare monsters in Corathus Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110820001,
+        "label": "Iguanidae Enrager"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110820002,
+        "label": "Lasiurus Aggressor"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110820003,
+        "label": "Rattus Ravager"
+      }
+    ]
+  },
+  {
+    "id": 1108800,
+    "title": "Hunter of Dreadspire Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dreadspire Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110880001,
+        "label": "Alex Hutchison"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110880002,
+        "label": "Aliattis the Drinker"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110880003,
+        "label": "Arylon"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110880004,
+        "label": "Chattering Bonewalker"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110880005,
+        "label": "Chef Ioan"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110880006,
+        "label": "Darion the Blade"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110880007,
+        "label": "Exhausted Guest"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110880008,
+        "label": "Grotesque Gargoyle"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110880009,
+        "label": "Grumblebum"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110880010,
+        "label": "Maximillion"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110880011,
+        "label": "Melinda Baleheart"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110880012,
+        "label": "Old Lady Smotts"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110880013,
+        "label": "One-Hundred Eyes"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110880014,
+        "label": "Sebastian"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110880015,
+        "label": "Shadowy Student"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 110880016,
+        "label": "Sleepy Guest"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 110880017,
+        "label": "The Restless One"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 110880018,
+        "label": "The Revenant"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 110880019,
+        "label": "Vivisector"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 110880020,
+        "label": "Wyrexxis the Devourer"
+      }
+    ]
+  },
+  {
+    "id": 1108700,
+    "title": "Hunter of Ruins of Illsalin",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ruins of Illsalin.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110870001,
+        "label": "a drachnid bloodknight"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110870002,
+        "label": "a drachnid hiveleader"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110870003,
+        "label": "A Forgotten Guardian"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110870004,
+        "label": "a massive Deep Orc"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110870005,
+        "label": "a mature splorgath"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110870006,
+        "label": "a perfect splorgath"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110870007,
+        "label": "a spiny cryptstealer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110870008,
+        "label": "an adolescent witheran"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110870009,
+        "label": "an aged splorgath"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110870010,
+        "label": "an evasive witheran"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110870011,
+        "label": "Battlemage Ristyr"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110870012,
+        "label": "Battlemaster Rygosh"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110870013,
+        "label": "Bishop Yurim"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110870014,
+        "label": "Clergyman Gryfil"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110870015,
+        "label": "Drill Master Zarthin"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 110870016,
+        "label": "Gloomfang"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 110870017,
+        "label": "High Priest Preyan"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 110870018,
+        "label": "Lifedrainer"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 110870019,
+        "label": "Overseer Xygern"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 110870020,
+        "label": "Slave Regert"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 110870021,
+        "label": "Sorceror Lusix"
+      }
+    ]
+  },
+  {
+    "id": 1108400,
+    "title": "Hunter of Stoneroot Falls",
+    "description": "This achievement is gained upon defeating the following rare monsters in Stoneroot Falls.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110840001,
+        "label": "Captain Klegor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110840002,
+        "label": "Commander Olag"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110840003,
+        "label": "Commander Omeg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110840004,
+        "label": "Drillak the Slayer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110840005,
+        "label": "General Greglon"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110840006,
+        "label": "Krage the Lake Champion"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110840007,
+        "label": "Reknid The Tower Watcher"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110840008,
+        "label": "Slave Driver Skeliz"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110840009,
+        "label": "Slubber"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110840010,
+        "label": "Squeakers"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110840011,
+        "label": "Stonebite"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110840012,
+        "label": "The Drachnid Champion"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110840013,
+        "label": "The Drained shiliskin Captain"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110840014,
+        "label": "The Shadow Guardian"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110840015,
+        "label": "Throatripper"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 110840016,
+        "label": "Warlock Therigal"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 110840017,
+        "label": "Zoriles the Champion"
+      }
+    ]
+  },
+  {
+    "id": 1108500,
+    "title": "Hunter of The Hive",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Hive.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110850001,
+        "label": "a defiant chieftain"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110850002,
+        "label": "a drachnid construct"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110850003,
+        "label": "a drachnid fanatic"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110850004,
+        "label": "a drachnid high shaman"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110850005,
+        "label": "a drachnid overseer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110850006,
+        "label": "a drachnid prophet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110850007,
+        "label": "a drachnid shadowspinner"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110850008,
+        "label": "a drachnid tormentor"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110850009,
+        "label": "a drachnid trapweaver"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110850010,
+        "label": "a Hive breeder"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110850011,
+        "label": "a Hive caretaker"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110850012,
+        "label": "a Hive corpsemaster"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110850013,
+        "label": "a Hive crawler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110850014,
+        "label": "a Hive egg tender"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110850015,
+        "label": "a Hive sentinel"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 110850016,
+        "label": "a Hive slavemaster"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 110850017,
+        "label": "a ruins scavenger"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 110850018,
+        "label": "a skinwalker instructor"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 110850019,
+        "label": "a skinwalker master"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 110850020,
+        "label": "an elder ritualist"
+      }
+    ]
+  },
+  {
+    "id": 1108300,
+    "title": "Hunter of The Undershore",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Undershore.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110830001,
+        "label": "a Deep Orc fire tender"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110830002,
+        "label": "a Forlorn Wanderer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110830003,
+        "label": "a freemind gatherer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 110830004,
+        "label": "a necromantic aide"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 110830005,
+        "label": "a rabid witheran"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 110830006,
+        "label": "a splorgath nightmare"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 110830007,
+        "label": "an escaped Deep Orc caster"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 110830008,
+        "label": "an infected slitherer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 110830009,
+        "label": "an undershore mindbender"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 110830010,
+        "label": "Grelang"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 110830011,
+        "label": "Sarvin"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 110830012,
+        "label": "Shivlen"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 110830013,
+        "label": "Silver Claw"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 110830014,
+        "label": "The Deep Crawler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 110830015,
+        "label": "The Nightcrier"
+      }
+    ]
+  },
+  {
+    "id": 1108010,
+    "title": "Novice Hunter of Depths of Darkhollow",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110801001,
+        "label": "Hunter of Corathus Creep"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110801002,
+        "label": "Hunter of Corathus Lair"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 110801003,
+        "label": "Hunter of The Undershore"
+      }
+    ]
+  },
+  {
+    "id": 1108030,
+    "title": "Veteran Hunter of Depths of Darkhollow",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1108,
+    "subcategoryName": "Hunts",
+    "categoryId": 1100,
+    "categoryName": "Depths of Darkhollow",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 110803001,
+        "label": "Hunter of Ruins of Illsalin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 110803002,
+        "label": "Hunter of Dreadspire Keep"
+      }
+    ]
+  }
+]

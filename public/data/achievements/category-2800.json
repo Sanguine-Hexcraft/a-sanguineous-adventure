@@ -1,0 +1,4508 @@
+[
+  {
+    "id": 2801007,
+    "title": "Challenger of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all mission challenges in Claws of Veeshan.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100701,
+        "label": "Savior of The Temple of Veeshan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100702,
+        "label": "Savior of Dragon Necropolis: Zlandicar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100703,
+        "label": "Savior of Skyshrine"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100704,
+        "label": "Savior of Sleeper's Tomb: The Call"
+      }
+    ]
+  },
+  {
+    "id": 2801005,
+    "title": "Champion of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all quests in Claws of Veeshan.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100501,
+        "label": "Mercenary of Cobalt Scar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100502,
+        "label": "Partisan of Cobalt Scar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100503,
+        "label": "Mercenary of The Western Wastes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100504,
+        "label": "Partisan of The Western Wastes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280100505,
+        "label": "Mercenary of The Temple of Veeshan"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280100506,
+        "label": "Partisan of The Temple of Veeshan"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280100507,
+        "label": "Mercenary of Dragon Necropolis"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280100508,
+        "label": "Partisan of Dragon Necropolis"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 280100509,
+        "label": "Mercenary of Skyshrine"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 280100510,
+        "label": "Partisan of Skyshrine"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 280100511,
+        "label": "Mercenary of The Sleeper's Tomb"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 280100512,
+        "label": "Partisan of The Sleeper's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2801008,
+    "title": "Conqueror of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all raids in Claws of Veeshan.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100801,
+        "label": "Conqueror of The Western Wastes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100802,
+        "label": "Conqueror of The Temple of Veeshan"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100803,
+        "label": "Conqueror of Dragon Necropolis: Zlandicar"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100804,
+        "label": "Conqueror of Skyshrine"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280100805,
+        "label": "Conqueror of The Eastern Wastes: Defenders of the Tomb"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280100806,
+        "label": "Conqueror of Sleeper's Tomb: The Call"
+      }
+    ]
+  },
+  {
+    "id": 2801004,
+    "title": "Explorer of Claws of Veeshan",
+    "description": "This achievement is gained upon visiting all zones in Claws of Veeshan.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100401,
+        "label": "Cobalt Scar Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100402,
+        "label": "The Western Wastes Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100403,
+        "label": "The Temple of Veeshan Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100404,
+        "label": "Dragon Necropolis Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280100405,
+        "label": "Skyshrine Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280100406,
+        "label": "The Sleeper's Tomb Traveler"
+      }
+    ]
+  },
+  {
+    "id": 2801003,
+    "title": "Ice Cold Slayer",
+    "description": "This achievement is gained upon completing all hunts in Claws of Veeshan.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100301,
+        "label": "Novice Hunter of Claws of Veeshan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100302,
+        "label": "Adept Hunter of Claws of Veeshan"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100303,
+        "label": "Veteran Hunter of Claws of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 2801001,
+    "title": "Master of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in Claws of Veeshan.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100101,
+        "label": "The Frozen One"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100102,
+        "label": "Ice Cold Slayer"
+      }
+    ]
+  },
+  {
+    "id": 2801006,
+    "title": "Paragon of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all missions in Claws of Veeshan.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100601,
+        "label": "Hero of The Temple of Veeshan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100602,
+        "label": "Hero of Dragon Necropolis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100603,
+        "label": "Hero of Skyshrine"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100604,
+        "label": "Hero of The Sleeper's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2801002,
+    "title": "The Frozen One",
+    "description": "This achievement is gained upon completing all quests and missions in Claws of Veeshan.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100201,
+        "label": "Champion of Claws of Veeshan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100202,
+        "label": "Paragon of Claws of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 2801010,
+    "title": "Tundra Excavator",
+    "description": "This achievement is gained upon completing all collections in Claws of Veeshan.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280101001,
+        "label": "Symbols of Life"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280101002,
+        "label": "Symbols of Death"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280101003,
+        "label": "Symbols of Inevitability"
+      }
+    ]
+  },
+  {
+    "id": 2801009,
+    "title": "Vanquisher of Claws of Veeshan",
+    "description": "This achievement is gained upon completing all raid challenges in Claws of Veeshan.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 2801,
+    "subcategoryName": "General",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280100901,
+        "label": "Vanquisher of Tantor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280100902,
+        "label": "Vanquisher of Klandicar and the New Brood"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280100903,
+        "label": "Vanquisher of Sontalak"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280100904,
+        "label": "Vanquisher of Aaryonar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280100905,
+        "label": "Vanquisher of Zlandicar Reborn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280100906,
+        "label": "Vanquisher of The Crusaders"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280100907,
+        "label": "Vanquisher of Defenders of the Tomb"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280100908,
+        "label": "Vanquisher of Amalgum Arbiter"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 280100909,
+        "label": "Vanquisher of Vulak'Aerr"
+      }
+    ]
+  },
+  {
+    "id": 2803100,
+    "title": "Cobalt Scar Traveler",
+    "description": "This achievement is gained upon visiting Cobalt Scar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280310001,
+        "label": "Visit Cobalt Scar"
+      }
+    ]
+  },
+  {
+    "id": 2803400,
+    "title": "Dragon Necropolis Traveler",
+    "description": "This achievement is gained upon visiting Dragon Necropolis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280340001,
+        "label": "Visit Dragon Necropolis"
+      }
+    ]
+  },
+  {
+    "id": 2803500,
+    "title": "Skyshrine Traveler",
+    "description": "This achievement is gained upon visiting Skyshrine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280350001,
+        "label": "Visit Skyshrine"
+      }
+    ]
+  },
+  {
+    "id": 2803600,
+    "title": "The Sleeper's Tomb Traveler",
+    "description": "This achievement is gained upon visiting The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280360001,
+        "label": "Visit The Sleeper's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2803300,
+    "title": "The Temple of Veeshan Traveler",
+    "description": "This achievement is gained upon visiting The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280330001,
+        "label": "Visit The Temple of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 2803200,
+    "title": "The Western Wastes Traveler",
+    "description": "This achievement is gained upon visiting The Western Wastes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2803,
+    "subcategoryName": "Exploration",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280320001,
+        "label": "Visit The Western Wastes"
+      }
+    ]
+  },
+  {
+    "id": 2804110,
+    "title": "Mercenary of Cobalt Scar",
+    "description": "This achievement is gained upon completing the following quests in Cobalt Scar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280411001,
+        "label": "Adella Undertow - Just an 'ol Fashioned Love Song"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280411002,
+        "label": "Adella Undertow - Don't Tell Me That You Love Me"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280411003,
+        "label": "Adella Undertow - Know What I Mean, Wyvern?"
+      }
+    ]
+  },
+  {
+    "id": 2804410,
+    "title": "Mercenary of Dragon Necropolis",
+    "description": "This achievement is gained upon completing the following quests in Dragon Necropolis.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280441001,
+        "label": "Quincey Algernope - Founder's Keepers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280441002,
+        "label": "Quincey Algernope - Just Stab Quieter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280441003,
+        "label": "Quincey Algernope - Restless Mice"
+      }
+    ]
+  },
+  {
+    "id": 2804510,
+    "title": "Mercenary of Skyshrine",
+    "description": "This achievement is gained upon completing the following quests in Skyshrine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280451001,
+        "label": "Kalla Mordant - Operation: Raptor Sweep"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280451002,
+        "label": "Kalla Mordant - Operation: Rat Catcher"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280451003,
+        "label": "Kalla Mordant - Operation: Can of Wurms"
+      }
+    ]
+  },
+  {
+    "id": 2804610,
+    "title": "Mercenary of The Sleeper's Tomb",
+    "description": "This achievement is gained upon completing the following quests in The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280461001,
+        "label": "Qabruh - Drakes! Why'd it have to be Drakes?"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280461002,
+        "label": "Qabruh - Sorcery and the Sword"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280461003,
+        "label": "Qabruh - Good, Now Stay Dead!"
+      }
+    ]
+  },
+  {
+    "id": 2804310,
+    "title": "Mercenary of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following quests in The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280431001,
+        "label": "Barlo Aleslay - Go Eat Wurms!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280431002,
+        "label": "Barlo Aleslay - As Clear as Mud"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280431003,
+        "label": "Barlo Aleslay - While You're at It"
+      }
+    ]
+  },
+  {
+    "id": 2804210,
+    "title": "Mercenary of The Western Wastes",
+    "description": "This achievement is gained upon completing the following quests in The Western Wastes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280421001,
+        "label": "Captain Alron Cuppboard - Kedge Sledge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280421002,
+        "label": "Captain Alron Cuppboard - Burrower, I Hardly Know 'er!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280421003,
+        "label": "Captain Alron Cuppboard - What Rhymes with Brontotherium?"
+      }
+    ]
+  },
+  {
+    "id": 2804120,
+    "title": "Partisan of Cobalt Scar",
+    "description": "This achievement is gained upon completing the following quests in Cobalt Scar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280412001,
+        "label": "Aisel Sharpnose - Catch and Release"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280412002,
+        "label": "Provisioner Tarka - Seashells by Seashore"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280412003,
+        "label": "De'ess Al'coda - Unchained Melodies"
+      }
+    ]
+  },
+  {
+    "id": 2804420,
+    "title": "Partisan of Dragon Necropolis",
+    "description": "This achievement is gained upon completing the following quests in Dragon Necropolis.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280442001,
+        "label": "Bawjitsia Jaradh - Rats of a Feather"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280442002,
+        "label": "Researcher Robin - These Old Bones"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280442003,
+        "label": "Tilly Rocksmelt - Let them Stew"
+      }
+    ]
+  },
+  {
+    "id": 2804520,
+    "title": "Partisan of Skyshrine",
+    "description": "This achievement is gained upon completing the following quests in Skyshrine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280452001,
+        "label": "Black Scar - Crystallin for Time"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280452002,
+        "label": "Manuel Gaoler - Bibliotheca Antiqua"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280452003,
+        "label": "Julia Shadestone - Unplanned Obsolescence"
+      }
+    ]
+  },
+  {
+    "id": 2804620,
+    "title": "Partisan of The Sleeper's Tomb",
+    "description": "This achievement is gained upon completing the following quests in The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280462001,
+        "label": "Kolvthnyr - A Little Bit of Everything"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280462002,
+        "label": "Berglok - Witness Me!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280462003,
+        "label": "Glorifying Saffron Ash - Wipe Your Feet"
+      }
+    ]
+  },
+  {
+    "id": 2804320,
+    "title": "Partisan of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following quests in The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280432001,
+        "label": "Kebsis - Should have been a Gemologist"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280432002,
+        "label": "Fipnoc Birribbit - Beyond the Threshold"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280432003,
+        "label": "The Great Hero Ezra - Better than Ezra"
+      }
+    ]
+  },
+  {
+    "id": 2804220,
+    "title": "Partisan of The Western Wastes",
+    "description": "This achievement is gained upon completing the following quests in The Western Wastes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2804,
+    "subcategoryName": "Quests",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280422001,
+        "label": "Thach Jerden - Thach Haul"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280422002,
+        "label": "Colwell Emtray - One for you, Two for me"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280422003,
+        "label": "Siremth - Neither blame nor praise yourself"
+      }
+    ]
+  },
+  {
+    "id": 2805112,
+    "title": "Aaryonar: Maximum Echo",
+    "description": "This special challenge can be completed during the mission, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280511201,
+        "label": "Have someone gain rank V in each of the elemental echoes"
+      }
+    ]
+  },
+  {
+    "id": 2805113,
+    "title": "Aaryonar: No Orbital Explosion",
+    "description": "This special challenge can be completed during the mission, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280511301,
+        "label": "Do not allow any of the orbs to explode by entering the wrong echo shell"
+      }
+    ]
+  },
+  {
+    "id": 2805111,
+    "title": "Aaryonar: Rule of Three",
+    "description": "This special challenge can be completed during the mission, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280511101,
+        "label": "Don't allow three of any orb to exist at the same time"
+      }
+    ]
+  },
+  {
+    "id": 2805200,
+    "title": "Hero of Dragon Necropolis",
+    "description": "This achievement is gained upon completing the following mission in Dragon Necropolis.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280520001,
+        "label": "Watcher Scots - Zlandicar Reborn"
+      }
+    ]
+  },
+  {
+    "id": 2805300,
+    "title": "Hero of Skyshrine",
+    "description": "This achievement is gained upon completing the following mission in Skyshrine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280530001,
+        "label": "Watcher Sprin - The Crusaders"
+      }
+    ]
+  },
+  {
+    "id": 2805400,
+    "title": "Hero of The Sleeper's Tomb",
+    "description": "This achievement is gained upon completing the following mission in The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280540001,
+        "label": "Boridain Glacierbane  - Vulak'Aerr"
+      }
+    ]
+  },
+  {
+    "id": 2805100,
+    "title": "Hero of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following mission in The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280510001,
+        "label": "Sentry Ellison - Aaryonar"
+      }
+    ]
+  },
+  {
+    "id": 2805210,
+    "title": "Savior of Dragon Necropolis: Zlandicar",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Zlandicar Reborn.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280521001,
+        "label": "Zlandicar Reborn: For the Music"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280521002,
+        "label": "Zlandicar Reborn: Zero Growth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280521003,
+        "label": "Zlandicar Reborn: Skin Care"
+      }
+    ]
+  },
+  {
+    "id": 2805310,
+    "title": "Savior of Skyshrine",
+    "description": "This achievement is gained upon completing the following challenges during the mission, The Crusaders.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280531001,
+        "label": "The Crusaders: Shared Pain"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280531002,
+        "label": "The Crusaders: Uncleaned!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280531003,
+        "label": "The Crusaders: The Hard Way"
+      }
+    ]
+  },
+  {
+    "id": 2805410,
+    "title": "Savior of Sleeper's Tomb: The Call",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Vulak'Aerr.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280541001,
+        "label": "Vulak'Aerr: Defensive Measures"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280541002,
+        "label": "Vulak'Aerr: Preventative Measures"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280541003,
+        "label": "Vulak'Aerr: Let Them Go"
+      }
+    ]
+  },
+  {
+    "id": 2805110,
+    "title": "Savior of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Aaryonar.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280511001,
+        "label": "Aaryonar: Rule of Three"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280511002,
+        "label": "Aaryonar: Maximum Echo"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280511003,
+        "label": "Aaryonar: No Orbital Explosion"
+      }
+    ]
+  },
+  {
+    "id": 2805311,
+    "title": "The Crusaders: Shared Pain",
+    "description": "This special challenge can be completed during the mission, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280531101,
+        "label": "Never allow Yelinak's Dragon Lord's Potency to be amplified"
+      }
+    ]
+  },
+  {
+    "id": 2805313,
+    "title": "The Crusaders: The Hard Way",
+    "description": "This special challenge can be completed during the mission, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280531301,
+        "label": "Always allow Yelinak's Dragon Lord's Potency to be amplified"
+      }
+    ]
+  },
+  {
+    "id": 2805312,
+    "title": "The Crusaders: Uncleaned!",
+    "description": "This special challenge can be completed during the mission, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280531201,
+        "label": "Don't let the cubes clean anyone"
+      }
+    ]
+  },
+  {
+    "id": 2805411,
+    "title": "Vulak'Aerr: Defensive Measures",
+    "description": "This special challenge can be completed during the mission, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280541101,
+        "label": "Block each of the lesser gems power at least once (personal)"
+      }
+    ]
+  },
+  {
+    "id": 2805413,
+    "title": "Vulak'Aerr: Let Them Go",
+    "description": "This special challenge can be completed during the mission, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280541301,
+        "label": "Let all the golems explode"
+      }
+    ]
+  },
+  {
+    "id": 2805412,
+    "title": "Vulak'Aerr: Preventative Measures",
+    "description": "This special challenge can be completed during the mission, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280541201,
+        "label": "Let no golems explode"
+      }
+    ]
+  },
+  {
+    "id": 2805211,
+    "title": "Zlandicar Reborn: For the Music",
+    "description": "This special challenge can be completed during the mission, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280521101,
+        "label": "Don't kill any pipers"
+      }
+    ]
+  },
+  {
+    "id": 2805213,
+    "title": "Zlandicar Reborn: Skin Care",
+    "description": "This special challenge can be completed during the mission, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280521301,
+        "label": "Allow both Oily Skin and Rotted Flesh to remain on you for their full duration (personal)"
+      }
+    ]
+  },
+  {
+    "id": 2805212,
+    "title": "Zlandicar Reborn: Zero Growth",
+    "description": "This special challenge can be completed during the mission, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2805,
+    "subcategoryName": "Missions",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280521201,
+        "label": "Don't allow the restless ice pillars to gain strength"
+      }
+    ]
+  },
+  {
+    "id": 2806222,
+    "title": "Aaryonar: Maximum Echo",
+    "description": "This special challenge can be completed during the raid, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280622201,
+        "label": "Have someone gain rank V in each of the elemental echoes"
+      }
+    ]
+  },
+  {
+    "id": 2806223,
+    "title": "Aaryonar: No Orbital Explosion",
+    "description": "This special challenge can be completed during the raid, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280622301,
+        "label": "Do not allow any of the orbs to explode by entering the wrong echo shell"
+      }
+    ]
+  },
+  {
+    "id": 2806221,
+    "title": "Aaryonar: Rule of Three",
+    "description": "This special challenge can be completed during the raid, Aaryonar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280622101,
+        "label": "Don't allow three of any orb to exist at the same time"
+      }
+    ]
+  },
+  {
+    "id": 2806613,
+    "title": "Amalgum Arbiter: Crush Crush!",
+    "description": "This special challenge can be completed during the raid, Amalgum Arbiter.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280661301,
+        "label": "Do not block any of the Crushing Energy Fields with the Charged Golem Shards"
+      }
+    ]
+  },
+  {
+    "id": 2806611,
+    "title": "Amalgum Arbiter: Don't Lose Your Head",
+    "description": "This special challenge can be completed during the raid, Amalgum Arbiter.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280661101,
+        "label": "Always avoid the Decapitating Shards (personal)"
+      }
+    ]
+  },
+  {
+    "id": 2806612,
+    "title": "Amalgum Arbiter: No Catalyst",
+    "description": "This special challenge can be completed during the raid, Amalgum Arbiter.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280661201,
+        "label": "Avoid Energetic or Frost Explosions while affected by Energetic Field or Crystal Coating (personal)"
+      }
+    ]
+  },
+  {
+    "id": 2806300,
+    "title": "Conqueror of Dragon Necropolis: Zlandicar",
+    "description": "This achievement is gained upon completing the following raid in Dragon Necropolis: Zlandicar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280630001,
+        "label": "Watcher Scots - Zlandicar Reborn"
+      }
+    ]
+  },
+  {
+    "id": 2806400,
+    "title": "Conqueror of Skyshrine",
+    "description": "This achievement is gained upon completing the following raid in Skyshrine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280640001,
+        "label": "Watcher Sprin - The Crusaders"
+      }
+    ]
+  },
+  {
+    "id": 2806600,
+    "title": "Conqueror of Sleeper's Tomb: The Call",
+    "description": "This achievement is gained upon completing the following raids in Sleeper's Tomb: The Call.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280660001,
+        "label": "Essedera  - Amalgum Arbiter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280660002,
+        "label": "Essedera  - Vulak'Aerr"
+      }
+    ]
+  },
+  {
+    "id": 2806500,
+    "title": "Conqueror of The Eastern Wastes: Defenders of the Tomb",
+    "description": "This achievement is gained upon completing the following raid in The Eastern Wastes: Defenders of the Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280650001,
+        "label": "Sentinel Paxin - Defenders of the Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2806200,
+    "title": "Conqueror of The Temple of Veeshan",
+    "description": "This achievement is gained upon completing the following raids in The Temple of Veeshan.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280620001,
+        "label": "Sentry Ellison - Sontalak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280620002,
+        "label": "Sentry Ellison - Aaryonar"
+      }
+    ]
+  },
+  {
+    "id": 2806100,
+    "title": "Conqueror of The Western Wastes",
+    "description": "This achievement is gained upon completing the following raids in The Western Wastes.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280610001,
+        "label": "Watcher Devin - Tantor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280610002,
+        "label": "Watcher Devin - Klandicar and the New Brood"
+      }
+    ]
+  },
+  {
+    "id": 2806512,
+    "title": "Defenders of the Tomb: Drake Preservation",
+    "description": "This special challenge can be completed during the raid, Defenders of the Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280651201,
+        "label": "Only kill the minimum drakes needed to defeat the event"
+      }
+    ]
+  },
+  {
+    "id": 2806511,
+    "title": "Defenders of the Tomb: Three at a Time",
+    "description": "This special challenge can be completed during the raid, Defenders of the Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280651101,
+        "label": "Defeat all three dragons within 30 seconds of each other"
+      }
+    ]
+  },
+  {
+    "id": 2806513,
+    "title": "Defenders of the Tomb: Three Heads are Better",
+    "description": "This special challenge can be completed during the raid, Defenders of the Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280651301,
+        "label": "Activate all three dragons within 30 seconds of each other"
+      }
+    ]
+  },
+  {
+    "id": 2806123,
+    "title": "Klandicar and the New Brood: Assistance Needed",
+    "description": "This special challenge can be completed during the raid, Klandicar and the New Brood.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280612301,
+        "label": "Get at least one of the tenders to assist in the fight against Klandicar"
+      }
+    ]
+  },
+  {
+    "id": 2806122,
+    "title": "Klandicar and the New Brood: Break No Eggs",
+    "description": "This special challenge can be completed during the raid, Klandicar and the New Brood.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280612201,
+        "label": "Allow no eggs to be corrupted"
+      }
+    ]
+  },
+  {
+    "id": 2806121,
+    "title": "Klandicar and the New Brood: No Dragonicide",
+    "description": "This special challenge can be completed during the raid, Klandicar and the New Brood.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280612101,
+        "label": "Don't kill any of the new brood"
+      }
+    ]
+  },
+  {
+    "id": 2806213,
+    "title": "Sontalak: Face the fire alone",
+    "description": "This special challenge can be completed during the raid, Sontalak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280621301,
+        "label": "Beldion is dismissed within the first three minutes of the encounter"
+      }
+    ]
+  },
+  {
+    "id": 2806212,
+    "title": "Sontalak: Protected by ice",
+    "description": "This special challenge can be completed during the raid, Sontalak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280621201,
+        "label": "Beldion survives the conflict with Sontalak"
+      }
+    ]
+  },
+  {
+    "id": 2806211,
+    "title": "Sontalak: We didn't light on fire",
+    "description": "This special challenge can be completed during the raid, Sontalak.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280621101,
+        "label": "Do not be hit by the flame jet from the statue."
+      }
+    ]
+  },
+  {
+    "id": 2806112,
+    "title": "Tantor: Clear Them Out",
+    "description": "This special challenge can be completed during the raid, Tantor.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280611201,
+        "label": "Kill all the tantorlings before others appear"
+      }
+    ]
+  },
+  {
+    "id": 2806113,
+    "title": "Tantor: Not a Monster",
+    "description": "This special challenge can be completed during the raid, Tantor.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280611301,
+        "label": "Kill none of the tantorlings, because that's just mean"
+      }
+    ]
+  },
+  {
+    "id": 2806111,
+    "title": "Tantor: The Sky is Falling",
+    "description": "This special challenge can be completed during the raid, Tantor.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280611101,
+        "label": "Duck all of the rocks"
+      }
+    ]
+  },
+  {
+    "id": 2806411,
+    "title": "The Crusaders: Shared Pain",
+    "description": "This special challenge can be completed during the raid, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280641101,
+        "label": "Never allow Yelinak's Dragon Lord's Potency to be amplified"
+      }
+    ]
+  },
+  {
+    "id": 2806413,
+    "title": "The Crusaders: The Hard Way",
+    "description": "This special challenge can be completed during the raid, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280641301,
+        "label": "Always allow Yelinak's Dragon Lord's Potency to be amplified"
+      }
+    ]
+  },
+  {
+    "id": 2806412,
+    "title": "The Crusaders: Uncleaned!",
+    "description": "This special challenge can be completed during the raid, The Crusaders.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280641201,
+        "label": "Don't let the cubes clean anyone"
+      }
+    ]
+  },
+  {
+    "id": 2806220,
+    "title": "Vanquisher of Aaryonar",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Aaryonar.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280622001,
+        "label": "Aaryonar: Rule of Three"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280622002,
+        "label": "Aaryonar: Maximum Echo"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280622003,
+        "label": "Aaryonar: No Orbital Explosion"
+      }
+    ]
+  },
+  {
+    "id": 2806610,
+    "title": "Vanquisher of Amalgum Arbiter",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Amalgum Arbiter.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280661001,
+        "label": "Amalgum Arbiter: Don't Lose Your Head"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280661002,
+        "label": "Amalgum Arbiter: No Catalyst"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280661003,
+        "label": "Amalgum Arbiter: Crush Crush!"
+      }
+    ]
+  },
+  {
+    "id": 2806510,
+    "title": "Vanquisher of Defenders of the Tomb",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Defenders of the Tomb.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280651001,
+        "label": "Defenders of the Tomb: Three at a Time"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280651002,
+        "label": "Defenders of the Tomb: Drake Preservation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280651003,
+        "label": "Defenders of the Tomb: Three Heads are Better"
+      }
+    ]
+  },
+  {
+    "id": 2806120,
+    "title": "Vanquisher of Klandicar and the New Brood",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Klandicar and the New Brood.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280612001,
+        "label": "Klandicar and the New Brood: No Dragonicide"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280612002,
+        "label": "Klandicar and the New Brood: Break No Eggs"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280612003,
+        "label": "Klandicar and the New Brood: Assistance Needed"
+      }
+    ]
+  },
+  {
+    "id": 2806210,
+    "title": "Vanquisher of Sontalak",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Sontalak.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280621001,
+        "label": "Sontalak: We didn't light on fire"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280621002,
+        "label": "Sontalak: Protected by ice"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280621003,
+        "label": "Sontalak: Face the fire alone"
+      }
+    ]
+  },
+  {
+    "id": 2806110,
+    "title": "Vanquisher of Tantor",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Tantor.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280611001,
+        "label": "Tantor: The Sky is Falling"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280611002,
+        "label": "Tantor: Clear Them Out"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280611003,
+        "label": "Tantor: Not a Monster"
+      }
+    ]
+  },
+  {
+    "id": 2806410,
+    "title": "Vanquisher of The Crusaders",
+    "description": "This achievement is gained upon completing the following challenges during the raid, The Crusaders.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280641001,
+        "label": "The Crusaders: Shared Pain"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280641002,
+        "label": "The Crusaders: Uncleaned!"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280641003,
+        "label": "The Crusaders: The Hard Way"
+      }
+    ]
+  },
+  {
+    "id": 2806620,
+    "title": "Vanquisher of Vulak'Aerr",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Vulak'Aerr.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280662001,
+        "label": "Vulak'Aerr: Timing is Everything"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280662002,
+        "label": "Vulak'Aerr: No Boom"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280662003,
+        "label": "Vulak'Aerr: Maximum Boom"
+      }
+    ]
+  },
+  {
+    "id": 2806310,
+    "title": "Vanquisher of Zlandicar Reborn",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Zlandicar Reborn.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280631001,
+        "label": "Zlandicar Reborn: For the Music"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280631002,
+        "label": "Zlandicar Reborn: Zero Growth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280631003,
+        "label": "Zlandicar Reborn: Here be Dragons, Not!"
+      }
+    ]
+  },
+  {
+    "id": 2806623,
+    "title": "Vulak'Aerr: Maximum Boom",
+    "description": "This special challenge can be completed during the raid, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280662301,
+        "label": "Let all the golems explode"
+      }
+    ]
+  },
+  {
+    "id": 2806622,
+    "title": "Vulak'Aerr: No Boom",
+    "description": "This special challenge can be completed during the raid, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280662201,
+        "label": "Let no golems explode"
+      }
+    ]
+  },
+  {
+    "id": 2806621,
+    "title": "Vulak'Aerr: Timing is Everything",
+    "description": "This special challenge can be completed during the raid, Vulak'Aerr.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280662101,
+        "label": "Do not let any of the guardian dragons return to life"
+      }
+    ]
+  },
+  {
+    "id": 2806311,
+    "title": "Zlandicar Reborn: For the Music",
+    "description": "This special challenge can be completed during the raid, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280631101,
+        "label": "Don't kill any pipers"
+      }
+    ]
+  },
+  {
+    "id": 2806313,
+    "title": "Zlandicar Reborn: Here be Dragons, Not!",
+    "description": "This special challenge can be completed during the raid, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280631301,
+        "label": "Don't allow the deathbinders to animate any dracoliches"
+      }
+    ]
+  },
+  {
+    "id": 2806312,
+    "title": "Zlandicar Reborn: Zero Growth",
+    "description": "This special challenge can be completed during the raid, Zlandicar Reborn.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2806,
+    "subcategoryName": "Raids",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280631201,
+        "label": "Don't allow the restless ice pillars to gain strength"
+      }
+    ]
+  },
+  {
+    "id": 2807300,
+    "title": "Adept Hunter of Claws of Veeshan",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280730001,
+        "label": "Hunter of The Temple of Veeshan"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280730002,
+        "label": "Hunter of Dragon Necropolis"
+      }
+    ]
+  },
+  {
+    "id": 2807101,
+    "title": "Hunter of Cobalt Scar",
+    "description": "This achievement is gained upon defeating the following rare monsters in Cobalt Scar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280710101,
+        "label": "Morwenna Undertow"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280710102,
+        "label": "Delmare Undertow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280710103,
+        "label": "Pikebreath"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280710104,
+        "label": "Ol' Grinnin' Finley"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280710105,
+        "label": "Desirae Fanfare"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280710106,
+        "label": "Octave Sforzando"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280710107,
+        "label": "Skolskin Haeger"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280710108,
+        "label": "Kirezelbough"
+      }
+    ]
+  },
+  {
+    "id": 2807401,
+    "title": "Hunter of Dragon Necropolis",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dragon Necropolis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280740101,
+        "label": "a moon bat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280740102,
+        "label": "a massive dracoliche"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280740103,
+        "label": "Dustbinder Tarlin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280740104,
+        "label": "Foulfang"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280740105,
+        "label": "Jaled Dar's trapped shade"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280740106,
+        "label": "Seeker Larada"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280740107,
+        "label": "a ravenous entropy serpent"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280740108,
+        "label": "another great green slime"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 280740109,
+        "label": "Queen Kitlaa"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 280740110,
+        "label": "a toxic phase spider"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 280740111,
+        "label": "restless Vaniki"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 280740112,
+        "label": "a restless warlord"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 280740113,
+        "label": "restless Warmaster Ultvara"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 280740114,
+        "label": "restless Dominator Yisaki"
+      }
+    ]
+  },
+  {
+    "id": 2807501,
+    "title": "Hunter of Skyshrine",
+    "description": "This achievement is gained upon defeating the following rare monsters in Skyshrine.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280750101,
+        "label": "Shoen the Fanatic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280750102,
+        "label": "Templeton the Clear"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280750103,
+        "label": "Ziglark Whisperwing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280750104,
+        "label": "a blessed racnar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280750105,
+        "label": "Lord Koi'Doken"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280750106,
+        "label": "Dagarn the Destroyer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280750107,
+        "label": "Professor Atkru"
+      }
+    ]
+  },
+  {
+    "id": 2807601,
+    "title": "Hunter of The Sleeper's Tomb",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280760101,
+        "label": "Kildrukaun the Ancient"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280760102,
+        "label": "Milas An'Rev"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280760103,
+        "label": "The Overseer Reborn"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280760104,
+        "label": "The Progenitor Reborn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280760105,
+        "label": "Tjudawos the Ancient"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280760106,
+        "label": "Ulessa the Insane"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280760107,
+        "label": "Vyskudra the Ancient"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280760108,
+        "label": "Zeixshi'Kar the Ancient"
+      }
+    ]
+  },
+  {
+    "id": 2807301,
+    "title": "Hunter of The Temple of Veeshan",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280730101,
+        "label": "Feshlak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280730102,
+        "label": "Lady Mirenilla"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280730103,
+        "label": "Ktheek the Ripper"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280730104,
+        "label": "Lord Vyemm"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280730105,
+        "label": "Dozekar the Cursed"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280730106,
+        "label": "Gozzrem"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280730107,
+        "label": "Jorlleag"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280730108,
+        "label": "Ikatiar the Venom"
+      }
+    ]
+  },
+  {
+    "id": 2807201,
+    "title": "Hunter of The Western Wastes",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Western Wastes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280720101,
+        "label": "Rildar Blackstone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280720102,
+        "label": "Shrapnel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280720103,
+        "label": "Miscreation the Timeless"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280720104,
+        "label": "Blasphemous Steel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280720105,
+        "label": "Pastletlith the Temperate"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280720106,
+        "label": "Feltinth the Caring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280720107,
+        "label": "Bliddlethliclaus"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280720108,
+        "label": "a restless behemoth"
+      }
+    ]
+  },
+  {
+    "id": 2807100,
+    "title": "Novice Hunter of Claws of Veeshan",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280710001,
+        "label": "Hunter of Cobalt Scar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280710002,
+        "label": "Hunter of The Western Wastes"
+      }
+    ]
+  },
+  {
+    "id": 2807500,
+    "title": "Veteran Hunter of Claws of Veeshan",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2807,
+    "subcategoryName": "Hunts",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280750001,
+        "label": "Hunter of Skyshrine"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280750002,
+        "label": "Hunter of The Sleeper's Tomb"
+      }
+    ]
+  },
+  {
+    "id": 2808363,
+    "title": "Altered Velium",
+    "description": "These pieces of Velium exhibit strange and mysterious properties.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280836301,
+        "label": "Humming piece of Velium"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280836302,
+        "label": "Vibrating piece of Velium"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280836303,
+        "label": "Pulsing piece of Velium"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280836304,
+        "label": "Warm piece of Velium"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280836305,
+        "label": "Glowing piece of Velium"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280836306,
+        "label": "Frozen piece of Velium"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280836307,
+        "label": "Whispering Piece of Velium"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280836308,
+        "label": "Shifting piece of Velium"
+      }
+    ]
+  },
+  {
+    "id": 2808242,
+    "title": "Ancient Fractures",
+    "description": "The broken remains of once mighty dragons.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280824201,
+        "label": "Broken Ancient Dragon Femur"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280824202,
+        "label": "Snapped Ancient Dragon Shinbone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280824203,
+        "label": "Worn Ancient Dragon Tooth"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280824204,
+        "label": "Chipped Ancient Dragon Horn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280824205,
+        "label": "Cracked Ancient Dragon Mandible"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280824206,
+        "label": "Scorched Ancient Dragon Sternum"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280824207,
+        "label": "Brittle Ancient Dragon Humerus"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280824208,
+        "label": "Fractured Ancient Dragon Patella"
+      }
+    ]
+  },
+  {
+    "id": 2808110,
+    "title": "Cobalt Scar Scavenger",
+    "description": "This achievement is gained upon completing all collections in Cobalt Scar.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280811001,
+        "label": "Restless Ice Fishing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280811002,
+        "label": "Don't be a Guppy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280811003,
+        "label": "Unclutched Pearls"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280811004,
+        "label": "Life Aquatic"
+      }
+    ]
+  },
+  {
+    "id": 2808352,
+    "title": "Crystallized Anatomy",
+    "description": "Shattered pieces of ancient crystalline guardians.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280835201,
+        "label": "Crystalline Golem Fragment"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280835202,
+        "label": "Crystalline Golem Foot"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280835203,
+        "label": "Crystalline Golem Head"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280835204,
+        "label": "Crystalline Gargoyle Horn"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280835205,
+        "label": "Crystalline Gargoyle Shard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280835206,
+        "label": "Crystalline Gargoyle Eye"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280835207,
+        "label": "Crystalline Gargoyle Tooth"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280835208,
+        "label": "Crystalline Gargoyle Wing"
+      }
+    ]
+  },
+  {
+    "id": 2808112,
+    "title": "Don't be a Guppy",
+    "description": "Bizzare contraptions that were discarded before their time.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280811201,
+        "label": "Dingy Dinglehopper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280811202,
+        "label": "Worn Whosit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280811203,
+        "label": "Weathered Whatsit"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280811204,
+        "label": "Garish Gizmo"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280811205,
+        "label": "Generously Grimy Gadget"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280811206,
+        "label": "Threadbare Thingamabob"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280811207,
+        "label": "Soiled Snarfblatt"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280811208,
+        "label": "Mangled McGuffin"
+      }
+    ]
+  },
+  {
+    "id": 2808354,
+    "title": "Draconic Artifacts",
+    "description": "Items that once belonged to dragons who are likely wondering where they went...",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280835401,
+        "label": "Ancient Draconic Scroll"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280835402,
+        "label": "Tarnished Draconic Coin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280835403,
+        "label": "Torn Draconic Parchment"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280835404,
+        "label": "Brilliant Draconic Gem"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280835405,
+        "label": "Rusty Draconic Dagger"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280835406,
+        "label": "Cracked Draconic Goblet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280835407,
+        "label": "Tattered Draconic Banner"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280835408,
+        "label": "Fractured Draconic Symbol"
+      }
+    ]
+  },
+  {
+    "id": 2808240,
+    "title": "Dragon Necropolis Scavenger",
+    "description": "This achievement is gained upon completing all collections in Dragon Necropolis.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280824001,
+        "label": "Sparkly Shinies"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280824002,
+        "label": "Ancient Fractures"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280824003,
+        "label": "Webber's Dictionary"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280824004,
+        "label": "Even Grand Bone Dragons Fight"
+      }
+    ]
+  },
+  {
+    "id": 2808233,
+    "title": "Dragonkin Hunting",
+    "description": "Trophies of ancient battles that were probably quite exciting and heroic.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280823301,
+        "label": "Shimmering Drake Wing"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280823302,
+        "label": "Crimson Wurm Horn"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280823303,
+        "label": "Sapphire Drake Scales"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280823304,
+        "label": "Bottle of Wyvern Bile"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280823305,
+        "label": "Broken Dragon Tooth"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280823306,
+        "label": "Severed Wurm Tongue"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280823307,
+        "label": "Scaled Wyvern Toe"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280823308,
+        "label": "Cracked Dragon Femur"
+      }
+    ]
+  },
+  {
+    "id": 2808351,
+    "title": "Drake Scales",
+    "description": "Discarded scales from the numerous drakes found throughout Velious.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280835101,
+        "label": "Scales of an Obsidian Drake"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280835102,
+        "label": "Scales of an Onyx Drake"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280835103,
+        "label": "Scales of an Enigmatic Drake"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280835104,
+        "label": "Scales of a Charismatic Drake"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280835105,
+        "label": "Scales of a Stoic Drake"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280835106,
+        "label": "Scales of a Cagey Drake"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280835107,
+        "label": "Scales of a Suspicious Drake"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280835108,
+        "label": "Scales of a Desperate Drake"
+      }
+    ]
+  },
+  {
+    "id": 2808231,
+    "title": "Ethereal Relics",
+    "description": "Lesser pieces of a greater whole, tainted with madness.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280823101,
+        "label": "Frozen Ethereal Relic"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280823102,
+        "label": "Chipped Ethereal Relic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280823103,
+        "label": "Cracked Ethereal Relic"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280823104,
+        "label": "Melted Ethereal Relic"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280823105,
+        "label": "Weathered Ethereal Relic"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280823106,
+        "label": "Tarnished Ethereal Relic"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280823107,
+        "label": "Shattered Ethereal Relic"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280823108,
+        "label": "Petrified Ethereal Relic"
+      }
+    ]
+  },
+  {
+    "id": 2808244,
+    "title": "Even Grand Bone Dragons Fight",
+    "description": "Discarded scales from the mightiest creatures on Velious.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280824401,
+        "label": "Ancient Green Dragon Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280824402,
+        "label": "Ancient Red Dragon Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280824403,
+        "label": "Ancient Blue Dragon Scale"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280824404,
+        "label": "Ancient Black Dragon Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280824405,
+        "label": "Ancient White Dragon Scale"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280824406,
+        "label": "Ancient Shadow Dragon Scale"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280824407,
+        "label": "Ancient Purple Dragon Scale"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280824408,
+        "label": "Ancient Crystalline Dragon Scale"
+      }
+    ]
+  },
+  {
+    "id": 2808122,
+    "title": "Fauna of the Wastes",
+    "description": "Life finds a way... or maybe it doesn't.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280812201,
+        "label": "Velious Hare Foot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280812202,
+        "label": "Velious Hound Fur"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280812203,
+        "label": "Velious Mammoth Tail"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280812204,
+        "label": "Tunnel Burrower Eye"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280812205,
+        "label": "Velious Walrus Blubber"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280812206,
+        "label": "Velious Brontotherium Hide"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280812207,
+        "label": "Velious Clouded Fish Scales"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280812208,
+        "label": "Velious Mammoth Trunk"
+      }
+    ]
+  },
+  {
+    "id": 2808234,
+    "title": "Flame-Licked Clothing",
+    "description": "Dragon flame makes everything better, guaranteed!",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280823401,
+        "label": "Flame-Licked Trousers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280823402,
+        "label": "Flame-Licked Vest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280823403,
+        "label": "Flame-Licked Cuffs"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280823404,
+        "label": "Flame-Licked Boots"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280823405,
+        "label": "Flame-Licked Undershirt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280823406,
+        "label": "Flame-Licked Cap"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280823407,
+        "label": "Flame-Licked Pouch"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280823408,
+        "label": "Flame-Licked Belt"
+      }
+    ]
+  },
+  {
+    "id": 2808361,
+    "title": "Frosted Fakes?",
+    "description": "Ancient tomes filled with knowledge of immeasurable value, probably.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280836101,
+        "label": "Frozen Volume of the Dragons of Norrath"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280836102,
+        "label": "Frozen Volume of the Wyrms of Norrath"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280836103,
+        "label": "Frozen Volume of the Drakkin of Norrath"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280836104,
+        "label": "Frozen Volume of the Wurms of Norrath"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280836105,
+        "label": "Frozen Volume of the Dragons of the Outer Planes"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280836106,
+        "label": "Frozen Volume of the Sleeper's Prophecy"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280836107,
+        "label": "Frozen Volume of Advanced Necromancy"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280836108,
+        "label": "Frozen Volume of The History of Norrath"
+      }
+    ]
+  },
+  {
+    "id": 2808123,
+    "title": "Kromzek Equipment",
+    "description": "Abandoned items of the Kromzek giants.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280812301,
+        "label": "Kromzek Insignia"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280812302,
+        "label": "Kromzek Hammer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280812303,
+        "label": "Kromzek Boots"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280812304,
+        "label": "Kromzek Pants"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280812305,
+        "label": "Kromzek Pickaxe"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280812306,
+        "label": "Kromzek Helmet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280812307,
+        "label": "Kromzek Bracer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280812308,
+        "label": "Kromzek Studded Belt"
+      }
+    ]
+  },
+  {
+    "id": 2808114,
+    "title": "Life Aquatic",
+    "description": "Signs of a robust aquatic habitat.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280811401,
+        "label": "Frozen Shark Fin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280811402,
+        "label": "Frozen Mermaid Skull"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280811403,
+        "label": "Velium Chilled Nautilus"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280811404,
+        "label": "Othmir Fishing Bait"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280811405,
+        "label": "Broken Piece of Aquos Tail"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280811406,
+        "label": "Discarded Piece of Chum"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280811407,
+        "label": "Barracuda Scent Gland"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280811408,
+        "label": "Lost Walrus Tusk"
+      }
+    ]
+  },
+  {
+    "id": 2808124,
+    "title": "Lost Draconic Tomes",
+    "description": "A series of tomes, allegedly full of ancient draconic secrets...",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280812401,
+        "label": "Frozen Draconic Tome Vol. 1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280812402,
+        "label": "Frozen Draconic Tome Vol. 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280812403,
+        "label": "Frozen Draconic Tome Vol. 3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280812404,
+        "label": "Frozen Draconic Tome Vol. 4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280812405,
+        "label": "Frozen Draconic Tome Vol. 5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280812406,
+        "label": "Frozen Draconic Tome Vol. 6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280812407,
+        "label": "Frozen Draconic Tome Vol. 7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280812408,
+        "label": "Frozen Draconic Tome Vol. 8"
+      }
+    ]
+  },
+  {
+    "id": 2808121,
+    "title": "Lost Dragon Eggs",
+    "description": "Once the promise of a new generation, now a reminder of waning power.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280812101,
+        "label": "Icebound Dragon Egg"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280812102,
+        "label": "Scaled Dragon Egg"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280812103,
+        "label": "Scorched Dragon Egg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280812104,
+        "label": "Cracked Dragon Egg"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280812105,
+        "label": "Cystalline Dragon Egg"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280812106,
+        "label": "Petrified Dragon Egg"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280812107,
+        "label": "Runed Dragon Egg"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280812108,
+        "label": "Deformed Dragon Egg"
+      }
+    ]
+  },
+  {
+    "id": 2808232,
+    "title": "Lost Journals",
+    "description": "Records of numerous adventurers that never escaped the ice.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280823201,
+        "label": "Journal of a Lost Monk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280823202,
+        "label": "Journal of a Lost Rogue"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280823203,
+        "label": "Journal of a Lost Cleric"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280823204,
+        "label": "Journal of a Lost Bard"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280823205,
+        "label": "Journal of a Lost Berserker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280823206,
+        "label": "Journal of a Lost Beastlord"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280823207,
+        "label": "Journal of a Lost Ranger"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280823208,
+        "label": "Journal of a Lost Necromancer"
+      }
+    ]
+  },
+  {
+    "id": 2808353,
+    "title": "More Lost Journals",
+    "description": "Records of numerous adventurers that never escaped the ice.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280835301,
+        "label": "Journal of a Lost Druid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280835302,
+        "label": "Journal of a Lost Enchanter"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280835303,
+        "label": "Journal of a Lost Magician"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280835304,
+        "label": "Journal of a Lost Paladin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280835305,
+        "label": "Journal of a Lost Wizard"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280835306,
+        "label": "Journal of a Lost Shaman"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280835307,
+        "label": "Journal of a Lost Shadow Knight"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280835308,
+        "label": "Journal of a Lost Warrior"
+      }
+    ]
+  },
+  {
+    "id": 2808111,
+    "title": "Restless Ice Fishing",
+    "description": "The ruined tools of simple Othmir fishermen.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280811101,
+        "label": "Broken Othmir Fishing Rod"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280811102,
+        "label": "Broken Othmir Lure"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280811103,
+        "label": "Broken Othmir Spinner"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280811104,
+        "label": "Broken Othmir Fishing Reel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280811105,
+        "label": "Broken Othmir Jig"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280811106,
+        "label": "Broken Othmir Hook"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280811107,
+        "label": "Broken Othmir Sinker"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280811108,
+        "label": "Broken Othmir Bobber"
+      }
+    ]
+  },
+  {
+    "id": 2808362,
+    "title": "Scales of Justice",
+    "description": "Discarded scales from the pinnacle of dragon kind.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280836201,
+        "label": "Scale of Zeixshi-Kar the Ancient"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280836202,
+        "label": "Scale of Kildrukaun the Ancient"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280836203,
+        "label": "Scale of Vyskudra the Ancient"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280836204,
+        "label": "Scale of Tjudawos the Ancient"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280836205,
+        "label": "Scale of Ulessa the Insane"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280836206,
+        "label": "Scale of Talendor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280836207,
+        "label": "Scale of Milas An'Rev"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280836208,
+        "label": "Scale of Vulak'Aerr"
+      }
+    ]
+  },
+  {
+    "id": 2808350,
+    "title": "Skyshrine Scavenger",
+    "description": "This achievement is gained upon completing all collections in Skyshrine.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280835001,
+        "label": "Drake Scales"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280835002,
+        "label": "Crystallized Anatomy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280835003,
+        "label": "More Lost Journals"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280835004,
+        "label": "Draconic Artifacts"
+      }
+    ]
+  },
+  {
+    "id": 2808241,
+    "title": "Sparkly Shinies",
+    "description": "So shiny you just couldn't help picking them up, could you?",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280824101,
+        "label": "Polished Piece of Velium"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280824102,
+        "label": "Paebala Signal Mirror"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280824103,
+        "label": "Someone's Lucky Coin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280824104,
+        "label": "Sapphire Brooch"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280824105,
+        "label": "Obsidian Hairpin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280824106,
+        "label": "Broken Kaleidoscope"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280824107,
+        "label": "Rusted-Covered Music Box"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280824108,
+        "label": "Shiny House Key"
+      }
+    ]
+  },
+  {
+    "id": 2808200,
+    "title": "Symbols of Death",
+    "description": "This achievement is gained upon completing the following tier 2 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280820001,
+        "label": "The Temple of Veeshan Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280820002,
+        "label": "Dragon Necropolis Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2808300,
+    "title": "Symbols of Inevitability",
+    "description": "This achievement is gained upon completing the following tier 3 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280830001,
+        "label": "Skyshrine Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280830002,
+        "label": "The Sleeper's Tomb Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2808100,
+    "title": "Symbols of Life",
+    "description": "This achievement is gained upon completing the following tier 1 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280810001,
+        "label": "Cobalt Scar Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280810002,
+        "label": "The Western Wastes Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 2808360,
+    "title": "The Sleeper's Tomb Scavenger",
+    "description": "This achievement is gained upon completing all collections in The Sleeper's Tomb.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280836001,
+        "label": "Frosted Fakes?"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280836002,
+        "label": "Scales of Justice"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280836003,
+        "label": "Altered Velium"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280836004,
+        "label": "Useless Tools"
+      }
+    ]
+  },
+  {
+    "id": 2808230,
+    "title": "The Temple of Veeshan Scavenger",
+    "description": "This achievement is gained upon completing all collections in The Temple of Veeshan.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280823001,
+        "label": "Ethereal Relics"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280823002,
+        "label": "Lost Journals"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280823003,
+        "label": "Dragonkin Hunting"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280823004,
+        "label": "Flame-Licked Clothing"
+      }
+    ]
+  },
+  {
+    "id": 2808120,
+    "title": "The Western Wastes Scavenger",
+    "description": "This achievement is gained upon completing all collections in The Western Wastes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280812001,
+        "label": "Lost Dragon Eggs"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280812002,
+        "label": "Fauna of the Wastes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280812003,
+        "label": "Kromzek Equipment"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280812004,
+        "label": "Lost Draconic Tomes"
+      }
+    ]
+  },
+  {
+    "id": 2808113,
+    "title": "Unclutched Pearls",
+    "description": "Adornments crafted with care for a VERY demanding patron.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280811301,
+        "label": "Provocative Jade Earring"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280811302,
+        "label": "Stunning Ruby Ring"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280811303,
+        "label": "Resplendent Turquoise Necklace"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280811304,
+        "label": "Breathtaking Aquamarine Veil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280811305,
+        "label": "Alluring Agate Brooch"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280811306,
+        "label": "Beautiful Multi-Faceted Necklace"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280811307,
+        "label": "Exquisite Moonstone Amulet"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280811308,
+        "label": "Macabre Gothic Ring"
+      }
+    ]
+  },
+  {
+    "id": 2808364,
+    "title": "Useless Tools",
+    "description": "The tools of a healer, or perhaps a mad scientist...",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280836401,
+        "label": "Discarded Fabric Scissors"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280836402,
+        "label": "Broken Tuning Knob"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280836403,
+        "label": "Burnt out Crystal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280836404,
+        "label": "Bloody Sewing Thread"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280836405,
+        "label": "Soiled Bandages"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280836406,
+        "label": "Damaged Dermatome"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280836407,
+        "label": "Stained Medical Manual"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280836408,
+        "label": "Rusty Grafting Knife"
+      }
+    ]
+  },
+  {
+    "id": 2808243,
+    "title": "Webber's Dictionary",
+    "description": "An entomophile's dream come true.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 2808,
+    "subcategoryName": "Collections",
+    "categoryId": 2800,
+    "categoryName": "Claws of Veeshan",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 280824301,
+        "label": "Webbed up Locust"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 280824302,
+        "label": "Webbed up Dung Beetle"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 280824303,
+        "label": "Webbed up Cicada"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 280824304,
+        "label": "Webbed up Hornet"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 280824305,
+        "label": "Webbed up Wad of Gnats"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 280824306,
+        "label": "Webbed up Caterpillar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 280824307,
+        "label": "Webbed up Moth"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 280824308,
+        "label": "Webbed up Butterfly"
+      }
+    ]
+  }
+]

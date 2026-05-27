@@ -1,0 +1,3403 @@
+[
+  {
+    "id": 400085,
+    "title": "Conqueror of The Shadows of Luclin",
+    "description": "This achievement is gained upon completing all the raids in The Shadows of Luclin.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 401,
+    "subcategoryName": "General",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000290,
+        "label": "Conqueror of The Acrylia Caverns"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000291,
+        "label": "Conqueror of The Akheva Ruins"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000296,
+        "label": "Conqueror of The Deep"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000359,
+        "label": "Conqueror of The Echo Caverns"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000292,
+        "label": "Conqueror of Grieg's End"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000293,
+        "label": "Conqueror of Katta Castellum"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000294,
+        "label": "Conqueror of Sanctus Seru"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000295,
+        "label": "Conqueror of Ssraeshza Temple"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000360,
+        "label": "Conqueror of The Tenebrous Mountains"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000297,
+        "label": "Conqueror of The Umbral Plains"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000298,
+        "label": "Conqueror of Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 400080,
+    "title": "Moonslayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 401,
+    "subcategoryName": "General",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000004,
+        "label": "Hunter of The Acrylia Caverns"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000022,
+        "label": "Hunter of The Akheva Ruins"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000019,
+        "label": "Hunter of The Dawnshroud Peaks"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000011,
+        "label": "Hunter of The Deep"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000003,
+        "label": "Hunter of The Echo Caverns"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000006,
+        "label": "Hunter of The Fungus Grove"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000016,
+        "label": "Hunter of The Grey"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000010,
+        "label": "Hunter of Grieg's End"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000023,
+        "label": "Hunter of Grimling Forest"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000013,
+        "label": "Hunter of Hollowshade Moor"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000018,
+        "label": "Hunter of The Maiden's Eye"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000014,
+        "label": "Hunter of Marus Seru"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000008,
+        "label": "Hunter of Netherbian Lair"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000005,
+        "label": "Hunter of The Paludal Caverns"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000020,
+        "label": "Hunter of The Scarlet Desert"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000012,
+        "label": "Hunter of Shadeweaver's Thicket"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000009,
+        "label": "Hunter of Ssraeshza Temple"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000017,
+        "label": "Hunter of The Tenebrous Mountains"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 4000015,
+        "label": "Hunter of The Twilight Sea"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 4000021,
+        "label": "Hunter of The Umbral Plains"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 4000007,
+        "label": "Hunter of Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 400050,
+    "title": "Shadows of Luclin Explorer",
+    "description": "This achievement is gained upon visiting all the zones on Luclin.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 401,
+    "subcategoryName": "General",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270684,
+        "label": "The Nexus Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270866,
+        "label": "The Bazaar Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270685,
+        "label": "Shadow Haven Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270686,
+        "label": "The City of Shar Vahl Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270687,
+        "label": "Shadeweaver's Thicket Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270688,
+        "label": "The Paludal Caverns Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270689,
+        "label": "Netherbian Lair Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270690,
+        "label": "The Echo Caverns Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270691,
+        "label": "Hollowshade Moor Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270692,
+        "label": "The Dawnshroud Peaks Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270693,
+        "label": "Marus Seru Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270694,
+        "label": "Grimling Forest Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270695,
+        "label": "Mons Letalis Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270696,
+        "label": "The Scarlet Desert Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270697,
+        "label": "The Tenebrous Mountains Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270698,
+        "label": "The Twilight Sea Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 270699,
+        "label": "The Fungus Grove Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270700,
+        "label": "The Grey Traveler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 270701,
+        "label": "Grieg's End Traveler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 270702,
+        "label": "Katta Castellum Traveler"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 270703,
+        "label": "Sanctus Seru Traveler"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 270704,
+        "label": "The Maiden's Eye Traveler"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 270705,
+        "label": "The Deep Traveler"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 270706,
+        "label": "The Acrylia Caverns Traveler"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 270707,
+        "label": "The Akheva Ruins Traveler"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 270708,
+        "label": "The Umbral Plains Traveler"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 270709,
+        "label": "Ssraeshza Temple Traveler"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 270710,
+        "label": "Vex Thal Traveler"
+      }
+    ]
+  },
+  {
+    "id": 416300,
+    "title": "Grieg's End Traveler",
+    "description": "This achievement is gained upon visiting Grieg's End.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270134,
+        "label": "Visit Grieg's End"
+      }
+    ]
+  },
+  {
+    "id": 416700,
+    "title": "Grimling Forest Traveler",
+    "description": "This achievement is gained upon visiting Grimling Forest.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270138,
+        "label": "Visit Grimling Forest"
+      }
+    ]
+  },
+  {
+    "id": 416600,
+    "title": "Hollowshade Moor Traveler",
+    "description": "This achievement is gained upon visiting Hollowshade Moor.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270137,
+        "label": "Visit Hollowshade Moor"
+      }
+    ]
+  },
+  {
+    "id": 416000,
+    "title": "Katta Castellum Traveler",
+    "description": "This achievement is gained upon visiting Katta Castellum.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270131,
+        "label": "Visit Katta Castellum"
+      }
+    ]
+  },
+  {
+    "id": 416800,
+    "title": "Marus Seru Traveler",
+    "description": "This achievement is gained upon visiting Marus Seru.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270139,
+        "label": "Visit Marus Seru"
+      }
+    ]
+  },
+  {
+    "id": 416900,
+    "title": "Mons Letalis Traveler",
+    "description": "This achievement is gained upon visiting Mons Letalis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270140,
+        "label": "Visit Mons Letalis"
+      }
+    ]
+  },
+  {
+    "id": 416100,
+    "title": "Netherbian Lair Traveler",
+    "description": "This achievement is gained upon visiting Netherbian Lair.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270132,
+        "label": "Visit Netherbian Lair"
+      }
+    ]
+  },
+  {
+    "id": 415900,
+    "title": "Sanctus Seru Traveler",
+    "description": "This achievement is gained upon visiting Sanctus Seru.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270130,
+        "label": "Visit Sanctus Seru"
+      }
+    ]
+  },
+  {
+    "id": 416500,
+    "title": "Shadeweaver's Thicket Traveler",
+    "description": "This achievement is gained upon visiting Shadeweaver's Thicket.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270136,
+        "label": "Visit Shadeweaver's Thicket"
+      }
+    ]
+  },
+  {
+    "id": 415000,
+    "title": "Shadow Haven Traveler",
+    "description": "This achievement is gained upon visiting Shadow Haven.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270121,
+        "label": "Visit Shadow Haven"
+      }
+    ]
+  },
+  {
+    "id": 416200,
+    "title": "Ssraeshza Temple Traveler",
+    "description": "This achievement is gained upon visiting Ssraeshza Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270133,
+        "label": "Visit Ssraeshza Temple"
+      }
+    ]
+  },
+  {
+    "id": 415400,
+    "title": "The Acrylia Caverns Traveler",
+    "description": "This achievement is gained upon visiting The Acrylia Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270125,
+        "label": "Visit The Acrylia Caverns"
+      }
+    ]
+  },
+  {
+    "id": 417900,
+    "title": "The Akheva Ruins Traveler",
+    "description": "This achievement is gained upon visiting The Akheva Ruins.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270148,
+        "label": "Visit The Akheva Ruins"
+      }
+    ]
+  },
+  {
+    "id": 415100,
+    "title": "The Bazaar Traveler",
+    "description": "This achievement is gained upon visiting The Bazaar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270122,
+        "label": "Visit The Bazaar"
+      }
+    ]
+  },
+  {
+    "id": 415500,
+    "title": "The City of Shar Vahl Traveler",
+    "description": "This achievement is gained upon visiting The City of Shar Vahl.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270126,
+        "label": "Visit The City of Shar Vahl"
+      }
+    ]
+  },
+  {
+    "id": 417400,
+    "title": "The Dawnshroud Peaks Traveler",
+    "description": "This achievement is gained upon visiting The Dawnshroud Peaks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270145,
+        "label": "Visit The Dawnshroud Peaks"
+      }
+    ]
+  },
+  {
+    "id": 416400,
+    "title": "The Deep Traveler",
+    "description": "This achievement is gained upon visiting The Deep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270135,
+        "label": "Visit The Deep"
+      }
+    ]
+  },
+  {
+    "id": 415300,
+    "title": "The Echo Caverns Traveler",
+    "description": "This achievement is gained upon visiting The Echo Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270124,
+        "label": "Visit The Echo Caverns"
+      }
+    ]
+  },
+  {
+    "id": 415700,
+    "title": "The Fungus Grove Traveler",
+    "description": "This achievement is gained upon visiting The Fungus Grove.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270128,
+        "label": "Visit The Fungus Grove"
+      }
+    ]
+  },
+  {
+    "id": 417100,
+    "title": "The Grey Traveler",
+    "description": "This achievement is gained upon visiting The Grey.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270142,
+        "label": "Visit The Grey"
+      }
+    ]
+  },
+  {
+    "id": 417300,
+    "title": "The Maiden's Eye Traveler",
+    "description": "This achievement is gained upon visiting The Maiden's Eye.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270144,
+        "label": "Visit The Maiden's Eye"
+      }
+    ]
+  },
+  {
+    "id": 415200,
+    "title": "The Nexus Traveler",
+    "description": "This achievement is gained upon visiting The Nexus.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270123,
+        "label": "Visit The Nexus"
+      }
+    ]
+  },
+  {
+    "id": 415600,
+    "title": "The Paludal Caverns Traveler",
+    "description": "This achievement is gained upon visiting The Paludal Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270127,
+        "label": "Visit The Paludal Caverns"
+      }
+    ]
+  },
+  {
+    "id": 417500,
+    "title": "The Scarlet Desert Traveler",
+    "description": "This achievement is gained upon visiting The Scarlet Desert.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270146,
+        "label": "Visit The Scarlet Desert"
+      }
+    ]
+  },
+  {
+    "id": 417200,
+    "title": "The Tenebrous Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Tenebrous Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270143,
+        "label": "Visit The Tenebrous Mountains"
+      }
+    ]
+  },
+  {
+    "id": 417000,
+    "title": "The Twilight Sea Traveler",
+    "description": "This achievement is gained upon visiting The Twilight Sea.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270141,
+        "label": "Visit The Twilight Sea"
+      }
+    ]
+  },
+  {
+    "id": 417600,
+    "title": "The Umbral Plains Traveler",
+    "description": "This achievement is gained upon visiting The Umbral Plains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270147,
+        "label": "Visit The Umbral Plains"
+      }
+    ]
+  },
+  {
+    "id": 415800,
+    "title": "Vex Thal Traveler",
+    "description": "This achievement is gained upon visiting Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 402,
+    "subcategoryName": "Exploration",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270129,
+        "label": "Visit Vex Thal"
+      }
+    ]
+  },
+  {
+    "id": 90015,
+    "title": "Ring of the Shissar",
+    "description": "This key unlocks the portal to Emperor Ssraeshza's chambers.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3028,
+        "label": "Ring of the Shissar"
+      }
+    ]
+  },
+  {
+    "id": 90016,
+    "title": "The Scepter of Shadows",
+    "description": "This key unlocks the entrance to Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3029,
+        "label": "The Scepter of Shadows"
+      }
+    ]
+  },
+  {
+    "id": 90019,
+    "title": "Vex Thal North Tower Key",
+    "description": "This key unlocks the door to the north tower of Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3032,
+        "label": "North Tower Key"
+      }
+    ]
+  },
+  {
+    "id": 90018,
+    "title": "Vex Thal North Wing Key",
+    "description": "This key unlocks the door to the north wing of Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3031,
+        "label": "North Wing Key"
+      }
+    ]
+  },
+  {
+    "id": 90017,
+    "title": "Vex Thal Palace Key",
+    "description": "This key unlocks the door to the palace within Vex Thal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3030,
+        "label": "Palace Key"
+      }
+    ]
+  },
+  {
+    "id": 90014,
+    "title": "Zazuzh's Key",
+    "description": "This key unlocks the door to Rhag`Zadune's wing within Ssraeshza Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3027,
+        "label": "Zazuzh's Key"
+      }
+    ]
+  },
+  {
+    "id": 90013,
+    "title": "Zherozsh's Key",
+    "description": "This key unlocks the door to Xerkizh's wing within Ssraeshza Temple.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 403,
+    "subcategoryName": "Progression",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3026,
+        "label": "Zherozsh's Key"
+      }
+    ]
+  },
+  {
+    "id": 415705,
+    "title": "Earring of the Solstice",
+    "description": "This achievement is gained upon crafting Xanthe's Earring of Nature.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 404,
+    "subcategoryName": "Quests",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 415705,
+        "label": "Liber Brassica Felix v 1-10 - Xanthe's Earring of Nature (or Earring of the Solstice)"
+      }
+    ]
+  },
+  {
+    "id": 416340,
+    "title": "Conqueror of Grieg's End",
+    "description": "This achievement is gained upon completing the following raids in Grieg's End:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000310,
+        "label": "Grieg Veneficus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000354,
+        "label": "Praetorian Myral"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000311,
+        "label": "Servitor of Luclin"
+      }
+    ]
+  },
+  {
+    "id": 416040,
+    "title": "Conqueror of Katta Castellum",
+    "description": "This achievement is gained upon completing the following raids in Katta Castellum:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000312,
+        "label": "Lcea Katta"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000313,
+        "label": "Nathyn Illuminious"
+      }
+    ]
+  },
+  {
+    "id": 415940,
+    "title": "Conqueror of Sanctus Seru",
+    "description": "This achievement is gained upon completing the following raids in Sanctus Seru:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000302,
+        "label": "Lord Inquisitor Seru"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000353,
+        "label": "Praesertum Bikun"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000352,
+        "label": "Praesertum Matpa"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000351,
+        "label": "Praesertum Rhugol"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000350,
+        "label": "Praesertum Vantorus"
+      }
+    ]
+  },
+  {
+    "id": 416240,
+    "title": "Conqueror of Ssraeshza Temple",
+    "description": "This achievement is gained upon completing the following raids in Ssraeshza Temple:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000317,
+        "label": "Arch Lich Rhag`Zadune"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000301,
+        "label": "Emperor Ssraeshza"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000316,
+        "label": "High Priest of Ssraeshza"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000315,
+        "label": "Vyzh`dra the Cursed"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000314,
+        "label": "Xerkizh The Creator"
+      }
+    ]
+  },
+  {
+    "id": 415440,
+    "title": "Conqueror of The Acrylia Caverns",
+    "description": "This achievement is gained upon completing the following raids in The Acrylia Caverns:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000305,
+        "label": "an evolved burrower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000304,
+        "label": "Khati Sha the Twisted"
+      }
+    ]
+  },
+  {
+    "id": 417940,
+    "title": "Conqueror of The Akheva Ruins",
+    "description": "This achievement is gained upon completing the following raids in The Akheva Ruins:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000307,
+        "label": "The Insanity Crawler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000308,
+        "label": "The Itraer Vius"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000303,
+        "label": "Shei Vinitras"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000306,
+        "label": "Sheleric Vis"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000309,
+        "label": "The Va`Dyn"
+      }
+    ]
+  },
+  {
+    "id": 416440,
+    "title": "Conqueror of The Deep",
+    "description": "This achievement is gained upon completing the following raids in The Deep:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000319,
+        "label": "a burrower parasite"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000318,
+        "label": "Thought Horror Overfiend"
+      }
+    ]
+  },
+  {
+    "id": 415340,
+    "title": "Conqueror of The Echo Caverns",
+    "description": "This achievement is gained upon completing the following raids in The Echo Caverns:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000349,
+        "label": "General Jared Blaystich"
+      }
+    ]
+  },
+  {
+    "id": 417240,
+    "title": "Conqueror of The Tenebrous Mountains",
+    "description": "This achievement is gained upon completing the following raids in The Tenebrous Mountains:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 4000355,
+        "label": "Valdanov Zevfeer"
+      }
+    ]
+  },
+  {
+    "id": 417640,
+    "title": "Conqueror of The Umbral Plains",
+    "description": "This achievement is gained upon completing the following raids in The Umbral Plains:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000320,
+        "label": "Doomshade"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000358,
+        "label": "Netherbian Swarmlord"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000321,
+        "label": "Rumblecrush"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000356,
+        "label": "Spirit of Radir"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000357,
+        "label": "Spirit of Tawro"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000322,
+        "label": "Zelnithak"
+      }
+    ]
+  },
+  {
+    "id": 415840,
+    "title": "Conqueror of Vex Thal",
+    "description": "This achievement is gained upon completing the following raids in Vex Thal:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 406,
+    "subcategoryName": "Raids",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000300,
+        "label": "Aten Ha Ra"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000331,
+        "label": "Diabo Xi Va"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000330,
+        "label": "Diabo Xi Va Temariel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000329,
+        "label": "Diabo Xi Xin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000328,
+        "label": "Diabo Xi Xin Thall"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000327,
+        "label": "Kaas Thox Xi Ans Dyek"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000326,
+        "label": "Kaas Thox Xi Aten Ha Ra Dat"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000335,
+        "label": "Kaas Thox Xi Aten Ha Ra Set"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000325,
+        "label": "Thall Va Kelun"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000324,
+        "label": "Thall Va Xakra Dat"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000334,
+        "label": "Thall Va Xakra Set"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000323,
+        "label": "Thall Xundraux Diabo"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000333,
+        "label": "Va Dyn Khar"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000332,
+        "label": "Va Xi Aten Ha Ra"
+      }
+    ]
+  },
+  {
+    "id": 416380,
+    "title": "Hunter of Grieg's End",
+    "description": "This achievement is gained upon defeating the following rare monsters in Grieg's End:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000072,
+        "label": "Amnarra Nogzabin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000075,
+        "label": "Bronus"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000077,
+        "label": "Deoreo Bexuarrana"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000074,
+        "label": "Hyraja Mazarduruk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000076,
+        "label": "Kallian Agarnuzum"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000073,
+        "label": "Khemot Agarthizar"
+      }
+    ]
+  },
+  {
+    "id": 480980,
+    "title": "Hunter of Grimling Forest",
+    "description": "This achievement is gained upon defeating the following rare monsters in Grimling Forest:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000267,
+        "label": "Avisiris"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000346,
+        "label": "a beaming grimling"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000269,
+        "label": "Corrupter Ahgra"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000271,
+        "label": "Highpriest Giplish"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000347,
+        "label": "a raspy grimling"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000348,
+        "label": "Sonus"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000270,
+        "label": "Spiritmaster Ugreth"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000268,
+        "label": "Spymaster Gephes"
+      }
+    ]
+  },
+  {
+    "id": 416680,
+    "title": "Hunter of Hollowshade Moor",
+    "description": "This achievement is gained upon defeating the following rare monsters in Hollowshade Moor:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000111,
+        "label": "Curfang"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000106,
+        "label": "Dreadmaw Wolfkin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000105,
+        "label": "Fireclaw Wolfkin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000097,
+        "label": "Gamtoine Cursmakk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000112,
+        "label": "Ghowlik"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000100,
+        "label": "Gleeknot Gnitrat"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000101,
+        "label": "Gniktar Grinwit"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000107,
+        "label": "Gorehorn"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000098,
+        "label": "Grurn No Eyes"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000108,
+        "label": "Prince Skriatat"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000103,
+        "label": "Skriat`Chee"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000102,
+        "label": "Skriat`Chet"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000109,
+        "label": "Skrietat`Cha"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000110,
+        "label": "Skrietat`Chu"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000104,
+        "label": "Warpaw Dankpelt"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000099,
+        "label": "Wiknak Grimglom"
+      }
+    ]
+  },
+  {
+    "id": 416880,
+    "title": "Hunter of Marus Seru",
+    "description": "This achievement is gained upon defeating the following rare monsters in Marus Seru:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000118,
+        "label": "A Giant Lightcrawler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000117,
+        "label": "a Recuso Hunter"
+      }
+    ]
+  },
+  {
+    "id": 416180,
+    "title": "Hunter of Netherbian Lair",
+    "description": "This achievement is gained upon defeating the following rare monsters in Netherbian Lair:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000052,
+        "label": "A Fungoid Worker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000053,
+        "label": "A Mature Fungoid"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000048,
+        "label": "A Netherbian Swarmcaller"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000049,
+        "label": "The Swarm Leader"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000050,
+        "label": "A Trog Hunter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000051,
+        "label": "The Trog King"
+      }
+    ]
+  },
+  {
+    "id": 416580,
+    "title": "Hunter of Shadeweaver's Thicket",
+    "description": "This achievement is gained upon defeating the following rare monsters in Shadeweaver's Thicket:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000095,
+        "label": "a blood drenched hopling"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000096,
+        "label": "Seetheker"
+      }
+    ]
+  },
+  {
+    "id": 416280,
+    "title": "Hunter of Ssraeshza Temple",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ssraeshza Temple:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000071,
+        "label": "Acolyte Wivlx"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000340,
+        "label": "Advisor Zekuzh"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000341,
+        "label": "Arbiter Korazhk"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000066,
+        "label": "Clati Soriz"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000054,
+        "label": "Commander Zazuzh"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000055,
+        "label": "Commander Zherozsh"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000068,
+        "label": "Defiler Juzlix"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000070,
+        "label": "Disciple Yelwinz"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000059,
+        "label": "Disciple Zhorluhx"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000339,
+        "label": "General Kizuhx"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000061,
+        "label": "Granic Obulus"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000067,
+        "label": "Guard Sklinus"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000062,
+        "label": "Hilog Jarsath"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000064,
+        "label": "Kalin Nathsar"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000063,
+        "label": "Nerla Kunzar"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000065,
+        "label": "Rutin Kylong"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000057,
+        "label": "Shissar Assassin"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000058,
+        "label": "The Shissar Magister"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 4000060,
+        "label": "Shissar Mystic"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 4000069,
+        "label": "Spiritward Trilzic"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 4000056,
+        "label": "Zhroushe Mezhkazh"
+      }
+    ]
+  },
+  {
+    "id": 415480,
+    "title": "Hunter of The Acrylia Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Acrylia Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000035,
+        "label": "a grimling arcanist"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000034,
+        "label": "a grimling arch sage"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000037,
+        "label": "a grimling bloodmage"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000036,
+        "label": "a grimling bloodpriest"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000031,
+        "label": "a grimling high priest"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000038,
+        "label": "a grimling primalist"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000039,
+        "label": "a grimling ritualist"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000033,
+        "label": "a grimling spiritist"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000032,
+        "label": "a grimling warlord"
+      }
+    ]
+  },
+  {
+    "id": 417980,
+    "title": "Hunter of The Akheva Ruins",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Akheva Ruins:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000264,
+        "label": "Akuel`Tekar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000258,
+        "label": "Altar Priest"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000263,
+        "label": "Diabo`Gel`Temeriel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000262,
+        "label": "Diabo`Teka`Temariel"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000266,
+        "label": "Itraer`Renthias"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000256,
+        "label": "Lorekeeper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000259,
+        "label": "Transient Emissary"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000261,
+        "label": "Transient Xakra"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000260,
+        "label": "Transient Xin"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000265,
+        "label": "Vius`Tekar"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000257,
+        "label": "Warlord"
+      }
+    ]
+  },
+  {
+    "id": 417480,
+    "title": "Hunter of The Dawnshroud Peaks",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Dawnshroud Peaks:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000191,
+        "label": "An Age Old Rockhopper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000345,
+        "label": "an ebonfang wolf"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000194,
+        "label": "Fungus Covered Shroom"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000193,
+        "label": "Sambata Tribal Advisor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000192,
+        "label": "Sambata Tribal Leader Garn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000188,
+        "label": "Tribal Advisor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000190,
+        "label": "Tribal Hunter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000187,
+        "label": "Tribal Leader"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000189,
+        "label": "Tribal Shaman"
+      }
+    ]
+  },
+  {
+    "id": 416480,
+    "title": "Hunter of The Deep",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Deep:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000091,
+        "label": "an ancient shrieker sporemaster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000094,
+        "label": "Barkil the Mad"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000080,
+        "label": "Chasm Overseer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000087,
+        "label": "a dark horror master"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000342,
+        "label": "a deepspore mushroom"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000078,
+        "label": "Deranged Underbulk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000085,
+        "label": "a destructive thought leech"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000089,
+        "label": "an enraged shrieker"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000088,
+        "label": "a ferocious horror lord"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000092,
+        "label": "a foul ancient shrieker"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000093,
+        "label": "Greabam the Lost"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000086,
+        "label": "a hideous thought leech"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000083,
+        "label": "Koxiux the Imperceptible"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000079,
+        "label": "Lhurgoz the Decayed"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000343,
+        "label": "Oldencamp the Lost"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000090,
+        "label": "a pestilent shrieker"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000082,
+        "label": "Slavekeeper Xiox"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000084,
+        "label": "Thought Horror Corrupter"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 4000081,
+        "label": "Xeximoz"
+      }
+    ]
+  },
+  {
+    "id": 415380,
+    "title": "Hunter of The Echo Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Echo Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000029,
+        "label": "Chief Groplin"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000026,
+        "label": "Crinthia Signseer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000025,
+        "label": "Fireclaw"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000027,
+        "label": "Murph Cobblestone"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000030,
+        "label": "The Needlite Queen"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000028,
+        "label": "Torin Truestring"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000336,
+        "label": "Trillcor"
+      }
+    ]
+  },
+  {
+    "id": 415780,
+    "title": "Hunter of The Fungus Grove",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Fungus Grove:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000042,
+        "label": "Chakiza"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000044,
+        "label": "Chakno"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000043,
+        "label": "Katcha"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 4000338,
+        "label": "Shuddering Fungus"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000047,
+        "label": "Takacha"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000046,
+        "label": "Tiako"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000045,
+        "label": "Tuchako"
+      }
+    ]
+  },
+  {
+    "id": 417180,
+    "title": "Hunter of The Grey",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Grey:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000166,
+        "label": "An Ancient Shissar Servitor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000168,
+        "label": "Boulder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000161,
+        "label": "Crusader Kezzal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000162,
+        "label": "Heirophant Grazan"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000164,
+        "label": "Revenant Sthzzzizt"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000163,
+        "label": "Revenant Zsshta"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000165,
+        "label": "A Shattered Golem"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000167,
+        "label": "Stonehand"
+      }
+    ]
+  },
+  {
+    "id": 417380,
+    "title": "Hunter of The Maiden's Eye",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Maiden's Eye:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000183,
+        "label": "a goranga battlemaster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000178,
+        "label": "a goranga chieftan"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000181,
+        "label": "a goranga forager"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000184,
+        "label": "a goranga prophet"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000185,
+        "label": "a goranga savant"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000182,
+        "label": "a goranga seer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000179,
+        "label": "A Shadow Overlord"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000186,
+        "label": "a thought stealer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000180,
+        "label": "Xi Thall"
+      }
+    ]
+  },
+  {
+    "id": 415680,
+    "title": "Hunter of The Paludal Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Paludal Caverns:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000041,
+        "label": "Ch`ktok"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000040,
+        "label": "a massive sediment delver"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000337,
+        "label": "a ravenous owlbear"
+      }
+    ]
+  },
+  {
+    "id": 417580,
+    "title": "Hunter of The Scarlet Desert",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Scarlet Desert:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000195,
+        "label": "Binpral Rockfoot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000226,
+        "label": "Bloodtribe Agitator"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000227,
+        "label": "Bloodtribe Ancient"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000228,
+        "label": "Bloodtribe Bonecollector"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000229,
+        "label": "Bloodtribe Prophet"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000230,
+        "label": "Bloodtribe Seer"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000231,
+        "label": "Bloodtribe Sneakster"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000232,
+        "label": "Bloodtribe Surveryor"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000233,
+        "label": "Bloodtribe Wiseman"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000201,
+        "label": "a gigantic sunflower"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000202,
+        "label": "a grol baku benefactor"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000203,
+        "label": "a grol baku bodyguard"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000204,
+        "label": "a grol baku keeper"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000205,
+        "label": "a grol baku retainer"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000196,
+        "label": "Killer Vine"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000197,
+        "label": "Kraen Flameweaver"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000206,
+        "label": "a lightcrawler drone"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000207,
+        "label": "a lively lightcrawler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 4000208,
+        "label": "a poisonous sunflower"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 4000234,
+        "label": "Possesed Sun Revenant"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 4000209,
+        "label": "a prismatic lightcrawler"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 4000198,
+        "label": "Redanyt Pwinlun"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 4000235,
+        "label": "Ruinous Sun Revenant"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 4000236,
+        "label": "scarlet cheetah gatherer"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 4000237,
+        "label": "scarlet cheetah hunter"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 4000238,
+        "label": "scarlet cheetah huntress"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 4000239,
+        "label": "scarlet cheetah matriarch"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 4000240,
+        "label": "scarlet cheetah patriarch"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 4000199,
+        "label": "Sectoid"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 4000210,
+        "label": "a sluggish sunflower"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 4000241,
+        "label": "Sun Revenant Chancellor"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 4000242,
+        "label": "Sun Revenant Desecrator"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 4000243,
+        "label": "Sun Revenant Magistrate"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 4000244,
+        "label": "Sun Revenant Primatus"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 4000245,
+        "label": "Sun Revenant Smiter"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 4000246,
+        "label": "Sun Revenant Warlock"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 4000200,
+        "label": "Sunlord Wedazi"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 4000211,
+        "label": "a tainted lightcrawler"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 4000212,
+        "label": "a thorny sunflower"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 4000213,
+        "label": "a tro jeg adversary"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 4000214,
+        "label": "a tro jeg aggressor"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 4000215,
+        "label": "a tro jeg assailant"
+      },
+      {
+        "order": 43,
+        "type": 1,
+        "value": 4000216,
+        "label": "a tro jeg captor"
+      },
+      {
+        "order": 44,
+        "type": 1,
+        "value": 4000217,
+        "label": "a tro jeg commander"
+      },
+      {
+        "order": 45,
+        "type": 1,
+        "value": 4000218,
+        "label": "a tro jeg firekeeper"
+      },
+      {
+        "order": 46,
+        "type": 1,
+        "value": 4000219,
+        "label": "a tro jeg heathen"
+      },
+      {
+        "order": 47,
+        "type": 1,
+        "value": 4000220,
+        "label": "a tro jeg heretic"
+      },
+      {
+        "order": 48,
+        "type": 1,
+        "value": 4000221,
+        "label": "a tro jeg hooligan"
+      },
+      {
+        "order": 49,
+        "type": 1,
+        "value": 4000222,
+        "label": "a vas ren archon"
+      },
+      {
+        "order": 50,
+        "type": 1,
+        "value": 4000223,
+        "label": "a vas ren bruiser"
+      },
+      {
+        "order": 51,
+        "type": 1,
+        "value": 4000224,
+        "label": "a vas ren champion"
+      },
+      {
+        "order": 52,
+        "type": 1,
+        "value": 4000225,
+        "label": "a vas ren fugitive"
+      }
+    ]
+  },
+  {
+    "id": 417280,
+    "title": "Hunter of The Tenebrous Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Tenebrous Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000174,
+        "label": "a cral ligi warlord"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000170,
+        "label": "Emissary Oomgado"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000172,
+        "label": "a grimling foreman"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000344,
+        "label": "a grol baku warlord"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000361,
+        "label": "Heratius Grolden"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000173,
+        "label": "a meeda hune warlord"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000171,
+        "label": "Skyshadow"
+      }
+    ]
+  },
+  {
+    "id": 417080,
+    "title": "Hunter of The Twilight Sea",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Twilight Sea:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000119,
+        "label": "Aero"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000157,
+        "label": "Aqualan Deepwaters"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000124,
+        "label": "a berserk air elemental"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000125,
+        "label": "a berserk earth elemental"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000126,
+        "label": "a berserk fire elemental"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000127,
+        "label": "a berserk water elemental"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000128,
+        "label": "a cral ligi warlord"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000129,
+        "label": "a cral ligi warmaster"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000158,
+        "label": "Felor Swiftwater"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000130,
+        "label": "a gigantic air elemental"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000131,
+        "label": "a gigantic earth elemental"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000132,
+        "label": "a gigantic fire elemental"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000133,
+        "label": "a gigantic water elemental"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000134,
+        "label": "a greater air elemental"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000135,
+        "label": "a greater earth elemental"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000136,
+        "label": "a greater fire elemental"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000137,
+        "label": "a greater water elemental"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000138,
+        "label": "a grol baku leader"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 4000139,
+        "label": "a grol baku taskmaster"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 4000140,
+        "label": "a grol baku warlord"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 4000141,
+        "label": "a grol baku warmaster"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 4000142,
+        "label": "a hulking air elemental"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 4000143,
+        "label": "a hulking earth elemental"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 4000144,
+        "label": "a hulking fire elemental"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 4000145,
+        "label": "a hulking water elemental"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 4000120,
+        "label": "Hydro"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 4000121,
+        "label": "Inferno"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 4000159,
+        "label": "Praem Softbreeze"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 4000122,
+        "label": "Ranvin Darkwaters"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 4000160,
+        "label": "Rundl Rockfoot"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 4000146,
+        "label": "a swift water elemental"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 4000147,
+        "label": "a swift air elemental"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 4000148,
+        "label": "a swift earth elemental"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 4000149,
+        "label": "a swift fire elemental"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 4000123,
+        "label": "Terra"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 4000150,
+        "label": "a tro jeg official"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 4000151,
+        "label": "a tro jeg spy"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 4000152,
+        "label": "a turtle wrangler"
+      },
+      {
+        "order": 39,
+        "type": 1,
+        "value": 4000153,
+        "label": "a vas ren cohort"
+      },
+      {
+        "order": 40,
+        "type": 1,
+        "value": 4000154,
+        "label": "a vas ren priest"
+      },
+      {
+        "order": 41,
+        "type": 1,
+        "value": 4000155,
+        "label": "a vas ren warlord"
+      },
+      {
+        "order": 42,
+        "type": 1,
+        "value": 4000156,
+        "label": "a vas ren warmaster"
+      }
+    ]
+  },
+  {
+    "id": 417680,
+    "title": "Hunter of The Umbral Plains",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Umbral Plains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000252,
+        "label": "Bile Spew"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000249,
+        "label": "Bloodwretch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000255,
+        "label": "Fallen Sergeant"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000250,
+        "label": "Festersore"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000251,
+        "label": "Fleshrot"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000253,
+        "label": "Fyrthek Fior"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000247,
+        "label": "A Shadowy Assassin"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000248,
+        "label": "Shak Dathor Warlord"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000254,
+        "label": "Sylra Fris"
+      }
+    ]
+  },
+  {
+    "id": 415880,
+    "title": "Hunter of Vex Thal",
+    "description": "This achievement is gained upon defeating the following rare monsters in Vex Thal:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 408,
+    "subcategoryName": "Hunter",
+    "categoryId": 400,
+    "categoryName": "Shadows of Luclin",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 4000274,
+        "label": "Eom Centien Xakra Dat"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 4000272,
+        "label": "Eom Centien Xakra Kel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 4000273,
+        "label": "Eom Centien Xakra Set"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 4000277,
+        "label": "Eom Liako Xakra Dat"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 4000275,
+        "label": "Eom Liako Xakra Kel"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 4000276,
+        "label": "Eom Liako Xakra Set"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 4000280,
+        "label": "Eom Senshali Xakra Dat"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 4000278,
+        "label": "Eom Senshali Xakra Kel"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 4000279,
+        "label": "Eom Senshali Xakra Set"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 4000283,
+        "label": "Eom Thall Xakra Dat"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 4000281,
+        "label": "Eom Thall Xakra Kel"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 4000282,
+        "label": "Eom Thall Xakra Set"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 4000286,
+        "label": "Eom Va Liako Xakra Dat"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 4000284,
+        "label": "Eom Va Liako Xakra Kel"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 4000285,
+        "label": "Eom Va Liako Xakra Set"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 4000289,
+        "label": "Eom Zethon Xakra Dat"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 4000287,
+        "label": "Eom Zethon Xakra Kel"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 4000288,
+        "label": "Eom Zethon Xakra Set"
+      }
+    ]
+  }
+]

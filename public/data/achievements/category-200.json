@@ -1,0 +1,3459 @@
+[
+  {
+    "id": 200084,
+    "title": "Conqueror of The Ruins of Kunark",
+    "description": "This achievement is gained upon completing all the raids in The Ruins of Kunark.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 201,
+    "subcategoryName": "General",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001359,
+        "label": "Conqueror of Chardok"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 2001308,
+        "label": "Conqueror of Chardok: The Halls of Betrayal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001305,
+        "label": "Conqueror of Karnor's Castle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001301,
+        "label": "Conqueror of The Dreadlands"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001303,
+        "label": "Conqueror of The Emerald Jungle"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001307,
+        "label": "Conqueror of The Howling Stones"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001302,
+        "label": "Conqueror of The Ruins of Sebilis"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001300,
+        "label": "Conqueror of The Skyfire Mountains"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001304,
+        "label": "Conqueror of Timorous Deep"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001306,
+        "label": "Conqueror of Veeshan's Peak"
+      },
+      {
+        "order": 11,
+        "type": 2,
+        "value": 2001309,
+        "label": "Conqueror of Veksar"
+      }
+    ]
+  },
+  {
+    "id": 200090,
+    "title": "Ruins of Kunark Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Ruins of Kunark.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 201,
+    "subcategoryName": "General",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270730,
+        "label": "East Cabilis Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 270731,
+        "label": "West Cabilis Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 270732,
+        "label": "Timorous Deep Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 270733,
+        "label": "Firiona Vie Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 270734,
+        "label": "The Overthere Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 270735,
+        "label": "The Field of Bone Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 270736,
+        "label": "Kurn's Tower Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 270737,
+        "label": "Kaesora Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 270738,
+        "label": "The Warsliks Woods Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 270739,
+        "label": "The Crypt of Dalnir Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 270740,
+        "label": "The Swamp of No Hope Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 270741,
+        "label": "Lake of Ill Omen Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 270742,
+        "label": "The Dreadlands Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 270743,
+        "label": "Karnor's Castle Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 270744,
+        "label": "Frontier Mountains Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 270745,
+        "label": "The Temple of Droga Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 270746,
+        "label": "The Mines of Nurga Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 270747,
+        "label": "The Burning Wood Traveler"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 270748,
+        "label": "Chardok Traveler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 270749,
+        "label": "Chardok: The Halls of Betrayal Traveler"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 270750,
+        "label": "The Howling Stones Traveler"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 270751,
+        "label": "The Skyfire Mountains Traveler"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 270752,
+        "label": "The Emerald Jungle Traveler"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 270753,
+        "label": "The City of Mist Traveler"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 270754,
+        "label": "Trakanon's Teeth Traveler"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 270755,
+        "label": "The Ruins of Sebilis Traveler"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 270756,
+        "label": "Veksar Traveler"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 270757,
+        "label": "Veeshan's Peak Traveler"
+      }
+    ]
+  },
+  {
+    "id": 200085,
+    "title": "Ruinslayer",
+    "description": "This achievement is gained upon completing the following achievements:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 201,
+    "subcategoryName": "General",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001009,
+        "label": "Hunter of The Burning Wood"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001019,
+        "label": "Hunter of Chardok"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 2001026,
+        "label": "Hunter of Chardok: The Halls of Betrayal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001012,
+        "label": "Hunter of The City of Mist"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001020,
+        "label": "Hunter of The Crypt of Dalnir"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001008,
+        "label": "Hunter of The Dreadlands"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001014,
+        "label": "Hunter of The Emerald Jungle"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001003,
+        "label": "Hunter of The Field of Bone"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001013,
+        "label": "Hunter of Frontier Mountains"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001021,
+        "label": "Hunter of The Howling Stones"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001010,
+        "label": "Hunter of Kaesora"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001018,
+        "label": "Hunter of Karnor's Castle"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001017,
+        "label": "Hunter of Kurn's Tower"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001007,
+        "label": "Hunter of Lake of Ill Omen"
+      },
+      {
+        "order": 15,
+        "type": 2,
+        "value": 2001022,
+        "label": "Hunter of The Mines of Nurga"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001011,
+        "label": "Hunter of The Ruins of Sebilis"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001358,
+        "label": "Hunter of The Swamp of No Hope"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001005,
+        "label": "Hunter of The Temple of Droga"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001016,
+        "label": "Hunter of Timorous Deep"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001015,
+        "label": "Hunter of Trakanon's Teeth"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001023,
+        "label": "Hunter of Veeshan's Peak"
+      },
+      {
+        "order": 22,
+        "type": 2,
+        "value": 2001025,
+        "label": "Hunter of Veksar"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001004,
+        "label": "Hunter of The Warsliks Woods"
+      }
+    ]
+  },
+  {
+    "id": 210300,
+    "title": "Chardok Traveler",
+    "description": "This achievement is gained upon visiting Chardok.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270095,
+        "label": "Visit Chardok"
+      }
+    ]
+  },
+  {
+    "id": 227700,
+    "title": "Chardok: The Halls of Betrayal Traveler",
+    "description": "This achievement is gained upon visiting Chardok: The Halls of Betrayal.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270230,
+        "label": "Visit Chardok: The Halls of Betrayal"
+      }
+    ]
+  },
+  {
+    "id": 210600,
+    "title": "East Cabilis Traveler",
+    "description": "This achievement is gained upon visiting East Cabilis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270098,
+        "label": "Visit East Cabilis"
+      }
+    ]
+  },
+  {
+    "id": 208400,
+    "title": "Firiona Vie Traveler",
+    "description": "This achievement is gained upon visiting Firiona Vie.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270077,
+        "label": "Visit Firiona Vie"
+      }
+    ]
+  },
+  {
+    "id": 209200,
+    "title": "Frontier Mountains Traveler",
+    "description": "This achievement is gained upon visiting Frontier Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270085,
+        "label": "Visit Frontier Mountains"
+      }
+    ]
+  },
+  {
+    "id": 208800,
+    "title": "Kaesora Traveler",
+    "description": "This achievement is gained upon visiting Kaesora.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270081,
+        "label": "Visit Kaesora"
+      }
+    ]
+  },
+  {
+    "id": 210200,
+    "title": "Karnor's Castle Traveler",
+    "description": "This achievement is gained upon visiting Karnor's Castle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270094,
+        "label": "Visit Karnor's Castle"
+      }
+    ]
+  },
+  {
+    "id": 209700,
+    "title": "Kurn's Tower Traveler",
+    "description": "This achievement is gained upon visiting Kurn's Tower.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270090,
+        "label": "Visit Kurn's Tower"
+      }
+    ]
+  },
+  {
+    "id": 208500,
+    "title": "Lake of Ill Omen Traveler",
+    "description": "This achievement is gained upon visiting Lake of Ill Omen.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270078,
+        "label": "Visit Lake of Ill Omen"
+      }
+    ]
+  },
+  {
+    "id": 208700,
+    "title": "The Burning Wood Traveler",
+    "description": "This achievement is gained upon visiting The Burning Wood.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270080,
+        "label": "Visit The Burning Wood"
+      }
+    ]
+  },
+  {
+    "id": 209000,
+    "title": "The City of Mist Traveler",
+    "description": "This achievement is gained upon visiting The City of Mist.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270083,
+        "label": "Visit The City of Mist"
+      }
+    ]
+  },
+  {
+    "id": 210400,
+    "title": "The Crypt of Dalnir Traveler",
+    "description": "This achievement is gained upon visiting The Crypt of Dalnir.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270096,
+        "label": "Visit The Crypt of Dalnir"
+      }
+    ]
+  },
+  {
+    "id": 208600,
+    "title": "The Dreadlands Traveler",
+    "description": "This achievement is gained upon visiting The Dreadlands.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270079,
+        "label": "Visit The Dreadlands"
+      }
+    ]
+  },
+  {
+    "id": 209400,
+    "title": "The Emerald Jungle Traveler",
+    "description": "This achievement is gained upon visiting The Emerald Jungle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270087,
+        "label": "Visit The Emerald Jungle"
+      }
+    ]
+  },
+  {
+    "id": 207800,
+    "title": "The Field of Bone Traveler",
+    "description": "This achievement is gained upon visiting The Field of Bone.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270071,
+        "label": "Visit The Field of Bone"
+      }
+    ]
+  },
+  {
+    "id": 210500,
+    "title": "The Howling Stones Traveler",
+    "description": "This achievement is gained upon visiting The Howling Stones.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270097,
+        "label": "Visit The Howling Stones"
+      }
+    ]
+  },
+  {
+    "id": 210700,
+    "title": "The Mines of Nurga Traveler",
+    "description": "This achievement is gained upon visiting The Mines of Nurga.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270099,
+        "label": "Visit The Mines of Nurga"
+      }
+    ]
+  },
+  {
+    "id": 209300,
+    "title": "The Overthere Traveler",
+    "description": "This achievement is gained upon visiting The Overthere.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270086,
+        "label": "Visit The Overthere"
+      }
+    ]
+  },
+  {
+    "id": 208900,
+    "title": "The Ruins of Sebilis Traveler",
+    "description": "This achievement is gained upon visiting The Ruins of Sebilis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270082,
+        "label": "Visit The Ruins of Sebilis"
+      }
+    ]
+  },
+  {
+    "id": 209100,
+    "title": "The Skyfire Mountains Traveler",
+    "description": "This achievement is gained upon visiting The Skyfire Mountains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270084,
+        "label": "Visit The Skyfire Mountains"
+      }
+    ]
+  },
+  {
+    "id": 208300,
+    "title": "The Swamp of No Hope Traveler",
+    "description": "This achievement is gained upon visiting The Swamp of No Hope.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270076,
+        "label": "Visit The Swamp of No Hope"
+      }
+    ]
+  },
+  {
+    "id": 208100,
+    "title": "The Temple of Droga Traveler",
+    "description": "This achievement is gained upon visiting The Temple of Droga.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270074,
+        "label": "Visit The Temple of Droga"
+      }
+    ]
+  },
+  {
+    "id": 207900,
+    "title": "The Warsliks Woods Traveler",
+    "description": "This achievement is gained upon visiting The Warsliks Woods.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270072,
+        "label": "Visit The Warsliks Woods"
+      }
+    ]
+  },
+  {
+    "id": 209600,
+    "title": "Timorous Deep Traveler",
+    "description": "This achievement is gained upon visiting Timorous Deep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270089,
+        "label": "Visit Timorous Deep"
+      }
+    ]
+  },
+  {
+    "id": 209500,
+    "title": "Trakanon's Teeth Traveler",
+    "description": "This achievement is gained upon visiting Trakanon's Teeth.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270088,
+        "label": "Visit Trakanon's Teeth"
+      }
+    ]
+  },
+  {
+    "id": 210800,
+    "title": "Veeshan's Peak Traveler",
+    "description": "This achievement is gained upon visiting Veeshan's Peak.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270100,
+        "label": "Visit Veeshan's Peak"
+      }
+    ]
+  },
+  {
+    "id": 210900,
+    "title": "Veksar Traveler",
+    "description": "This achievement is gained upon visiting Veksar.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270101,
+        "label": "Visit Veksar"
+      }
+    ]
+  },
+  {
+    "id": 208200,
+    "title": "West Cabilis Traveler",
+    "description": "This achievement is gained upon visiting West Cabilis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 202,
+    "subcategoryName": "Exploration",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270075,
+        "label": "Visit West Cabilis"
+      }
+    ]
+  },
+  {
+    "id": 90009,
+    "title": "Cipher of Veeshan",
+    "description": "This key unlocks the entrance to Veeshan's Peak, after the arrival of Dry Sapara.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3016,
+        "label": "Cipher of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 90006,
+    "title": "Hand of Glory",
+    "description": "This key unlocks the doors within the Ruins of Charasis (The Howling Stones).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3013,
+        "label": "Hand of Glory"
+      }
+    ]
+  },
+  {
+    "id": 90008,
+    "title": "Key of Veeshan",
+    "description": "This key unlocks the entrance to Veeshan's Peak, until the arrival of Dry Sapara.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3015,
+        "label": "Key of Veeshan or Cipher of Veeshan"
+      }
+    ]
+  },
+  {
+    "id": 90005,
+    "title": "Key to Charasis",
+    "description": "This key unlocks the entrance to the Ruins of Charasis (The Howling Stones).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3012,
+        "label": "Key to Charasis"
+      }
+    ]
+  },
+  {
+    "id": 90007,
+    "title": "Palace of Ghiosk Key",
+    "description": "This key unlocks the door to the Palace of Ghiosk within Torsis (The City of Mist).",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3014,
+        "label": "A Stone Key"
+      }
+    ]
+  },
+  {
+    "id": 90004,
+    "title": "Trakanon Idol",
+    "description": "This key unlocks the entrance to the Ruins of Sebilis.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 203,
+    "subcategoryName": "Progression",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3011,
+        "label": "Trakanon Idol"
+      }
+    ]
+  },
+  {
+    "id": 210340,
+    "title": "Conqueror of Chardok",
+    "description": "This achievement is gained upon completing the following raids in Chardok:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001360,
+        "label": "Overking Bathezid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001362,
+        "label": "Prince Selrach Di`Zok"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001361,
+        "label": "Queen Velazu Di`Zok"
+      }
+    ]
+  },
+  {
+    "id": 227740,
+    "title": "Conqueror of Chardok: The Halls of Betrayal",
+    "description": "This achievement is gained upon completing the following raid in Chardok: The Halls of Betrayal:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001297,
+        "label": "Korucust"
+      }
+    ]
+  },
+  {
+    "id": 210240,
+    "title": "Conqueror of Karnor's Castle",
+    "description": "This achievement is gained upon completing the following raid in Karnor's Castle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001289,
+        "label": "Venril Sathir"
+      }
+    ]
+  },
+  {
+    "id": 208640,
+    "title": "Conqueror of The Dreadlands",
+    "description": "This achievement is gained upon completing the following raid in The Dreadlands:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001285,
+        "label": "Gorenaire"
+      }
+    ]
+  },
+  {
+    "id": 209440,
+    "title": "Conqueror of The Emerald Jungle",
+    "description": "This achievement is gained upon completing the following raid in The Emerald Jungle:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001287,
+        "label": "Severilous"
+      }
+    ]
+  },
+  {
+    "id": 210540,
+    "title": "Conqueror of The Howling Stones",
+    "description": "This achievement is gained upon completing the following raid in The Howling Stones:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001296,
+        "label": "Drusella Sathir"
+      }
+    ]
+  },
+  {
+    "id": 208940,
+    "title": "Conqueror of The Ruins of Sebilis",
+    "description": "This achievement is gained upon completing the following raid in The Ruins of Sebilis:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001286,
+        "label": "Trakanon"
+      }
+    ]
+  },
+  {
+    "id": 209140,
+    "title": "Conqueror of The Skyfire Mountains",
+    "description": "This achievement is gained upon completing the following raid in The Skyfire Mountains:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001299,
+        "label": "Talendor"
+      }
+    ]
+  },
+  {
+    "id": 209640,
+    "title": "Conqueror of Timorous Deep",
+    "description": "This achievement is gained upon completing the following raid in Timorous Deep:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001288,
+        "label": "Faydedar"
+      }
+    ]
+  },
+  {
+    "id": 210840,
+    "title": "Conqueror of Veeshan's Peak",
+    "description": "This achievement is gained upon completing the following raid in Veeshan's Peak:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001290,
+        "label": "Druushk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001291,
+        "label": "Hoshkar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001292,
+        "label": "Nexona"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001293,
+        "label": "Phara Dar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001294,
+        "label": "Silverwing"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001295,
+        "label": "Xygoz"
+      }
+    ]
+  },
+  {
+    "id": 210940,
+    "title": "Conqueror of Veksar",
+    "description": "This achievement is gained upon completing the following raid in Veksar:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 206,
+    "subcategoryName": "Raids",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001298,
+        "label": "Garudon"
+      }
+    ]
+  },
+  {
+    "id": 210380,
+    "title": "Hunter of Chardok",
+    "description": "This achievement is gained upon defeating the following rare monsters in Chardok:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001189,
+        "label": "an Alchemist`s Acolyte"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001172,
+        "label": "Arch Inspector Nibi`zi"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001177,
+        "label": "Battle Master Ska`tu"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001168,
+        "label": "The Bridge Keeper"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001169,
+        "label": "Captain Di`ouz"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001186,
+        "label": "Deathfang"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001181,
+        "label": "Drill Master Dih`roul"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001183,
+        "label": "Foreman Ku`lul"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001179,
+        "label": "Foreman Mirt`akk"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001188,
+        "label": "Grand Herbalist Mak`ha"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001166,
+        "label": "Grand Lorekeeper Kino Shai`din"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001176,
+        "label": "Grave Master Zo`lun"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001180,
+        "label": "An Iksar Trustee"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001175,
+        "label": "an Imperial Gravemaster"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001173,
+        "label": "Interrogator Gi`mok"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001187,
+        "label": "Kennel Master Al`ele"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001174,
+        "label": "Korucust`s Courier"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001165,
+        "label": "Loremaster Piza`tak"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001171,
+        "label": "Observer Aq`touz"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001184,
+        "label": "Overseer Dal`guur"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001182,
+        "label": "Sarnak Collective Auditor"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001167,
+        "label": "a Security Advisor"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001185,
+        "label": "Underboss Myli`ki"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 2001178,
+        "label": "Watch Captain Hir`roul"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 2001170,
+        "label": "Watch Sergeant Riz`oul"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 2001190,
+        "label": "a Wizened Herb Collector"
+      }
+    ]
+  },
+  {
+    "id": 227780,
+    "title": "Hunter of Chardok: The Halls of Betrayal",
+    "description": "This achievement is gained upon defeating the following rare monsters in Chardok: The Halls of Betrayal:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 2001502,
+        "label": "Chardok: Halls of Betrayal - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001357,
+        "label": "Brodisek Ashkansek"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001355,
+        "label": "Krizznot Bonewalker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001276,
+        "label": "a rabid chokidai biter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001277,
+        "label": "a rabid chokidai bleeder"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001278,
+        "label": "a rabid chokidai ripper"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001279,
+        "label": "Sarnak Armorer"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001281,
+        "label": "Sarnak Champion"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001280,
+        "label": "Sarnak Weaponsmith"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001356,
+        "label": "Valinion Viz`Daron"
+      }
+    ]
+  },
+  {
+    "id": 209280,
+    "title": "Hunter of Frontier Mountains",
+    "description": "This achievement is gained upon defeating the following rare monsters in Frontier Mountains:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001114,
+        "label": "a goblin bodyguard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001111,
+        "label": "a goblin fanatic"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001112,
+        "label": "a goblin soothsayer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001115,
+        "label": "a goblin warder"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001113,
+        "label": "a maddened Burynai"
+      }
+    ]
+  },
+  {
+    "id": 208880,
+    "title": "Hunter of Kaesora",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kaesora:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001081,
+        "label": "failed crypt raider"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001074,
+        "label": "frenzied strathbone"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001077,
+        "label": "hungered ravener"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001078,
+        "label": "reaver of Xalgoz"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001076,
+        "label": "spectral librarian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001079,
+        "label": "strathbone runelord"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001075,
+        "label": "tortured librarian"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001080,
+        "label": "Xalgoz"
+      }
+    ]
+  },
+  {
+    "id": 210280,
+    "title": "Hunter of Karnor's Castle",
+    "description": "This achievement is gained upon defeating the following rare monsters in Karnor's Castle:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001154,
+        "label": "caller of Sathir"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001158,
+        "label": "Construct of Sathir"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001151,
+        "label": "a drolvarg captain"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001162,
+        "label": "a drolvarg warlord"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001164,
+        "label": "Hangnail"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001160,
+        "label": "Knight of Sathir"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001153,
+        "label": "sentry of Sathir"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001156,
+        "label": "skeletal berserker"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001157,
+        "label": "skeletal captain"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001161,
+        "label": "skeletal caretaker"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001155,
+        "label": "skeletal scryer"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001152,
+        "label": "skeletal warlord"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001163,
+        "label": "spectral turnkey"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001159,
+        "label": "undead jailer"
+      }
+    ]
+  },
+  {
+    "id": 209780,
+    "title": "Hunter of Kurn's Tower",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kurn's Tower:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001143,
+        "label": "Bargynn"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001144,
+        "label": "undead crusader"
+      }
+    ]
+  },
+  {
+    "id": 208580,
+    "title": "Hunter of Lake of Ill Omen",
+    "description": "This achievement is gained upon defeating the following rare monsters in Lake of Ill Omen:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001066,
+        "label": "a lead explorer"
+      }
+    ]
+  },
+  {
+    "id": 208780,
+    "title": "Hunter of The Burning Wood",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Burning Wood:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001071,
+        "label": "Gorgul Paclock"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001073,
+        "label": "Gullerback"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001070,
+        "label": "Korasal Klyseer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001072,
+        "label": "Phurzikon"
+      }
+    ]
+  },
+  {
+    "id": 209080,
+    "title": "Hunter of The City of Mist",
+    "description": "This achievement is gained upon defeating the following rare monsters in The City of Mist:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001108,
+        "label": "Dread Wraith"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001105,
+        "label": "Gyrating Green Slime"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001104,
+        "label": "Mighty Golem"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001107,
+        "label": "Plaguebone Warlord"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001109,
+        "label": "Ravenous War Bone Skeleton"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001110,
+        "label": "Terror Wraith"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001106,
+        "label": "Tzirathk"
+      }
+    ]
+  },
+  {
+    "id": 210480,
+    "title": "Hunter of The Crypt of Dalnir",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Crypt of Dalnir:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001191,
+        "label": "a coerced crusader"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001193,
+        "label": "a coerced penkeeper"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001195,
+        "label": "a coerced revenant"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001200,
+        "label": "The Kly"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001192,
+        "label": "lumpy goo"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001197,
+        "label": "a shy kly imprecator"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001198,
+        "label": "a sly kly imprecator"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001196,
+        "label": "a spectral crusader"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001194,
+        "label": "an undead blacksmith"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001199,
+        "label": "a wry kly imprecator"
+      }
+    ]
+  },
+  {
+    "id": 208680,
+    "title": "Hunter of The Dreadlands",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Dreadlands:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001067,
+        "label": "a dread widow"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001068,
+        "label": "a mountain giant patriarch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001354,
+        "label": "a ravishing drolvarg"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001069,
+        "label": "wraithbone champion"
+      }
+    ]
+  },
+  {
+    "id": 209480,
+    "title": "Hunter of The Emerald Jungle",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Emerald Jungle:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001116,
+        "label": "Spectral Soldier"
+      }
+    ]
+  },
+  {
+    "id": 207880,
+    "title": "Hunter of The Field of Bone",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Field of Bone:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001032,
+        "label": "Burynai Cutter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001029,
+        "label": "Carrion Queen"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001031,
+        "label": "Iksar Dakoit"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001028,
+        "label": "Scaled Prowler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001030,
+        "label": "Scourgetail Scorpion"
+      }
+    ]
+  },
+  {
+    "id": 210580,
+    "title": "Hunter of The Howling Stones",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Howling Stones:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001204,
+        "label": "The Crypt Devourer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001211,
+        "label": "The Crypt Excavator"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001208,
+        "label": "The Crypt Feaster"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001213,
+        "label": "The Crypt Keeper"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001207,
+        "label": "The Crypt Spectre"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001205,
+        "label": "Embalming Fluid"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001203,
+        "label": "The Golem Master"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001210,
+        "label": "Howling Spectre"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001212,
+        "label": "Mortiferous Protector"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001209,
+        "label": "Reanimated Plaguebone"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001201,
+        "label": "Sentient Bile"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001214,
+        "label": "Skeletal Procurator"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001206,
+        "label": "The Skeleton Sepulcher"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001202,
+        "label": "The Spectre Sepulcher"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001216,
+        "label": "The Spectre Spiritualist"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001215,
+        "label": "The Undertaker Lord"
+      }
+    ]
+  },
+  {
+    "id": 260780,
+    "title": "Hunter of The Mines of Nurga",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Mines of Nurga:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 2001502,
+        "label": "The Mines of Nurga - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001229,
+        "label": "Blackguard Thabis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001225,
+        "label": "a blood thirsty mine rat"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001228,
+        "label": "Death Caller Joepla"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001233,
+        "label": "Death Knight Donkot"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001232,
+        "label": "Flame Chanter Breplish"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001223,
+        "label": "Frost Caller Ollikaz"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001220,
+        "label": "Life Drinker Krador"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001218,
+        "label": "Miner Gribok"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001230,
+        "label": "Overseer Henxsa"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001231,
+        "label": "Overseer Malam"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001221,
+        "label": "Slave Keeper Davirg"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001234,
+        "label": "Spirit Chanter Bibodik"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001219,
+        "label": "Spirit Weaver Tramix"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001224,
+        "label": "Stabber Remmy"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001226,
+        "label": "Taskmaster Crizz"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001227,
+        "label": "Taskmaster Huflam"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001222,
+        "label": "Traitor Efuin"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001217,
+        "label": "Tribal Elder"
+      }
+    ]
+  },
+  {
+    "id": 208980,
+    "title": "Hunter of The Ruins of Sebilis",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Ruins of Sebilis:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001096,
+        "label": "Arch Duke Latol"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001094,
+        "label": "Baron Yosig"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001092,
+        "label": "blood of chottal"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001084,
+        "label": "Brogg"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001091,
+        "label": "crypt caretaker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001087,
+        "label": "Emperor Chottal"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001089,
+        "label": "frenzied pox scarab"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001103,
+        "label": "Froggy"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001101,
+        "label": "froglok armorer"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001099,
+        "label": "froglok armsman"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001098,
+        "label": "froglok bartender"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001100,
+        "label": "froglok chef"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001085,
+        "label": "froglok commander"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001088,
+        "label": "froglok ostiary"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001090,
+        "label": "froglok pickler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001102,
+        "label": "froglok repairer"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001083,
+        "label": "Gruplinort"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001095,
+        "label": "Harbinger Freglor"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001093,
+        "label": "Hierophant Prime Grekal"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001086,
+        "label": "myconid spore king"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001082,
+        "label": "a necrosis scarab"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001097,
+        "label": "sebilite guardian"
+      }
+    ]
+  },
+  {
+    "id": 208380,
+    "title": "Hunter of The Swamp of No Hope",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Swamp of No Hope:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001328,
+        "label": "Blackbone"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001341,
+        "label": "Blackwing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001352,
+        "label": "Bleeder"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001334,
+        "label": "Bloodgorge"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001330,
+        "label": "Bloodskull"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001339,
+        "label": "Bloodvein"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001351,
+        "label": "Bulsgor"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001343,
+        "label": "Crackclaw"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001333,
+        "label": "Crookspine"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001327,
+        "label": "Deadeye"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001332,
+        "label": "Dred"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001317,
+        "label": "Dreesix Ghoultongue"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001349,
+        "label": "Ebon Bloodrose"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001325,
+        "label": "Fakraa the Forsaken"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001319,
+        "label": "Fangor"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001326,
+        "label": "Farik the Vile"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001322,
+        "label": "Fisherman Grik"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001321,
+        "label": "Frayk"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001316,
+        "label": "Froszik the Impaler"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001337,
+        "label": "Galeech"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001345,
+        "label": "Gluttik"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001353,
+        "label": "Gorge"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001335,
+        "label": "Grimewurm"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 2001329,
+        "label": "Grizshnok"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 2001347,
+        "label": "Heartblood Fern"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 2001331,
+        "label": "Horkak the Dead"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 2001340,
+        "label": "Ichorspike"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 2001350,
+        "label": "Old Hangman"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 2001342,
+        "label": "Scalek"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 2001318,
+        "label": "Soblohg"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 2001344,
+        "label": "Thirgus"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 2001336,
+        "label": "Torgis"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 2001320,
+        "label": "Two Tails"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 2001338,
+        "label": "Venomwing"
+      },
+      {
+        "order": 35,
+        "type": 1,
+        "value": 2001323,
+        "label": "Vissix"
+      },
+      {
+        "order": 36,
+        "type": 1,
+        "value": 2001348,
+        "label": "Weeping Mantrap"
+      },
+      {
+        "order": 37,
+        "type": 1,
+        "value": 2001346,
+        "label": "Woggir"
+      },
+      {
+        "order": 38,
+        "type": 1,
+        "value": 2001324,
+        "label": "Zagran the Mad"
+      }
+    ]
+  },
+  {
+    "id": 208180,
+    "title": "Hunter of The Temple of Droga",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Temple of Droga:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001036,
+        "label": "Chief RokGus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001037,
+        "label": "Soothsayer Dregzak"
+      },
+      {
+        "order": 3,
+        "type": 3,
+        "value": 2001501,
+        "label": "The Temple of Droga - Availability"
+      }
+    ]
+  },
+  {
+    "id": 258180,
+    "title": "Hunter of The Temple of Droga",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Temple of Droga:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 2001502,
+        "label": "The Temple of Droga (Enhanced) - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001064,
+        "label": "Blood Ritualist Taprom"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001040,
+        "label": "Bone Caller Nathid"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001055,
+        "label": "Bone Caster Fizzik"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001044,
+        "label": "Bone Knight Runri"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001039,
+        "label": "Bone Trooper Grolin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001047,
+        "label": "Cave Guardian Prehtil"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001051,
+        "label": "Death Ritualist Stromik"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001045,
+        "label": "Dirt Criminal Vakov"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001061,
+        "label": "Dirt Defender Gropp"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001057,
+        "label": "Dust Hoodlum Heaprit"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001043,
+        "label": "Earth Mystic Gedak"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001059,
+        "label": "Earth Seer Gamolk"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001053,
+        "label": "a fierce drogan spider"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001062,
+        "label": "Flame Adept Verdalix"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001054,
+        "label": "Flame Master Japal"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001048,
+        "label": "Ice Adept Amozik"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001056,
+        "label": "Ice Master Cialin"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001060,
+        "label": "Jailor Maufan"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001058,
+        "label": "King Dronan"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001038,
+        "label": "Magic Adept Xabok"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001063,
+        "label": "Moss Knight Yortal"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001052,
+        "label": "Rock Sneak Nrillip"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 2001046,
+        "label": "a savage drogan spider"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 2001065,
+        "label": "Slinker Ukul"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 2001050,
+        "label": "Stalag Trooper Biamas"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 2001041,
+        "label": "Stone Crook Piklo"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 2001049,
+        "label": "Stone Seer Kaigek"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 2001042,
+        "label": "Whip Cracker Krazzim"
+      }
+    ]
+  },
+  {
+    "id": 207980,
+    "title": "Hunter of The Warsliks Woods",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Warsliks Woods:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001035,
+        "label": "Grachnist the Destroyer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001033,
+        "label": "Iksar Bandit Lord"
+      }
+    ]
+  },
+  {
+    "id": 209680,
+    "title": "Hunter of Timorous Deep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Timorous Deep:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001141,
+        "label": "Halara"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001142,
+        "label": "Ugrak da Raider"
+      }
+    ]
+  },
+  {
+    "id": 209580,
+    "title": "Hunter of Trakanon's Teeth",
+    "description": "This achievement is gained upon defeating the following rare monsters in Trakanon's Teeth:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001122,
+        "label": "Bloodeye"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001123,
+        "label": "Champion Arlek"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001133,
+        "label": "Champion Thenrin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001363,
+        "label": "Commander Sils"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001124,
+        "label": "Crusader Zoglic"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001364,
+        "label": "Doom"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001365,
+        "label": "Dragontail"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001366,
+        "label": "Dreadlord Dekir"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001125,
+        "label": "Dreadlord Fanrik"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001117,
+        "label": "Ebon lotus"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001367,
+        "label": "Ffroaak"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001368,
+        "label": "Flayhte"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001128,
+        "label": "Hangman"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001126,
+        "label": "Harbinger Dronik"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001369,
+        "label": "Harbinger Josk"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001370,
+        "label": "Hierophant Ixyl"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001129,
+        "label": "Keeper Lasnik"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001371,
+        "label": "Keeper Sepsis"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001130,
+        "label": "Klok Denris"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001372,
+        "label": "Knight Dragol"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001373,
+        "label": "Master Fasliw"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 2001374,
+        "label": "Oracle Froskil"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 2001119,
+        "label": "Partisan Yinlen"
+      },
+      {
+        "order": 26,
+        "type": 1,
+        "value": 2001120,
+        "label": "Sigra"
+      },
+      {
+        "order": 27,
+        "type": 1,
+        "value": 2001131,
+        "label": "Silvermane"
+      },
+      {
+        "order": 28,
+        "type": 1,
+        "value": 2001132,
+        "label": "Squire Glik"
+      },
+      {
+        "order": 29,
+        "type": 1,
+        "value": 2001375,
+        "label": "Stonebeak"
+      },
+      {
+        "order": 30,
+        "type": 1,
+        "value": 2001376,
+        "label": "Throkkok"
+      },
+      {
+        "order": 31,
+        "type": 1,
+        "value": 2001377,
+        "label": "Thruke"
+      },
+      {
+        "order": 32,
+        "type": 1,
+        "value": 2001134,
+        "label": "Titail Sinok"
+      },
+      {
+        "order": 33,
+        "type": 1,
+        "value": 2001121,
+        "label": "Trakanasaurus Rex"
+      },
+      {
+        "order": 34,
+        "type": 1,
+        "value": 2001378,
+        "label": "Vessel Fryn"
+      }
+    ]
+  },
+  {
+    "id": 210880,
+    "title": "Hunter of Veeshan's Peak",
+    "description": "This achievement is gained upon defeating the following rare monsters in Veeshan's Peak:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 2001242,
+        "label": "an ancient racnar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001244,
+        "label": "a cruel racnar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001236,
+        "label": "a dangerous lava drake"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001235,
+        "label": "a deadly lava drake"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001239,
+        "label": "an enraged guardian wurm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001243,
+        "label": "a feral racnar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001240,
+        "label": "a frenzied guardian wurm"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001238,
+        "label": "a furious guardian wurm"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001237,
+        "label": "a malicious lava drake"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001241,
+        "label": "a savage racnar"
+      },
+      {
+        "order": 11,
+        "type": 3,
+        "value": 2001503,
+        "label": "Veeshan's Peak - Availability"
+      }
+    ]
+  },
+  {
+    "id": 250880,
+    "title": "Hunter of Veeshan's Peak",
+    "description": "This achievement is gained upon defeating the following rare monsters in Veeshan's Peak:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 2001504,
+        "label": "Veeshan's Peak (Enhanced) - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001247,
+        "label": "Blood-Thirsty Racnar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001248,
+        "label": "Elder Ekron"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001249,
+        "label": "Kluzen the Protector"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001246,
+        "label": "Magma Basilisk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001250,
+        "label": "Milyex Vioren"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001251,
+        "label": "Qunard Ashenclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001245,
+        "label": "Travenro the Skygazer"
+      }
+    ]
+  },
+  {
+    "id": 210980,
+    "title": "Hunter of Veksar",
+    "description": "This achievement is gained upon defeating the following rare monsters in Veksar:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 208,
+    "subcategoryName": "Hunter",
+    "categoryId": 200,
+    "categoryName": "Ruins of Kunark",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 3,
+        "value": 2001502,
+        "label": "Veksar - Availability"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 2001270,
+        "label": "a bloodgill soothsayer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 2001269,
+        "label": "a bloodgill warlord"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 2001260,
+        "label": "Brother Eruk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 2001252,
+        "label": "Champion Kamak"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 2001262,
+        "label": "a decaying slavemaster"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 2001255,
+        "label": "Feral Lord Gulok"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 2001254,
+        "label": "Hierophant Ginai"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 2001257,
+        "label": "Hierophant Vradik"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 2001273,
+        "label": "an Iksar behemoth"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 2001268,
+        "label": "an Iksar highborn"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 2001265,
+        "label": "a Kylong crusader"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 2001266,
+        "label": "a Kylong lich"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 2001253,
+        "label": "Lord Sasil"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 2001259,
+        "label": "Luminary Salox"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 2001274,
+        "label": "a plagued slave"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 2001267,
+        "label": "remains of Sythrax"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 2001271,
+        "label": "a rotting shopkeeper"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 2001263,
+        "label": "a sad slave"
+      },
+      {
+        "order": 20,
+        "type": 1,
+        "value": 2001261,
+        "label": "Trooper Muruk"
+      },
+      {
+        "order": 21,
+        "type": 1,
+        "value": 2001264,
+        "label": "an undead chef"
+      },
+      {
+        "order": 22,
+        "type": 1,
+        "value": 2001275,
+        "label": "an undead thief"
+      },
+      {
+        "order": 23,
+        "type": 1,
+        "value": 2001272,
+        "label": "an undying blacksmith"
+      },
+      {
+        "order": 24,
+        "type": 1,
+        "value": 2001256,
+        "label": "Warlock Dirloz"
+      },
+      {
+        "order": 25,
+        "type": 1,
+        "value": 2001258,
+        "label": "Warlock Gurag"
+      }
+    ]
+  }
+]

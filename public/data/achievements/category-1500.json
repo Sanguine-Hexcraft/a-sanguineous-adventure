@@ -1,0 +1,1671 @@
+[
+  {
+    "id": 1500050,
+    "title": "Secrets of Faydwer Explorer",
+    "description": "This achievement is gained upon visiting all the zones in the Secrets of Faydwer.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1501,
+    "subcategoryName": "General",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1500050,
+        "label": "Dragonscale Hills Traveler"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270483,
+        "label": "Tinmizer's Wunderwerks Traveler"
+      },
+      {
+        "order": 3,
+        "type": 2,
+        "value": 270484,
+        "label": "Deepscar's Den Traveler"
+      },
+      {
+        "order": 4,
+        "type": 2,
+        "value": 270481,
+        "label": "The Mechamatic Guardian Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1500051,
+        "label": "Loping Plains Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1500052,
+        "label": "Bloodmoon Keep Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1500053,
+        "label": "Hills of Shade Traveler"
+      },
+      {
+        "order": 8,
+        "type": 2,
+        "value": 270482,
+        "label": "Crypt of Shade Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1500056,
+        "label": "Fortress Mechanotus Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1500057,
+        "label": "Gyrospire Beza Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1500058,
+        "label": "Gyrospire Zeka Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1500059,
+        "label": "S.H.I.P. Workshop Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1500060,
+        "label": "The Steam Factory Traveler"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1500061,
+        "label": "Meldrath's Majestic Mansion Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1500062,
+        "label": "Crystallos Traveler"
+      },
+      {
+        "order": 16,
+        "type": 2,
+        "value": 15000036,
+        "label": "Gnome Memorial Mountain Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1501003,
+    "title": "Slayer of Secrets",
+    "description": "This achievement is gained upon completing all hunts in Secrets of Faydwer.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1501,
+    "subcategoryName": "General",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150100301,
+        "label": "Novice Hunter of Secrets of Faydwer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150100302,
+        "label": "Adept Hunter of Secrets of Faydwer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150100303,
+        "label": "Veteran Hunter of Secrets of Faydwer"
+      }
+    ]
+  },
+  {
+    "id": 1544500,
+    "title": "Bloodmoon Keep Traveler",
+    "description": "This achievement is gained upon visiting Bloodmoon Keep",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544500,
+        "label": "Visit Bloodmoon Keep"
+      }
+    ]
+  },
+  {
+    "id": 1544900,
+    "title": "Crypt of Shade Traveler",
+    "description": "This achievement is gained upon visiting Crypt of Shade.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270381,
+        "label": "Visit Crypt of Shade"
+      }
+    ]
+  },
+  {
+    "id": 1544600,
+    "title": "Crystallos Traveler",
+    "description": "This achievement is gained upon visiting Crystallos",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544600,
+        "label": "Visit Crystallos"
+      }
+    ]
+  },
+  {
+    "id": 1545100,
+    "title": "Deepscar's Den Traveler",
+    "description": "This achievement is gained upon visiting Deepscar's Den.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270383,
+        "label": "Visit Deepscar's Den"
+      }
+    ]
+  },
+  {
+    "id": 1544200,
+    "title": "Dragonscale Hills Traveler",
+    "description": "This achievement is gained upon visiting Dragonscale Hills",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544200,
+        "label": "Visit Dragonscale Hills"
+      }
+    ]
+  },
+  {
+    "id": 1543600,
+    "title": "Fortress Mechanotus Traveler",
+    "description": "This achievement is gained upon visiting Fortress Mechanotus",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1543600,
+        "label": "Visit Fortress Mechanotus"
+      }
+    ]
+  },
+  {
+    "id": 1544000,
+    "title": "Gyrospire Beza Traveler",
+    "description": "This achievement is gained upon visiting Gyrospire Beza",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544000,
+        "label": "Visit Gyrospire Beza"
+      }
+    ]
+  },
+  {
+    "id": 1544100,
+    "title": "Gyrospire Zeka Traveler",
+    "description": "This achievement is gained upon visiting Gyrospire Zeka",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544100,
+        "label": "Visit Gyrospire Zeka"
+      }
+    ]
+  },
+  {
+    "id": 1544400,
+    "title": "Hills of Shade Traveler",
+    "description": "This achievement is gained upon visiting Hills of Shade",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544400,
+        "label": "Visit Hills of Shade"
+      }
+    ]
+  },
+  {
+    "id": 1544300,
+    "title": "Loping Plains Traveler",
+    "description": "This achievement is gained upon visiting Loping Plains",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1544300,
+        "label": "Visit Loping Plains"
+      }
+    ]
+  },
+  {
+    "id": 1543700,
+    "title": "Meldrath's Majestic Mansion Traveler",
+    "description": "This achievement is gained upon visiting Meldrath's Majestic Mansion",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1543700,
+        "label": "Visit Meldrath's Majestic Mansion"
+      }
+    ]
+  },
+  {
+    "id": 1543900,
+    "title": "S.H.I.P. Workshop Traveler",
+    "description": "This achievement is gained upon visiting S.H.I.P. Workshop",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1543900,
+        "label": "Visit S.H.I.P. Workshop"
+      }
+    ]
+  },
+  {
+    "id": 1544700,
+    "title": "The Mechamatic Guardian Traveler",
+    "description": "This achievement is gained upon visiting The Mechamatic Guardian.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270379,
+        "label": "Visit The Mechamatic Guardian"
+      }
+    ]
+  },
+  {
+    "id": 1543800,
+    "title": "The Steam Factory Traveler",
+    "description": "This achievement is gained upon visiting The Steam Factory",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1543800,
+        "label": "Visit The Steam Factory"
+      }
+    ]
+  },
+  {
+    "id": 1545000,
+    "title": "Tinmizer's Wunderwerks Traveler",
+    "description": "This achievement is gained upon visiting Tinmizer's Wunderwerks.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1502,
+    "subcategoryName": "Exploration",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270382,
+        "label": "Visit Tinmizer's Wunderwerks"
+      }
+    ]
+  },
+  {
+    "id": 90049,
+    "title": "Configured Clockwork Key",
+    "description": "This key unlocks the entrance to Meldrath's Majestic Mansion.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1503,
+    "subcategoryName": "Progression",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3072,
+        "label": "Configured Clockwork Key"
+      }
+    ]
+  },
+  {
+    "id": 90050,
+    "title": "Majestic Mansion Milestone and Meeting Schedule",
+    "description": "This key unlocks the entrance to the hidden depths of Meldrath's Majestic Mansion.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1503,
+    "subcategoryName": "Progression",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3073,
+        "label": "Majestic Mansion Milestone and Meeting Schedule"
+      }
+    ]
+  },
+  {
+    "id": 90047,
+    "title": "Prismatic Crystal Charm",
+    "description": "This key unlocks the entrance to Crystallos, Lair of the Awakened.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1503,
+    "subcategoryName": "Progression",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3070,
+        "label": "Prismatic Crystal Charm"
+      }
+    ]
+  },
+  {
+    "id": 90048,
+    "title": "Prismatic Scale Charm",
+    "description": "This key unlocks the entrance to Kerafyrm's lair within Crystallos, Lair of the Awakened.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1503,
+    "subcategoryName": "Progression",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3071,
+        "label": "Prismatic Scale Charm"
+      }
+    ]
+  },
+  {
+    "id": 1544205,
+    "title": "Eron's Jewelry",
+    "description": "Assist Eron Nurwistle in Dragonscale Hills:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1504,
+    "subcategoryName": "Quests",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1500500,
+        "label": "Eron Nurwistle - Not So Simple Jewelry"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1500501,
+        "label": "Eron Nurwistle - Clay Within the Beast"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1500502,
+        "label": "Eron Nurwistle - Food For the Injured"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1500503,
+        "label": "Eron Nurwistle - Scrap Oil"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1500504,
+        "label": "Eron Nurwistle - Counting Shadows"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1500505,
+        "label": "Eron Nurwistle - Blood For the Cure"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1500506,
+        "label": "Eron Nurwistle - Steamy Revenge"
+      }
+    ]
+  },
+  {
+    "id": 1508020,
+    "title": "Adept Hunter of Secrets of Faydwer",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150802001,
+        "label": "Hunter of Fortress Mechanotus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150802005,
+        "label": "Hunter of Gyrospire Beza"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150802006,
+        "label": "Hunter of Gyrospire Zeka"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150802002,
+        "label": "Hunter of Meldrath's Majestic Mansion"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150802003,
+        "label": "Hunter of The Steam Factory"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150802004,
+        "label": "Hunter of S.H.I.P. Workshop"
+      }
+    ]
+  },
+  {
+    "id": 1508900,
+    "title": "Hunter of Bloodmoon Keep",
+    "description": "This achievement is gained upon defeating the following rare monsters in Bloodmoon Keep.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150890001,
+        "label": "Balkor the Knife"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150890002,
+        "label": "Crawtooth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150890003,
+        "label": "Grawlthin"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150890004,
+        "label": "Hikor the Pitmaster"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150890005,
+        "label": "Horak"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150890006,
+        "label": "Raknos the fang"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150890007,
+        "label": "Ralfin"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150890008,
+        "label": "Vorash"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150890009,
+        "label": "Warden Jaklor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150890010,
+        "label": "Wulren Venomdrinker"
+      }
+    ]
+  },
+  {
+    "id": 1508000,
+    "title": "Hunter of Crystallos, Lair of the Awakened",
+    "description": "This achievement is gained upon defeating the following rare monsters in Crystallos, Lair of the Awakened.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150800001,
+        "label": "An Elder Air Drake"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150800002,
+        "label": "An Elder Air Wyvern"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150800003,
+        "label": "An Elder Earth Drake"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150800004,
+        "label": "An Elder Earth Wyvern"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150800005,
+        "label": "An Elder Fire Drake"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150800006,
+        "label": "An Elder Fire Wyvern"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150800007,
+        "label": "An Elder Ice Drake"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150800008,
+        "label": "An Elder Ice Wyvern"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150800009,
+        "label": "Heart of the Avalanche"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150800010,
+        "label": "Rockcrush"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 150800011,
+        "label": "Squire Alkaa"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 150800012,
+        "label": "Squire Tectoran"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 150800013,
+        "label": "Squire Torrentus"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 150800014,
+        "label": "Squire Zirkanamef"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 150800015,
+        "label": "Vengeful Captive Elemental"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 150800016,
+        "label": "Vengeful Contained Elemental"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 150800017,
+        "label": "Vengeful Trapped Elemental"
+      }
+    ]
+  },
+  {
+    "id": 1508100,
+    "title": "Hunter of Dragonscale Hills",
+    "description": "This achievement is gained upon defeating the following rare monsters in Dragonscale Hills.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150810001,
+        "label": "Arachnotron"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150810002,
+        "label": "Bloodbeak"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150810003,
+        "label": "Captain of the Leafguard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150810004,
+        "label": "Chief Thundragon"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150810005,
+        "label": "Click-o-nik"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150810006,
+        "label": "Delilah Windrider"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150810007,
+        "label": "Diddle D"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150810008,
+        "label": "Dungore"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150810009,
+        "label": "Elder Krunggar Whiptail"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150810010,
+        "label": "Fiddle D"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 150810011,
+        "label": "Gillipuzz"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 150810012,
+        "label": "King Mustef"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 150810013,
+        "label": "Leafrot"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 150810014,
+        "label": "Mad MX"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 150810015,
+        "label": "Strawshanks"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 150810016,
+        "label": "Tangler Timbleton"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 150810017,
+        "label": "Ton o` Tin"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 150810018,
+        "label": "Witchkin"
+      }
+    ]
+  },
+  {
+    "id": 1508400,
+    "title": "Hunter of Fortress Mechanotus",
+    "description": "This achievement is gained upon defeating the following rare monsters in Fortress Mechanotus.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150840001,
+        "label": "Bablage, Master Lifter"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150840002,
+        "label": "Belchforth the Unclean"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150840003,
+        "label": "Chief Machinist Bildarol"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150840004,
+        "label": "Eldervine the Twisted"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150840005,
+        "label": "Firemarshal Unit IV"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150840006,
+        "label": "Groundskeeper Cotongle"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150840007,
+        "label": "Hardbottom, Recycler Union"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150840008,
+        "label": "Hogswaller"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150840009,
+        "label": "Ironfoot"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 150840011,
+        "label": "Part Sorter Model XV"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 150840012,
+        "label": "Rusty"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 150840013,
+        "label": "Siegemarshal Kenti Tinwhistle"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 150840014,
+        "label": "Sootmane the Brute"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 150840015,
+        "label": "Steamwork Guardian Model I"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 150840016,
+        "label": "The Gearmarshal"
+      }
+    ]
+  },
+  {
+    "id": 1508018,
+    "title": "Hunter of Gyrospire Beza",
+    "description": "This achievement is gained upon defeating the following rare monsters in Gyrospire Beza.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150801801,
+        "label": "Chamberlain XI"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150801802,
+        "label": "Commander Gearmost"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150801803,
+        "label": "Commander Shockmore"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150801804,
+        "label": "Engineer Tristos"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150801805,
+        "label": "Fuelmaster XXI"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150801806,
+        "label": "Garden Keeper IXV"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150801807,
+        "label": "Lerosma"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150801808,
+        "label": "Minotaur Warleader"
+      }
+    ]
+  },
+  {
+    "id": 1508027,
+    "title": "Hunter of Gyrospire Zeka",
+    "description": "This achievement is gained upon defeating the following rare monsters in Gyrospire Zeka.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150802701,
+        "label": "Chamberlain VI"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150802702,
+        "label": "Commander Gearwell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150802703,
+        "label": "Engineer LXII"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150802704,
+        "label": "Fuelmaster XI"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150802705,
+        "label": "Repair Steamwork XIV"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150802706,
+        "label": "Shocktroop Commander XIX"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150802707,
+        "label": "Zeka Repairer III"
+      }
+    ]
+  },
+  {
+    "id": 1508300,
+    "title": "Hunter of Hills of Shade",
+    "description": "This achievement is gained upon defeating the following rare monsters in Hills of Shade.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150830001,
+        "label": "Ancestral Deathguard"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150830002,
+        "label": "Blinking Spirit"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150830003,
+        "label": "Cadaverous Bloom"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150830004,
+        "label": "Ebontail"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150830005,
+        "label": "Erollisi`s Spite"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150830006,
+        "label": "Eternity`s Blaze"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150830007,
+        "label": "Festerclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150830008,
+        "label": "Hester Valance"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150830009,
+        "label": "Kaestille Pureheart"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150830010,
+        "label": "Lian Swiftstalker"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 150830011,
+        "label": "Silius the Gaffe"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 150830012,
+        "label": "Sorrow"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 150830013,
+        "label": "The Collector"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 150830014,
+        "label": "The Rot"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 150830015,
+        "label": "Thornheart"
+      }
+    ]
+  },
+  {
+    "id": 1508800,
+    "title": "Hunter of Loping Plains",
+    "description": "This achievement is gained upon defeating the following rare monsters in Loping Plains.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150880001,
+        "label": "Bloodmoon Battlemaster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150880002,
+        "label": "Bloodmoon Bloodmender"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150880003,
+        "label": "Bloodmoon Swiftblade"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150880004,
+        "label": "Bloodmoon Warlock"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150880005,
+        "label": "Debilitated Skeleton"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150880006,
+        "label": "Decrepit Skeleton"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150880007,
+        "label": "Drangol Foreman"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150880008,
+        "label": "Drangol Overseer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150880009,
+        "label": "Frenzied Shadowmane"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150880010,
+        "label": "Minotaur Pit Boss"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 150880011,
+        "label": "Nightwalker Assassin"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 150880012,
+        "label": "Shadowmane Beastman"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 150880013,
+        "label": "Shadowmane Champion"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 150880014,
+        "label": "Shadowmane Totemcaller"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 150880015,
+        "label": "Vampiric Deathknight"
+      }
+    ]
+  },
+  {
+    "id": 1508500,
+    "title": "Hunter of Meldrath's Majestic Mansion",
+    "description": "This achievement is gained upon defeating the following rare monsters in Meldrath's Majestic Mansion.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150850001,
+        "label": "Albereth, Top Chef"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150850002,
+        "label": "Eldaroth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150850003,
+        "label": "Findlewill"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150850004,
+        "label": "Garn Rocksmasher"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150850005,
+        "label": "Geartop"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150850006,
+        "label": "Glorb"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150850007,
+        "label": "Larth the Toad"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150850008,
+        "label": "Steamwork Trainer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150850009,
+        "label": "The Hangman"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150850010,
+        "label": "Wizbobble"
+      }
+    ]
+  },
+  {
+    "id": 1508700,
+    "title": "Hunter of S.H.I.P. Workshop",
+    "description": "This achievement is gained upon defeating the following rare monsters in S.H.I.P. Workshop.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150870001,
+        "label": "Head Scientist Belnot"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150870002,
+        "label": "Head Scientist Fizzil"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150870003,
+        "label": "Head Scientist Gripwir"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150870004,
+        "label": "Head Scientist Lotrip"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150870005,
+        "label": "Head Scientist Spodwork"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150870006,
+        "label": "Head Scientist Twiner"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150870007,
+        "label": "Head Scientist Wripple"
+      }
+    ]
+  },
+  {
+    "id": 1508200,
+    "title": "Hunter of The Mechamatic Guardian",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Mechamatic Guardian.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150820001,
+        "label": "Coleoptera Assault Sweeper"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150820002,
+        "label": "Fuzzbert Cogsworth"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150820003,
+        "label": "Gearlord Memorantis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150820004,
+        "label": "Jon E V"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150820005,
+        "label": "Mechano Sendaii Dronequeen"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150820006,
+        "label": "Metal Slime"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150820007,
+        "label": "Steam Engineer LIIV"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150820008,
+        "label": "THE Destructorizor XOOX"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150820009,
+        "label": "Whirlie Fizzlebot"
+      }
+    ]
+  },
+  {
+    "id": 1508600,
+    "title": "Hunter of The Steam Factory",
+    "description": "This achievement is gained upon defeating the following rare monsters in The Steam Factory.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150860001,
+        "label": "Exterminator Mark V"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150860002,
+        "label": "Foreman Bronzecoat"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150860003,
+        "label": "Foundry Master Slagspring"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 150860004,
+        "label": "Head Mechanic Binsprocket"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 150860005,
+        "label": "Ironhorn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 150860006,
+        "label": "Oilslick"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 150860007,
+        "label": "Quartermaster Thickgear"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 150860008,
+        "label": "Slavemaster Gork"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 150860009,
+        "label": "Station Attendant Sparkbolt"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 150860010,
+        "label": "Steamwork Prototype Mark XIX"
+      }
+    ]
+  },
+  {
+    "id": 1508010,
+    "title": "Novice Hunter of Secrets of Faydwer",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150801001,
+        "label": "Hunter of Dragonscale Hills"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150801002,
+        "label": "Hunter of The Mechamatic Guardian"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150801003,
+        "label": "Hunter of Hills of Shade"
+      }
+    ]
+  },
+  {
+    "id": 1508030,
+    "title": "Veteran Hunter of Secrets of Faydwer",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 1508,
+    "subcategoryName": "Hunts",
+    "categoryId": 1500,
+    "categoryName": "Secrets of Faydwer",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 150803001,
+        "label": "Hunter of Loping Plains"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 150803002,
+        "label": "Hunter of Bloodmoon Keep"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 150803003,
+        "label": "Hunter of Crystallos, Lair of the Awakened"
+      }
+    ]
+  }
+]

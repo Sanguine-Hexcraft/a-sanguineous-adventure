@@ -1,0 +1,4997 @@
+[
+  {
+    "id": 3001007,
+    "title": "Challenger of Night of Shadows",
+    "description": "This achievement is gained upon completing all mission challenges in Night of Shadows.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100701,
+        "label": "Savior of Shar Vahl, Divided: Mean Streets"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100702,
+        "label": "Savior of Ruins of Shadow Haven: When One Door Closes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100703,
+        "label": "Savior of Darklight Caverns: The Spirit Fades"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100704,
+        "label": "Savior of Shar Vahl, Divided: Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3001005,
+    "title": "Champion of Night of Shadows",
+    "description": "This achievement is gained upon completing all quests in Night of Shadows.",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100501,
+        "label": "Mercenary of Firefall Pass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100502,
+        "label": "Partisan of Firefall Pass"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100503,
+        "label": "Mercenary of Shadeweaver's Tangle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100504,
+        "label": "Partisan of Shadeweaver's Tangle"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300100505,
+        "label": "Mercenary of Shar Vahl, Divided"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300100506,
+        "label": "Partisan of Shar Vahl, Divided"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300100507,
+        "label": "Mercenary of Paludal Depths"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300100508,
+        "label": "Partisan of Paludal Depths"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300100509,
+        "label": "Mercenary of Ruins of Shadow Haven"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 300100510,
+        "label": "Partisan of Ruins of Shadow Haven"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 300100511,
+        "label": "Mercenary of Deepshade"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 300100512,
+        "label": "Partisan of Deepshade"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 300100513,
+        "label": "Mercenary of Darklight Caverns"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 300100514,
+        "label": "Partisan of Darklight Caverns"
+      }
+    ]
+  },
+  {
+    "id": 3001008,
+    "title": "Conqueror of Night of Shadows",
+    "description": "This achievement is gained upon completing all raids in Night of Shadows.",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100801,
+        "label": "Conqueror of Paludal Depths: Insatiable An Appetite"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100802,
+        "label": "Conqueror of Shar Vahl, Divided: Pit Fight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100803,
+        "label": "Conqueror of Shar Vahl, Divided: Mean Streets"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100804,
+        "label": "Conqueror of Ruins of Shadow Haven: When One Door Closes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300100805,
+        "label": "Conqueror of Deepshade: The Artist"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300100806,
+        "label": "Conqueror of Darklight Caverns: The Spirit Fades"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300100807,
+        "label": "Conqueror of Firefall Pass: The Shadows Move"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300100808,
+        "label": "Conqueror of Shar Vahl, Divided: Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3001004,
+    "title": "Explorer of Night of Shadows",
+    "description": "This achievement is gained upon visiting all zones in Night of Shadows.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100401,
+        "label": "Firefall Pass Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100402,
+        "label": "Shadeweaver's Tangle Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100403,
+        "label": "Shar Vahl, Divided Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100404,
+        "label": "Paludal Depths Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300100405,
+        "label": "Ruins of Shadow Haven Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300100406,
+        "label": "Deepshade Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300100407,
+        "label": "Darklight Caverns Traveler"
+      }
+    ]
+  },
+  {
+    "id": 3001001,
+    "title": "Master of Night of Shadows",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in Night of Shadows.",
+    "points": 100,
+    "isHidden": false,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100101,
+        "label": "Night's Avenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100102,
+        "label": "Nightslayer"
+      }
+    ]
+  },
+  {
+    "id": 3001010,
+    "title": "Night Seeker",
+    "description": "This achievement is gained upon completing all collections in Night of Shadows.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300101001,
+        "label": "Remnants of the Lost"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300101002,
+        "label": "Remnants of the Hidden"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300101003,
+        "label": "Remnants of the Night"
+      }
+    ]
+  },
+  {
+    "id": 3001002,
+    "title": "Night's Avenger",
+    "description": "This achievement is gained upon completing all quests and missions in Night of Shadows.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100201,
+        "label": "Champion of Night of Shadows"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100202,
+        "label": "Paragon of Night of Shadows"
+      }
+    ]
+  },
+  {
+    "id": 3001003,
+    "title": "Nightslayer",
+    "description": "This achievement is gained upon completing all hunts in Night of Shadows.",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100301,
+        "label": "Novice Hunter of Night of Shadows"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100302,
+        "label": "Adept Hunter of Night of Shadows"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100303,
+        "label": "Veteran Hunter of Night of Shadows"
+      }
+    ]
+  },
+  {
+    "id": 3001006,
+    "title": "Paragon of Night of Shadows",
+    "description": "This achievement is gained upon completing all missions in Night of Shadows.",
+    "points": 40,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100601,
+        "label": "Hero of Shar Vahl, Divided: Mean Streets"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100602,
+        "label": "Hero of Ruins of Shadow Haven: When One Door Closes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100603,
+        "label": "Hero of Darklight Caverns: The Spirit Fades"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100604,
+        "label": "Hero of Shar Vahl, Divided: Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3001009,
+    "title": "Vanquisher of Night of Shadows",
+    "description": "This achievement is gained upon completing all raid challenges in Night of Shadows.",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 3001,
+    "subcategoryName": "General",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300100901,
+        "label": "Vanquisher of Insatiable An Appetite"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300100902,
+        "label": "Vanquisher of Pit Fight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300100903,
+        "label": "Vanquisher of Mean Streets"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300100904,
+        "label": "Vanquisher of When One Door Closes"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300100905,
+        "label": "Vanquisher of Myconid Mutiny"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300100906,
+        "label": "Vanquisher of Dance of the Demiurge"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300100907,
+        "label": "Vanquisher of The Spirit Fades"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300100908,
+        "label": "Vanquisher of The Shadows Move"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 300100909,
+        "label": "Vanquisher of Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3003700,
+    "title": "Darklight Caverns Traveler",
+    "description": "This achievement is gained upon visiting Darklight Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300370001,
+        "label": "Visit Darklight Caverns"
+      }
+    ]
+  },
+  {
+    "id": 3003600,
+    "title": "Deepshade Traveler",
+    "description": "This achievement is gained upon visiting Deepshade.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300360001,
+        "label": "Visit Deepshade"
+      }
+    ]
+  },
+  {
+    "id": 3003100,
+    "title": "Firefall Pass Traveler",
+    "description": "This achievement is gained upon visiting Firefall Pass.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300310001,
+        "label": "Visit Firefall Pass"
+      }
+    ]
+  },
+  {
+    "id": 3003400,
+    "title": "Paludal Depths Traveler",
+    "description": "This achievement is gained upon visiting Paludal Depths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300340001,
+        "label": "Visit Paludal Depths"
+      }
+    ]
+  },
+  {
+    "id": 3003500,
+    "title": "Ruins of Shadow Haven Traveler",
+    "description": "This achievement is gained upon visiting Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300350001,
+        "label": "Visit Ruins of Shadow Haven"
+      }
+    ]
+  },
+  {
+    "id": 3003200,
+    "title": "Shadeweaver's Tangle Traveler",
+    "description": "This achievement is gained upon visiting Shadeweaver's Tangle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300320001,
+        "label": "Visit Shadeweaver's Tangle"
+      }
+    ]
+  },
+  {
+    "id": 3003300,
+    "title": "Shar Vahl, Divided Traveler",
+    "description": "This achievement is gained upon visiting Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3003,
+    "subcategoryName": "Exploration",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300330001,
+        "label": "Visit Shar Vahl, Divided"
+      }
+    ]
+  },
+  {
+    "id": 3004710,
+    "title": "Mercenary of Darklight Caverns",
+    "description": "This achievement is gained upon completing the following quests in Darklight Caverns.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300471001,
+        "label": "Yasil, the Great Tiger Spirit in Darklight Caverns - The Cunning of a Tiger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300471002,
+        "label": "Shea, the Great Wolf Spirit in Darklight Caverns - The Strength of a Wolf"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300471003,
+        "label": "Valia, the Great Bear Spirit in Darklight Caverns - The Bravery of a Bear"
+      }
+    ]
+  },
+  {
+    "id": 3004610,
+    "title": "Mercenary of Deepshade",
+    "description": "This achievement is gained upon completing the following quests in Deepshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300461001,
+        "label": "Toobur in Deepshade - Lights are Dimming!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300461002,
+        "label": "Toobur in Deepshade - Such a Pain in the Neck"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300461003,
+        "label": "Toobur in Deepshade - Clickity Clack Attack!"
+      }
+    ]
+  },
+  {
+    "id": 3004110,
+    "title": "Mercenary of Firefall Pass",
+    "description": "This achievement is gained upon completing the following quests in Firefall Pass.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300411001,
+        "label": "Wakkadon Polpetto in Firefall Pass - Walking on Eggshells"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300411002,
+        "label": "Za'Aknila Tikus in Firefall Pass - Starting the Debugging Process"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300411003,
+        "label": "Za'Aknila Tikus in Firefall Pass - Compiling Saurek Kills"
+      }
+    ]
+  },
+  {
+    "id": 3004410,
+    "title": "Mercenary of Paludal Depths",
+    "description": "This achievement is gained upon completing the following quests in Paludal Depths.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300441001,
+        "label": "Scout Aliid in Paludal Depths - Aberrantly, This is a Big Deal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300441002,
+        "label": "Scout Aliid in Paludal Depths - No Room for Mushrooms"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300441003,
+        "label": "Scout Aliid in Paludal Depths - Ophiocordyceps ate my Neighbors"
+      }
+    ]
+  },
+  {
+    "id": 3004510,
+    "title": "Mercenary of Ruins of Shadow Haven",
+    "description": "This achievement is gained upon completing the following quests in Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300451001,
+        "label": "Commander Zaerel in Ruins of Shadow Haven - Phlarg the Patog Plerg"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300451002,
+        "label": "Commander Zaerel in Ruins of Shadow Haven - Chitenous Horrors"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300451003,
+        "label": "Commander Zaerel in Ruins of Shadow Haven - Fear the Shrieker"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300451004,
+        "label": "Commander Zaerel in Ruins of Shadow Haven - They are Under What?"
+      }
+    ]
+  },
+  {
+    "id": 3004210,
+    "title": "Mercenary of Shadeweaver's Tangle",
+    "description": "This achievement is gained upon completing the following quests in Shadeweaver's Tangle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300421001,
+        "label": "Ian Naelev in Shadeweaver's Tangle - That's Not Going to Grow Back"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300421002,
+        "label": "Ian Naelev in Shadeweaver's Tangle - Pocket Full of Claws"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300421003,
+        "label": "Ian Naelev in Shadeweaver's Tangle - These Feet Don't Clap"
+      }
+    ]
+  },
+  {
+    "id": 3004310,
+    "title": "Mercenary of Shar Vahl, Divided",
+    "description": "This achievement is gained upon completing the following quests in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300431001,
+        "label": "Khala Dun Bokh in Shar Vahl, Divided - Eyeing a Snack"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300431002,
+        "label": "Cook Yalkiin in Shar Vahl, Divided - Culinary Experimentation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300431003,
+        "label": "Weapons Master Wygans in Shar Vahl, Divided - Testing the Grimlings' Weaponry"
+      }
+    ]
+  },
+  {
+    "id": 3004720,
+    "title": "Partisan of Darklight Caverns",
+    "description": "This achievement is gained upon completing the following quests in Darklight Caverns.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300472001,
+        "label": "Kejaan Kerrath in Darklight Caverns - A Lesson in Altruism"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300472002,
+        "label": "Kejaan Kerrath in Darklight Caverns - A Lesson in Healing"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300472003,
+        "label": "Kejaan Kerrath in Darklight Caverns - A Lesson in Forgiveness"
+      }
+    ]
+  },
+  {
+    "id": 3004620,
+    "title": "Partisan of Deepshade",
+    "description": "This achievement is gained upon completing the following quests in Deepshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300462001,
+        "label": "Fipnoc Birribit in Ruins of Shadow Haven - Enter Stage Left"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300462002,
+        "label": "Fipnoc Birribit in Ruins of Shadow Haven - Fungus Among-us"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300462003,
+        "label": "Kwilrz Vn`Ycxa in Deepshade - We Have to Go Deeper?"
+      }
+    ]
+  },
+  {
+    "id": 3004120,
+    "title": "Partisan of Firefall Pass",
+    "description": "This achievement is gained upon completing the following quests in Firefall Pass.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300412001,
+        "label": "Nikao Twiga in Firefall Pass - Yokaw, Ameek!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300412002,
+        "label": "Nikao Nord in Firefall Pass - To the Tune of Sweet Caroline"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300412003,
+        "label": "Glimmar Remi in Firefall Pass - Ratfolk Ratatouille"
+      }
+    ]
+  },
+  {
+    "id": 3004420,
+    "title": "Partisan of Paludal Depths",
+    "description": "This achievement is gained upon completing the following quests in Paludal Depths.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300442001,
+        "label": "Aliane SteelKnuckle in Ruins of Shadow Haven - A Miner Setback"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300442002,
+        "label": "Diojb Waksom in Paludal Depths - The New Sheriffs in Town"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300442003,
+        "label": "Trent Dapplesworth III in Shadeweaver's Tangle - Big Claim Hunter"
+      }
+    ]
+  },
+  {
+    "id": 3004520,
+    "title": "Partisan of Ruins of Shadow Haven",
+    "description": "This achievement is gained upon completing the following quests in Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300452001,
+        "label": "Record Keeper Ajar in Ruins of Shadow Haven - Fungal Corruption"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300452002,
+        "label": "Tarson Lonewolf in Ruins of Shadow Haven - Spiritual Corruption"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300452003,
+        "label": "Tarson Lonewolf in Ruins of Shadow Haven - Power Corrupts"
+      }
+    ]
+  },
+  {
+    "id": 3004220,
+    "title": "Partisan of Shadeweaver's Tangle",
+    "description": "This achievement is gained upon completing the following quests in Shadeweaver's Tangle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300422001,
+        "label": "Terro Kai in Shadeweaver's Tangle - It Takes Two to Tangle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300422002,
+        "label": "Khala Dun Ulra in Firefall Pass - No Grave Can Hold Them Down"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300422003,
+        "label": "Krastoraab Puremane in Shadeweaver's Tangle - A Knight to Remember"
+      }
+    ]
+  },
+  {
+    "id": 3004320,
+    "title": "Partisan of Shar Vahl, Divided",
+    "description": "This achievement is gained upon completing the following quests in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300432001,
+        "label": "Dar Khura Hamat in Shar Vahl, Divided - Just a Delivery"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300432002,
+        "label": "Pathmaster Shainai in Shar Vahl, Divided - A Little Goodwill"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300432003,
+        "label": "Pathmaster Shainai in Shar Vahl, Divided - A Peace Offering"
+      }
+    ]
+  },
+  {
+    "id": 3004733,
+    "title": "The Bravery of a Bear: Bearer of Bravery",
+    "description": "This special challenge can be completed during the quest, The Bravery of a Bear.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300473301,
+        "label": "Valia, the Great Bear Spirit, acknowledges your aid to the Primal Spirits in Darklight Caverns."
+      }
+    ]
+  },
+  {
+    "id": 3004731,
+    "title": "The Cunning of a Tiger: Cunning Copycat",
+    "description": "This special challenge can be completed during the quest, The Cunning of a Tiger.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300473101,
+        "label": "Yasil, the Great Tiger Spirit, acknowledges your aid to the Primal Spirits in Darklight Caverns."
+      }
+    ]
+  },
+  {
+    "id": 3004732,
+    "title": "The Strength of a Wolf: Leader of the Pack",
+    "description": "This special challenge can be completed during the quest, The Strength of a Wolf.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3004,
+    "subcategoryName": "Quests",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300473201,
+        "label": "Shae, the Great Wolf Spirit, acknowledges your aid to the Primal Spirits in Darklight Caverns."
+      }
+    ]
+  },
+  {
+    "id": 3005300,
+    "title": "Hero of Darklight Caverns: The Spirit Fades",
+    "description": "This achievement is gained upon completing the following mission in Darklight Caverns.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300530001,
+        "label": "a spirit messenger in Deepshade - The Spirit Fades"
+      }
+    ]
+  },
+  {
+    "id": 3005200,
+    "title": "Hero of Ruins of Shadow Haven: When One Door Closes",
+    "description": "This achievement is gained upon completing the following mission in Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300520001,
+        "label": "Animist Khalan in Ruins of Shadow Haven - When One Door Closes"
+      }
+    ]
+  },
+  {
+    "id": 3005100,
+    "title": "Hero of Shar Vahl, Divided: Mean Streets",
+    "description": "This achievement is gained upon completing the following mission in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300510001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - Mean Streets"
+      }
+    ]
+  },
+  {
+    "id": 3005400,
+    "title": "Hero of Shar Vahl, Divided: Under Siege",
+    "description": "This achievement is gained upon completing the following mission in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300540001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3005112,
+    "title": "Mean Streets: Cut Off The Head",
+    "description": "This special challenge can be completed during the mission, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300511201,
+        "label": "Do not kill any of the thugs. Jakarashev has taken advantage of their passion."
+      }
+    ]
+  },
+  {
+    "id": 3005113,
+    "title": "Mean Streets: No You Don't",
+    "description": "This special challenge can be completed during the mission, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300511301,
+        "label": "Don't let Jakarashev shift to any of his scatter illusions."
+      }
+    ]
+  },
+  {
+    "id": 3005111,
+    "title": "Mean Streets: Waste No Effort",
+    "description": "This special challenge can be completed during the mission, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300511101,
+        "label": "Defeat all illusions you find in the city before harming the real Jakarashev."
+      }
+    ]
+  },
+  {
+    "id": 3005310,
+    "title": "Savior of Darklight Caverns: The Spirit Fades",
+    "description": "This achievement is gained upon completing the following challenges during the mission, The Spirit Fades.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300531001,
+        "label": "The Spirit Fades: Conscientious Liberation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300531002,
+        "label": "The Spirit Fades: Unscrupulous Liberation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300531003,
+        "label": "The Spirit Fades: Thick Skin"
+      }
+    ]
+  },
+  {
+    "id": 3005210,
+    "title": "Savior of Ruins of Shadow Haven: When One Door Closes",
+    "description": "This achievement is gained upon completing the following challenges during the mission, When One Door Closes.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300521001,
+        "label": "When One Door Closes: Brutal Efficiency"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300521002,
+        "label": "When One Door Closes: Hiding In Plain Sight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300521003,
+        "label": "When One Door Closes: No Poke"
+      }
+    ]
+  },
+  {
+    "id": 3005110,
+    "title": "Savior of Shar Vahl, Divided: Mean Streets",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Mean Streets.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300511001,
+        "label": "Mean Streets: Waste No Effort"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300511002,
+        "label": "Mean Streets: Cut Off The Head"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300511003,
+        "label": "Mean Streets: No You Don't"
+      }
+    ]
+  },
+  {
+    "id": 3005410,
+    "title": "Savior of Shar Vahl, Divided: Under Siege",
+    "description": "This achievement is gained upon completing the following challenges during the mission, Under Siege.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300541001,
+        "label": "Under Siege: No Dark Heart"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300541002,
+        "label": "Under Siege: Don't Blink"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300541003,
+        "label": "Under Siege: Stop the Advance"
+      }
+    ]
+  },
+  {
+    "id": 3005311,
+    "title": "The Spirit Fades: Conscientious Liberation",
+    "description": "This special challenge can be completed during the mission, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300531101,
+        "label": "Remove the bonds from Grakaw in the least destructive order."
+      }
+    ]
+  },
+  {
+    "id": 3005313,
+    "title": "The Spirit Fades: Thick Skin",
+    "description": "This special challenge can be completed during the mission, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300531301,
+        "label": "Don't be hit with the Cutting Energy spell while under the effects of Weakening Skin. (personal)"
+      }
+    ]
+  },
+  {
+    "id": 3005312,
+    "title": "The Spirit Fades: Unscrupulous Liberation",
+    "description": "This special challenge can be completed during the mission, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300531201,
+        "label": "Bravely remove the bonds from Grakaw in the most destructve order."
+      }
+    ]
+  },
+  {
+    "id": 3005412,
+    "title": "Under Siege: Don't Blink",
+    "description": "This special challenge can be completed during the mission, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300541201,
+        "label": "Do not allow anyone to be hit by Blinking Shadows."
+      }
+    ]
+  },
+  {
+    "id": 3005411,
+    "title": "Under Siege: No Dark Heart",
+    "description": "This special challenge can be completed during the mission, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300541101,
+        "label": "Always cure Dimming Heart. (personal)"
+      }
+    ]
+  },
+  {
+    "id": 3005413,
+    "title": "Under Siege: Stop the Advance",
+    "description": "This special challenge can be completed during the mission, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300541301,
+        "label": "Do not allow any of the Vah Shir to be killed by Zun Vyl Dyn."
+      }
+    ]
+  },
+  {
+    "id": 3005211,
+    "title": "When One Door Closes: Brutal Efficiency",
+    "description": "This special challenge can be completed during the mission, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300521101,
+        "label": "Do not allow the Mutable Monstrosity to change forms on its own."
+      }
+    ]
+  },
+  {
+    "id": 3005212,
+    "title": "When One Door Closes: Hiding In Plain Sight",
+    "description": "This special challenge can be completed during the mission, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300521201,
+        "label": "Find and destroy illusionary creatures with magic before defeating the Mutable Monstrosity."
+      }
+    ]
+  },
+  {
+    "id": 3005213,
+    "title": "When One Door Closes: No Poke",
+    "description": "This special challenge can be completed during the mission, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3005,
+    "subcategoryName": "Missions",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300521301,
+        "label": "Do not allow anyone to be hit by Burrowing Spikes."
+      }
+    ]
+  },
+  {
+    "id": 3007600,
+    "title": "Conqueror of Darklight Caverns: The Spirit Fades",
+    "description": "This achievement is gained upon completing the following raid in Darklight Caverns: The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300760001,
+        "label": "a spirit messenger in Deepshade - The Spirit Fades"
+      }
+    ]
+  },
+  {
+    "id": 3007500,
+    "title": "Conqueror of Deepshade: The Artist",
+    "description": "This achievement is gained upon completing the following raids in Deepshade: The Artist.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300750001,
+        "label": "Animist Soren in Ruins of Shadow Haven - Myconid Mutiny"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300750002,
+        "label": "Animist Soren in Ruins of Shadow Haven - Dance of the Demiurge"
+      }
+    ]
+  },
+  {
+    "id": 3007700,
+    "title": "Conqueror of Firefall Pass: The Shadows Move",
+    "description": "This achievement is gained upon completing the following raid in Firefall Pass: The Shadows Move.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300770001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - The Shadows Move"
+      }
+    ]
+  },
+  {
+    "id": 3007100,
+    "title": "Conqueror of Paludal Depths: Insatiable An Appetite",
+    "description": "This achievement is gained upon completing the following raid in Paludal Depths: Insatiable An Appetite.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300710001,
+        "label": "Sharvyn Oresinger in Paludal Depths - Insatiable An Appetite"
+      }
+    ]
+  },
+  {
+    "id": 3007400,
+    "title": "Conqueror of Ruins of Shadow Haven: When One Door Closes",
+    "description": "This achievement is gained upon completing the following raid in Ruins of Shadow Haven: When One Door Closes.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300740001,
+        "label": "Animist Khalan in Ruins of Shadow Haven - When One Door Closes"
+      }
+    ]
+  },
+  {
+    "id": 3007300,
+    "title": "Conqueror of Shar Vahl, Divided: Mean Streets",
+    "description": "This achievement is gained upon completing the following raid in Shar Vahl, Divided: Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300730001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - Mean Streets"
+      }
+    ]
+  },
+  {
+    "id": 3007200,
+    "title": "Conqueror of Shar Vahl, Divided: Pit Fight",
+    "description": "This achievement is gained upon completing the following raid in Shar Vahl, Divided: Pit Fight.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300720001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - Pit Fight"
+      }
+    ]
+  },
+  {
+    "id": 3007800,
+    "title": "Conqueror of Shar Vahl, Divided: Under Siege",
+    "description": "This achievement is gained upon completing the following raid in Shar Vahl, Divided: Under Siege.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300780001,
+        "label": "Sergeant Hujiid in Shar Vahl, Divided - Under Siege"
+      }
+    ]
+  },
+  {
+    "id": 3007523,
+    "title": "Dance of the Demiurge: Altered Gods",
+    "description": "This special challenge can be completed during the raid, Dance of the Demiurge.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300752301,
+        "label": "Force every god that appears to change color."
+      }
+    ]
+  },
+  {
+    "id": 3007521,
+    "title": "Dance of the Demiurge: De-Illusion",
+    "description": "This special challenge can be completed during the raid, Dance of the Demiurge.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300752101,
+        "label": "Destroy every fake actor with counter magic."
+      }
+    ]
+  },
+  {
+    "id": 3007522,
+    "title": "Dance of the Demiurge: Multitudes",
+    "description": "This special challenge can be completed during the raid, Dance of the Demiurge.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300752201,
+        "label": "Allow the gods to create at least sixteen creatures."
+      }
+    ]
+  },
+  {
+    "id": 3007113,
+    "title": "Insatiable An Appetite: Undelivered Spores",
+    "description": "This special challenge can be completed during the raid, Insatiable An Appetite.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300711301,
+        "label": "Do not allow any of the expanding spores to burst."
+      }
+    ]
+  },
+  {
+    "id": 3007112,
+    "title": "Insatiable An Appetite: Undevoured",
+    "description": "This special challenge can be completed during the raid, Insatiable An Appetite.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300711201,
+        "label": "Do not allow Hashiss to devour anyone."
+      }
+    ]
+  },
+  {
+    "id": 3007111,
+    "title": "Insatiable An Appetite: Unfulfilled Curse",
+    "description": "This special challenge can be completed during the raid, Insatiable An Appetite.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300711101,
+        "label": "Do not allow Hashiss' Curse to mature."
+      }
+    ]
+  },
+  {
+    "id": 3007312,
+    "title": "Mean Streets: Cut Off The Head",
+    "description": "This special challenge can be completed during the raid, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300731201,
+        "label": "Do not kill any of the thugs. Jakarashev has taken advantage of their passion."
+      }
+    ]
+  },
+  {
+    "id": 3007313,
+    "title": "Mean Streets: No You Don't",
+    "description": "This special challenge can be completed during the raid, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300731301,
+        "label": "Don't let Jakarashev shift to any of his scatter illusions."
+      }
+    ]
+  },
+  {
+    "id": 3007311,
+    "title": "Mean Streets: Waste No Effort",
+    "description": "This special challenge can be completed during the raid, Mean Streets.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300731101,
+        "label": "Defeat all illusions you find in the city before harming the real Jakarashev."
+      }
+    ]
+  },
+  {
+    "id": 3007513,
+    "title": "Myconid Mutiny: All That Glitters",
+    "description": "This special challenge can be completed during the raid, Myconid Mutiny.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300751301,
+        "label": "Prevent the effect of the death of each supervisor by use of the proper crystal. (personal)"
+      }
+    ]
+  },
+  {
+    "id": 3007511,
+    "title": "Myconid Mutiny: Crystal Crusher",
+    "description": "This special challenge can be completed during the raid, Myconid Mutiny.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300751101,
+        "label": "Destroy all Crystalkin using the vibrations of the crystal pillar."
+      }
+    ]
+  },
+  {
+    "id": 3007512,
+    "title": "Myconid Mutiny: Delivery In Full",
+    "description": "This special challenge can be completed during the raid, Myconid Mutiny.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300751201,
+        "label": "Let all of the workers deliver their crystals to their supervisors."
+      }
+    ]
+  },
+  {
+    "id": 3007212,
+    "title": "Pit Fight: Run Runner",
+    "description": "This special challenge can be completed during the raid, Pit Fight.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300721201,
+        "label": "Don't let any runners escape."
+      }
+    ]
+  },
+  {
+    "id": 3007213,
+    "title": "Pit Fight: Stay Close",
+    "description": "This special challenge can be completed during the raid, Pit Fight.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300721301,
+        "label": "Keep all of the grimlings near their leader at all times."
+      }
+    ]
+  },
+  {
+    "id": 3007211,
+    "title": "Pit Fight: Unshattered",
+    "description": "This special challenge can be completed during the raid, Pit Fight.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300721101,
+        "label": "Don't allow anyone to be hit by a Shattering Dart."
+      }
+    ]
+  },
+  {
+    "id": 3007711,
+    "title": "The Shadows Move: Stave Off the Shadows",
+    "description": "This special challenge can be completed during the raid, The Shadows Move.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300771101,
+        "label": "Do not allow any shadow bearers to expand the Looming Shadows"
+      }
+    ]
+  },
+  {
+    "id": 3007712,
+    "title": "The Shadows Move: Unending Midnight",
+    "description": "This special challenge can be completed during the raid, The Shadows Move.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300771201,
+        "label": "Do not allow Midnight to return to Dusk and Dawn."
+      }
+    ]
+  },
+  {
+    "id": 3007713,
+    "title": "The Shadows Move: Within the Shadows",
+    "description": "This special challenge can be completed during the raid, The Shadows Move.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300771301,
+        "label": "Never take Dusk, Dawn, or Midnight out of the Looming Shadow."
+      }
+    ]
+  },
+  {
+    "id": 3007611,
+    "title": "The Spirit Fades: Conscientious Liberation",
+    "description": "This special challenge can be completed during the raid, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300761101,
+        "label": "Remove the bonds from Grakaw in the least destructive order."
+      }
+    ]
+  },
+  {
+    "id": 3007613,
+    "title": "The Spirit Fades: Thick Skin",
+    "description": "This special challenge can be completed during the raid, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300761301,
+        "label": "Don't be hit with the Slicing Energy spell while under the effects of Thinning Skin. (personal)"
+      }
+    ]
+  },
+  {
+    "id": 3007612,
+    "title": "The Spirit Fades: Unscrupulous Liberation",
+    "description": "This special challenge can be completed during the raid, The Spirit Fades.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300761201,
+        "label": "Bravely remove the bonds from Grakaw in the most destructve order."
+      }
+    ]
+  },
+  {
+    "id": 3007813,
+    "title": "Under Siege: Full Darkness",
+    "description": "This special challenge can be completed during the raid, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300781301,
+        "label": "Do not destroy any Night Fires."
+      }
+    ]
+  },
+  {
+    "id": 3007811,
+    "title": "Under Siege: No Shade",
+    "description": "This special challenge can be completed during the raid, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300781101,
+        "label": "Do not allow any of the Zakra Tetoracu to summon flickering shadows."
+      }
+    ]
+  },
+  {
+    "id": 3007812,
+    "title": "Under Siege: Won't-o-Wisp",
+    "description": "This special challenge can be completed during the raid, Under Siege.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300781201,
+        "label": "Do not allow any wisps to transform."
+      }
+    ]
+  },
+  {
+    "id": 3007520,
+    "title": "Vanquisher of Dance of the Demiurge",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Dance of the Demiurge.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300752001,
+        "label": "Dance of the Demiurge: De-Illusion"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300752002,
+        "label": "Dance of the Demiurge: Multitudes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300752003,
+        "label": "Dance of the Demiurge: Altered Gods"
+      }
+    ]
+  },
+  {
+    "id": 3007110,
+    "title": "Vanquisher of Insatiable An Appetite",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Insatiable An Appetite.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300711001,
+        "label": "Insatiable An Appetite: Unfulfilled Curse"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300711002,
+        "label": "Insatiable An Appetite: Undevoured"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300711003,
+        "label": "Insatiable An Appetite: Undelivered Spores"
+      }
+    ]
+  },
+  {
+    "id": 3007310,
+    "title": "Vanquisher of Mean Streets",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Mean Streets.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300731001,
+        "label": "Mean Streets: Waste No Effort"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300731002,
+        "label": "Mean Streets: Cut Off The Head"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300731003,
+        "label": "Mean Streets: No You Don't"
+      }
+    ]
+  },
+  {
+    "id": 3007510,
+    "title": "Vanquisher of Myconid Mutiny",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Myconid Mutiny.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300751001,
+        "label": "Myconid Mutiny: Crystal Crusher"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300751002,
+        "label": "Myconid Mutiny: Delivery In Full"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300751003,
+        "label": "Myconid Mutiny: All That Glitters"
+      }
+    ]
+  },
+  {
+    "id": 3007210,
+    "title": "Vanquisher of Pit Fight",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Pit Fight.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300721001,
+        "label": "Pit Fight: Unshattered"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300721002,
+        "label": "Pit Fight: Run Runner"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300721003,
+        "label": "Pit Fight: Stay Close"
+      }
+    ]
+  },
+  {
+    "id": 3007710,
+    "title": "Vanquisher of The Shadows Move",
+    "description": "This achievement is gained upon completing the following challenges during the raid, The Shadows Move.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300771001,
+        "label": "The Shadows Move: Stave Off the Shadows"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300771002,
+        "label": "The Shadows Move: Unending Midnight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300771003,
+        "label": "The Shadows Move: Within the Shadows"
+      }
+    ]
+  },
+  {
+    "id": 3007610,
+    "title": "Vanquisher of The Spirit Fades",
+    "description": "This achievement is gained upon completing the following challenges during the raid, The Spirit Fades.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300761001,
+        "label": "The Spirit Fades: Conscientious Liberation"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300761002,
+        "label": "The Spirit Fades: Unscrupulous Liberation"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300761003,
+        "label": "The Spirit Fades: Thick Skin"
+      }
+    ]
+  },
+  {
+    "id": 3007810,
+    "title": "Vanquisher of Under Siege",
+    "description": "This achievement is gained upon completing the following challenges during the raid, Under Siege.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300781001,
+        "label": "Under Siege: No Shade"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300781002,
+        "label": "Under Siege: Won't-o-Wisp"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300781003,
+        "label": "Under Siege: Full Darkness"
+      }
+    ]
+  },
+  {
+    "id": 3007410,
+    "title": "Vanquisher of When One Door Closes",
+    "description": "This achievement is gained upon completing the following challenges during the raid, When One Door Closes.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300741001,
+        "label": "When One Door Closes: Brutal Efficiency"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300741002,
+        "label": "When One Door Closes: Hiding In Plain Sight"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300741003,
+        "label": "When One Door Closes: Arachnophobia"
+      }
+    ]
+  },
+  {
+    "id": 3007413,
+    "title": "When One Door Closes: Arachnophobia",
+    "description": "This special challenge can be completed during the raid, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300741301,
+        "label": "Do not allow any spiderling to burst from anyone's corpse."
+      }
+    ]
+  },
+  {
+    "id": 3007411,
+    "title": "When One Door Closes: Brutal Efficiency",
+    "description": "This special challenge can be completed during the raid, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300741101,
+        "label": "Do not allow the Mutable Monstrosity to change forms on its own."
+      }
+    ]
+  },
+  {
+    "id": 3007412,
+    "title": "When One Door Closes: Hiding In Plain Sight",
+    "description": "This special challenge can be completed during the raid, When One Door Closes.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3007,
+    "subcategoryName": "Raids",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300741201,
+        "label": "Find and destroy illusionary creatures with magic before defeating the Mutable Monstrosity."
+      }
+    ]
+  },
+  {
+    "id": 3008020,
+    "title": "Adept Hunter of Night of Shadows",
+    "description": "This achievement is gained upon completing the following tier 2 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300802001,
+        "label": "Hunter of Shar Vahl, Divided"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300802002,
+        "label": "Hunter of Paludal Depths"
+      }
+    ]
+  },
+  {
+    "id": 3008700,
+    "title": "Hunter of Darklight Caverns",
+    "description": "This achievement is gained upon defeating the following rare monsters in Darklight Caverns.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300870001,
+        "label": "Chromatic Widow Queen"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300870002,
+        "label": "Eelworm"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300870003,
+        "label": "Geoxyle"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300870004,
+        "label": "Kezhda the Frenzied"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300870005,
+        "label": "Mycorrhizal Mutation"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300870006,
+        "label": "Rabid Rhizanthella"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300870007,
+        "label": "Variegated Monstera"
+      }
+    ]
+  },
+  {
+    "id": 3008600,
+    "title": "Hunter of Deepshade",
+    "description": "This achievement is gained upon defeating the following rare monsters in Deepshade.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300860001,
+        "label": "Agaricusus"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300860002,
+        "label": "Ayoaenae"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300860003,
+        "label": "Bavanjam"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300860004,
+        "label": "Drinil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300860005,
+        "label": "Faceted Windra"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300860006,
+        "label": "Psylopsybyl"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300860007,
+        "label": "Sehtab Mahlinee"
+      }
+    ]
+  },
+  {
+    "id": 3008100,
+    "title": "Hunter of Firefall Pass",
+    "description": "This achievement is gained upon defeating the following rare monsters in Firefall Pass.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300810001,
+        "label": "Bedrock Burrower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300810002,
+        "label": "Diabo Xi Vesta"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300810003,
+        "label": "Firefallizard"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300810004,
+        "label": "Fowl Matriarch"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300810005,
+        "label": "Igneous Insect"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300810006,
+        "label": "Rock Lobber"
+      }
+    ]
+  },
+  {
+    "id": 3008400,
+    "title": "Hunter of Paludal Depths",
+    "description": "This achievement is gained upon defeating the following rare monsters in Paludal Depths.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300840001,
+        "label": "Arly Golyeck"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300840002,
+        "label": "Herachuel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300840003,
+        "label": "Maricella Slithra"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300840004,
+        "label": "Merrimore Ychansk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300840005,
+        "label": "Toxiplax"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300840006,
+        "label": "Vahlkamph"
+      }
+    ]
+  },
+  {
+    "id": 3008500,
+    "title": "Hunter of Ruins of Shadow Haven",
+    "description": "This achievement is gained upon defeating the following rare monsters in Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300850001,
+        "label": "Brute"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300850002,
+        "label": "Flail"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300850003,
+        "label": "Mace"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300850004,
+        "label": "Overgrowth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300850005,
+        "label": "Skitter"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300850006,
+        "label": "Stone Chitin"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300850007,
+        "label": "Velutipes"
+      }
+    ]
+  },
+  {
+    "id": 3008200,
+    "title": "Hunter of Shadeweaver's Tangle",
+    "description": "This achievement is gained upon defeating the following rare monsters in Shadeweaver's Tangle.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300820001,
+        "label": "Commander Esline"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300820002,
+        "label": "Molten Wildfire"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300820003,
+        "label": "Scorched Cackling Bones"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300820004,
+        "label": "Shak Dathor Overlord"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300820005,
+        "label": "Sharp Claw"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300820006,
+        "label": "Stoneclaw Broodmother"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300820007,
+        "label": "Thorn Petal"
+      }
+    ]
+  },
+  {
+    "id": 3008300,
+    "title": "Hunter of Shar Vahl, Divided",
+    "description": "This achievement is gained upon defeating the following rare monsters in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300830001,
+        "label": "Crimsonclaw"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300830002,
+        "label": "Geerot Stabgut"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300830003,
+        "label": "Gheg Gorespit"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300830004,
+        "label": "Kurati the Feral"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300830005,
+        "label": "Tailfang"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300830006,
+        "label": "Toraji, Korath`s Warder"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300830007,
+        "label": "Wiggle"
+      }
+    ]
+  },
+  {
+    "id": 3008010,
+    "title": "Novice Hunter of Night of Shadows",
+    "description": "This achievement is gained upon completing the following tier 1 monster hunts.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300801001,
+        "label": "Hunter of Firefall Pass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300801002,
+        "label": "Hunter of Shadeweaver's Tangle"
+      }
+    ]
+  },
+  {
+    "id": 3008030,
+    "title": "Veteran Hunter of Night of Shadows",
+    "description": "This achievement is gained upon completing the following tier 3 monster hunts.",
+    "points": 30,
+    "isHidden": true,
+    "subcategoryId": 3008,
+    "subcategoryName": "Hunts",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300803001,
+        "label": "Hunter of Ruins of Shadow Haven"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300803002,
+        "label": "Hunter of Deepshade"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300803003,
+        "label": "Hunter of Darklight Caverns"
+      }
+    ]
+  },
+  {
+    "id": 3009362,
+    "title": "A Bunch of Wild and Fungis",
+    "description": "They are just happy to be anywhere.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300936201,
+        "label": "Tiny Vermilion Fungus Person"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300936202,
+        "label": "Tiny Verdant Fungus Person"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300936203,
+        "label": "Tiny Auburn Fungus Person"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300936204,
+        "label": "Tiny Violet Fungus Person"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300936205,
+        "label": "Tiny Azure Fungus Person"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300936206,
+        "label": "Tiny Rainbow Fungus Person"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300936207,
+        "label": "Tiny Bearded Fungus Person"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300936208,
+        "label": "Tiny Angry Fungus Person"
+      }
+    ]
+  },
+  {
+    "id": 3009233,
+    "title": "Articles of Brokenness",
+    "description": "Everywhere you go, there's reminders of the collective anxiety.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300923301,
+        "label": "Child's Painting"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300923302,
+        "label": "Waterlogged Tome of Drinal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300923303,
+        "label": "Diary of Imbalance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300923304,
+        "label": "Letter of Love Lost"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300923305,
+        "label": "Scathing Notations"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300923306,
+        "label": "Questionable Guard's Orders"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300923307,
+        "label": "Casualty Report"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300923308,
+        "label": "Spiritual Plea"
+      }
+    ]
+  },
+  {
+    "id": 3009363,
+    "title": "Color Theory",
+    "description": "Paint with all of the colors of the mold.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300936301,
+        "label": "Bottle of Blue Spores"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300936302,
+        "label": "Bottle of Red Spores"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300936303,
+        "label": "Bottle of Purple Spores"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300936304,
+        "label": "Bottle of Green Spores"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300936305,
+        "label": "Bottle of Orange Spores"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300936306,
+        "label": "Bottle of Rainbow Swirling Spores"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300936307,
+        "label": "Bottle of Muddy Spores"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300936308,
+        "label": "Bottle of White Spores"
+      }
+    ]
+  },
+  {
+    "id": 3009370,
+    "title": "Darklight Caverns Scavenger",
+    "description": "This achievement is gained upon completing all collections in Darklight Caverns.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300937001,
+        "label": "Spirit Imbued Flora"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300937002,
+        "label": "Fragments of Kezhda's Memories"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300937003,
+        "label": "Darklight Critters"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300937004,
+        "label": "Musings of Kejaan Kerrath"
+      }
+    ]
+  },
+  {
+    "id": 3009373,
+    "title": "Darklight Critters",
+    "description": "A collection of strangely glowing pests.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300937301,
+        "label": "Subterranean Damselfly"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300937302,
+        "label": "Phosphorescent Arachnid"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300937303,
+        "label": "Pearlescent Centipede"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300937304,
+        "label": "Shimmering Snail Shell"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300937305,
+        "label": "Dazzling Pincers"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300937306,
+        "label": "Crystalline Crawler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300937307,
+        "label": "Luminous Larva"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300937308,
+        "label": "Glittering Gossamer"
+      }
+    ]
+  },
+  {
+    "id": 3009360,
+    "title": "Deepshade Scavenger",
+    "description": "This achievement is gained upon completing all collections in Deepshade.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300936001,
+        "label": "Prop Hunt"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300936002,
+        "label": "A Bunch of Wild and Fungis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300936003,
+        "label": "Color Theory"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300936004,
+        "label": "Places, People! Places!"
+      }
+    ]
+  },
+  {
+    "id": 3009234,
+    "title": "Dreams of the Whisperlings",
+    "description": "Whisperlings are said to whisper visions to those sleeping.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300923401,
+        "label": "Dream of Dolls"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300923402,
+        "label": "Dream of Snakes"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300923403,
+        "label": "Dream of Sweets"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300923404,
+        "label": "Dream of Battles Fought"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300923405,
+        "label": "Dream of Coin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300923406,
+        "label": "Dream of Loss"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300923407,
+        "label": "Dream of Love"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300923408,
+        "label": "Dream of Spiritual Visions"
+      }
+    ]
+  },
+  {
+    "id": 3009351,
+    "title": "Empty Nester",
+    "description": "Twigs and debris from an owlbear nest.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300935101,
+        "label": "Discarded Owlbear Pinions"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300935102,
+        "label": "Shed Owlbear Down"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300935103,
+        "label": "Broken Straw Bedding"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300935104,
+        "label": "Crushed Tree Bark Pieces"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300935105,
+        "label": "Soiled and Shredded Animal Hides"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300935106,
+        "label": "Cracked Owlbear Pellet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300935107,
+        "label": "Bent Mushroom Stalks"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300935108,
+        "label": "Musky Plant Fluff"
+      }
+    ]
+  },
+  {
+    "id": 3009113,
+    "title": "Firefall Artifacts",
+    "description": "Remnants of Firefall creatures.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300911301,
+        "label": "Preserved Pest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300911302,
+        "label": "Firefall Fang Marks"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300911303,
+        "label": "Petrified Saurek Incisor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300911304,
+        "label": "Remarkably Large Claw"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300911305,
+        "label": "Strange Snail Shell"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300911306,
+        "label": "Perplexing Pebble"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300911307,
+        "label": "Fossilized Saurek Scales"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300911308,
+        "label": "Firefall Curio"
+      }
+    ]
+  },
+  {
+    "id": 3009110,
+    "title": "Firefall Pass Scavenger",
+    "description": "This achievement is gained upon completing all collections in Firefall Pass.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300911001,
+        "label": "Onokiwan Toys"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300911002,
+        "label": "Journal of an Original"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300911003,
+        "label": "Firefall Artifacts"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300911004,
+        "label": "Hawks' Pilfered Trinkets"
+      }
+    ]
+  },
+  {
+    "id": 3009244,
+    "title": "Forsaken Affairs",
+    "description": "Creatures are not the only thing that the Reichicyben can infest.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300924401,
+        "label": "Discarded Infested Pauldrons"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300924402,
+        "label": "Discarded Infested Greaves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300924403,
+        "label": "Discarded Infested Belt"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300924404,
+        "label": "Discarded Infested Bracers"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300924405,
+        "label": "Discarded Infested Helm"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300924406,
+        "label": "Discarded Infested Breastplate"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300924407,
+        "label": "Discarded Infested Gauntlets"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300924408,
+        "label": "Discarded Infested Pants"
+      }
+    ]
+  },
+  {
+    "id": 3009372,
+    "title": "Fragments of Kezhda's Memories",
+    "description": "The tragic story of Kezhda the Frenzied.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300937201,
+        "label": "Kezhda's Beginning"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300937202,
+        "label": "Kezhda's Pack"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300937203,
+        "label": "Kezhda's Tragedy"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300937204,
+        "label": "Kezhda's Guardian"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300937205,
+        "label": "Kezhda's Prosperity"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300937206,
+        "label": "Kezhda's Vengeance"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300937207,
+        "label": "Kezhda's End"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300937208,
+        "label": "Kezhda's Spirit"
+      }
+    ]
+  },
+  {
+    "id": 3009121,
+    "title": "Gor Taku Masonry Tools",
+    "description": "The remains of Gor Taku artistic building tools.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300912101,
+        "label": "Gor Taku Trowel"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300912102,
+        "label": "Gor Taku Chisel"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300912103,
+        "label": "Gor Taku Hammer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300912104,
+        "label": "Gor Taku Jointer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300912105,
+        "label": "Gor Taku Brush"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300912106,
+        "label": "Gor Taku Shim"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300912107,
+        "label": "Gor Taku Rake"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300912108,
+        "label": "Gor Taku Bolster"
+      }
+    ]
+  },
+  {
+    "id": 3009114,
+    "title": "Hawks' Pilfered Trinkets",
+    "description": "At least the birds aren't hawking their wares.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300911401,
+        "label": "Nicked Necklace"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300911402,
+        "label": "Misappropriated Medal"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300911403,
+        "label": "Stolen Satchel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300911404,
+        "label": "Commandeered Key"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300911405,
+        "label": "Hijacked Hat"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300911406,
+        "label": "Filched Firewood"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300911407,
+        "label": "Snatched Stuffed Animal"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300911408,
+        "label": "Nabbed Knife"
+      }
+    ]
+  },
+  {
+    "id": 3009112,
+    "title": "Journal of an Original",
+    "description": "An old Onokiwan's journey.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300911201,
+        "label": "Pulak's Journal, Page 1"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300911202,
+        "label": "Pulak's Journal, Page 2"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300911203,
+        "label": "Pulak's Journal, Page 3"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300911204,
+        "label": "Pulak's Journal, Page 4"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300911205,
+        "label": "Pulak's Journal, Page 5"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300911206,
+        "label": "Pulak's Journal, Page 6"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300911207,
+        "label": "Pulak's Journal, Page 7"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300911208,
+        "label": "Pulak's Journal, Page 8"
+      }
+    ]
+  },
+  {
+    "id": 3009123,
+    "title": "Loda Kai Poacher Tools",
+    "description": "The villianous tools of a poacher.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300912301,
+        "label": "Bait Stick Snare"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300912302,
+        "label": "Deadfall Snare"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300912303,
+        "label": "Fixed Snare"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300912304,
+        "label": "Pegged Snare"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300912305,
+        "label": "Drowning Snare"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300912306,
+        "label": "Threaded Snare"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300912307,
+        "label": "Pole Snare"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300912308,
+        "label": "Rolling Snare"
+      }
+    ]
+  },
+  {
+    "id": 3009374,
+    "title": "Musings of Kejaan Kerrath",
+    "description": "Finding these notes is a lot cheaper than therapy.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300937401,
+        "label": "Thoughts about Growth"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300937402,
+        "label": "Thoughts about Judgment"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300937403,
+        "label": "Thoughts about Consideration"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300937404,
+        "label": "Thoughts about Self-Respect"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300937405,
+        "label": "Thoughts about Mistakes"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300937406,
+        "label": "Thoughts about Difficulty"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300937407,
+        "label": "Thoughts about Danger"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300937408,
+        "label": "Thoughts about Love"
+      }
+    ]
+  },
+  {
+    "id": 3009122,
+    "title": "Nepeta Petals",
+    "description": "A collection of a Vah Shir's favorite flowers.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300912201,
+        "label": "Silver Nepeta Petals"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300912202,
+        "label": "Lavender Nepeta Petals"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300912203,
+        "label": "Pink Nepeta Petals"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300912204,
+        "label": "Purple Nepeta Petals"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300912205,
+        "label": "Blue Nepeta Petals"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300912206,
+        "label": "Yellow Nepeta Petals"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300912207,
+        "label": "White Nepeta Petals"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300912208,
+        "label": "Amber Nepeta Petals"
+      }
+    ]
+  },
+  {
+    "id": 3009111,
+    "title": "Onokiwan Toys",
+    "description": "Wait, why are you stealing toys from kids?",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300911101,
+        "label": "Scatter Rocks"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300911102,
+        "label": "Glittering Egg"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300911103,
+        "label": "Hide-the-Shiny"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300911104,
+        "label": "Flinging Feather"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300911105,
+        "label": "Everything Except a Bowl"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300911106,
+        "label": "Mushroom Moppet"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300911107,
+        "label": "Snout Racing Rock"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300911108,
+        "label": "Onokiwan Compass"
+      }
+    ]
+  },
+  {
+    "id": 3009240,
+    "title": "Paludal Depths Scavenger",
+    "description": "This achievement is gained upon completing all collections in Paludal Depths.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300924001,
+        "label": "Zombugs"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300924002,
+        "label": "Stinking Badges"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300924003,
+        "label": "Recondite Sashes"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300924004,
+        "label": "Forsaken Affairs"
+      }
+    ]
+  },
+  {
+    "id": 3009124,
+    "title": "Pigmented Lava Glass",
+    "description": "Naturally occurring colored lava glass.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300912401,
+        "label": "Strontium Lava Glass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300912402,
+        "label": "Barium Lava Glass"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300912403,
+        "label": "Lithium Lava Glass"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300912404,
+        "label": "Sodium Lava Glass"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300912405,
+        "label": "Copper Lava Glass"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300912406,
+        "label": "Calcium Lava Glass"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300912407,
+        "label": "Magnesium Lava Glass"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300912408,
+        "label": "Obsidian Lava Glass"
+      }
+    ]
+  },
+  {
+    "id": 3009364,
+    "title": "Places, People! Places!",
+    "description": "A few reminders of what good writing looks like.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300936401,
+        "label": "Discarded Script Note - Plague"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300936402,
+        "label": "Discarded Script Note - Grammar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300936403,
+        "label": "Discarded Script Note - Writing"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300936404,
+        "label": "Discarded Script Note - Cliche"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300936405,
+        "label": "Discarded Script Note - Editor"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300936406,
+        "label": "Discarded Script Note - Bad Ideas"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300936407,
+        "label": "Discarded Script Note - Burnout"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300936408,
+        "label": "Discarded Script Note - Feedback"
+      }
+    ]
+  },
+  {
+    "id": 3009361,
+    "title": "Prop Hunt",
+    "description": "Remnants of a show that didn't go on.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300936101,
+        "label": "Stage Cutlass"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300936102,
+        "label": "Stage Javelin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300936103,
+        "label": "Stage Sage's Staff"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300936104,
+        "label": "Stage Warhammer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300936105,
+        "label": "Stage Stiletto"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300936106,
+        "label": "Stage Cleaver"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300936107,
+        "label": "Stage Crossbow"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300936108,
+        "label": "Stage Claymore"
+      }
+    ]
+  },
+  {
+    "id": 3009243,
+    "title": "Recondite Sashes",
+    "description": "Used to denote rank amongst the Recondite Bandits.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300924301,
+        "label": "Bellweather's White Sash"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300924302,
+        "label": "Bellweather's Yellow Sash"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300924303,
+        "label": "Bellweather's Orange Sash"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300924304,
+        "label": "Bellweather's Red Sash"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300924305,
+        "label": "Bellweather's Violet Sash"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300924306,
+        "label": "Bellweather's Indigo Sash"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300924307,
+        "label": "Bellweather's Green Sash"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300924308,
+        "label": "Bellweather's Black Sash"
+      }
+    ]
+  },
+  {
+    "id": 3009200,
+    "title": "Remnants of the Hidden",
+    "description": "This achievement is gained upon completing the following tier 2 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300920001,
+        "label": "Shar Vahl, Divided Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300920002,
+        "label": "Paludal Depths Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 3009100,
+    "title": "Remnants of the Lost",
+    "description": "This achievement is gained upon completing the following tier 1 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300910001,
+        "label": "Firefall Pass Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300910002,
+        "label": "Shadeweaver's Tangle Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 3009300,
+    "title": "Remnants of the Night",
+    "description": "This achievement is gained upon completing the following tier 3 collections.",
+    "points": 20,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300930001,
+        "label": "Ruins of Shadow Haven Scavenger"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300930002,
+        "label": "Deepshade Scavenger"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300930003,
+        "label": "Darklight Caverns Scavenger"
+      }
+    ]
+  },
+  {
+    "id": 3009350,
+    "title": "Ruins of Shadow Haven Scavenger",
+    "description": "This achievement is gained upon completing all collections in Ruins of Shadow Haven.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300935001,
+        "label": "Empty Nester"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300935002,
+        "label": "Vestiges of Rampage"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300935003,
+        "label": "The Ax Forgets, But The Tree Remembers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300935004,
+        "label": "The Unbearable Weight of Massive Teachings"
+      }
+    ]
+  },
+  {
+    "id": 3009120,
+    "title": "Shadeweaver's Tangle Scavenger",
+    "description": "This achievement is gained upon completing all collections in Shadeweaver's Tangle.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300912001,
+        "label": "Gor Taku Masonry Tools"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300912002,
+        "label": "Nepeta Petals"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300912003,
+        "label": "Loda Kai Poacher Tools"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300912004,
+        "label": "Pigmented Lava Glass"
+      }
+    ]
+  },
+  {
+    "id": 3009232,
+    "title": "Shar Vahl Guild Signets",
+    "description": "Each Shar Vahl guild is represented on a coin.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300923201,
+        "label": "Signet of the Khala Dun"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300923202,
+        "label": "Signet of the Taruun"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300923203,
+        "label": "Signet of the Khati Sha"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300923204,
+        "label": "Signet of the Dar Khura"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300923205,
+        "label": "Signet of the Jharin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300923206,
+        "label": "Signet of the Ireblood Ragers"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300923207,
+        "label": "Signet of the Shar Vahl Citizen"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300923208,
+        "label": "Signet of Vah"
+      }
+    ]
+  },
+  {
+    "id": 3009230,
+    "title": "Shar Vahl, Divided Scavenger",
+    "description": "This achievement is gained upon completing all collections in Shar Vahl, Divided.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300923001,
+        "label": "This Used to Be My Training Ground"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300923002,
+        "label": "Shar Vahl Guild Signets"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300923003,
+        "label": "Articles of Brokenness"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300923004,
+        "label": "Dreams of the Whisperlings"
+      }
+    ]
+  },
+  {
+    "id": 3009371,
+    "title": "Spirit Imbued Flora",
+    "description": "Together, these make a delightfully sparkly bouquet.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300937101,
+        "label": "Iridescent Cave Moss"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300937102,
+        "label": "Lustrous Rosette"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300937103,
+        "label": "Candescent Flower Seed"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300937104,
+        "label": "Opalescent Blossom"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300937105,
+        "label": "Peculiar Pollen"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300937106,
+        "label": "Sparkling Spores"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300937107,
+        "label": "Atypical Algae"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300937108,
+        "label": "Oddly Colored Leaves"
+      }
+    ]
+  },
+  {
+    "id": 3009242,
+    "title": "Stinking Badges",
+    "description": "A reminder to future miners that one's work could become their grave.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300924201,
+        "label": "Miner's Badge - Krakkold Modheim"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300924202,
+        "label": "Miner's Badge - Kamma Mudpunch"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300924203,
+        "label": "Miner's Badge - Dwogren Pebblesmith"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300924204,
+        "label": "Miner's Badge - Onleck Dragonbeard"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300924205,
+        "label": "Miner's Badge - Baligar Isenbraid"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300924206,
+        "label": "Miner's Badge - Kiggola Wolforged"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300924207,
+        "label": "Miner's Badge - Thadwindred Cragcutter"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300924208,
+        "label": "Miner's Badge - Dalandock Aleslay"
+      }
+    ]
+  },
+  {
+    "id": 3009353,
+    "title": "The Ax Forgets, But The Tree Remembers",
+    "description": "Remnants of a home that has been decimated.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300935301,
+        "label": "Part of Grimthor's Distillery's Sign"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300935302,
+        "label": "Arm of a Barrel Chair"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300935303,
+        "label": "Piece of The Fordel Hold's Sign"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300935304,
+        "label": "Dirtied Record Keeper Page"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300935305,
+        "label": "Cracked Poisons Vial"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300935306,
+        "label": "Blackhand's Maker's Mark"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300935307,
+        "label": "Damaged Armor Merchant's Ledger"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300935308,
+        "label": "Dented Further's Stein"
+      }
+    ]
+  },
+  {
+    "id": 3009354,
+    "title": "The Unbearable Weight of Massive Teachings",
+    "description": "Copies of teachings that have been too damaged to use.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300935401,
+        "label": "Damaged \"Spirit of Khaliz\" Spell"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300935402,
+        "label": "Damaged \"Sanctuary\" Spell"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300935403,
+        "label": "Damaged \"Remove Curse\" Spell"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300935404,
+        "label": "Damaged \"Force of Nature\" Spell"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300935405,
+        "label": "Damaged \"Tunare's Renewal\" Spell"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300935406,
+        "label": "Damaged \"Illusion: Imp\" Spell"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300935407,
+        "label": "Damaged \"Elemental Blanket\" Spell"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300935408,
+        "label": "Damaged \"Kragg's Mending\" Spell"
+      }
+    ]
+  },
+  {
+    "id": 3009231,
+    "title": "This Used to Be My Training Ground",
+    "description": "A collection of memories from training in the Pit.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300923101,
+        "label": "Dried Gray Mud"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300923102,
+        "label": "Broken Rhinobeetle Claw"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300923103,
+        "label": "Scattered Stone Beads"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300923104,
+        "label": "Chipped Xakra Tooth"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300923105,
+        "label": "Shattered Scorpion Leg"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300923106,
+        "label": "Torn Gravel Pit Leaves"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300923107,
+        "label": "Crushed Hopperclaw"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300923108,
+        "label": "Dusty Grimling Femur"
+      }
+    ]
+  },
+  {
+    "id": 3009352,
+    "title": "Vestiges of Rampage",
+    "description": "Nobody was wearing these when they were crushed...you hope.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300935201,
+        "label": "Crushed Haven Great Helm"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300935202,
+        "label": "Mutilated Haven Greaves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300935203,
+        "label": "Mangled Haven Pauldrons"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300935204,
+        "label": "Defective Haven Gauntlets"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300935205,
+        "label": "Crushed Haven Vambraces"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300935206,
+        "label": "Crumpled Haven Plate"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300935207,
+        "label": "Tattered Haven Robe"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300935208,
+        "label": "Cracked Haven Mask"
+      }
+    ]
+  },
+  {
+    "id": 3009241,
+    "title": "Zombugs",
+    "description": "Shells of their former selves. Dead, but may never die.",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 3009,
+    "subcategoryName": "Collections",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 300924101,
+        "label": "Half of a Paludal Beetle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 300924102,
+        "label": "Hollowed-Out Paludal Mantis"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 300924103,
+        "label": "White-Eyed Paludal Ant"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 300924104,
+        "label": "Bisected Paludal Centipede"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 300924105,
+        "label": "Partially Crushed Paludal Cricket"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 300924106,
+        "label": "Deteriorated Paludal Cicada"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 300924107,
+        "label": "Three-Legged Paludal Arachnid"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 300924108,
+        "label": "One-Winged Paludal Moth"
+      }
+    ]
+  },
+  {
+    "id": 3010341,
+    "title": "Respect the Death Blades",
+    "description": "This special achievement can be completed in Shar Vahl, Divided.",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 3010,
+    "subcategoryName": "Special",
+    "categoryId": 3000,
+    "categoryName": "Night of Shadows",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 301034101,
+        "label": "Gently admire the softness of Palav and Rajyk with /pat."
+      }
+    ]
+  }
+]

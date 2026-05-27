@@ -1,0 +1,3957 @@
+[
+  {
+    "id": 1600070,
+    "title": "Champion of the Void",
+    "description": "This achievement is gained upon completing all the quests in Seeds of Destruction",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600070,
+        "label": "Partisan of Oceangreen Hills"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600071,
+        "label": "Mercenary of Oceangreen Hills"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600072,
+        "label": "Partisan of Oceangreen Village"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600073,
+        "label": "Partisan of the Army of Light"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600074,
+        "label": "Partisan of the Army of Obliteration"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600075,
+        "label": "Partisan of Old Commonlands"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600076,
+        "label": "Partisan of Field of Scale"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600077,
+        "label": "Grand Illusion of Field of Scale"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600078,
+        "label": "Partisan of Old Bloodfields"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1600079,
+        "label": "Partisan of the City of Dranik"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1600080,
+        "label": "Mercenary of Toskirakk"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1600081,
+        "label": "Partisan of the Toskirakk Slaves"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1600082,
+        "label": "Partisan of the Korascian Warrens"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1600083,
+        "label": "Partisan of the Darkhammer Dwarves"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1600084,
+        "label": "Partisan of Korafax, Home of the Riders"
+      }
+    ]
+  },
+  {
+    "id": 1600100,
+    "title": "Conqueror of the Void",
+    "description": "This achievement is gained upon completing all the raids in Seeds of Destruction",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600100,
+        "label": "Conqueror of the Temple of Bertoxxulous"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600101,
+        "label": "Conqueror of Blackburrow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600102,
+        "label": "Conqueror of Bloody Kithicor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600103,
+        "label": "Conqueror of Field of Scale"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600104,
+        "label": "Conqueror of Kaesora"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600105,
+        "label": "Conqueror of Kurn's Tower"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600106,
+        "label": "Conqueror of Toskirakk"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600107,
+        "label": "Conqueror of the Korascian Warrens"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600108,
+        "label": "Conqueror of the Rathe Council Chamber"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1600109,
+        "label": "Conqueror of Korafax, Home of the Riders"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1600110,
+        "label": "Conqueror of the Citadel of the Worldslayer"
+      }
+    ]
+  },
+  {
+    "id": 1600050,
+    "title": "Explorer of the Void",
+    "description": "This achievement is gained upon visiting all the zones in Seeds of Destruction",
+    "points": 10,
+    "isHidden": true,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 2,
+        "value": 270485,
+        "label": "The Void Traveler"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600050,
+        "label": "Oceangreen Hills Traveler"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600051,
+        "label": "Temple of Bertoxxulous Traveler"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600052,
+        "label": "Blackburrow Traveler"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600053,
+        "label": "Oceangreen Village Traveler"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600054,
+        "label": "Bloody Kithicor Traveler"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600055,
+        "label": "Old Commonlands Traveler"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600056,
+        "label": "Field of Scale Traveler"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600057,
+        "label": "Kaesora Library Traveler"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1600058,
+        "label": "Hatchery Wing Traveler"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1600059,
+        "label": "Kurn's Tower Traveler"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1600060,
+        "label": "Old Bloodfields Traveler"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1600062,
+        "label": "City of Dranik Traveler"
+      },
+      {
+        "order": 14,
+        "type": 2,
+        "value": 270487,
+        "label": "Precipice of War Traveler"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1600063,
+        "label": "Toskirakk Traveler"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1600064,
+        "label": "Korascian Warrens Traveler"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1600065,
+        "label": "Rathe Council Chamber Traveler"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1600066,
+        "label": "Korafax, Home of the Riders Traveler"
+      },
+      {
+        "order": 19,
+        "type": 2,
+        "value": 270486,
+        "label": "Citadel of the Worldslayer Traveler"
+      }
+    ]
+  },
+  {
+    "id": 1600220,
+    "title": "Master of the Void",
+    "description": "This achievement is gained upon completing all quests, missions, and hunts in Seeds of Destruction",
+    "points": 80,
+    "isHidden": false,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600220,
+        "label": "Champion of the Void"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600221,
+        "label": "Paragon of the Void"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600222,
+        "label": "Voidslayer"
+      }
+    ]
+  },
+  {
+    "id": 1600090,
+    "title": "Paragon of the Void",
+    "description": "This achievement is gained upon completing all the missions in Seeds of Destruction",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600090,
+        "label": "Hero of Oceangreen Hills"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600091,
+        "label": "Hero of the Temple of Bertoxxulous"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600092,
+        "label": "Hero of Blackburrow"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600093,
+        "label": "Hero of Bloody Kithicor"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600094,
+        "label": "Hero of Kaesora"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600095,
+        "label": "Hero of Kurn's Tower"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600096,
+        "label": "Hero of Old Bloodfields"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600097,
+        "label": "Hero of Toskirakk"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600098,
+        "label": "Hero of the Korascian Warrens"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1600099,
+        "label": "Hero of Korafax, Home of the Riders"
+      }
+    ]
+  },
+  {
+    "id": 1600215,
+    "title": "Voidslayer",
+    "description": "This achievement is gained upon completing all the Hunter achievements",
+    "points": 60,
+    "isHidden": true,
+    "subcategoryId": 1601,
+    "subcategoryName": "General",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600215,
+        "label": "Novice Hunter of the Void"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600216,
+        "label": "Adept Hunter of the Void"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600217,
+        "label": "Veteran Hunter of the Void"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600218,
+        "label": "Expert Hunter of the Void"
+      }
+    ]
+  },
+  {
+    "id": 1646800,
+    "title": "Blackburrow Traveler",
+    "description": "This achievement is gained upon visiting Blackburrow",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646800,
+        "label": "Visit Blackburrow"
+      }
+    ]
+  },
+  {
+    "id": 1645600,
+    "title": "Bloody Kithicor Traveler",
+    "description": "This achievement is gained upon visiting Bloody Kithicor",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645600,
+        "label": "Visit Bloody Kithicor"
+      }
+    ]
+  },
+  {
+    "id": 1647100,
+    "title": "Citadel of the Worldslayer Traveler",
+    "description": "This achievement is gained upon visiting Citadel of the Worldslayer.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270402,
+        "label": "Visit the Citadel of the Worldslayer"
+      }
+    ]
+  },
+  {
+    "id": 1647400,
+    "title": "City of Dranik Traveler",
+    "description": "This achievement is gained upon visiting the City of Dranik",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647400,
+        "label": "Visit the City of Dranik"
+      }
+    ]
+  },
+  {
+    "id": 1645200,
+    "title": "Field of Scale Traveler",
+    "description": "This achievement is gained upon visiting Field of Scale",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645200,
+        "label": "Visit Field of Scale"
+      },
+      {
+        "order": 2,
+        "type": 2,
+        "value": 270409,
+        "label": "Visit Field of Scale (After the War)"
+      }
+    ]
+  },
+  {
+    "id": 1645400,
+    "title": "Hatchery Wing Traveler",
+    "description": "This achievement is gained upon visiting Kaesora Hatchery",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645400,
+        "label": "Visit the Kaesora Hatchery"
+      }
+    ]
+  },
+  {
+    "id": 1645300,
+    "title": "Kaesora Library Traveler",
+    "description": "This achievement is gained upon visiting Kaesora Library",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645300,
+        "label": "Visit Kaesora Library"
+      }
+    ]
+  },
+  {
+    "id": 1647000,
+    "title": "Korafax, Home of the Riders Traveler",
+    "description": "This achievement is gained upon visiting Korafax, Home of the Riders",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647000,
+        "label": "Visit Korafax, Home of the Riders"
+      }
+    ]
+  },
+  {
+    "id": 1647600,
+    "title": "Korascian Warrens Traveler",
+    "description": "This achievement is gained upon visiting the Korascian Warrens",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647600,
+        "label": "Visit the Korascian Warrens"
+      }
+    ]
+  },
+  {
+    "id": 1645500,
+    "title": "Kurn's Tower Traveler",
+    "description": "This achievement is gained upon visiting Kurn's Tower",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645500,
+        "label": "Visit Kurn's Tower"
+      }
+    ]
+  },
+  {
+    "id": 1646600,
+    "title": "Oceangreen Hills Traveler",
+    "description": "This achievement is gained upon visiting Oceangreen Hills",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646600,
+        "label": "Visit Oceangreen Hills"
+      }
+    ]
+  },
+  {
+    "id": 1646700,
+    "title": "Oceangreen Village Traveler",
+    "description": "This achievement is gained upon visiting Oceangreen Village",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646700,
+        "label": "Visit Oceangreen Village"
+      }
+    ]
+  },
+  {
+    "id": 1647200,
+    "title": "Old Bloodfields Traveler",
+    "description": "This achievement is gained upon visiting Old Bloodfields",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647200,
+        "label": "Visit Old Bloodfields"
+      }
+    ]
+  },
+  {
+    "id": 1645700,
+    "title": "Old Commonlands Traveler",
+    "description": "This achievement is gained upon visiting Old Commonlands",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645700,
+        "label": "Visit Old Commonlands"
+      }
+    ]
+  },
+  {
+    "id": 1647300,
+    "title": "Precipice of War Traveler",
+    "description": "This achievement is gained upon visiting Precipice of War.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270404,
+        "label": "Visit the Precipice of War"
+      }
+    ]
+  },
+  {
+    "id": 1647700,
+    "title": "Rathe Council Chamber Traveler",
+    "description": "This achievement is gained upon visiting the Rathe Council Chamber",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647700,
+        "label": "Visit the Rathe Council Chamber"
+      }
+    ]
+  },
+  {
+    "id": 1646900,
+    "title": "Temple of Bertoxxulous Traveler",
+    "description": "This achievement is gained upon visiting the Temple of Bertoxxulous",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646900,
+        "label": "Visit the Temple of Bertoxxulous"
+      }
+    ]
+  },
+  {
+    "id": 1645900,
+    "title": "The Void Traveler",
+    "description": "This achievement is gained upon visiting The Void.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 270390,
+        "label": "Visit The Void"
+      }
+    ]
+  },
+  {
+    "id": 1647500,
+    "title": "Toskirakk Traveler",
+    "description": "This achievement is gained upon visiting Toskirakk",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1602,
+    "subcategoryName": "Exploration",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647500,
+        "label": "Visit Toskirakk"
+      }
+    ]
+  },
+  {
+    "id": 90051,
+    "title": "Discord Tower Key",
+    "description": "This key unlocks the entrance to the Citadel of the World Slayer.",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1603,
+    "subcategoryName": "Progression",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 3074,
+        "label": "Discord Tower Key"
+      }
+    ]
+  },
+  {
+    "id": 1600010,
+    "title": "The Hitchhiker's Guide to the Past (Group)",
+    "description": "Complete the following quests to gain access to Korafax, Home of the Riders:",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1603,
+    "subcategoryName": "Progression",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600011,
+        "label": "Captain Hiran Tillin - Familiarity is Key"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600012,
+        "label": "Captain Hiran Tillin - Stop the Contamination"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600013,
+        "label": "Captain Hiran Tillin - A Dread Challenger"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600014,
+        "label": "Raxtor Darkpaw - Beat the Blackburrow Boss"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600236,
+        "label": "Lanys T`Vyl - Rain of Ruin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600237,
+        "label": "Commander Barvian - Safe Passage"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600238,
+        "label": "Firiona Vie - Bitter Victuals"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600246,
+        "label": "Jaled`Dar - Audience With the Warmaster"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600247,
+        "label": "Jaled`Dar - The Brood of an Emperor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1600248,
+        "label": "Jaled`Dar - The Price of Knowledge"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1600249,
+        "label": "Jaled`Dar - Defeat the Dragonbane Phalanx"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1600250,
+        "label": "Jaled`Dar - An Impenetrable Shield"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1600256,
+        "label": "Sterik Gristmaker - Retinue of the Frog-God"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1600257,
+        "label": "Nedsin Tabbels - Whom Frogs Destroy"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1600258,
+        "label": "Nedsin Tabbels - The Wrath of Korascian"
+      },
+      {
+        "order": 16,
+        "type": 1,
+        "value": 1600259,
+        "label": "Nedsin Tabbels - Find Your Allies"
+      },
+      {
+        "order": 17,
+        "type": 1,
+        "value": 1600260,
+        "label": "Ylatra the Vassal - Disrupt the Siege"
+      },
+      {
+        "order": 18,
+        "type": 1,
+        "value": 1600261,
+        "label": "Ylatra the Vassal - Champions No More"
+      },
+      {
+        "order": 19,
+        "type": 1,
+        "value": 1600262,
+        "label": "Ylatra the Vassal - Murdunk's Last Stand"
+      }
+    ]
+  },
+  {
+    "id": 1600030,
+    "title": "The Tavern at the End of Norrath (Raid)",
+    "description": "Complete the following raids to gain access to Korafax, Home of the Riders:",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1603,
+    "subcategoryName": "Progression",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600231,
+        "label": "Queen Malarian"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600232,
+        "label": "Stop the Ascension"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600240,
+        "label": "Bloody Kithicor"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1600252,
+        "label": "A Council Divided"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1600253,
+        "label": "Claiming Felbane the Dragon Slayer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1600254,
+        "label": "Field of Scale - Final Confrontation"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1600264,
+        "label": "The Brothers Zek"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1600265,
+        "label": "Eriak's Downfall"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1600266,
+        "label": "Rallos Returns"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1647540,
+        "label": "The Fall of Toskirakk"
+      }
+    ]
+  },
+  {
+    "id": 1600040,
+    "title": "Zebuxoruk, The Void, and Everything (Raid)",
+    "description": "Complete the following raids to gain access to Discord Tower:",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1603,
+    "subcategoryName": "Progression",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600278,
+        "label": "Venom Lord Ksathrax"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600279,
+        "label": "Pallorax the Soul Slayer"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600280,
+        "label": "Mindshear Avatar"
+      }
+    ]
+  },
+  {
+    "id": 1645220,
+    "title": "Grand Illusion of Field of Scale",
+    "description": "This achievement is gained upon completing the following quests in Field of Scale:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645220,
+        "label": "Phara Dar - Purify the Body"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645221,
+        "label": "Phara Dar - Idle Hands"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645222,
+        "label": "Phara Dar - Evil Afoot"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645223,
+        "label": "Phara Dar - The Skull of the Ancient"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645224,
+        "label": "Phara Dar - The Grand Illusion"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645225,
+        "label": "Phara Dar - Broodling in the Hand"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645226,
+        "label": "Severilous - Food Supplies"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645227,
+        "label": "Gorenaire - Cutting Off the Arms"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645228,
+        "label": "Trakanon - The Grudge"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1645229,
+        "label": "Trakanon - Supplies"
+      }
+    ]
+  },
+  {
+    "id": 1646620,
+    "title": "Mercenary of Oceangreen Hills",
+    "description": "This achievement is gained upon completing the following quests in Oceangreen Hills:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646620,
+        "label": "Garvin Windrunner - Reduce the Risk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646621,
+        "label": "Garvin Windrunner - Names for the Faceless"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646622,
+        "label": "Kerrin the Unkempt - Poach the Poachers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646623,
+        "label": "Kerrin the Unkempt - Cure the Crud"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646624,
+        "label": "Kerrin the Unkempt - Stop the Spreading"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646625,
+        "label": "Seradi Stormcaller - The Deathless"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646626,
+        "label": "Bracka Darkpaw - Summary Execution"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1646627,
+        "label": "Elder Mystic Foppye - Invading the Invaders"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1646628,
+        "label": "Fripp Darkpaw - What Evil Lurks in the Hearts of Gnolls?"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1646629,
+        "label": "Fripp Darkpaw - Send the Message"
+      }
+    ]
+  },
+  {
+    "id": 1647510,
+    "title": "Mercenary of Toskirakk",
+    "description": "This achievement is gained upon completing the following quests in Toskirakk:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647510,
+        "label": "Galadvert Nablisten - The Prince Must Die!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647511,
+        "label": "Galadvert Nablisten - The Crimes of War"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647512,
+        "label": "Galadvert Nablisten - Massive Retaliation"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647513,
+        "label": "Fregg the Tamer - Fregg's Challenge"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647514,
+        "label": "Blurik the Runner - Blurik's Toil"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647515,
+        "label": "Keruk Garrkol, Beetle Herder - Beetle Wrangling"
+      }
+    ]
+  },
+  {
+    "id": 1645210,
+    "title": "Partisan of Field of Scale",
+    "description": "This achievement is gained upon completing the following quests in Field of Scale:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645210,
+        "label": "Sealed Message - Raising Cabilis"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645211,
+        "label": "Sealed Message - Sarnak Recovery (Sokokar)"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645212,
+        "label": "Sealed Message - Sarnak Recovery (Burynai)"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645213,
+        "label": "Sealed Message - Sarnak Recovery (Kurn)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645214,
+        "label": "Jaled`Dar - Lost and Found"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645215,
+        "label": "Jaled`Dar - Parley with Ganak"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645216,
+        "label": "Severilous - Drake Scourge"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645217,
+        "label": "Talendor - Havoc in the Hatchery"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645218,
+        "label": "Gorenaire - Dark Sentry"
+      }
+    ]
+  },
+  {
+    "id": 1647010,
+    "title": "Partisan of Korafax, Home of the Riders",
+    "description": "This achievement is gained upon completing the following quests in Korafax, Home of the Riders:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647010,
+        "label": "a disheveled human - Kill the Mindshear Attendants"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647011,
+        "label": "a disheveled human - Kill the Corporifers"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647012,
+        "label": "a disheveled human - Free My Mind"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647013,
+        "label": "a disheveled human - Find Telivar"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647014,
+        "label": "Telivar S`Vik - You Pay the Price"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647015,
+        "label": "Telivar S`Vik - Assist the Riftseekers"
+      }
+    ]
+  },
+  {
+    "id": 1646610,
+    "title": "Partisan of Oceangreen Hills",
+    "description": "This achievement is gained upon completing the following quests in Oceangreen Hills:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646610,
+        "label": "Sergeant Bronal Cadran - Man the Defenses"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646611,
+        "label": "Sergeant Bronal Cadran - No Cure for Death"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646612,
+        "label": "Tabron Caulria - Does This Look Infected?"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646613,
+        "label": "Tabron Caulria - Salving Grace"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646614,
+        "label": "Tabron Caulria - Test the Waters"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646615,
+        "label": "Captain Hiran Tillin - Familiarity is Key"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646616,
+        "label": "Archon Darianna Althus - Plague From Above"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1646617,
+        "label": "Archon Darianna Althus - Thinning the Rank"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1646618,
+        "label": "Jeneca Orlofen - Follow Your Nose"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1646619,
+        "label": "Guard Ellery - Run to Daylight"
+      }
+    ]
+  },
+  {
+    "id": 1646710,
+    "title": "Partisan of Oceangreen Village",
+    "description": "This achievement is gained upon completing the following quests in Oceangreen Village:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646710,
+        "label": "Dan Hearthpride - Arms of the Dead"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646711,
+        "label": "Yvette Miller - Good Seeds"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646712,
+        "label": "Viktor Snowborn - Paint Supplies"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646713,
+        "label": "Apothecary Cadmael - A Secret Hidden in Plain Sight"
+      }
+    ]
+  },
+  {
+    "id": 1647210,
+    "title": "Partisan of Old Bloodfields",
+    "description": "This achievement is gained upon completing the following quests in Old Bloodfields:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647210,
+        "label": "Noble Yemall the Arcane - Lost Memories"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647211,
+        "label": "Noble Ramel the Strategist - Supply Interruption"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647212,
+        "label": "Noble Mikuv the Rational - Deliver the Message"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647213,
+        "label": "Commander Prezul - The Kyv are Coming"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647214,
+        "label": "Commander Prezul - Impairing the Ikaav"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647215,
+        "label": "Commander Prezul - Undoing the Ukun"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647216,
+        "label": "Commander Prezul - Knockdown the Noc"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647217,
+        "label": "Nahsulen the Tactician - The Ultimate Weapon"
+      }
+    ]
+  },
+  {
+    "id": 1645710,
+    "title": "Partisan of Old Commonlands",
+    "description": "This achievement is gained upon completing the following quests in Old Commonlands:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645710,
+        "label": "Innkeeper Grang - Stop the Corruption"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645711,
+        "label": "Warden Avelyn - Purging the Corruption"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645712,
+        "label": "Parthar - Refugee Rescue (Redthorn)"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645713,
+        "label": "Parthar - Refugee Rescue (Dolman)"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645714,
+        "label": "Parthar - Refugee Rescue (Fenia)"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645715,
+        "label": "Parthar - Refugee Rescue (Mojax)"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645716,
+        "label": "Parthar - Refugee Rescue (Opal)"
+      }
+    ]
+  },
+  {
+    "id": 1645610,
+    "title": "Partisan of the Army of Light",
+    "description": "This achievement is gained upon completing the following quests in Bloody Kithicor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645610,
+        "label": "Diennic Lightheart - Shadows of Kithicor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645611,
+        "label": "Lord Tephys - Charges of Treason"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645612,
+        "label": "Firiona Vie - Vengeance and Deliverance"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645613,
+        "label": "Armsmaster Vohlen - Acts of Reprisal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645614,
+        "label": "Armsmaster Vohlen - Sacrifice to Treachery"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645615,
+        "label": "Armsmaster Vohlen - Questionable Loyalties"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645616,
+        "label": "Supplymaster Kibrek - Scourge of Supply"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645617,
+        "label": "Thanuel Mergon - Scouting the Commonlands"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645618,
+        "label": "Banesman Aalthene - Acts of Sabotage"
+      }
+    ]
+  },
+  {
+    "id": 1645620,
+    "title": "Partisan of the Army of Obliteration",
+    "description": "This achievement is gained upon completing the following quests in Bloody Kithicor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645620,
+        "label": "Laarthik V`Shin - Destroy the Impostor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645621,
+        "label": "Lanys T`Vyl - Rain of Ruin"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645622,
+        "label": "Saleb - Take Everything"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645623,
+        "label": "Andylis V`Shrei - Disruptive Influences"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645624,
+        "label": "Andylis V`Shrei - Countermanded Orders"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645625,
+        "label": "Jarik K`Ahndar - Enemies of the Teir`Dal"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645626,
+        "label": "Jarik K`Ahndar - Power Play"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645627,
+        "label": "Andylis V`Shrei - Truth and Consequences"
+      }
+    ]
+  },
+  {
+    "id": 1647410,
+    "title": "Partisan of the City of Dranik",
+    "description": "This achievement is gained upon completing the following quests in the City of Dranik:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647410,
+        "label": "General Azerug the Honorable - Lifting the Fog"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647411,
+        "label": "Grithyank Avlonnon - Vile Weaponry"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647412,
+        "label": "Ziven - The Rescuers"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647413,
+        "label": "General Azerug the Honorable - Acolytes of Despair"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647414,
+        "label": "Citykeeper Nardic the Proud - Favors of the Hopelost"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647415,
+        "label": "Citykeeper Nardic the Proud - A Limit to Despair"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647416,
+        "label": "Givrund the Devoted - The Missing Chalice"
+      }
+    ]
+  },
+  {
+    "id": 1647620,
+    "title": "Partisan of the Darkhammer Dwarves",
+    "description": "This achievement is gained upon completing the following quests in the Korascian Warrens:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647620,
+        "label": "Delver Hagorn - A Plague of Mephits"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647621,
+        "label": "Delver Hagorn - Darkhammer Supply Run"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647622,
+        "label": "Delver Hagorn - Supplication for Mercy"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647623,
+        "label": "Delver Hagorn - Master of the Mines"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647624,
+        "label": "Ulgin Darkhammer - Crystal Clarity"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647625,
+        "label": "Ulgin Darkhammer - Primal Terrors"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647626,
+        "label": "Ulgin Darkhammer - Unusual Properties"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647627,
+        "label": "Ulgin Darkhammer - Pinnacle of Destruction"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1647628,
+        "label": "Dalikand Darkhammer - Get to the Delve"
+      }
+    ]
+  },
+  {
+    "id": 1647610,
+    "title": "Partisan of the Korascian Warrens",
+    "description": "This achievement is gained upon completing the following quests in the Korascian Warrens:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647610,
+        "label": "Nedsin Tabbels - Find Your Allies"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647611,
+        "label": "Nedsin Tabbels - Whom Frogs Destroy"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647612,
+        "label": "Nedsin Tabbels - The Wrath of Korascian"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647613,
+        "label": "Ylatra the Vassal - Disrupt the Siege"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647614,
+        "label": "Ylatra the Vassal - Champions No More"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647615,
+        "label": "Sterik Gristmaker - Retinue of the Frog-God"
+      }
+    ]
+  },
+  {
+    "id": 1647520,
+    "title": "Partisan of the Toskirakk Slaves",
+    "description": "This achievement is gained upon completing the following quests in Toskirakk:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1604,
+    "subcategoryName": "Quests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647520,
+        "label": "an injured slave - Times are a Chainin'"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647521,
+        "label": "Dwerina Feystalker - Millik's Remains"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647522,
+        "label": "Dwerina Feystalker - Humble Petition"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647523,
+        "label": "Dwerina Feystalker - Augury of Time"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647524,
+        "label": "Dwerina Feystalker - The Cult of Lakkung"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647525,
+        "label": "Wazlum - Against the Grain"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647526,
+        "label": "Jink - Streets of Justice"
+      }
+    ]
+  },
+  {
+    "id": 1646830,
+    "title": "Hero of Blackburrow",
+    "description": "This achievement is gained upon completing the following missions in Blackburrow:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646830,
+        "label": "Raxtor Darkpaw - Freedom!"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646831,
+        "label": "Raxtor Darkpaw - Beat the Blackburrow Boss"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646832,
+        "label": "Elder Mystic Foppye - Disrupting the Ritual"
+      }
+    ]
+  },
+  {
+    "id": 1645630,
+    "title": "Hero of Bloody Kithicor",
+    "description": "This achievement is gained upon completing the following missions in Bloody Kithicor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645630,
+        "label": "Commander Barvian - Safe Passage"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645631,
+        "label": "Firiona Vie - Bitter Victuals"
+      }
+    ]
+  },
+  {
+    "id": 1645330,
+    "title": "Hero of Kaesora",
+    "description": "This achievement is gained upon completing the following missions in Kaesora:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645330,
+        "label": "Jaled`Dar - The Price of Knowledge"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645430,
+        "label": "Jaled`Dar - The Brood of an Emperor"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645431,
+        "label": "Jaled`Dar - An Impenetrable Shield"
+      }
+    ]
+  },
+  {
+    "id": 1647030,
+    "title": "Hero of Korafax, Home of the Riders",
+    "description": "This achievement is gained upon completing the following missions in Korafax, Home of the Riders:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647030,
+        "label": "Telivar S`Vik - Kill the Shearspawn"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647031,
+        "label": "Telivar S`Vik - Inside Information"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647032,
+        "label": "Telivar S`Vik - Meeting Adjourned!"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647033,
+        "label": "Telivar S`Vik - Stardouser"
+      }
+    ]
+  },
+  {
+    "id": 1645530,
+    "title": "Hero of Kurn's Tower",
+    "description": "This achievement is gained upon completing the following missions in Kurn's Tower:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645530,
+        "label": "Jaled`Dar - Audience With the Warmaster"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645531,
+        "label": "Jaled`Dar - Defeat the Dragonbane Phalanx"
+      }
+    ]
+  },
+  {
+    "id": 1646630,
+    "title": "Hero of Oceangreen Hills",
+    "description": "This achievement is gained upon completing the following missions in Oceangreen Hills:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646630,
+        "label": "Captain Hiran Tillin - Stop the Contamination"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646631,
+        "label": "Captain Hiran Tillin - A Dread Challenger"
+      }
+    ]
+  },
+  {
+    "id": 1647230,
+    "title": "Hero of Old Bloodfields",
+    "description": "This achievement is gained upon completing the following missions in Old Bloodfields:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647230,
+        "label": "Yemall the Arcane - Studying the Portal"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647231,
+        "label": "General Vurig the Imposing - Holding the Fort"
+      }
+    ]
+  },
+  {
+    "id": 1647630,
+    "title": "Hero of the Korascian Warrens",
+    "description": "This achievement is gained upon completing the following missions in the Korascian Warrens:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647630,
+        "label": "Ylatra the Vassal - Murdunk's Last Stand"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647631,
+        "label": "Ulgin Darkhammer - The Crystal Bloom"
+      }
+    ]
+  },
+  {
+    "id": 1646930,
+    "title": "Hero of the Temple of Bertoxxulous",
+    "description": "This achievement is gained upon completing the following missions in the Temple of Bertoxxulous:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646930,
+        "label": "Apothecary Cadmael - A Corrupted Arch Priest"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646931,
+        "label": "Apothecary Cadmael - Remove the Head and the Disease Will Die"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646932,
+        "label": "Jerom Bertrand - The Bubonians Are Coming!"
+      }
+    ]
+  },
+  {
+    "id": 1647530,
+    "title": "Hero of Toskirakk",
+    "description": "This achievement is gained upon completing the following missions in Toskirakk:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1605,
+    "subcategoryName": "Missions",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647530,
+        "label": "Trilyaris - Cruel Overseers"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647531,
+        "label": "Trilyaris - Spies, Lies, and Prison Cells"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647532,
+        "label": "Trilyaris - Hiding in Plain Sight"
+      }
+    ]
+  },
+  {
+    "id": 1646840,
+    "title": "Conqueror of Blackburrow",
+    "description": "This achievement is gained upon completing the following raid in Blackburrow:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646840,
+        "label": "Stop the Ascension"
+      }
+    ]
+  },
+  {
+    "id": 1645640,
+    "title": "Conqueror of Bloody Kithicor",
+    "description": "This achievement is gained upon completing the following raid in Bloody Kithicor:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645640,
+        "label": "Bloody Kithicor"
+      }
+    ]
+  },
+  {
+    "id": 1645240,
+    "title": "Conqueror of Field of Scale",
+    "description": "This achievement is gained upon completing the following raid in Field of Scale:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645240,
+        "label": "Field of Scale - Final Confrontation"
+      }
+    ]
+  },
+  {
+    "id": 1645340,
+    "title": "Conqueror of Kaesora",
+    "description": "This achievement is gained upon completing the following raid in Kaesora:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645340,
+        "label": "A Council Divided"
+      }
+    ]
+  },
+  {
+    "id": 1647040,
+    "title": "Conqueror of Korafax, Home of the Riders",
+    "description": "This achievement is gained upon completing the following raids in Korafax, Home of the Riders:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647040,
+        "label": "Pallorax the Soul Slayer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647041,
+        "label": "Mindshear Avatar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647042,
+        "label": "Venom Lord Ksathrax"
+      }
+    ]
+  },
+  {
+    "id": 1645540,
+    "title": "Conqueror of Kurn's Tower",
+    "description": "This achievement is gained upon completing the following raid in Kurn's Tower:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645540,
+        "label": "Claiming Felbane the Dragon Slayer"
+      }
+    ]
+  },
+  {
+    "id": 1647140,
+    "title": "Conqueror of the Citadel of the Worldslayer",
+    "description": "This achievement is gained upon completing the following raids in the Citadel of the Worldslayer:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647140,
+        "label": "The Mindblight"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647141,
+        "label": "Trophy Room"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647142,
+        "label": "Stasis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647143,
+        "label": "Scrying"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647144,
+        "label": "Sacrifice"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647145,
+        "label": "Overlord Muram"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647146,
+        "label": "Edge of Destruction"
+      }
+    ]
+  },
+  {
+    "id": 1647640,
+    "title": "Conqueror of the Korascian Warrens",
+    "description": "This achievement is gained upon completing the following raid in the Korascian Warrens:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647640,
+        "label": "Showdown at the Crystal Core"
+      }
+    ]
+  },
+  {
+    "id": 1647740,
+    "title": "Conqueror of the Rathe Council Chamber",
+    "description": "This achievement is gained upon completing the following raids in the Rathe Council Chamber:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647740,
+        "label": "The Brothers Zek"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647741,
+        "label": "Eriak's Downfall"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647742,
+        "label": "Rallos Returns"
+      }
+    ]
+  },
+  {
+    "id": 1646940,
+    "title": "Conqueror of the Temple of Bertoxxulous",
+    "description": "This achievement is gained upon completing the following raid in the Temple of Bertoxxulous:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646940,
+        "label": "Queen Malarian"
+      }
+    ]
+  },
+  {
+    "id": 1647540,
+    "title": "Conqueror of Toskirakk",
+    "description": "This achievement is gained upon completing the following raid in Toskirakk:",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1606,
+    "subcategoryName": "Raids",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647540,
+        "label": "The Fall of Toskirakk"
+      }
+    ]
+  },
+  {
+    "id": 1600240,
+    "title": "Savior of Bloody Kithicor",
+    "description": "This achievement is gained upon completing all quests and missions in Bloody Kithicor:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730042,
+        "label": "Partisan of the Army of Light"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730043,
+        "label": "Partisan of the Army of Obliteration"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730044,
+        "label": "Partisan of Old Commonlands"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1730045,
+        "label": "Hero of Bloody Kithicor"
+      }
+    ]
+  },
+  {
+    "id": 1600280,
+    "title": "Savior of Korafax, Home of the Riders",
+    "description": "This achievement is gained upon completing all quests and missions in Korafax, Home of the Riders:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730059,
+        "label": "Partisan of Korafax, Home of the Riders"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730060,
+        "label": "Hero of Korafax, Home of the Riders"
+      }
+    ]
+  },
+  {
+    "id": 1600230,
+    "title": "Savior of Oceangreen",
+    "description": "This achievement is gained upon completing all quests and missions in Old Antonica:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730036,
+        "label": "Mercenary of Oceangreen Hills"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730037,
+        "label": "Partisan of Oceangreen Hills"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730038,
+        "label": "Partisan of Oceangreen Village"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1730039,
+        "label": "Hero of Oceangreen Hills"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1730040,
+        "label": "Hero of Blackburrow"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1730041,
+        "label": "Hero of the Temple of Bertoxxulous"
+      }
+    ]
+  },
+  {
+    "id": 1600270,
+    "title": "Savior of Old Bloodfields",
+    "description": "This achievement is gained upon completing all quests and missions in Old Bloodfields:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730056,
+        "label": "Partisan of Old Bloodfields"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730057,
+        "label": "Partisan of the City of Dranik"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730058,
+        "label": "Hero of Old Bloodfields"
+      }
+    ]
+  },
+  {
+    "id": 1600250,
+    "title": "Savior of the Field of Scale",
+    "description": "This achievement is gained upon completing all quests and missions in the Field of Scale:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730046,
+        "label": "Grand Illusion of Field of Scale"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730047,
+        "label": "Partisan of Field of Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730048,
+        "label": "Hero of Kaesora"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1730049,
+        "label": "Hero of Kurn's Tower"
+      }
+    ]
+  },
+  {
+    "id": 1600260,
+    "title": "Savior of Toskirakk",
+    "description": "This achievement is gained upon completing all quests and missions in Toskirakk:",
+    "points": 40,
+    "isHidden": false,
+    "subcategoryId": 1607,
+    "subcategoryName": "Conquests",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1730050,
+        "label": "Mercenary of Toskirakk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1730051,
+        "label": "Partisan of the Toskirakk Slaves"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1730052,
+        "label": "Partisan of the Korascian Warrens"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1730053,
+        "label": "Partisan of the Darkhammer Dwarves"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1730054,
+        "label": "Hero of Toskirakk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1730055,
+        "label": "Hero of the Korascian Warrens"
+      }
+    ]
+  },
+  {
+    "id": 1600200,
+    "title": "Adept Hunter of the Void",
+    "description": "This achievement is gained upon completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1600200,
+        "label": "Hunter of Bloody Kithicor"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600201,
+        "label": "Hunter of Old Commonlands"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600205,
+        "label": "Hunter of Field of Scale"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600206,
+        "label": "Hunter of the Kaesora Library"
+      }
+    ]
+  },
+  {
+    "id": 1600210,
+    "title": "Expert Hunter of the Void",
+    "description": "This achievement is gained upon completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1600212,
+        "label": "Hunter of the Rathe Council Chamber"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600202,
+        "label": "Hunter of Old Bloodfields"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600203,
+        "label": "Hunter of Old City of Dranik"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600213,
+        "label": "Hunter of Korafax, Home of the Riders"
+      }
+    ]
+  },
+  {
+    "id": 1646860,
+    "title": "Hunter of Blackburrow",
+    "description": "This achievement is gained upon defeating the following rare monsters in Blackburrow",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646860,
+        "label": "Bloodreaper Veschtar"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646861,
+        "label": "Fleshsmith Raxtonar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646862,
+        "label": "Garght the Angry"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646863,
+        "label": "Brewmaster Drachty"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646864,
+        "label": "Larq the Butcher"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646865,
+        "label": "High Commander Xantheos"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646866,
+        "label": "High Shaman Lo`Eszch"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1646867,
+        "label": "Slavemaster Raouk"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1646868,
+        "label": "Snake Handler Graxos"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1646869,
+        "label": "Vileak the Fang"
+      }
+    ]
+  },
+  {
+    "id": 1645660,
+    "title": "Hunter of Bloody Kithicor",
+    "description": "This achievement is gained upon defeating the following rare monsters in Bloody Kithicor",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645660,
+        "label": "a large kodiak"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645661,
+        "label": "a bixie soldier"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645662,
+        "label": "Loreth Soulanis"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645663,
+        "label": "Groomb Mystseer"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645664,
+        "label": "Wald Kormarin"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645665,
+        "label": "Eliowie Dawnheart"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645666,
+        "label": "Razorfang"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645667,
+        "label": "Widow of the Woods"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645668,
+        "label": "an ebony stalker"
+      }
+    ]
+  },
+  {
+    "id": 1645260,
+    "title": "Hunter of Field of Scale",
+    "description": "This achievement is gained upon defeating the following rare monsters in Field of Scale",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645260,
+        "label": "Slact the Frozen Hand"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645261,
+        "label": "an ancient bonegrinder"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645262,
+        "label": "Naskado the Demented"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645263,
+        "label": "Blackblade Lorkis"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645264,
+        "label": "Jracsza the Feral"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645265,
+        "label": "Fluttershade"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645266,
+        "label": "Oracle Vro`Zok"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645267,
+        "label": "Festersting the Diminutive"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645268,
+        "label": "Darkcoil the Constrictor"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1645269,
+        "label": "Battleguard Gauntas"
+      }
+    ]
+  },
+  {
+    "id": 1647060,
+    "title": "Hunter of Korafax, Home of the Riders",
+    "description": "This achievement is gained upon defeating the following rare monsters in Korafax, Home of the Riders",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647060,
+        "label": "Bazu Warsmasher"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647071,
+        "label": "Dire Feran Mindrender"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647072,
+        "label": "Noc Bloodswarmer"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647063,
+        "label": "Hexxt Soulhunter"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647064,
+        "label": "Hexxt Shadowslayer"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647065,
+        "label": "Veltarik"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647066,
+        "label": "Pixxt Deathbinder"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647067,
+        "label": "Pixxt Darkhammer"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1647068,
+        "label": "Grg`nok"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1647069,
+        "label": "Overlord Gevalark the Dread"
+      }
+    ]
+  },
+  {
+    "id": 1645560,
+    "title": "Hunter of Kurn's Tower",
+    "description": "This achievement is gained upon defeating the following rare monsters in Kurn's Tower",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645560,
+        "label": "Mordid"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645561,
+        "label": "Isinente"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645562,
+        "label": "Louko"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645563,
+        "label": "Cosensal"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645564,
+        "label": "Estar"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645565,
+        "label": "Consersa"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645566,
+        "label": "Oracao"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645567,
+        "label": "Researcher Neskuisa"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645568,
+        "label": "Lieutenant Tenante"
+      }
+    ]
+  },
+  {
+    "id": 1646660,
+    "title": "Hunter of Oceangreen Hills",
+    "description": "This achievement is gained upon defeating the following rare monsters in Oceangreen Hills",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646660,
+        "label": "Blackburrow Nightstalker"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646661,
+        "label": "Blackburrow Outcast"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646662,
+        "label": "Brown Bear Denmother"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646663,
+        "label": "Guardian of the Glade"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646664,
+        "label": "Gray Wolf Stalker"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646665,
+        "label": "Klixcxyk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646666,
+        "label": "Putrescent Bonelord"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1646667,
+        "label": "Slitheren"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1646668,
+        "label": "Spark"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1646669,
+        "label": "Wandering Soul"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1646670,
+        "label": "Wrathpaw"
+      }
+    ]
+  },
+  {
+    "id": 1646760,
+    "title": "Hunter of Oceangreen Village",
+    "description": "This achievement is gained upon defeating the following rare monsters in Oceangreen Village",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646760,
+        "label": "Jelvalak the Tomblord"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646761,
+        "label": "Master Putremancer Fellid"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646762,
+        "label": "The Blight Wisp"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646763,
+        "label": "Malign"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646764,
+        "label": "Twisted Limb"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646765,
+        "label": "a gravid fire beetle"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646766,
+        "label": "The Crimson Bat"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1646767,
+        "label": "The Claybeast"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1646768,
+        "label": "Blightfang"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1646769,
+        "label": "Vileplume"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1646770,
+        "label": "Megrima the Plaguecaller"
+      }
+    ]
+  },
+  {
+    "id": 1647260,
+    "title": "Hunter of Old Bloodfields",
+    "description": "This achievement is gained upon defeating the following rare monsters in Old Bloodfields",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647260,
+        "label": "Pherin the Traitor"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647261,
+        "label": "Taath"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647262,
+        "label": "Emlyxi"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647263,
+        "label": "Kyris"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647264,
+        "label": "Naddik"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647265,
+        "label": "Noddri"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647266,
+        "label": "Thangrel"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647267,
+        "label": "Klygg"
+      }
+    ]
+  },
+  {
+    "id": 1647460,
+    "title": "Hunter of Old City of Dranik",
+    "description": "This achievement is gained upon defeating the following rare monsters in Old City of Dranik",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647460,
+        "label": "Cythkes"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647461,
+        "label": "Maxantxora"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647462,
+        "label": "Xoneua"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647463,
+        "label": "Shzalk"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647464,
+        "label": "Txenn"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647465,
+        "label": "Ulkat"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647466,
+        "label": "Xangef"
+      }
+    ]
+  },
+  {
+    "id": 1645760,
+    "title": "Hunter of Old Commonlands",
+    "description": "This achievement is gained upon defeating the following rare monsters in Old Commonlands",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645760,
+        "label": "Brawler Gribnuk"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645761,
+        "label": "Captain T`shar"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645762,
+        "label": "Commander K`thak"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645763,
+        "label": "Necromancer Ythara"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645764,
+        "label": "Illusionist V`shal"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645765,
+        "label": "Sergeant Hylvar"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645766,
+        "label": "Trapper Kravek"
+      }
+    ]
+  },
+  {
+    "id": 1645460,
+    "title": "Hunter of the Kaesora Hatchery",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Kaesora Hatchery",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645460,
+        "label": "Grandmaster Merxs"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645461,
+        "label": "Lich Guardian Ssicroz"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645462,
+        "label": "Eazack the Cruel"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645463,
+        "label": "Blademaster Kraszen"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645464,
+        "label": "Imperial Enforcer"
+      }
+    ]
+  },
+  {
+    "id": 1645360,
+    "title": "Hunter of the Kaesora Library",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Kaesora Library",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1645360,
+        "label": "Chief Groundskeeper Dralnit"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1645361,
+        "label": "Skeleton Keymaster"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1645362,
+        "label": "Assistant Librarian Krekn"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1645363,
+        "label": "Teacher's Pet"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1645364,
+        "label": "Aquadominus Selestian"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1645365,
+        "label": "Sorakan the Mighty"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1645366,
+        "label": "Thisla, Twinskull Matron"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1645367,
+        "label": "Library Director Eslisar"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1645368,
+        "label": "Grellik, Master of Torments"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1645369,
+        "label": "Hesila, Preceptor of Kaesora"
+      }
+    ]
+  },
+  {
+    "id": 1647660,
+    "title": "Hunter of the Korascian Warrens",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Korascian Warrens",
+    "points": 30,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647660,
+        "label": "Gradd the Mutineer"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647661,
+        "label": "Reuk the Portal Tender"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647662,
+        "label": "Felsa Kabbek"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647663,
+        "label": "Mauk Peskysnout"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647664,
+        "label": "Slaukk the Messcook"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647665,
+        "label": "Perd Kraknakk"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647666,
+        "label": "Provost Vokk Raskk"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647667,
+        "label": "Shem Saldon"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1647668,
+        "label": "Uk"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1647669,
+        "label": "Ezal"
+      },
+      {
+        "order": 11,
+        "type": 1,
+        "value": 1647670,
+        "label": "Auliggis"
+      },
+      {
+        "order": 12,
+        "type": 1,
+        "value": 1647671,
+        "label": "Crystalline Sorcidont"
+      },
+      {
+        "order": 13,
+        "type": 1,
+        "value": 1647672,
+        "label": "Crystalline Thaumadont"
+      },
+      {
+        "order": 14,
+        "type": 1,
+        "value": 1647673,
+        "label": "Crystalline Auridont"
+      },
+      {
+        "order": 15,
+        "type": 1,
+        "value": 1647674,
+        "label": "Crystalline Pyrodont"
+      }
+    ]
+  },
+  {
+    "id": 1647760,
+    "title": "Hunter of the Rathe Council Chamber",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Rathe Council Chamber",
+    "points": 10,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647760,
+        "label": "Glutch the Heap"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647761,
+        "label": "Glithos"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647762,
+        "label": "The Rathe Librarian"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647763,
+        "label": "Yoz`an the Ritualist"
+      }
+    ]
+  },
+  {
+    "id": 1646960,
+    "title": "Hunter of the Temple of Bertoxxulous",
+    "description": "This achievement is gained upon defeating the following rare monsters in the Temple of Bertoxxulous",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1646960,
+        "label": "Tsetsian Plaguelord"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1646961,
+        "label": "Malarian Mother"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1646962,
+        "label": "High Priest of Bertoxxulous"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1646963,
+        "label": "Inquisitor Dalin"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1646964,
+        "label": "Steward of Bertoxxulous"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1646965,
+        "label": "The Doctor"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1646966,
+        "label": "Zealot of Bertoxxulous"
+      }
+    ]
+  },
+  {
+    "id": 1647560,
+    "title": "Hunter of Toskirakk",
+    "description": "This achievement is gained upon defeating the following rare monsters in Toskirakk",
+    "points": 20,
+    "isHidden": false,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1647560,
+        "label": "Vessa the Oracle"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1647561,
+        "label": "Brusk of Oggok"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1647562,
+        "label": "Captain Tregenek"
+      },
+      {
+        "order": 4,
+        "type": 1,
+        "value": 1647563,
+        "label": "Frundil"
+      },
+      {
+        "order": 5,
+        "type": 1,
+        "value": 1647564,
+        "label": "Griddunk"
+      },
+      {
+        "order": 6,
+        "type": 1,
+        "value": 1647565,
+        "label": "Kuris the Garbage Eater"
+      },
+      {
+        "order": 7,
+        "type": 1,
+        "value": 1647566,
+        "label": "Tonkk the Axestopper"
+      },
+      {
+        "order": 8,
+        "type": 1,
+        "value": 1647567,
+        "label": "Vruten the Intendant"
+      },
+      {
+        "order": 9,
+        "type": 1,
+        "value": 1647568,
+        "label": "Sturk the Insane Froglok Slave"
+      },
+      {
+        "order": 10,
+        "type": 1,
+        "value": 1647569,
+        "label": "Ulgren Vith"
+      }
+    ]
+  },
+  {
+    "id": 1600195,
+    "title": "Novice Hunter of the Void",
+    "description": "This achievement is gained upon completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1600195,
+        "label": "Hunter of Oceangreen Hills"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600198,
+        "label": "Hunter of Oceangreen Village"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600197,
+        "label": "Hunter of Blackburrow"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600196,
+        "label": "Hunter of the Temple of Bertoxxulous"
+      }
+    ]
+  },
+  {
+    "id": 1600205,
+    "title": "Veteran Hunter of the Void",
+    "description": "This achievement is gained upon completing the following Hunter achievements:",
+    "points": 50,
+    "isHidden": true,
+    "subcategoryId": 1608,
+    "subcategoryName": "Hunts",
+    "categoryId": 1600,
+    "categoryName": "Seeds of Destruction",
+    "requirements": [
+      {
+        "order": 0,
+        "type": 1,
+        "value": 1600207,
+        "label": "Hunter of the Kaesora Hatchery"
+      },
+      {
+        "order": 1,
+        "type": 1,
+        "value": 1600208,
+        "label": "Hunter of Kurn's Tower"
+      },
+      {
+        "order": 2,
+        "type": 1,
+        "value": 1600210,
+        "label": "Hunter of Toskirakk"
+      },
+      {
+        "order": 3,
+        "type": 1,
+        "value": 1600211,
+        "label": "Hunter of the Korascian Warrens"
+      }
+    ]
+  }
+]
