@@ -10,30 +10,40 @@ export default {
     extend: {
       colors: {
         obsidian: {
-          950: '#06050a',
-          900: '#0d0b14',
-          800: '#16131f',
-          700: '#201c2e',
-          600: '#2c2640',
+          950: '#09071a',
+          900: '#0d0a22',
+          800: '#14102e',
+          700: '#1c1840',
+          600: '#251f52',
         },
         parchment: {
-          100: '#f5ead6',
-          200: '#e8d5b0',
-          300: '#c9a96e',
+          100: '#f5edd5',
+          200: '#e8d8b0',
+          300: '#c4a86a',
         },
         rune: {
-          400: '#c49a3c',
-          500: '#a87d28',
-          600: '#7a5a1a',
+          400: '#f0c040',
+          500: '#c8962a',
+          600: '#7a5c18',
         },
         blood: {
-          500: '#8b1a1a',
-          600: '#6b1313',
+          500: '#e84040',
+          600: '#b02828',
         },
         mana: {
-          400: '#5b7fa6',
-          500: '#3d5f80',
-        }
+          400: '#00bbcc',
+          500: '#007a8a',
+        },
+        arcane: {
+          300: '#c4a0ff',
+          400: '#9b5de5',
+          500: '#7240c0',
+          600: '#4a2880',
+        },
+        jade: {
+          400: '#3dd68c',
+          500: '#1fa862',
+        },
       },
       fontFamily: {
         display: ['Palatino Linotype', 'Palatino', 'Book Antiqua', 'Georgia', 'serif'],
@@ -44,8 +54,11 @@ export default {
         'noise': "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E\")",
       },
       boxShadow: {
-        'rune': '0 0 12px rgba(196, 154, 60, 0.3)',
-        'rune-lg': '0 0 24px rgba(196, 154, 60, 0.4)',
+        'rune': '0 0 16px rgba(240, 192, 64, 0.45)',
+        'rune-lg': '0 0 32px rgba(240, 192, 64, 0.55)',
+        'arcane': '0 0 16px rgba(155, 93, 229, 0.45)',
+        'arcane-lg': '0 0 28px rgba(155, 93, 229, 0.55)',
+        'mana': '0 0 16px rgba(0, 187, 204, 0.35)',
       }
     },
   },

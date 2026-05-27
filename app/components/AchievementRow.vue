@@ -1,15 +1,21 @@
 <template>
   <div class="flex items-center gap-3">
-    <span class="text-sm" :class="achievement.unlocked ? 'text-rune-400' : 'text-parchment-300/20'">
+    <span
+      class="text-sm transition-colors"
+      :class="achievement.unlocked ? 'text-rune-400' : 'text-parchment-300/20'"
+    >
       {{ achievement.unlocked ? '◆' : '◇' }}
     </span>
     <div class="flex-1 min-w-0">
-      <div class="text-parchment-200 text-sm truncate" :class="{ 'opacity-50': !achievement.unlocked }">
+      <div
+        class="text-sm truncate font-display transition-colors"
+        :class="achievement.unlocked ? 'text-parchment-100' : 'text-parchment-200/50'"
+      >
         {{ achievement.title }}
       </div>
       <div class="text-parchment-300/40 text-xs">{{ completedCount }}/{{ total }} · {{ achievement.category }}</div>
     </div>
-    <span class="text-rune-400/60 text-xs shrink-0">{{ achievement.points }}pt</span>
+    <span class="text-rune-400/70 text-xs shrink-0 font-display tabular-nums">{{ achievement.points }}pt</span>
   </div>
 </template>
 

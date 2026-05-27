@@ -1,16 +1,16 @@
 <template>
   <div
-    class="bg-obsidian-800 border rounded p-4 transition-colors cursor-pointer group"
+    class="border rounded-lg p-4 transition-all cursor-pointer group"
     :class="unlocked
-      ? 'border-rune-600/40 hover:border-rune-600/60'
-      : 'border-obsidian-700 hover:border-rune-600/25'"
+      ? 'bg-gradient-to-br from-rune-600/10 to-obsidian-800 border-rune-500/55 shadow-rune hover:shadow-rune-lg hover:border-rune-400/75'
+      : 'bg-obsidian-800 border-obsidian-600/50 hover:border-rune-600/35 shadow-[inset_0_1px_0_rgba(240,192,64,0.04)]'"
     @click="$emit('toggle')"
   >
     <div class="flex items-start justify-between gap-3">
       <div class="flex items-start gap-2.5 min-w-0">
         <span
           class="text-base mt-0.5 shrink-0 transition-colors"
-          :class="unlocked ? 'text-rune-400' : 'text-parchment-300/20 group-hover:text-parchment-300/35'"
+          :class="unlocked ? 'text-rune-400' : 'text-parchment-300/20 group-hover:text-parchment-300/40'"
         >
           {{ unlocked ? '◆' : '◇' }}
         </span>
@@ -26,7 +26,12 @@
           </div>
         </div>
       </div>
-      <span class="text-rune-400/50 text-xs shrink-0 font-display tabular-nums">{{ achievement.points }}pt</span>
+      <span
+        class="text-xs shrink-0 font-display tabular-nums transition-colors"
+        :class="unlocked ? 'text-rune-400/80' : 'text-rune-600/55'"
+      >
+        {{ achievement.points }}pt
+      </span>
     </div>
 
     <p v-if="achievement.description" class="text-parchment-300/50 text-xs mt-2 leading-relaxed line-clamp-2">
@@ -41,7 +46,7 @@
       >
         <span :class="unlocked ? 'text-rune-400' : 'text-parchment-300/20'">{{ unlocked ? '✓' : '·' }}</span>
         <span
-          :class="unlocked ? 'text-parchment-300/60 line-through' : 'text-parchment-300/35'"
+          :class="unlocked ? 'text-parchment-300/55 line-through' : 'text-parchment-300/35'"
           class="leading-snug"
         >
           {{ req.label }}
@@ -52,7 +57,8 @@
       </div>
     </div>
 
-    <div v-if="unlocked" class="mt-3 pt-2.5 border-t border-rune-600/20 text-xs text-rune-400/50 font-display">
+    <div v-if="unlocked" class="mt-3 pt-2.5 border-t border-rune-600/25 text-xs text-rune-400/60 font-display flex items-center gap-1.5">
+      <span class="text-rune-500/50">✦</span>
       Sealed in the Codex
     </div>
   </div>

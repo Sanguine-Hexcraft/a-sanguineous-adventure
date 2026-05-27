@@ -1,13 +1,13 @@
 <template>
   <NuxtLink
     :to="to"
-    class="flex items-center gap-2.5 px-3 py-2 rounded text-sm transition-colors duration-150"
+    class="flex items-center gap-2 px-3.5 py-1.5 rounded text-sm font-display tracking-wide transition-all duration-150 border"
     :class="isActive
-      ? 'bg-rune-600/20 text-rune-400 shadow-rune'
-      : 'text-parchment-300/60 hover:text-parchment-200 hover:bg-obsidian-700/50'"
+      ? 'bg-rune-600/20 text-rune-400 border-rune-600/35 shadow-rune'
+      : 'text-parchment-300/55 border-transparent hover:text-parchment-100 hover:bg-obsidian-700/60 hover:border-rune-600/15'"
   >
-    <span class="text-base w-4 text-center">{{ icon }}</span>
-    <span class="font-display tracking-wide">{{ label }}</span>
+    <span class="shrink-0 text-base leading-none">{{ icon }}</span>
+    <span>{{ label }}</span>
   </NuxtLink>
 </template>
 

@@ -1,10 +1,10 @@
 <template>
-  <div class="flex h-screen overflow-hidden">
+  <div class="flex h-full overflow-hidden">
 
     <!-- Category sidebar -->
-    <aside class="w-52 shrink-0 border-r border-rune-600/20 overflow-y-auto bg-obsidian-900/50 flex flex-col">
+    <aside class="w-52 shrink-0 border-r border-rune-600/20 overflow-y-auto flex flex-col" style="background: rgba(13,10,34,0.5)">
       <div class="px-4 pt-5 pb-2">
-        <p class="text-rune-400/60 text-xs tracking-widest uppercase font-display">Tome</p>
+        <p class="text-rune-400/55 text-xs tracking-widest uppercase font-display">Tome</p>
         <h2 class="text-parchment-100 font-display text-base mt-0.5">Deeds of Norrath</h2>
       </div>
 
@@ -13,16 +13,16 @@
           v-for="cat in categories?.topLevel"
           :key="cat.id"
           @click="selectCategory(cat)"
-          class="w-full text-left px-3 py-1.5 rounded text-xs font-display tracking-wide transition-colors truncate"
+          class="w-full text-left px-3 py-1.5 rounded text-xs font-display tracking-wide transition-all truncate border"
           :class="activeCategoryId === cat.id
-            ? 'bg-rune-600/20 text-rune-400 border border-rune-600/30'
-            : 'text-parchment-300/50 hover:text-parchment-200 hover:bg-obsidian-700/50 border border-transparent'"
+            ? 'bg-rune-600/20 text-rune-400 border-rune-600/35 shadow-rune'
+            : 'text-parchment-300/50 hover:text-parchment-200 hover:bg-obsidian-700/50 border-transparent hover:border-rune-600/15'"
         >
           {{ cat.fullName }}
         </button>
       </nav>
 
-      <div class="px-4 py-3 border-t border-rune-600/15 text-parchment-300/30 text-xs">
+      <div class="px-4 py-3 border-t border-rune-600/15 text-parchment-300/30 text-xs font-display">
         {{ totalUnlocked }} sealed
       </div>
     </aside>
@@ -34,14 +34,14 @@
       <div class="px-6 pt-5 pb-4 border-b border-rune-600/20 shrink-0">
         <div class="flex items-start justify-between gap-4">
           <div>
-            <p class="text-rune-400/70 text-xs tracking-widest uppercase font-display">{{ activeCategory?.fullName }}</p>
+            <p class="text-rune-400/65 text-xs tracking-widest uppercase font-display">{{ activeCategory?.fullName }}</p>
             <h1 class="text-parchment-100 font-display text-2xl tracking-wide mt-0.5">{{ activeCategory?.name }}</h1>
           </div>
           <div class="flex items-center gap-3 mt-1">
             <input
               v-model="search"
               placeholder="Search achievements…"
-              class="bg-obsidian-800 border border-rune-600/20 rounded px-3 py-1.5 text-xs text-parchment-200 placeholder:text-parchment-300/30 focus:outline-none focus:border-rune-600/50 w-52"
+              class="bg-obsidian-800 border border-rune-600/20 rounded-md px-3 py-1.5 text-xs text-parchment-200 placeholder:text-parchment-300/30 focus:outline-none focus:border-rune-500/50 focus:shadow-rune w-52 transition-all"
             />
           </div>
         </div>
@@ -50,9 +50,9 @@
         <div v-if="subcategories.length > 1" class="flex gap-2 mt-3 flex-wrap">
           <button
             @click="activeSubcategoryId = null"
-            class="px-3 py-1 rounded text-xs font-display tracking-wide border transition-colors"
+            class="px-3 py-1 rounded text-xs font-display tracking-wide border transition-all"
             :class="activeSubcategoryId === null
-              ? 'bg-rune-600/20 border-rune-600/40 text-rune-400'
+              ? 'bg-rune-600/20 border-rune-600/40 text-rune-400 shadow-rune'
               : 'border-rune-600/15 text-parchment-300/40 hover:text-parchment-200 hover:border-rune-600/30'"
           >
             All
@@ -61,9 +61,9 @@
             v-for="sub in subcategories"
             :key="sub.id"
             @click="activeSubcategoryId = sub.id"
-            class="px-3 py-1 rounded text-xs font-display tracking-wide border transition-colors"
+            class="px-3 py-1 rounded text-xs font-display tracking-wide border transition-all"
             :class="activeSubcategoryId === sub.id
-              ? 'bg-rune-600/20 border-rune-600/40 text-rune-400'
+              ? 'bg-rune-600/20 border-rune-600/40 text-rune-400 shadow-rune'
               : 'border-rune-600/15 text-parchment-300/40 hover:text-parchment-200 hover:border-rune-600/30'"
           >
             {{ sub.name }}
@@ -100,7 +100,7 @@
           <button
             @click="page--"
             :disabled="page === 1"
-            class="px-3 py-1.5 text-xs font-display border border-rune-600/20 rounded text-parchment-300/50 hover:text-parchment-200 hover:border-rune-600/40 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+            class="px-3 py-1.5 text-xs font-display border border-rune-600/20 rounded-md text-parchment-300/50 hover:text-parchment-100 hover:border-rune-500/50 hover:shadow-rune disabled:opacity-30 disabled:cursor-not-allowed transition-all"
           >
             ← Prior
           </button>
@@ -110,7 +110,7 @@
           <button
             @click="page++"
             :disabled="page === totalPages"
-            class="px-3 py-1.5 text-xs font-display border border-rune-600/20 rounded text-parchment-300/50 hover:text-parchment-200 hover:border-rune-600/40 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+            class="px-3 py-1.5 text-xs font-display border border-rune-600/20 rounded-md text-parchment-300/50 hover:text-parchment-100 hover:border-rune-500/50 hover:shadow-rune disabled:opacity-30 disabled:cursor-not-allowed transition-all"
           >
             Next →
           </button>

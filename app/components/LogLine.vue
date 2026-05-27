@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-baseline gap-2">
-    <span class="text-parchment-300/25 shrink-0">[{{ line.time }}]</span>
+    <span class="text-parchment-300/25 shrink-0 tabular-nums">[{{ line.time }}]</span>
     <span :class="typeColor">{{ line.text }}</span>
   </div>
 </template>
@@ -13,8 +13,8 @@ const props = defineProps<{
 const typeColor = computed(() => ({
   zone: 'text-mana-400',
   kill: 'text-blood-500',
-  loot: 'text-rune-400',
-  faction: 'text-parchment-300/50',
-  system: 'text-parchment-300/40',
+  loot: 'text-jade-400',
+  faction: 'text-arcane-400/80',
+  system: 'text-parchment-300/45',
 })[props.line.type] ?? 'text-parchment-300/60')
 </script>
