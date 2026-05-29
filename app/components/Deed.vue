@@ -15,6 +15,6 @@
 
 <script setup lang="ts">
 defineProps<{
-  deed: { id: number; type: string; icon: string; text: string; date: string; highlight: boolean }
+  deed: { id: string | number; type: string; icon: string; text: string; date: string; highlight: boolean }
 }>()
 </script>

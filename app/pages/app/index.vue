@@ -66,13 +66,18 @@
       <!-- Recent deeds -->
       <div class="bg-obsidian-800 border border-rune-600/25 rounded-lg p-4 shadow-[inset_0_1px_0_rgba(240,192,64,0.07)]">
         <SectionLabel>Recent Deeds</SectionLabel>
-        <div class="mt-3 space-y-1">
+        <div v-if="recentDeeds.length" class="mt-3 space-y-1">
           <Deed
             v-for="deed in recentDeeds"
             :key="deed.id"
             :deed="deed"
           />
         </div>
+        <p v-else class="mt-3 text-parchment-300/45 text-sm leading-relaxed">
+          No deeds recorded yet. Seal an achievement in the
+          <NuxtLink to="/achievements" class="text-rune-400/70 hover:text-rune-400 transition-colors">Codex</NuxtLink>
+          and it will be written here.
+        </p>
       </div>
 
       <!-- Achievement progress + Lore notes row -->
@@ -152,13 +157,14 @@ import achievements from '~~/data/achievements/sample.json'
 
 const { active } = useActiveCharacter()
 const { fetchAll } = useCharacters()
-const { unlocked, fetchForActive } = useAchievementUnlocks()
+const { unlocked, fetchForActive: fetchUnlocks } = useAchievementUnlocks()
+const { events: journeyEvents, fetchForActive: fetchJourney } = useJourneyEvents()
 
 onMounted(async () => {
   await fetchAll()
-  await fetchForActive()
+  await Promise.all([fetchUnlocks(), fetchJourney()])
 })
-watch(active, () => fetchForActive())
+watch(active, () => { fetchUnlocks(); fetchJourney() })
 
 const inscribedDate = computed(() =>
   active.value
@@ -167,12 +173,19 @@ const inscribedDate = computed(() =>
 )
 const sealedCount = computed(() => unlocked.value.size)
 
-const recentDeeds = [
-  { id: 1, type: 'achievement', icon: '⚔', text: 'Hunter of Blackburrow — sealed in the Codex.', date: 'Nov 3, 2024', highlight: true },
-  { id: 2, type: 'zone', icon: '◈', text: 'Entered Old Sebilis for the first time.', date: 'Dec 15, 2024', highlight: false },
-  { id: 3, type: 'kill', icon: '☠', text: 'Slew Venril Sathir\'s Remains in the crypts below Karnor\'s Castle.', date: 'Dec 12, 2024', highlight: false },
-  { id: 4, type: 'faction', icon: '⚖', text: 'Dark Reflection faction reached: Kindly.', date: 'Oct 28, 2024', highlight: false },
-]
+const DEED_ICONS: Record<string, string> = {
+  achievement: '⚔', zone: '◈', kill: '☠', faction: '⚖', level: '★',
+}
+const recentDeeds = computed(() =>
+  journeyEvents.value.slice(0, 6).map(e => ({
+    id: e.id,
+    type: e.event_type,
+    icon: DEED_ICONS[e.event_type] ?? '✦',
+    text: e.title,
+    date: new Date(e.occurred_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }),
+    highlight: e.event_type === 'achievement',
+  })),
+)
 
 const progressAchievements = achievements.slice(0, 4)
 

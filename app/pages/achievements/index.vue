@@ -96,7 +96,7 @@
             :key="ach.id"
             :achievement="ach"
             :unlocked="unlocked.has(ach.id)"
-            @toggle="toggleUnlock(ach.id)"
+            @toggle="toggleUnlock(ach)"
           />
         </div>
 
@@ -208,6 +208,7 @@ const user = useSupabaseUser()
 const { active } = useActiveCharacter()
 const { fetchAll: fetchCharacters } = useCharacters()
 const { unlocked, fetchForActive, toggle } = useAchievementUnlocks()
+const { create: logDeed, removeByTitle: removeDeed } = useJourneyEvents()
 
 const totalUnlocked = computed(() => unlocked.value.size)
 
@@ -236,9 +237,20 @@ function selectCategory(cat: Category) {
   loadCategory(cat.id)
 }
 
-async function toggleUnlock(id: number) {
-  const result = await toggle(id)
-  if (result.ok) return
+async function toggleUnlock(ach: Achievement) {
+  const result = await toggle(ach.id)
+  if (result.ok) {
+    // Keep the deed in sync with the seal: log on seal, remove on unseal.
+    // A deed-sync hiccup must not undo the seal itself, so swallow errors.
+    const deedTitle = `${ach.title} — sealed in the Codex.`
+    try {
+      if (result.unlocked) await logDeed({ event_type: 'achievement', title: deedTitle })
+      else await removeDeed('achievement', deedTitle)
+    } catch (e) {
+      console.error('[journey] failed to sync achievement deed', e)
+    }
+    return
+  }
   if (result.reason === 'no-character') {
     toggleHint.value = user.value
       ? 'Create or select a character to seal deeds.'
