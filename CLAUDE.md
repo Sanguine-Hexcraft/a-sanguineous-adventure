@@ -17,7 +17,7 @@ No test runner or linter is configured yet.
 
 This is an EverQuest fan site called "a sanguineous adventure" — a dark-fantasy character journal, lore codex, and achievement tracker for the MMORPG EverQuest. The full design document is at `docs/design/everquest-lore-achievements-design-doc.md`.
 
-**Current state:** Phase 1 (static prototype). The Nuxt app is freshly initialized; the design doc describes what to build.
+**Current state:** Phase 3 in progress. Phases 1–2 (static prototype + retail achievement import) and the visual redesign are done. Supabase is connected with a live schema; email/password auth and character CRUD are shipped with working RLS. Next: wiring achievement unlocks / journey events / lore notes to the active character. The design doc describes the full plan.
 
 **Planned stack:**
 - **Nuxt 4** — web framework (in use)
@@ -30,6 +30,27 @@ This is an EverQuest fan site called "a sanguineous adventure" — a dark-fantas
 ### Static vs. Dynamic separation
 
 Static content (lore, codex, structured achievement data) lives in `content/` and `data/` — git-tracked Markdown/YAML/JSON served via Nuxt Content. Dynamic user content (characters, achievement unlocks, notes, media, parsed log events) goes in Supabase.
+
+### Supabase tables — security checklist (MANDATORY for every new table)
+
+RLS is the **only** real security boundary — the `@nuxtjs/supabase` redirect/exclude
+list is navigation UX, not access control. A grants migration
+(`20260529000001_grant_api_privileges.sql`) sets `alter default privileges … grant …
+to authenticated`, so **every new table in `public` auto-grants full CRUD to any
+logged-in user.** That means a table without RLS is wide open to all users. So for
+each new table, in the same migration:
+
+1. `alter table public.<t> enable row level security;`
+2. Add a policy. Default user-data pattern: `for all using (auth.uid() = user_id) with check (auth.uid() = user_id)` (the `with check` is what blocks `user_id` spoofing on insert).
+3. Include a `user_id uuid not null references auth.users(id) on delete cascade` column (or scope via a parent FK that is itself user-isolated).
+4. Don't grant to `anon` — public pages read static JSON, never the DB.
+5. After applying (manually, via Supabase SQL Editor — no CLI installed), run Dashboard → Advisors → Security Advisor to confirm no RLS-disabled tables.
+6. In app code, never trust client-supplied `user_id` — set it from the live session (`supabase.auth.getSession()`), and let RLS enforce it.
+
+Raw SQL `create table` migrations do **not** auto-grant API privileges the way the
+dashboard table editor does — hence the explicit grants migration. A missing GRANT
+surfaces as `permission denied for table …`; a missing/failing RLS check surfaces as
+`new row violates row-level security policy`.
 
 ### Planned directory layout
 
