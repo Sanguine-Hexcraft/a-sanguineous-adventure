@@ -45,7 +45,7 @@ each new table, in the same migration:
 3. Include a `user_id uuid not null references auth.users(id) on delete cascade` column (or scope via a parent FK that is itself user-isolated).
 4. Don't grant to `anon` — public pages read static JSON, never the DB.
 5. After applying (manually, via Supabase SQL Editor — no CLI installed), run Dashboard → Advisors → Security Advisor to confirm no RLS-disabled tables.
-6. In app code, never trust client-supplied `user_id` — set it from the live session (`supabase.auth.getSession()`), and let RLS enforce it.
+6. In app code, never trust client-supplied `user_id`. Every Supabase write must call `requireSession()` (from `useRequireSession`) and set `user_id` to `session.user.id` — this also hydrates the token onto the client so `auth.uid()` is non-null server-side; a cached `useSupabaseUser()` ref is not enough and trips the RLS with-check.
 
 Raw SQL `create table` migrations do **not** auto-grant API privileges the way the
 dashboard table editor does — hence the explicit grants migration. A missing GRANT
