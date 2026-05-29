@@ -10,6 +10,7 @@ export type ToggleResult =
 export function useAchievementUnlocks() {
   const supabase = useSupabaseClient()
   const user = useSupabaseUser()
+  const requireSession = useRequireSession()
   const { active } = useActiveCharacter()
 
   const unlocked = useState<Set<number>>('achievement-unlocks', () => new Set())
@@ -39,12 +40,11 @@ export function useAchievementUnlocks() {
     if (!charId) return { ok: false, reason: 'no-character' }
     if (pending.value.has(achievementId)) return { ok: false, reason: 'pending' }
 
-    // Same pattern as character create: confirm a live session and insert
-    // its user id, so the request carries the token and auth.uid() is set
-    // (a null/stale token trips the RLS with-check).
-    const { data: { session } } = await supabase.auth.getSession()
-    if (!session) {
-      return { ok: false, reason: 'error', error: new Error('Your session has expired — sign out and back in.') }
+    let session
+    try {
+      session = await requireSession()
+    } catch (error) {
+      return { ok: false, reason: 'error', error }
     }
 
     const wasUnlocked = unlocked.value.has(achievementId)

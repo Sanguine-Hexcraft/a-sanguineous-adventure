@@ -16,6 +16,7 @@ export interface CharacterDraft {
 export function useCharacters() {
   const supabase = useSupabaseClient()
   const user = useSupabaseUser()
+  const requireSession = useRequireSession()
 
   const characters = useState<Character[]>('characters', () => [])
   const loaded = useState<boolean>('characters-loaded', () => false)
@@ -43,14 +44,7 @@ export function useCharacters() {
   }
 
   async function create(draft: CharacterDraft): Promise<Character> {
-    if (!user.value) throw new Error('Not signed in.')
-    // RLS checks auth.uid() = user_id. If the request carries no valid token,
-    // auth.uid() is NULL and the insert fails as an RLS violation — so confirm
-    // the session is live (and its id matches) before writing.
-    const { data: { session } } = await supabase.auth.getSession()
-    if (!session) {
-      throw new Error('Your session has expired — sign out and back in, then try again.')
-    }
+    const session = await requireSession()
     const { data, error } = await supabase
       .from('characters')
       .insert({ ...draft, user_id: session.user.id })
