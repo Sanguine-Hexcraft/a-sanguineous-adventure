@@ -5,27 +5,43 @@
       <!-- Page header -->
       <div class="border-b border-rune-600/25 pb-4">
         <p class="text-rune-400/65 text-xs tracking-widest uppercase font-display">Chronicle of</p>
-        <h1 class="text-parchment-100 font-display text-3xl tracking-wide mt-0.5">testhero</h1>
+        <h1 class="text-parchment-100 font-display text-3xl tracking-wide mt-0.5">{{ active?.name ?? 'your adventure' }}</h1>
       </div>
 
+      <!-- No active character -->
+      <div v-if="!active" class="bg-obsidian-800 border border-rune-600/25 rounded-lg p-10 text-center shadow-[inset_0_1px_0_rgba(240,192,64,0.07)]">
+        <div class="text-rune-400/50 text-3xl">✦</div>
+        <p class="text-parchment-100 font-display text-lg mt-3">No chronicle has begun</p>
+        <p class="text-parchment-300/55 text-sm mt-1.5 max-w-sm mx-auto leading-relaxed">
+          Inscribe a character to open their chronicle — their deeds, their lore, and the legend yet to come.
+        </p>
+        <NuxtLink to="/app/characters/new" class="inline-block mt-5 border border-rune-600/40 bg-rune-600/10 text-rune-400/85 hover:text-rune-400 hover:border-rune-500/60 text-sm font-display tracking-wide px-5 py-2 rounded-md transition-all hover:shadow-rune">
+          ✦ Inscribe a Character
+        </NuxtLink>
+      </div>
+
+      <template v-else>
       <!-- Top row: Character card + Current position -->
       <div class="grid grid-cols-3 gap-4">
 
         <!-- Character card -->
         <div class="col-span-1 bg-obsidian-800 border border-rune-600/25 rounded-lg p-4 space-y-3 shadow-[inset_0_1px_0_rgba(240,192,64,0.07)]">
           <div class="flex items-start gap-3">
-            <div class="w-14 h-14 rounded-lg bg-obsidian-700 border border-rune-600/35 flex items-center justify-center text-2xl shrink-0">💀</div>
+            <div class="w-14 h-14 rounded-lg bg-obsidian-700 border border-rune-600/35 flex items-center justify-center text-2xl shrink-0 overflow-hidden">
+              <img v-if="active?.portrait_url" :src="active.portrait_url" :alt="active.name" class="w-full h-full object-cover" />
+              <span v-else>💀</span>
+            </div>
             <div>
-              <div class="text-parchment-100 font-display text-lg">testhero</div>
-              <div class="text-parchment-300/60 text-xs mt-0.5">Necromancer · Level 52</div>
-              <div class="text-parchment-300/50 text-xs">Dark Elf · Innoruuk</div>
+              <div class="text-parchment-100 font-display text-lg">{{ active?.name }}</div>
+              <div class="text-parchment-300/60 text-xs mt-0.5">{{ active?.class }} · Level {{ active?.level }}</div>
+              <div class="text-parchment-300/50 text-xs">{{ active?.race }}<template v-if="active?.deity"> · {{ active?.deity }}</template></div>
             </div>
           </div>
           <div class="border-t border-rune-600/15 pt-3 grid grid-cols-2 gap-2 text-xs">
-            <Stat label="Server" value="Bristlebane" />
-            <Stat label="Guild" value="None" />
-            <Stat label="Achievements" value="4 / 10" />
-            <Stat label="Points" value="55 / 295" />
+            <Stat label="Server" :value="active?.server ?? '—'" />
+            <Stat label="Inscribed" :value="inscribedDate" />
+            <Stat label="Achievements" value="—" />
+            <Stat label="Points" value="—" />
           </div>
         </div>
 
@@ -125,12 +141,24 @@
         </div>
       </div>
 
+      </template>
+
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
 import achievements from '~~/data/achievements/sample.json'
+
+const { active } = useActiveCharacter()
+const { fetchAll } = useCharacters()
+onMounted(() => fetchAll())
+
+const inscribedDate = computed(() =>
+  active.value
+    ? new Date(active.value.created_at).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })
+    : '—',
+)
 
 const recentDeeds = [
   { id: 1, type: 'achievement', icon: '⚔', text: 'Hunter of Blackburrow — sealed in the Codex.', date: 'Nov 3, 2024', highlight: true },

@@ -28,6 +28,7 @@
         <!-- Nav links -->
         <nav class="flex items-center gap-0.5 flex-1">
           <NavLink to="/app" label="Chronicle" icon="◈" exact />
+          <NavLink to="/app/characters" label="Roster" icon="🜂" />
           <NavLink to="/achievements" label="Achievements" icon="⚔" />
           <NavLink to="/codex" label="Codex" icon="📜" />
           <NavLink to="/app/logs" label="Log Parser" icon="⌘" />
@@ -37,18 +38,22 @@
 
         <!-- Character info -->
         <div class="shrink-0 flex items-center gap-3 border-l border-rune-600/15 pl-4">
-          <div class="text-right">
-            <div class="text-parchment-100 font-display text-sm leading-tight">testhero</div>
-            <div class="text-parchment-300/50 text-xs">Necromancer · Innoruuk</div>
-          </div>
-          <button
-            v-if="user"
-            class="text-parchment-300/45 hover:text-blood-500 text-xs font-display tracking-wide transition-colors"
-            title="Sign out"
-            @click="signOut"
-          >
-            Depart ⏻
-          </button>
+          <template v-if="user">
+            <NuxtLink v-if="active" to="/app/characters" class="text-right group">
+              <div class="text-parchment-100 group-hover:text-rune-400 font-display text-sm leading-tight transition-colors">{{ active.name }}</div>
+              <div class="text-parchment-300/50 text-xs">{{ active.class }}<template v-if="active.deity"> · {{ active.deity }}</template></div>
+            </NuxtLink>
+            <NuxtLink v-else to="/app/characters/new" class="text-right text-mana-400/70 hover:text-mana-400 text-xs font-display tracking-wide transition-colors">
+              + Create a character
+            </NuxtLink>
+            <button
+              class="text-parchment-300/45 hover:text-blood-500 text-xs font-display tracking-wide transition-colors"
+              title="Sign out"
+              @click="signOut"
+            >
+              Depart ⏻
+            </button>
+          </template>
           <NuxtLink
             v-else
             to="/login"
@@ -72,4 +77,9 @@
 
 <script setup lang="ts">
 const { user, signOut } = useAuth()
+const { fetchAll } = useCharacters()
+const { active } = useActiveCharacter()
+
+onMounted(() => fetchAll())
+watch(user, () => fetchAll(true))
 </script>
