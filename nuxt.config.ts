@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     redirectOptions: {
       login: '/login',
       callback: '/confirm',
-      exclude: ['/', '/codex/**', '/achievements', '/timeline'],
+      exclude: ['/', '/codex', '/codex/**', '/achievements', '/timeline'],
     },
   },
 })

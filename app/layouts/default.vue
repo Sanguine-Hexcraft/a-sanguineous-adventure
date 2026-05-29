@@ -36,9 +36,26 @@
         </nav>
 
         <!-- Character info -->
-        <div class="shrink-0 text-right border-l border-rune-600/15 pl-4">
-          <div class="text-parchment-100 font-display text-sm leading-tight">testhero</div>
-          <div class="text-parchment-300/50 text-xs">Necromancer · Innoruuk</div>
+        <div class="shrink-0 flex items-center gap-3 border-l border-rune-600/15 pl-4">
+          <div class="text-right">
+            <div class="text-parchment-100 font-display text-sm leading-tight">testhero</div>
+            <div class="text-parchment-300/50 text-xs">Necromancer · Innoruuk</div>
+          </div>
+          <button
+            v-if="user"
+            class="text-parchment-300/45 hover:text-blood-500 text-xs font-display tracking-wide transition-colors"
+            title="Sign out"
+            @click="signOut"
+          >
+            Depart ⏻
+          </button>
+          <NuxtLink
+            v-else
+            to="/login"
+            class="text-parchment-300/45 hover:text-mana-400 text-xs font-display tracking-wide transition-colors"
+          >
+            Sign in →
+          </NuxtLink>
         </div>
       </div>
 
@@ -54,4 +71,5 @@
 </template>
 
 <script setup lang="ts">
+const { user, signOut } = useAuth()
 </script>
