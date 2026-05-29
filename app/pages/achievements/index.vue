@@ -36,6 +36,9 @@
           <div>
             <p class="text-rune-400/65 text-xs tracking-widest uppercase font-display">{{ activeCategory?.fullName }}</p>
             <h1 class="text-parchment-100 font-display text-2xl tracking-wide mt-0.5">{{ activeCategory?.name }}</h1>
+            <p v-if="active" class="text-mana-400/60 text-xs mt-1 font-display">⚔ Sealing deeds for {{ active.name }}</p>
+            <NuxtLink v-else-if="user" to="/app/characters/new" class="inline-block text-mana-400/60 hover:text-mana-400 text-xs mt-1 font-display transition-colors">+ Create a character to track deeds</NuxtLink>
+            <NuxtLink v-else to="/login" class="inline-block text-mana-400/60 hover:text-mana-400 text-xs mt-1 font-display transition-colors">Sign in to track your deeds →</NuxtLink>
           </div>
           <div class="flex items-center gap-3 mt-1">
             <input
@@ -45,6 +48,8 @@
             />
           </div>
         </div>
+
+        <p v-if="toggleHint" class="text-blood-500/90 text-xs mt-2 font-display">{{ toggleHint }}</p>
 
         <!-- Subcategory tabs -->
         <div v-if="subcategories.length > 1" class="flex gap-2 mt-3 flex-wrap">
@@ -199,12 +204,18 @@ const paged = computed(() => {
   return filtered.value.slice(start, start + PAGE_SIZE)
 })
 
-const unlocked = reactive(new Set<number>())
-const totalUnlocked = computed(() => unlocked.size)
+const user = useSupabaseUser()
+const { active } = useActiveCharacter()
+const { fetchAll: fetchCharacters } = useCharacters()
+const { unlocked, fetchForActive, toggle } = useAchievementUnlocks()
+
+const totalUnlocked = computed(() => unlocked.value.size)
 
 const categoryUnlocked = computed(() =>
-  categoryAchievements.value.filter(a => unlocked.has(a.id)).length
+  categoryAchievements.value.filter(a => unlocked.value.has(a.id)).length
 )
+
+const toggleHint = ref('')
 
 async function loadCategory(id: number) {
   if (categoryCache[id]) return
@@ -225,15 +236,30 @@ function selectCategory(cat: Category) {
   loadCategory(cat.id)
 }
 
-function toggleUnlock(id: number) {
-  if (unlocked.has(id)) unlocked.delete(id)
-  else unlocked.add(id)
+async function toggleUnlock(id: number) {
+  const result = await toggle(id)
+  if (result.ok) return
+  if (result.reason === 'no-character') {
+    toggleHint.value = user.value
+      ? 'Create or select a character to seal deeds.'
+      : 'Sign in and choose a character to seal deeds.'
+  } else if (result.reason === 'error') {
+    const msg = (result.error as { message?: string })?.message
+    console.error('[achievement toggle] write failed:', result.error)
+    toggleHint.value = msg ? `Could not record that: ${msg}` : 'Could not record that — try again.'
+  }
+  if (toggleHint.value) setTimeout(() => { toggleHint.value = '' }, 4000)
 }
 
 watch(filtered, () => { page.value = 1 })
 
+// Refetch this character's seals whenever the active character changes.
+watch(active, () => fetchForActive())
+
 onMounted(async () => {
   categories.value = await $fetch<CategoryData>('/data/achievements/categories.json')
   await loadCategory(activeCategoryId.value)
+  await fetchCharacters()
+  await fetchForActive()
 })
 </script>

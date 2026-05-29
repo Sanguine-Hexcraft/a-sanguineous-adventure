@@ -40,7 +40,7 @@
           <div class="border-t border-rune-600/15 pt-3 grid grid-cols-2 gap-2 text-xs">
             <Stat label="Server" :value="active?.server ?? '—'" />
             <Stat label="Inscribed" :value="inscribedDate" />
-            <Stat label="Achievements" value="—" />
+            <Stat label="Achievements" :value="`${sealedCount} sealed`" />
             <Stat label="Points" value="—" />
           </div>
         </div>
@@ -152,13 +152,20 @@ import achievements from '~~/data/achievements/sample.json'
 
 const { active } = useActiveCharacter()
 const { fetchAll } = useCharacters()
-onMounted(() => fetchAll())
+const { unlocked, fetchForActive } = useAchievementUnlocks()
+
+onMounted(async () => {
+  await fetchAll()
+  await fetchForActive()
+})
+watch(active, () => fetchForActive())
 
 const inscribedDate = computed(() =>
   active.value
     ? new Date(active.value.created_at).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })
     : '—',
 )
+const sealedCount = computed(() => unlocked.value.size)
 
 const recentDeeds = [
   { id: 1, type: 'achievement', icon: '⚔', text: 'Hunter of Blackburrow — sealed in the Codex.', date: 'Nov 3, 2024', highlight: true },
